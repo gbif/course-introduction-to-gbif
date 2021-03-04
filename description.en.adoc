@@ -5,10 +5,10 @@ this is the description...
 
 Topics include:
 
-* Topic 1
-* Topic 2
-* Topic 3
-* Topic 4
+* Topic
+* Topic
+* Topic
+* Topic
 
 This course is comprised of ... 
 Second sentence...
