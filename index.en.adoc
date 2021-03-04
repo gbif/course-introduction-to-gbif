@@ -1,4 +1,4 @@
-= Course name
+= Introduction to GBIF
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
@@ -18,7 +18,7 @@ endif::backend-pdf[]
 
 // add cover image to img directory and update filename below
 ifndef::backend-pdf[]
-image::img/web/photo.jpg[]
+image::img/web/photo.jpg[align="center", width="640", height="360"]
 endif::backend-pdf[]
 
 :sectnums!:
