@@ -39,7 +39,7 @@ include::500.en.adoc[]
 
 include::600.en.adoc[]
 
-include:700.en.adoc[]
+include::700.en.adoc[]
 
 :sectnums!:
 
