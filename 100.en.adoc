@@ -1,4 +1,7 @@
+[multipage-level=2]
+
 [short-id]
+
 == Section/chapter title 
 
 Paragraph1, sentence1.
