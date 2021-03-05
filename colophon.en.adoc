@@ -28,12 +28,7 @@ https://doi.org/10.35035/doc-xxxx-xxxx
 
 First edition, March 2021
 
-// include reference to provenance if possible/relevant
-https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
-
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
-
 === Cover image
 
 // Caption. Credit, source, licence.
- Microporus xanthopus (Fr.) Kuntze observed in Malaysia by siburanlai (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]).
+Microporus xanthopus (Fr.) Kuntze observed in Malaysia by siburanlai licensed under http://creativecommons.org/licenses/by-nc/4.0[CC BY-NC 4.0].
