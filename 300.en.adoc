@@ -1,5 +1,5 @@
 [multipage-level=2]
-== Section/chapter title 
+== Data publishing 
 
 Paragraph1, sentence1.
 Sentence 2.
@@ -18,8 +18,7 @@ Sentence 3.
 [NOTE.presentation]
 Watch video on the key concepts of ...
 
-.In this video (12:26), you will review ... used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
+.In this video (12:26), you will review ... used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
 video::434713215[vimeo, height=480, width=640, align=center]
 
 
