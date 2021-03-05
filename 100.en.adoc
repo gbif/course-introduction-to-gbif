@@ -53,7 +53,7 @@ image::img/web/congoinvasive_480x665.png[align="center", width="640", height="46
 === Review
 
 [NOTE.quiz]
-Quiz yourself on the concepts learned in this course.
+Quiz yourself on the concepts learned in this section.
 
 ****
 [question, mc]
