@@ -21,14 +21,14 @@ Key components of using GBIF-mediated data are understanding how to access the s
 
 === Accessing GBIF-mediated data
 
-There are two main points of access to GBIF-mediated data: the website http://www.gbif.org[www.gbif.org^] and https://www.gbif.org/developer/summary[Application Programming Interface (API) services^]. 
-Using www.gbif.org requires no programming experience and allows for quick and easy search, filter and download functions for GBIF-mediated data, as well as a range of additional tools and metrics that are not available through API services.  
+There are two main points of access to GBIF-mediated data: http://www.gbif.org[GBIF.org^] and the https://www.gbif.org/developer/summary[Application Programming Interface (API) services^]. 
+Using the website requires no programming experience and allows for quick and easy search, filter and download functions for GBIF-mediated data, as well as a range of additional tools and metrics that are not available through API services.  
 API services allow continued access to GBIF-mediated data through other systems and can be the basis for the development of tools that allow for the interrogation of the data. 
-Examples include a number of R packages, such as rgbif and https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], as well as more specialised tools that allow for more specific use cases, such as http://geocat.kew.org/?_ga=1.156980155.1499417894.1455306340[GeoCat^] for Red List assessments.
+Examples include a number of R packages, such as https://www.gbif.org/tool/81747/rgbif[rgbif^] and https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], as well as more specialised tools that allow for more specific use cases, such as http://geocat.kew.org/?_ga=1.156980155.1499417894.1455306340[GeoCat^] for Red List assessments.
 
 *What is available to me?*
 
-Through the search functions on www.gbif.org, users can access data that can either be directly downloaded through GBIF or accessed from the original sources following links that GBIF provides.
+Through the search functions on the website, users can access data that can either be directly downloaded through GBIF or accessed from the original sources following links that GBIF provides.
   
 NOTE: Remember that as a data user you should read and agree with the terms of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that include https://www.gbif.org/citation-guidelines[correctly citing^] the use of GBIF-mediated data.  
 
