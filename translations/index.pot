@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 16:10+0000\n"
+"POT-Creation-Date: 2021-04-30 16:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1402,74 +1402,6 @@ msgid "About GBIF"
 msgstr ""
 
 #. type: Title ==
-#: acknowledgements.en.adoc:3
-#, no-wrap
-msgid "Acknowledgements "
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:5
-#, no-wrap
-msgid "Course design and instruction"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:9
-msgid ""
-"The success of this course depends heavily on the support provided to "
-"participants from GBIF's network of capacity enhancement mentors.  Visit the "
-"GBIF page on capacity enhancement mentoring to read more about these "
-"individuals and their contributions."
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:11
-msgid ""
-"The following individuals are recognized for their significant contributions "
-"to the course design, materials and instruction:"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:13 acknowledgements.en.adoc:15
-msgid "instructor*"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:14 acknowledgements.en.adoc:16
-msgid "instructor"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:18
-#, no-wrap
-msgid "*Originators of the curriculum\n"
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:19
-#, no-wrap
-msgid "Resources"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:22 acknowledgements.en.adoc:23
-#: acknowledgements.en.adoc:24 acknowledgements.en.adoc:25
-msgid "Resource"
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:26
-#, no-wrap
-msgid "Resource support"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:29 acknowledgements.en.adoc:30
-#: acknowledgements.en.adoc:31
-msgid "Support"
-msgstr ""
-
-#. type: Title ==
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
@@ -1514,11 +1446,17 @@ msgstr ""
 #. type: Title ===
 #: colophon.en.adoc:19
 #, no-wrap
+msgid "Translators"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:21
+#, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:22
+#: colophon.en.adoc:24
 msgid ""
 "The course _Introduction to GBIF_ is licensed under "
 "https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
@@ -1526,39 +1464,25 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:23
+#: colophon.en.adoc:25
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:26
+#: colophon.en.adoc:28
 msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:27
+#: colophon.en.adoc:29
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:30
-msgid "First edition, March 2021"
-msgstr ""
-
-#. type: Title ===
 #: colophon.en.adoc:31
-#, no-wrap
-msgid "Cover image"
-msgstr ""
-
-#.  Caption. Credit, source, licence.
-#. type: Plain text
-#: colophon.en.adoc:34
-msgid ""
-"Microporus xanthopus (Fr.) Kuntze observed in Malaysia by siburanlai "
-"licensed under http://creativecommons.org/licenses/by-nc/4.0[CC BY-NC 4.0]."
+msgid "First edition, May 2021"
 msgstr ""
 
 #. type: Plain text
