@@ -2,25 +2,23 @@
 == GBIF-mediated data 
 
 [NOTE.objectives]
-In this module, you will learn about primary biodiversity data, dataset types accepted by GBIF, principles of GBIF-mediated data, and the GBIF Taxonomy Backbone. 
+In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data. 
 
 === Primary biodiversity data
 
-==== Biodiversity dataset types
+==== GBIF dataset types
 
-==== GBIF Backbone Taxonomy
+==== GBIF taxonomic backbone
 
 === Principles of GBIF-mediated data
 
-==== Digital object identifiers (DOI)
+=== Digital object identifiers
 
-==== Standards - why important to our work
+=== Standards
 
-==== Open data (licenses) (images, text)
+=== Open data
 
-==== FAIR data
-
-image::img/web/gofairlogo.svg[align="center", width="208", height="58"]
+=== FAIR data
 
 Many articles from 2011-2016 documented a crisis in scientific reproducability (see below). 
 In 2016, the www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in www.nature.com/sdata/[Scientific Data^]. 
@@ -28,9 +26,11 @@ The principles were designed to improve the *F*indability, *A*ccessibility, the 
 Implementation of these principles began in 2018. 
 You can read more about www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on www.go-fair.org/[GO-FAIR.org^].
 
+image::img/web/gofairlogo.svg[align="center", width="208", height="58"]
+
 image::img/web/FairPrinciples2.png[align="center", width="340", height="517"]
 
-Data found on GBIF.org are FAIR.
+*Data found on GBIF.org are FAIR.*
 
 ****
 *FINDABLE*
