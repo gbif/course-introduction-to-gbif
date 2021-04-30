@@ -5,10 +5,12 @@
 *.brotli
 *.html
 !*docinfo*.html
-*.pdf
+??/*.pdf
 *.webp
 *.??.adoc
 !*.en.adoc
+*.??.txt
+!*.en.txt
 *.mo
 *.icloud
 build.sh
