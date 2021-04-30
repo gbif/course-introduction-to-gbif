@@ -1,18 +1,9 @@
-[keydocs]
+[multipage-level=2]
 == Key documentation
 
-The following references provide further detail on the topics covered in this course
+The following references provide further detail on the topics covered in this course.
 
-*Topic 1*
+=== Guidance for Nodes
 
-* https://www.gbif.org/[GBIF.org]
-* Link 2
-* Link 3
-* Link 4
-
-*Topic 2*
-
-* Link 1
-* Link 2
-* Link 3
-* Link 4 
+* https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an effective GBIF Participant Node^]
+* https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online capacity self-assessment tool for national biodiversity information facilities^]
