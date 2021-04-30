@@ -12,13 +12,13 @@ In this module, you will learn about primary biodiversity data and the principle
 
 === Principles of GBIF-mediated data
 
-=== Digital object identifiers
+==== Digital object identifiers
 
-=== Standards
+==== Standards
 
-=== Open data
+==== Open data
 
-=== FAIR data
+==== FAIR data
 
 Many articles from 2011-2016 documented a crisis in scientific reproducability (see below). 
 In 2016, the www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in www.nature.com/sdata/[Scientific Data^]. 
