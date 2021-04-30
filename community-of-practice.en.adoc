@@ -1,7 +1,7 @@
 [multipage-level=2]
 == Community of practice 
 [NOTE.objectives]
-In this section, you will learn about GBIF's community of practice, capacity enhancement and funding opportunities and how to stay connected with GBIF.
+In this module, you will learn about GBIF's community of practice, capacity enhancement and funding opportunities and how to stay connected with GBIF.
 
 === Community of practice
 
