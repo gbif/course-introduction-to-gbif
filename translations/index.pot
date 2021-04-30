@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 16:33+0000\n"
+"POT-Creation-Date: 2021-04-30 16:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,8 +305,8 @@ msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:61
-msgid "Quiz yourself on the concepts learned in this section."
+#: about.en.adoc:61 community-of-practice.en.adoc:57
+msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
 #. type: delimited block .
@@ -922,7 +922,7 @@ msgstr ""
 #. type: Plain text
 #: community-of-practice.en.adoc:5
 msgid ""
-"In this section, you will learn about GBIF's community of practice, capacity "
+"In this module, you will learn about GBIF's community of practice, capacity "
 "enhancement and funding opportunities and how to stay connected with GBIF."
 msgstr ""
 
@@ -1032,7 +1032,7 @@ msgstr ""
 #. type: Target for macro image
 #: community-of-practice.en.adoc:37
 #, no-wrap
-msgid "img/web/Community-of-Practice.mp4"
+msgid "img/web/community-of-practice.jpg"
 msgstr ""
 
 #. type: Plain text
@@ -1086,11 +1086,6 @@ msgstr ""
 msgid ""
 "GBIF organizes regular https://www.gbif.org/webinars[community webinars^] "
 "that are open for anyone to join."
-msgstr ""
-
-#. type: Plain text
-#: community-of-practice.en.adoc:57
-msgid "Quiz yourself on the concepts learned in this course."
 msgstr ""
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
