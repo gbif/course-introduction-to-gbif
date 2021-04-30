@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 16:39+0000\n"
+"POT-Creation-Date: 2021-04-30 16:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -570,14 +570,22 @@ msgstr ""
 msgid "Data publishing "
 msgstr ""
 
+#. type: Plain text
+#: data-access.en.adoc:7
+msgid ""
+"In this module, you will learn how GBIF's data is used and accessed.  You "
+"will also learn about the handling of data quality and GBIF's data quality "
+"flags."
+msgstr ""
+
 #. type: Title ===
-#: data-access.en.adoc:4
+#: data-access.en.adoc:8
 #, no-wrap
 msgid "How is GBIF-mediated data used?"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:8
+#: data-access.en.adoc:12
 msgid ""
 "GBIF's https://www.gbif.org/literature-tracking[literature tracking system^] "
 "has identified over 5,000 uses of GBIF mediated data, most of which are in "
@@ -589,29 +597,29 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:10
+#: data-access.en.adoc:14
 msgid "Both data availability and data use have increased over time."
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:11
+#: data-access.en.adoc:15
 msgid "Data integration facilitates global research and access."
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:12
+#: data-access.en.adoc:16
 msgid "Uses of GBIF-mediated data span disciplinary boundaries."
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:13
+#: data-access.en.adoc:17
 msgid ""
 "The scientific areas using GBIF-mediated data are conceptually diverse and "
 "change in prevalence over time."
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:14
+#: data-access.en.adoc:18
 msgid ""
 "Globally integrated datasets enable researchers to ask both basic and "
 "applied questions at taxonomic, temporal and spatial scales that would be "
@@ -619,7 +627,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:15
+#: data-access.en.adoc:19
 msgid ""
 "The synergistic roles of observation- and specimen-based biodiversity data "
 "highlight the value and need for deeper integration with phylogenetic, "
@@ -627,7 +635,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:18
+#: data-access.en.adoc:22
 msgid ""
 "GBIF-mediated data is also used for monitoring the state of biodiversity and "
 "progress towards achieving the targets of the Convention on Biological "
@@ -644,7 +652,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:21
+#: data-access.en.adoc:25
 msgid ""
 "While the utility of GBIF-mediated data is clear, the wide variety of "
 "sources of data accessible through GBIF, spanning museum collections, "
@@ -657,13 +665,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: data-access.en.adoc:22
+#: data-access.en.adoc:26
 #, no-wrap
 msgid "Accessing GBIF-mediated data"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:28
+#: data-access.en.adoc:32
 msgid ""
 "There are two main points of access to GBIF-mediated data: "
 "http://www.gbif.org[GBIF.org^] and the "
@@ -684,13 +692,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:30
+#: data-access.en.adoc:34
 #, no-wrap
 msgid "*What is available to me?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:32
+#: data-access.en.adoc:36
 msgid ""
 "Through the search functions on the website, users can access data that can "
 "either be directly downloaded through GBIF or accessed from the original "
@@ -698,7 +706,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:34
+#: data-access.en.adoc:38
 msgid ""
 "Remember that as a data user you should read and agree with the terms of the "
 "GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that include "
@@ -707,19 +715,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:36
+#: data-access.en.adoc:40
 msgid "The data available to you are:"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:38
+#: data-access.en.adoc:42
 msgid ""
 "Primary biodiversity data - occurrence, checklist and sampling event data "
 "that is provided to users through the one of the 3 download formats:"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:39
+#: data-access.en.adoc:43
 #, no-wrap
 msgid ""
 "*CSV*: https://www.gbif.org/faq?question=csv-download[Tab delimited "
@@ -728,7 +736,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:40
+#: data-access.en.adoc:44
 #, no-wrap
 msgid ""
 "*Darwin Core Archive*: The "
@@ -738,7 +746,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:41
+#: data-access.en.adoc:45
 #, no-wrap
 msgid ""
 "*Species list*: Tab delimited CSV with the distinct list of names in the "
@@ -746,7 +754,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:42
+#: data-access.en.adoc:46
 #, no-wrap
 msgid ""
 "A range of metrics are provided for "
@@ -758,7 +766,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:43
+#: data-access.en.adoc:47
 #, no-wrap
 msgid ""
 "https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Searchable "
@@ -766,7 +774,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:45
+#: data-access.en.adoc:49
 msgid ""
 "Searches can be performed on the "
 "https://www.gbif.org/occurrence/search?occurrence_status=present&q=[occurrences^], "
@@ -781,42 +789,42 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:47
+#: data-access.en.adoc:51
 msgid ""
 "Publishers share their data under one of three Creative Commons digital "
 "licences:"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:49
+#: data-access.en.adoc:53
 msgid "http://creativecommons.org/publicdomain/zero/1.0[CC-0^],"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:50
+#: data-access.en.adoc:54
 msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^],"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:51
+#: data-access.en.adoc:55
 msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^]."
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:53
+#: data-access.en.adoc:57
 msgid ""
 "It is important to note that images are not subject to the same licence that "
 "is applied to the dataset and may have more restricted terms of use."
 msgstr ""
 
 #. type: Title ===
-#: data-access.en.adoc:54
+#: data-access.en.adoc:58
 #, no-wrap
 msgid "Handling data quality "
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:59
+#: data-access.en.adoc:63
 msgid ""
 "Determining the precision and accuracy of the data for use is a key step in "
 "determining the usefulness of the data for any intended purpose.  While GBIF "
@@ -827,7 +835,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:61
+#: data-access.en.adoc:65
 #, no-wrap
 msgid ""
 "*Data gaps* - sampling across taxonomic groups and geographic regions is not "
@@ -836,7 +844,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:62
+#: data-access.en.adoc:66
 #, no-wrap
 msgid ""
 "*Taxonomic misidentificatio*n - some taxonomic groups may require additional "
@@ -846,13 +854,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:64
+#: data-access.en.adoc:68
 #, no-wrap
 msgid "*GBIF Flags for Data Quality Issues*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:68
+#: data-access.en.adoc:72
 msgid ""
 "During the indexation process, GBIF assigns issues and flags to data for "
 "https://data-blog.gbif.org/post/issues-and-flags/[common data quality "
@@ -862,7 +870,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:70
+#: data-access.en.adoc:74
 #, no-wrap
 msgid ""
 "*Excluded* - where the original data couldn’t be interpreted, so is excluded "
@@ -870,7 +878,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:71
+#: data-access.en.adoc:75
 #, no-wrap
 msgid ""
 "*Altered* - where the original data is modified in the interpretation "
@@ -878,7 +886,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:72
+#: data-access.en.adoc:76
 #, no-wrap
 msgid ""
 "*Inferred* - where an empty field is inferred using other record "
@@ -886,7 +894,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:74
+#: data-access.en.adoc:78
 msgid ""
 "Be aware that if you are filtering for data quality issues, you should "
 "reverse the filter to exclude those data that have been flagged with that "
@@ -896,13 +904,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:76
+#: data-access.en.adoc:80
 #, no-wrap
 msgid "*How can I improve data quality?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:79
+#: data-access.en.adoc:83
 msgid ""
 "Data publishers have the responsibility for improving the quality of the "
 "data, and as a user, you play a key role in identifying where there are "
