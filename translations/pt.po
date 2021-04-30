@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-04-30 16:41+0000\n"
-"PO-Revision-Date: 2021-04-30 16:56\n"
+"POT-Creation-Date: 2021-04-30 17:34+0000\n"
+"PO-Revision-Date: 2021-04-30 17:56\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -235,7 +235,8 @@ msgid "How well does the information available on GBIF reflect what you know abo
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:57 community-of-practice.en.adoc:53
+#: about.en.adoc:57 gbif-mediated-data.en.adoc:83
+#: community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
 msgstr ""
@@ -380,68 +381,243 @@ msgid "GBIF-mediated data "
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:7 gbif-mediated-data.en.adoc:41
-#: data-publishing.en.adoc:7 data-publishing.en.adoc:41
-msgid "Paragraph1, sentence1.  Sentence 2.  Sentence 3."
-msgstr ""
-
-#. type: Plain text
-#: gbif-mediated-data.en.adoc:11 data-publishing.en.adoc:11
-msgid "Paragraph2, sentence1.  Sentence 2.  Sentence 3."
-msgstr ""
-
-#. type: Plain text
-#: gbif-mediated-data.en.adoc:15 data-publishing.en.adoc:15
-msgid "Paragraph3, sentence1.  Sentence 2.  Sentence 3."
+#: gbif-mediated-data.en.adoc:6
+msgid "In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data."
 msgstr ""
 
 #. type: Title ===
-#: gbif-mediated-data.en.adoc:16 data-publishing.en.adoc:16
+#: gbif-mediated-data.en.adoc:7
 #, no-wrap
-msgid "sub topic"
-msgstr ""
-
-#. type: Plain text
-#: gbif-mediated-data.en.adoc:20 data-publishing.en.adoc:20
-msgid "Watch video on the key concepts of ..."
-msgstr ""
-
-#. type: Block title
-#: gbif-mediated-data.en.adoc:21 data-publishing.en.adoc:21
-#, no-wrap
-msgid "In this video (12:26), you will review ... used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)"
-msgstr ""
-
-#. type: Plain text
-#: gbif-mediated-data.en.adoc:27 data-publishing.en.adoc:27
-msgid "Become familiar with the ..."
-msgstr ""
-
-#. type: delimited block *
-#: gbif-mediated-data.en.adoc:31 data-publishing.en.adoc:31
-msgid "this is an example of a block this second sentence"
-msgstr ""
-
-#. type: delimited block *
-#: gbif-mediated-data.en.adoc:34 data-publishing.en.adoc:34
-msgid "this is second paragraph first sentence.  this is second sentence"
+msgid "Primary biodiversity data"
 msgstr ""
 
 #. type: Title ====
-#: gbif-mediated-data.en.adoc:36 data-publishing.en.adoc:36
+#: gbif-mediated-data.en.adoc:9
 #, no-wrap
-msgid "sub sub topic"
+msgid "GBIF dataset types"
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:11
+#, no-wrap
+msgid "GBIF taxonomic backbone"
+msgstr ""
+
+#. type: Title ===
+#: gbif-mediated-data.en.adoc:13
+#, no-wrap
+msgid "Principles of GBIF-mediated data"
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:15
+#, no-wrap
+msgid "Digital object identifiers"
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:17
+#, no-wrap
+msgid "Standards"
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:19
+#, no-wrap
+msgid "Open data"
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:21
+#, no-wrap
+msgid "FAIR data"
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:44 data-publishing.en.adoc:44
-msgid "“Paragraph2, sentence1.  Sentence 2.  Sentence 3."
+#: gbif-mediated-data.en.adoc:28
+msgid "Many articles from 2011-2016 documented a crisis in scientific reproducability (see below).  In 2016, the www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the *F*indability, *A*ccessibility, the *I*nteroperability and the *R*eusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on www.go-fair.org/[GO-FAIR.org^]."
+msgstr ""
+
+#. type: Target for macro image
+#: gbif-mediated-data.en.adoc:29
+#, no-wrap
+msgid "img/web/gofairlogo.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: gbif-mediated-data.en.adoc:31
+#, no-wrap
+msgid "img/web/FairPrinciples2.png"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:34
+#, no-wrap
+msgid "*Data found on GBIF.org are FAIR.*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:37
+#, no-wrap
+msgid "*FINDABLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:39
+msgid "GBIF has https://www.gbif.org/data-quality-requirements[requirements] for metadata and datasets. All datasets are identified by https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Digital Object Identifiers^] (DOIs)."
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:43
+#, no-wrap
+msgid "*ACCESSIBLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:45
+msgid "The https://www.gbif.org/developer/summary[GBIF Portal API^] provides a machine readable interface (REST + JSON) and use the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) as trusted data repository."
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:49
+#, no-wrap
+msgid "*INTEROPERABLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:51
+msgid "GBIF recommends using the https://eml.ecoinformatics.org/[Ecological Metadata Language^] (EML) for datasets and https://dwc.tdwg.org/[Darwin Core^] for occurrence data."
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:55
+#, no-wrap
+msgid "*REUSABLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:57
+msgid "GBIF require creative common data licenses (https://creativecommons.org/publicdomain/zero/1.0[CC0^], https://creativecommons.org/licenses/by/4.0[CC BY^], or https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC^]). Provenance available from the GBIF portal."
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:61
+#, no-wrap
+msgid "*Literature references*\n"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:63
+msgid "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: 452-454 (26 May 2016) doi:10.1038/533452a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:65
+msgid "Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 (29 September 2016) doi:10.1038/nj7622-703a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:67
+msgid "Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:69
+msgid "Baker (2016) Statisticians issue warning over misuse of P values. Nature 531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:71
+msgid "Nosek et al. (2015) Promoting an open research culture. Science 348(6242): 1422-1425. DOI:10.1126/science.aab2374"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:73
+msgid "Leek and Peng (2015) Statistics: P values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612°"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:75
+msgid "Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:77
+msgid "Hayden (2013) Weak statistical standards implicated in scientific irreproducibility. Nature doi:10.1038/nature.2013.14131"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:79
+msgid "Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) doi:10.1038/485298a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:81
+msgid "Callaway (2011) Reports finds massive fraud at Dutch universities. Nature 479, 15 (1 November 2011) doi:10.1038/479015a"
 msgstr ""
 
 #. type: Title ==
 #: data-publishing.en.adoc:2
 #, no-wrap
 msgid "Data publishing "
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:7 data-publishing.en.adoc:41
+msgid "Paragraph1, sentence1.  Sentence 2.  Sentence 3."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:11
+msgid "Paragraph2, sentence1.  Sentence 2.  Sentence 3."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:15
+msgid "Paragraph3, sentence1.  Sentence 2.  Sentence 3."
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:16
+#, no-wrap
+msgid "sub topic"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:20
+msgid "Watch video on the key concepts of ..."
+msgstr ""
+
+#. type: Block title
+#: data-publishing.en.adoc:21
+#, no-wrap
+msgid "In this video (12:26), you will review ... used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:27
+msgid "Become familiar with the ..."
+msgstr ""
+
+#. type: delimited block *
+#: data-publishing.en.adoc:31
+msgid "this is an example of a block this second sentence"
+msgstr ""
+
+#. type: delimited block *
+#: data-publishing.en.adoc:34
+msgid "this is second paragraph first sentence.  this is second sentence"
+msgstr ""
+
+#. type: Title ====
+#: data-publishing.en.adoc:36
+#, no-wrap
+msgid "sub sub topic"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:44
+msgid "“Paragraph2, sentence1.  Sentence 2.  Sentence 3."
 msgstr ""
 
 #. type: Plain text
