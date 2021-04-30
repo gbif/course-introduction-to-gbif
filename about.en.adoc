@@ -57,7 +57,7 @@ image::img/web/congoinvasive_480x665.png[align="center", width="640", height="46
 === Review
 
 [NOTE.quiz]
-Quiz yourself on the concepts learned in this section.
+Quiz yourself on the concepts learned in this module.
 ****
 // Note the lack of empty lines between the end of the question (....) and the start of the next question
 // (. What…) is required, so I have added // comments to help separate them.
