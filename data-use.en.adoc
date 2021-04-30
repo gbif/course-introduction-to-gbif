@@ -3,7 +3,7 @@
 
 === How is GBIF-mediated data used?
 
-https://www.gbif.org/literature-tracking[GBIF´s literature tracking system^] has identified nearly 5,700 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to  climate change, conservation, human health and agriculture. 
+GBIF's https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to  climate change, conservation, human health and agriculture. 
 A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[GBIF-mediated data by Heberling et al. (2020)^] showed:
 
 * Both data availability and data use have increased over time.
