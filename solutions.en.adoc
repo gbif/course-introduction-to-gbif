@@ -4,3 +4,76 @@
 This appendix contains the answers and additional information to all of the review quizzes.
 
 === About GBIF
+
+*What is GBIF?*
+
+GBIF is all of these:
+
+* An intergovernmental network and research infrastructure
+* A collaboration among governments and international organizations
+* A network of participant nodes
+* A secretariat, based in Copenhagen, Denmark
+
+*When was GBIF established?*
+
+* 2001
+
+*Which of the following is the best description of a GBIF Participant node?*
+
+* A team designated by a Participant country or organization to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information
+
+*Which of the following is NOT a typical function of a GBIF Participant node?*
+
+* Maintaining a mirror website of the GBIF.org to ensure real-time backup of the GBIF data index and improve user access from within the country
+
+*What is a GBIF Participant?*
+
+* A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development
+
+*What is a GBIF Head of Delegation?*
+
+* The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making
+
+*What is a Biodiversity information facility?*
+
+* The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders
+
+*What is a Node manager?*
+
+* The person designated by a participating country/economy/organization to manage the activities of the node to coordinate a biodiversity information facility
+
+*Who designates the institution that hosts the GBIF Participant node?*
+
+* The Head of Delegation
+
+=== GBIF-mediated data
+
+=== Data publishing
+
+=== Data access
+
+=== Community of practice
+
+*Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?*
+
+* Volunteer translators from GBIF’s community of practice
+
+*How can I get support with a biodiversity data mobilization project?*
+
+All of these choices are possible:
+
+* Write to info@gbif.org
+* Request a volunteer mentor to provide remote support
+* Undertake the online data mobilization course
+
+*What is a biodiversity open data ambassador?*
+
+* Biodiversity professionals who promote the principles and best practices of open data sharing and use
+
+*GBIF’s materials are not available in my language. What should I do?*
+
+All of these options are possible:
+
+* Write to info@gbif.org to request the translation
+* Sign up to be a volunteer translator and contribute to the translation myself
+* Share information on how to be a volunteer translator with others to help in the translation effort
