@@ -16,6 +16,8 @@ Mélianie Raymond, Andrew Rodrigues and Laura Anne Russell
 
 GBIF Secretariat staff.
 
+=== Translators
+
 === Licence
 
 The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
@@ -26,9 +28,4 @@ https://doi.org/10.35035/doc-xxxx-xxxx
 
 === Document control
 
-First edition, March 2021
-
-=== Cover image
-
-// Caption. Credit, source, licence.
-Microporus xanthopus (Fr.) Kuntze observed in Malaysia by siburanlai licensed under http://creativecommons.org/licenses/by-nc/4.0[CC BY-NC 4.0].
+First edition, May 2021
