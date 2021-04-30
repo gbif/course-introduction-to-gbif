@@ -33,7 +33,7 @@ include::gbif-mediated-data.en.adoc[]
 
 include::data-publishing.en.adoc[]
 
-include::data-use.en.adoc[]
+include::data-access.en.adoc[]
 
 include::community-of-practice.en.adoc[]
 
