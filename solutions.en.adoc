@@ -1,0 +1,6 @@
+[multipage-level=2]
+== Appendix: Solutions
+[NOTE.objectives]
+This appendix contains the answers and additional information to all of the review quizzes.
+
+=== About GBIF
