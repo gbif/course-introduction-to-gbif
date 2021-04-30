@@ -18,6 +18,8 @@ endif::backend-pdf[]
 
 // add cover image to img directory and update filename below
 ifndef::backend-pdf[]
+:figure-caption!:
+.https://www.gbif.org/occurrence/2550098325[_Microporus xanthopus_^] (Fr.) Kuntze observed in Malaysia by siburanlai (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0^])
 image::img/web/Microporus_xanthopus.jpg[align="center", width="640", height="360"]
 endif::backend-pdf[]
 
@@ -25,19 +27,15 @@ endif::backend-pdf[]
 
 include::description.en.adoc[]
 
-:sectnums:
+include::about.en.adoc[]
 
-include::100.en.adoc[]
+include::gbif-mediated-data.en.adoc[]
 
-include::200.en.adoc[]
+include::data-publishing.en.adoc[]
 
-include::300.en.adoc[]
+include::data-use.en.adoc[]
 
-include::400.en.adoc[]
-
-include::500.en.adoc[]
-
-:sectnums!:
+include::community-of-practice.en.adoc[]
 
 include::keydocs.en.adoc[]
 
