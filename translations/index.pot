@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 17:20+0000\n"
+"POT-Creation-Date: 2021-04-30 17:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -299,7 +299,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:57 gbif-mediated-data.en.adoc:70
+#: about.en.adoc:57 gbif-mediated-data.en.adoc:83
 #: community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
@@ -593,75 +593,139 @@ msgid "Data found on GBIF.org are FAIR."
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:38
+#: gbif-mediated-data.en.adoc:37
 #, no-wrap
+msgid "*FINDABLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:39
 msgid ""
-"*FINDABLE*\n"
 "GBIF has https://www.gbif.org/data-quality-requirements[requirements] for "
 "metadata and datasets. All datasets are identified by "
 "https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Digital "
-"Object Identifiers^] (DOIs).\n"
+"Object Identifiers^] (DOIs)."
 msgstr ""
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:43
 #, no-wrap
+msgid "*ACCESSIBLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:45
 msgid ""
-"*ACCESSIBLE*\n"
 "The https://www.gbif.org/developer/summary[GBIF Portal API^] provides a "
 "machine readable interface (REST + JSON) and use the "
 "https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) as trusted "
-"data repository.\n"
+"data repository."
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:48
+#: gbif-mediated-data.en.adoc:49
 #, no-wrap
+msgid "*INTEROPERABLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:51
 msgid ""
-"*INTEROPERABLE*\n"
 "GBIF recommends using the https://eml.ecoinformatics.org/[Ecological "
 "Metadata Language^] (EML) for datasets and https://dwc.tdwg.org/[Darwin "
-"Core^] for occurrence data.\n"
+"Core^] for occurrence data."
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:53
+#: gbif-mediated-data.en.adoc:55
 #, no-wrap
+msgid "*REUSABLE*\n"
+msgstr ""
+
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:57
 msgid ""
-"*REUSABLE*\n"
 "GBIF require creative common data licenses "
 "(https://creativecommons.org/publicdomain/zero/1.0[CC0^], "
 "https://creativecommons.org/licenses/by/4.0[CC BY^], or "
 "https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC^]). Provenance "
-"available from the GBIF portal.\n"
+"available from the GBIF portal."
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:57
+#: gbif-mediated-data.en.adoc:61
 #, no-wrap
 msgid "*Literature references*\n"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:68
+#: gbif-mediated-data.en.adoc:63
 msgid ""
 "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: "
-"452-454 (26 May 2016) doi:10.1038/533452a Baker (2016) Reproducibility: Seek "
-"out stronger science. Nature 537: 703-704 (29 September 2016) "
-"doi:10.1038/nj7622-703a Nature editorial (2016) Reality check on "
-"reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a Baker "
-"(2016) Statisticians issue warning over misuse of P values. Nature 531: 151 "
-"(10 March 2016) doi:10.1038/nature.2016.19503 Nosek et al. (2015) Promoting "
-"an open research culture. Science 348(6242): "
-"1422-1425. DOI:10.1126/science.aab2374 Leek and Peng (2015) Statistics: P "
-"values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) "
-"doi:10.1038/520612° Nuzzo (2015) How scientists fool themselves – and how "
-"they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a "
+"452-454 (26 May 2016) doi:10.1038/533452a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:65
+msgid ""
+"Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 "
+"(29 September 2016) doi:10.1038/nj7622-703a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:67
+msgid ""
+"Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 "
+"(26 May 2016) doi:10.1038/533437a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:69
+msgid ""
+"Baker (2016) Statisticians issue warning over misuse of P values. Nature "
+"531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:71
+msgid ""
+"Nosek et al. (2015) Promoting an open research culture. Science 348(6242): "
+"1422-1425. DOI:10.1126/science.aab2374"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:73
+msgid ""
+"Leek and Peng (2015) Statistics: P values are just the tip of the "
+"iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612°"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:75
+msgid ""
+"Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature "
+"526: 182–185 (08 October 2015) doi:10.1038/526182a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:77
+msgid ""
 "Hayden (2013) Weak statistical standards implicated in scientific "
-"irreproducibility. Nature doi:10.1038/nature.2013.14131 Young (2012) "
-"Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) "
-"doi:10.1038/485298a Callaway (2011) Reports finds massive fraud at Dutch "
-"universities. Nature 479, 15 (1 November 2011) doi:10.1038/479015a"
+"irreproducibility. Nature doi:10.1038/nature.2013.14131"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:79
+msgid ""
+"Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May "
+"2012) doi:10.1038/485298a"
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:81
+msgid ""
+"Callaway (2011) Reports finds massive fraud at Dutch universities. Nature "
+"479, 15 (1 November 2011) doi:10.1038/479015a"
 msgstr ""
 
 #. type: Title ==
