@@ -34,7 +34,7 @@ Collaboration between Participants through GBIF’s governance structures enable
 
 :figure-caption!:
 .Training participants at the Node Management workshop in Trinidad 2019 by Mélianie Raymond (licensed under https://creativecommons.org/licenses/by/4.0[CC-BY 4.0])
-image::img/web/Community-of-Practice.mp4[align="center", width="640", height="360"]
+image::img/web/community-of-practice.jpg[align="center", width="640", height="360"]
 
 The GBIF Secretariat supports the work of the network, which contributes to capacity development, in particular by coordinating activities, engaging volunteers in the community of practice and supporting the development of core training materials. 
 The Secretariat’s role in capacity enhancement activities leans more toward facilitation than implementation: providing guidance, documenting best practices, collating training material, coordinating activities, and creating or aligning opportunities. 
@@ -53,7 +53,7 @@ GBIF organizes regular https://www.gbif.org/webinars[community webinars^] that a
 === Review
 
 [NOTE.quiz]
-Quiz yourself on the concepts learned in this course.
+Quiz yourself on the concepts learned in this module.
 
 ****
 
