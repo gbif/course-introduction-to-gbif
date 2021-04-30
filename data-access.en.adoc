@@ -1,6 +1,10 @@
 [multipage-level=2]
 == Data access
 
+[NOTE.objectives]
+In this module, you will learn how GBIF's data is used and accessed. 
+You will also learn about the handling of data quality and GBIF's data quality flags.
+
 === How is GBIF-mediated data used?
 
 GBIF's https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to  climate change, conservation, human health and agriculture. 
