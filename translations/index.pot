@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 17:27+0000\n"
+"POT-Creation-Date: 2021-04-30 17:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -506,9 +506,8 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:6
 msgid ""
-"In this module, you will learn about primary biodiversity data, dataset "
-"types accepted by GBIF, principles of GBIF-mediated data, and the GBIF "
-"Taxonomy Backbone."
+"In this module, you will learn about primary biodiversity data and the "
+"principles that GBIF follows with regards to data."
 msgstr ""
 
 #. type: Title ===
@@ -520,13 +519,13 @@ msgstr ""
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:9
 #, no-wrap
-msgid "Biodiversity dataset types"
+msgid "GBIF dataset types"
 msgstr ""
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:11
 #, no-wrap
-msgid "GBIF Backbone Taxonomy"
+msgid "GBIF taxonomic backbone"
 msgstr ""
 
 #. type: Title ===
@@ -538,19 +537,19 @@ msgstr ""
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:15
 #, no-wrap
-msgid "Digital object identifiers (DOI)"
+msgid "Digital object identifiers"
 msgstr ""
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:17
 #, no-wrap
-msgid "Standards - why important to our work"
+msgid "Standards"
 msgstr ""
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:19
 #, no-wrap
-msgid "Open data (licenses) (images, text)"
+msgid "Open data"
 msgstr ""
 
 #. type: Title ====
@@ -559,14 +558,8 @@ msgstr ""
 msgid "FAIR data"
 msgstr ""
 
-#. type: Target for macro image
-#: gbif-mediated-data.en.adoc:23
-#, no-wrap
-msgid "img/web/gofairlogo.svg"
-msgstr ""
-
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:30
+#: gbif-mediated-data.en.adoc:28
 msgid ""
 "Many articles from 2011-2016 documented a crisis in scientific "
 "reproducability (see below).  In 2016, the "
@@ -582,6 +575,12 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
+#: gbif-mediated-data.en.adoc:29
+#, no-wrap
+msgid "img/web/gofairlogo.svg"
+msgstr ""
+
+#. type: Target for macro image
 #: gbif-mediated-data.en.adoc:31
 #, no-wrap
 msgid "img/web/FairPrinciples2.png"
@@ -589,7 +588,8 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:34
-msgid "Data found on GBIF.org are FAIR."
+#, no-wrap
+msgid "*Data found on GBIF.org are FAIR.*\n"
 msgstr ""
 
 #. type: delimited block *
