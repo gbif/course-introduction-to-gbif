@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-03-19 14:24+0000\n"
-"PO-Revision-Date: 2021-03-19 14:25\n"
+"POT-Creation-Date: 2021-04-30 12:28+0000\n"
+"PO-Revision-Date: 2021-04-30 12:29\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -32,8 +32,14 @@ msgstr ""
 msgid "languageLinks:combined[]"
 msgstr ""
 
+#. type: Block title
+#: index.en.adoc:22
+#, no-wrap
+msgid "https://www.gbif.org/occurrence/2550098325[_Microporus xanthopus_^] (Fr.) Kuntze observed in Malaysia by siburanlai (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0^])"
+msgstr ""
+
 #. type: Target for macro image
-#: index.en.adoc:21
+#: index.en.adoc:23
 #, no-wrap
 msgid "img/web/Microporus_xanthopus.jpg"
 msgstr ""
