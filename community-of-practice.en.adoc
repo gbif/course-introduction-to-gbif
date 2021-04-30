@@ -77,7 +77,6 @@ Quiz yourself on the concepts learned in this course.
 - [ ] Write to info@gbif.org
 - [ ] Request a volunteer mentor to provide remote support
 - [ ] Undertake the online data mobilization course
-- [ ] Review documentation available from...
 - [x] All of the above
 ....
 // Question 3
