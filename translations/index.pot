@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 15:48+0000\n"
+"POT-Creation-Date: 2021-04-30 16:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,7 +55,10 @@ msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:6
-msgid "this is the description..."
+msgid ""
+"This course provides an introduction to GBIF, the data available in GBIF's "
+"portal, accessing that data and information about engaging with GBIF and its "
+"community of practice."
 msgstr ""
 
 #. type: delimited block *
@@ -64,14 +67,36 @@ msgid "Topics include:"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:10 description.en.adoc:11 description.en.adoc:12
-#: description.en.adoc:13
-msgid "Topic"
+#: description.en.adoc:10
+msgid "Information about GBIF"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:11
+msgid "GBIF-mediated data"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:12
+msgid "Data publishing"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:13 data-access.en.adoc:2
+#, no-wrap
+msgid "Data access"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:14
+msgid "GBIF community of practice"
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:16
-msgid "This course is comprised of ...  Second sentence..."
+msgid ""
+"This course is comprised of video and written instruction and paired with "
+"quizzes and practical exercises."
 msgstr ""
 
 #. type: Title ===
@@ -81,19 +106,34 @@ msgid "Audience"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:20
-msgid "This course is for..."
+#: description.en.adoc:21
+msgid ""
+"This course is designed for individuals who work in biodiversity research or "
+"policy institutions and contribute to or use data from the GBIF portal. The "
+"instruction provided is particularly useful for those who have a desire to "
+"know more about GBIF and its place in the biodiversity community and want to "
+"engage further with GBIF."
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:21
+#: description.en.adoc:22
 #, no-wrap
-msgid "Learning objectives"
+msgid "Prerequisites"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:24 description.en.adoc:25 description.en.adoc:26
-msgid "Objective"
+#: description.en.adoc:26
+msgid ""
+"There are no prerequisites for this course.  This course serves as a "
+"prerequisite for other GBIF courses."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:28
+msgid ""
+"Participants should have a good command of English. While efforts are made "
+"to provide materials in other languages, instruction videos will be in "
+"English with subtitles in other languages."
 msgstr ""
 
 #. type: Title ==
@@ -526,12 +566,6 @@ msgstr ""
 #: data-publishing.en.adoc:2
 #, no-wrap
 msgid "Data publishing "
-msgstr ""
-
-#. type: Title ==
-#: data-access.en.adoc:2
-#, no-wrap
-msgid "Data access"
 msgstr ""
 
 #. type: Title ===
