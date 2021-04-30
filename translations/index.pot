@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-30 16:16+0000\n"
+"POT-Creation-Date: 2021-04-30 16:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,18 +71,20 @@ msgstr ""
 msgid "Information about GBIF"
 msgstr ""
 
-#. type: delimited block *
-#: description.en.adoc:11
+#. type: Title ===
+#: description.en.adoc:11 solutions.en.adoc:49
+#, no-wrap
 msgid "GBIF-mediated data"
 msgstr ""
 
-#. type: delimited block *
-#: description.en.adoc:12
+#. type: Title ===
+#: description.en.adoc:12 solutions.en.adoc:51
+#, no-wrap
 msgid "Data publishing"
 msgstr ""
 
-#. type: Title ==
-#: description.en.adoc:13 data-access.en.adoc:2
+#. type: Title ===
+#: description.en.adoc:13 data-access.en.adoc:2 solutions.en.adoc:53
 #, no-wrap
 msgid "Data access"
 msgstr ""
@@ -925,7 +927,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: community-of-practice.en.adoc:6
+#: community-of-practice.en.adoc:6 solutions.en.adoc:55
 #, no-wrap
 msgid "Community of practice"
 msgstr ""
@@ -1118,24 +1120,23 @@ msgid "How can I get support with a biodiversity data mobilization project?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:82
+#: community-of-practice.en.adoc:81
 #, no-wrap
 msgid ""
 "- [ ] Write to info@gbif.org\n"
 "- [ ] Request a volunteer mentor to provide remote support\n"
 "- [ ] Undertake the online data mobilization course\n"
-"- [ ] Review documentation available from...\n"
 "- [x] All of the above\n"
 msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: community-of-practice.en.adoc:85
+#: community-of-practice.en.adoc:84
 msgid "What is a biodiversity open data ambassador?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:90
+#: community-of-practice.en.adoc:89
 #, no-wrap
 msgid ""
 "- [x] Biodiversity professionals who promote the principles and best "
@@ -1146,12 +1147,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: community-of-practice.en.adoc:93
+#: community-of-practice.en.adoc:92
 msgid "GBIF’s materials are not available in my language. What should I do?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:100
+#: community-of-practice.en.adoc:99
 #, no-wrap
 msgid ""
 "- [ ] Write to info@gbif.org to request the translation\n"
@@ -1399,6 +1400,230 @@ msgstr ""
 #: solutions.en.adoc:6
 #, no-wrap
 msgid "About GBIF"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:9
+#, no-wrap
+msgid "*What is GBIF?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:11
+msgid "GBIF is all of these:"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:13
+msgid "An intergovernmental network and research infrastructure"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:14
+msgid "A collaboration among governments and international organizations"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:15
+msgid "A network of participant nodes"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:16
+msgid "A secretariat, based in Copenhagen, Denmark"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:18
+#, no-wrap
+msgid "*When was GBIF established?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:20
+msgid "2001"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:22
+#, no-wrap
+msgid ""
+"*Which of the following is the best description of a GBIF Participant "
+"node?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:24
+msgid ""
+"A team designated by a Participant country or organization to coordinate a "
+"network of people and institutions that produce, manage and use biodiversity "
+"data, collectively building an infrastructure for delivering biodiversity "
+"information"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:26
+#, no-wrap
+msgid ""
+"*Which of the following is NOT a typical function of a GBIF Participant "
+"node?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:28
+msgid ""
+"Maintaining a mirror website of the GBIF.org to ensure real-time backup of "
+"the GBIF data index and improve user access from within the country"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:30
+#, no-wrap
+msgid "*What is a GBIF Participant?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:32
+msgid ""
+"A country, economy or organization that joins GBIF by signing the Memorandum "
+"of Understanding and establishing a co-ordinated effort to support open "
+"access and use of biodiversity data, to advance scientific research, and to "
+"promote technological and sustainable development"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:34
+#, no-wrap
+msgid "*What is a GBIF Head of Delegation?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:36
+msgid ""
+"The person designated by the participating country/economy/organization to "
+"act as its representative to the GBIF Governing Board and take part in the "
+"global-level decision making"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:38
+#, no-wrap
+msgid "*What is a Biodiversity information facility?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:40
+msgid ""
+"The broader structure of people and institutions, coordinated by the node, "
+"that collectively forms an infrastructure for delivering biodiversity "
+"information to relevant stakeholders"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:42
+#, no-wrap
+msgid "*What is a Node manager?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:44
+msgid ""
+"The person designated by a participating country/economy/organization to "
+"manage the activities of the node to coordinate a biodiversity information "
+"facility"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:46
+#, no-wrap
+msgid "*Who designates the institution that hosts the GBIF Participant node?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:48
+msgid "The Head of Delegation"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:58
+#, no-wrap
+msgid ""
+"*Who does most of the translations of GBIF materials, including the GBIF.org "
+"website and training materials?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:60
+msgid "Volunteer translators from GBIF’s community of practice"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:62
+#, no-wrap
+msgid "*How can I get support with a biodiversity data mobilization project?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:64
+msgid "All of these choices are possible:"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:66
+msgid "Write to info@gbif.org"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:67
+msgid "Request a volunteer mentor to provide remote support"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:68
+msgid "Undertake the online data mobilization course"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:70
+#, no-wrap
+msgid "*What is a biodiversity open data ambassador?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:72
+msgid ""
+"Biodiversity professionals who promote the principles and best practices of "
+"open data sharing and use"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:74
+#, no-wrap
+msgid "*GBIF’s materials are not available in my language. What should I do?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:76
+msgid "All of these options are possible:"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:78
+msgid "Write to info@gbif.org to request the translation"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:79
+msgid ""
+"Sign up to be a volunteer translator and contribute to the translation "
+"myself"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:79
+msgid ""
+"Share information on how to be a volunteer translator with others to help in "
+"the translation effort"
 msgstr ""
 
 #. type: Title ==
