@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 12:56+0000\n"
+"POT-Creation-Date: 2021-05-03 13:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1273,27 +1273,29 @@ msgid ""
 "acknowledged for their contributions:"
 msgstr ""
 
-#. type: Plain text
-#: data-publishing.en.adoc:162
+#. type: delimited block -
+#: data-publishing.en.adoc:163
+#, no-wrap
 msgid ""
-"“4. Attribution. + GBIF seeks to ensure that the publisher/holder of data is "
-"acknowledged and requests that such attribution be maintained in any "
-"subsequent use of the data.“"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:164
-msgid "GBIF strives to make all efforts possible to make this statement a reality."
+"\"4. Attribution. +\n"
+"GBIF seeks to ensure that the publisher/holder of data is acknowledged and "
+"requests that such attribution be maintained in any subsequent use of the "
+"data.\"\n"
 msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:166
+msgid "GBIF strives to make all efforts possible to make this statement a reality."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:168
 #, no-wrap
 msgid "*The GBIF Data User Agreement*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:168
+#: data-publishing.en.adoc:170
 msgid ""
 "Prior to accessing any data using GBIF, users need to accept a data user "
 "agreement which includes very specific requirements on citation of the "
@@ -1301,16 +1303,17 @@ msgid ""
 "listed in the agreement:"
 msgstr ""
 
-#. type: Plain text
-#: data-publishing.en.adoc:170
+#. type: delimited block -
+#: data-publishing.en.adoc:173
+#, no-wrap
 msgid ""
-"“In order to make attribution of use for owners of the data possible, the "
+"\"In order to make attribution of use for owners of the data possible, the "
 "identifier of ownership of data must be retained with every data record "
-"shared onward for reuse.”"
+"shared onward for reuse.\"\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:172
+#: data-publishing.en.adoc:176
 msgid ""
 "“Users must publicly acknowledge, following the scientific convention of "
 "citing sources in conjunction with the use of the data, the Data Publishers "
@@ -1320,30 +1323,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:174
+#: data-publishing.en.adoc:178
 msgid ""
 "Similarly, the agreement is very specific in stating that the conditions "
 "stated in the licenses selected by the data published must be respected."
 msgstr ""
 
-#. type: Plain text
-#: data-publishing.en.adoc:176
+#. type: delimited block -
+#: data-publishing.en.adoc:181
+#, no-wrap
 msgid ""
-"“Users must comply with the terms and conditions included in the licence "
+"\"Users must comply with the terms and conditions included in the licence "
 "selected by each Data Publisher, and the licensing information included with "
 "each data download. If any provision of this Use Agreement conflicts with "
 "the terms and conditions within the licences selected by the Data Publisher, "
-"licences selected by the Data Publisher shall prevail.\""
+"licences selected by the Data Publisher shall prevail.\"\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:178
+#: data-publishing.en.adoc:184
 #, no-wrap
 msgid "*Citation*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:180
+#: data-publishing.en.adoc:186
 msgid ""
 "GBIF strongly encourages all users to cite data retrieved from the GBIF "
 "network. For that purpose it provides recommended citation strings on the "
@@ -1351,7 +1355,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:182
+#: data-publishing.en.adoc:188
 msgid ""
 "This is especially relevant for datasets published using the “CC-BY” and "
 "“CC-BY-NC” licenses, which include specific requirements for citing the "
@@ -1359,7 +1363,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:184
+#: data-publishing.en.adoc:190
 msgid ""
 "Citation and right strings are automatically generated for data publishers "
 "for each dataset when using IPT as the publishing mechanism, providing that "
@@ -1367,13 +1371,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:185
+#: data-publishing.en.adoc:191
 #, no-wrap
 msgid "img/web/11_citations.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:188
+#: data-publishing.en.adoc:194
 msgid ""
 "Data publishers must carefully select which license aligns best with any "
 "existing requirement from their institutions and from any data access policy "
@@ -1381,13 +1385,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:190
+#: data-publishing.en.adoc:196
 #, no-wrap
 msgid "*Data publisher page*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:194
+#: data-publishing.en.adoc:200
 msgid ""
 "As already mentioned, all publishers feature their own page on GBIF.org.  It "
 "is important that publishers give some thought to how they want to appear on "
@@ -1398,13 +1402,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:196
+#: data-publishing.en.adoc:202
 #, no-wrap
 msgid "*Dataset DOI*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:198
+#: data-publishing.en.adoc:204
 msgid ""
 "Every time a new version of a dataset is published using an IPT, a DOI "
 "(Digital Object Identifier) is assigned. As in the case of the downloads, "
@@ -1413,7 +1417,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:200
+#: data-publishing.en.adoc:206
 msgid ""
 "As mentioned before, you can resolve DOI is websites like dx.doi.org: which "
 "will always redirect to the original source, in this case, the dataset "
@@ -1423,71 +1427,15 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:201
+#: data-publishing.en.adoc:207
 #, no-wrap
 msgid "img/web/datasetdoiimage3_withcallouts.png"
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:203
+#: data-publishing.en.adoc:209
 #, no-wrap
 msgid "img/web/datasetcitationsimage4.png"
-msgstr ""
-
-#. type: Title ===
-#: data-publishing.en.adoc:205
-#, no-wrap
-msgid "Data papers"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:209
-msgid "In this section, you will learn about data papers."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:211
-msgid "You can read more about data papers on GBIF.org."
-msgstr ""
-
-#. type: Target for macro image
-#: data-publishing.en.adoc:212
-#, no-wrap
-msgid "img/web/datapapers.png"
-msgstr ""
-
-#. type: Target for macro image
-#: data-publishing.en.adoc:214
-#, no-wrap
-msgid "img/web/datapapersIPT.png"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:217
-msgid ""
-"View the links below to see the data paper as it appears on the IPT, on "
-"GBIF.org and in the Journal. Each are cross-linked."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:221
-#, no-wrap
-msgid ""
-"    Journal: https://doi.org/10.3897/BDJ.2.e4244\n"
-"    GBIF: "
-"https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c\n"
-"    IPT: "
-"http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:225
-msgid ""
-"NOTE.presentation As an optional activity, you can watch this video (51:51) "
-"presented by Lizanne Roxburgh. In this video, you will learn more about "
-"publishing data papers.  If you are unable to watch the embeded Vimeo video, "
-"you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it "
-"locally. (MP4 - 99.2 MB)"
 msgstr ""
 
 #. type: Plain text
