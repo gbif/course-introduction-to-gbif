@@ -1,5 +1,5 @@
 [description]
-== Description
+== Course description
 
 ****
 This course provides an introduction to GBIF, the data available in GBIF's portal, accessing that data and information about engaging with GBIF and its community of practice.
