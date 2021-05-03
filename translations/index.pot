@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 13:01+0000\n"
+"POT-Creation-Date: 2021-05-03 13:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1223,7 +1223,7 @@ msgid ""
 "resubmit your dataset as many times you like."
 msgstr ""
 
-#. type: Title ==
+#. type: Title ===
 #: data-publishing.en.adoc:143
 #, no-wrap
 msgid "Data publisher visability and recognition"
