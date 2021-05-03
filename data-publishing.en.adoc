@@ -140,7 +140,7 @@ If the validator finds that your dataset cannot be indexed by GBIF, you should a
 On the other hand, if you get the green light and your dataset is indexable by GBIF, you should still carefully review any issues that may be the result of e.g. conversion errors, etc. which could affect the quality of the data. 
 If you find and correct any error - from a single typo to large systematic problems - feel free to resubmit your dataset as many times you like.
 
-== Data publisher visability and recognition
+=== Data publisher visability and recognition
 
 [NOTE.activity]
 In this section, you will review frameworks for citing and tracking digitial data use on GBIF.org
