@@ -32,6 +32,13 @@ If you are unable to watch the embeded Vimeo video, you can link:../videos/Role-
 
 video::543599833[vimeo, height=480, width=640, align=center]
 
+====
+*Further guidance for Nodes*
+
+* https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an effective GBIF Participant Node^]
+* https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online capacity self-assessment tool for national biodiversity information facilities^]
+====
+
 === Countries/Economies in GBIF
 
 [NOTE.activity]
