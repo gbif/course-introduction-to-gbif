@@ -37,6 +37,8 @@ include::data-access.en.adoc[]
 
 include::community-of-practice.en.adoc[]
 
+include::course-complete.en.adoc[]
+
 include::glossary.en.adoc[]
 
 include::solutions.en.adoc[]
