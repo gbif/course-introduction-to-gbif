@@ -65,7 +65,7 @@ The backbone is built from other checklists. These include:
 These checklists are ordered by priority starting with the Catalogue of Life for most taxa. 
 This order is crucial as it shapes the taxonomy.
 
-NOTE: that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarly animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data.
+NOTE: Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarly animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data.
 
 ====
 The information above is an excerpt from a 2019 blog post by Marie Grosjean. Read the https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[blog post^] for more detail on the backbone.
