@@ -17,6 +17,10 @@ A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU
 * Globally integrated datasets enable researchers to ask both basic and applied questions at taxonomic, temporal and spatial scales that would be otherwise impossible.
 * The synergistic roles of observation- and specimen-based biodiversity data highlight the value and need for deeper integration with phylogenetic, environmental, phenotypic, ecological and genetic sources of data.
 
+:figure-caption!:
+.Structural topic model results from 4,035 studies that used GBIF-mediated data published between 2003 and 2019.
+image::img/web/fig3.png[align="center", width="640"]
+
 GBIF-mediated data is also used for monitoring the state of biodiversity and progress towards achieving the targets of the Convention on Biological Diversity. 
 The increase in availability of GBIF occurrence data is one of the indicators for tracking progress towards the achievement of Aichi Biodiversity target 19 and GBIF is a key data source in the creation of a number of other indicators, including the https://www.bipindicators.net/indicators/species-status-information-index[Species Status Information Index^], https://www.bipindicators.net/indicators/species-habitat-index[Species Habitat Index^] and the https://www.bipindicators.net/indicators/biodiversity-habitat-index[Biodiversity Habitat Index^].  
 
@@ -35,6 +39,8 @@ Examples include a number of R packages, such as https://www.gbif.org/tool/81747
 Through the search functions on the website, users can access data that can either be directly downloaded through GBIF or accessed from the original sources following links that GBIF provides.
   
 NOTE: Remember that as a data user you should read and agree with the terms of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that include https://www.gbif.org/citation-guidelines[correctly citing^] the use of GBIF-mediated data.  
+
+image::img/web/downloadoptions.png[align="center", width="640"]
 
 The data available to you are:
 
