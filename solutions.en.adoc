@@ -48,9 +48,76 @@ GBIF is all of these:
 
 === GBIF-mediated data
 
+*What dataset class makes up the core of data published within GBIF?*
+
+* Occurrence
+
+*What is the taxonomic backbone?*
+
+The GBIF taxonomic backbone is all of these:
+* A dataset
+* A management classification with the goal of covering all names in GBIF
+* Allows for taxonomic search on GBIF
+
+*Which licenses or waivers can be applied to datasets published in GBIF?*
+
+* CC BY
+* CC BY-NC
+* CC0
+
+*Images are subject to the same licenses as datasets?*
+
+* False
+
+*GBIF data are FAIR?*
+
+* True
+
 === Data publishing
 
+*What does data publishing mean in the context of GBIF?*
+
+* Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format
+
+*Which of the following are incentives for publishing data?*
+
+* contribute to global knowledge about biodiversity
+* new opportunities for collaboration
+* make data freely accessible
+
+*How do you become a publisher in the GBIF network?*
+
+* fill out the _Become a publisher_ form on GBIF.org and wait for endorsement
+
+*There are no requirements for publishing your data on GBIF.org*
+
+* False
+
+*What is the GBIF data validator?*
+
+* a tool to check my data for issues
+
 === Data access
+
+*How can you access GBIF data?*
+
+You can access GBIF data with all of these methods.
+
+* GBIF.org search interface
+* [x] GBIF API
+* [x] rGBIF
+
+*Which file formats are available for downloads of data?*
+
+*  simple
+*  Darwin Core Archive
+*  species list
+
+*What kind of flags does GBIF apply to data to alert you to the quality?*
+
+* altered
+* exluded
+* inferred
 
 === Community of practice
 
