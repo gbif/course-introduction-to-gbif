@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-05-03 19:48+0000\n"
-"PO-Revision-Date: 2021-05-03 19:50\n"
+"POT-Creation-Date: 2021-05-03 20:04+0000\n"
+"PO-Revision-Date: 2021-05-03 21:27\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -192,13 +192,13 @@ msgstr ""
 #. type: Block title
 #: about.en.adoc:47
 #, no-wrap
-msgid "The GBIF website has pages dedicated to countries, including for countries that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/economy name."
+msgid "The GBIF website has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/economy name."
 msgstr ""
 
 #. type: Target for macro image
 #: about.en.adoc:48
 #, no-wrap
-msgid "img/web/gbiffront_480x665.png"
+msgid "img/web/lookupcountry.png"
 msgstr ""
 
 #. type: Block title
@@ -210,7 +210,7 @@ msgstr ""
 #. type: Target for macro image
 #: about.en.adoc:51
 #, no-wrap
-msgid "img/web/congo_480x665.png"
+msgid "img/web/countrypage.png"
 msgstr ""
 
 #. type: Block title
@@ -222,7 +222,7 @@ msgstr ""
 #. type: Target for macro image
 #: about.en.adoc:54
 #, no-wrap
-msgid "img/web/congoinvasive_480x665.png"
+msgid "img/web/alienspecies.png"
 msgstr ""
 
 #. type: delimited block *
@@ -1061,8 +1061,13 @@ msgid "img/web/datapublishing.png"
 msgstr ""
 
 #. type: Plain text
+#: data-publishing.en.adoc:17
+msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs."
+msgstr ""
+
+#. type: Plain text
 #: data-publishing.en.adoc:19
-msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.    NOTE: If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF."
+msgid "If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF."
 msgstr ""
 
 #. type: Title ===
