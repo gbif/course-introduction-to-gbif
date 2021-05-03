@@ -118,7 +118,7 @@ Each Darwin Core Archive includes as one of its components an EML file (written 
 
 In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges.
 
-* http://creativecommons.org/publicdomain/zero/1.0[CC-0^] - no conditions for use
+* http://creativecommons.org/publicdomain/zero/1.0[CC0^] - no conditions for use
 * https://creativecommons.org/licenses/by/4.0/[CC-BY^] - use with attribution
 * http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commerical use with attribution 
 
