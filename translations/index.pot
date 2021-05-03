@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 18:01+0000\n"
+"POT-Creation-Date: 2021-05-03 18:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -161,7 +161,7 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: about.en.adoc:9 about.en.adoc:68
+#: about.en.adoc:9 about.en.adoc:75
 #, no-wrap
 msgid "What is GBIF?"
 msgstr ""
@@ -211,19 +211,40 @@ msgid ""
 "locally. (MP4 - 14.0 MB)"
 msgstr ""
 
+#. type: delimited block =
+#: about.en.adoc:37
+#, no-wrap
+msgid "*Further guidance for Nodes*\n"
+msgstr ""
+
+#. type: Plain text
+#: about.en.adoc:39 keydocs.en.adoc:9
+msgid ""
+"https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an "
+"effective GBIF Participant Node^]"
+msgstr ""
+
+#. type: Plain text
+#: about.en.adoc:40 keydocs.en.adoc:9
+msgid ""
+"https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online "
+"capacity self-assessment tool for national biodiversity information "
+"facilities^]"
+msgstr ""
+
 #. type: Title ===
-#: about.en.adoc:35
+#: about.en.adoc:42
 #, no-wrap
 msgid "Countries/Economies in GBIF"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:39
+#: about.en.adoc:46
 msgid "Investigate how your country/economy is represented in GBIF"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:40
+#: about.en.adoc:47
 #, no-wrap
 msgid ""
 "The GBIF website has pages dedicated to countries, including for countries "
@@ -232,13 +253,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:41
+#: about.en.adoc:48
 #, no-wrap
 msgid "img/web/gbiffront_480x665.png"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:43
+#: about.en.adoc:50
 #, no-wrap
 msgid ""
 "The tabs on these pages provide a general description of the data available "
@@ -248,13 +269,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:44
+#: about.en.adoc:51
 #, no-wrap
 msgid "img/web/congo_480x665.png"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:46
+#: about.en.adoc:53
 #, no-wrap
 msgid ""
 "A recent collaboration with the IUCN Invasive Species Specialist Group means "
@@ -264,55 +285,55 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:47
+#: about.en.adoc:54
 #, no-wrap
 msgid "img/web/congoinvasive_480x665.png"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:51
+#: about.en.adoc:58
 msgid "Look up your country on the GBIF website."
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:52
+#: about.en.adoc:59
 msgid "Does your country participate in GBIF?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:53
+#: about.en.adoc:60
 msgid "How many institutions are publishing data?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:54
+#: about.en.adoc:61
 msgid ""
 "Is a list of introduced and invasive alien species available for your "
 "country?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:55
+#: about.en.adoc:62
 msgid ""
 "How well does the information available on GBIF reflect what you know about "
 "the biodiversity of your country?"
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:57 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
+#: about.en.adoc:64 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
 #: data-access.en.adoc:83 community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:61 gbif-mediated-data.en.adoc:237
+#: about.en.adoc:68 gbif-mediated-data.en.adoc:237
 #: community-of-practice.en.adoc:57
 msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:76
+#: about.en.adoc:83
 #, no-wrap
 msgid ""
 "- [ ] An intergovernmental network and research infrastructure\n"
@@ -324,12 +345,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: about.en.adoc:79
+#: about.en.adoc:86
 msgid "When was GBIF established?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:85
+#: about.en.adoc:92
 #, no-wrap
 msgid ""
 "- [ ] 1992\n"
@@ -339,12 +360,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: about.en.adoc:88
+#: about.en.adoc:95
 msgid "Which of the following is the best description of a GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:95
+#: about.en.adoc:102
 #, no-wrap
 msgid ""
 "- [ ] A GBIF national office, funded by the GBIF Secretariat\n"
@@ -360,12 +381,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: about.en.adoc:98
+#: about.en.adoc:105
 msgid "Which of the following is NOT a typical function of a GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:106
+#: about.en.adoc:113
 #, no-wrap
 msgid ""
 "- [ ] Coordinating a community of initiatives relating to biodiversity "
@@ -386,12 +407,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: about.en.adoc:109
+#: about.en.adoc:116
 msgid "What is a GBIF Participant?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:116
+#: about.en.adoc:123
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -411,12 +432,12 @@ msgstr ""
 
 #.  Question 6
 #. type: Plain text
-#: about.en.adoc:119
+#: about.en.adoc:126
 msgid "What is a GBIF Head of Delegation?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:126
+#: about.en.adoc:133
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -436,12 +457,12 @@ msgstr ""
 
 #.  Question 7
 #. type: Plain text
-#: about.en.adoc:129
+#: about.en.adoc:136
 msgid "What is a Biodiversity information facility?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:136
+#: about.en.adoc:143
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -461,12 +482,12 @@ msgstr ""
 
 #.  Question 8
 #. type: Plain text
-#: about.en.adoc:139
+#: about.en.adoc:146
 msgid "What is a Node manager?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:146
+#: about.en.adoc:153
 #, no-wrap
 msgid ""
 "- [x] The person designated by a participating country/economy/organization "
@@ -486,12 +507,12 @@ msgstr ""
 
 #.  Question 9
 #. type: Plain text
-#: about.en.adoc:149
+#: about.en.adoc:156
 msgid "Who designates the institution that hosts the GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:154
+#: about.en.adoc:161
 #, no-wrap
 msgid ""
 "- [x] The Head of Delegation\n"
@@ -2836,21 +2857,6 @@ msgstr ""
 #: keydocs.en.adoc:6
 #, no-wrap
 msgid "Guidance for Nodes"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:9
-msgid ""
-"https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an "
-"effective GBIF Participant Node^]"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:9
-msgid ""
-"https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online "
-"capacity self-assessment tool for national biodiversity information "
-"facilities^]"
 msgstr ""
 
 #. type: Title ==
