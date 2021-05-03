@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 12:52+0000\n"
+"POT-Creation-Date: 2021-05-03 12:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1369,7 +1369,7 @@ msgstr ""
 #. type: Target for macro image
 #: data-publishing.en.adoc:185
 #, no-wrap
-msgid "img/web/11citations.png"
+msgid "img/web/11_citations.png"
 msgstr ""
 
 #. type: Plain text
