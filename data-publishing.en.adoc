@@ -1,44 +1,67 @@
 [multipage-level=2]
-== Data publishing 
+== Data publishing
 
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
+[NOTE.objectives]
+In this module, you will learn about sharing data through GBIF, how to become a publisher, feeback available for publishers and information about data papers.
 
-Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
-
-Paragraph3, sentence1.
-Sentence 2.
-Sentence 3.
-
-=== sub topic
-
-[NOTE.presentation]
-Watch video on the key concepts of ...
-
-.In this video (12:26), you will review ... used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
-video::434713215[vimeo, height=480, width=640, align=center]
-
+=== How to become a data publisher
 
 [NOTE.activity]
-Become familiar with the ...
+In this section, you will review the steps to become a data publisher.
 
-****
-this is an example of a block
-this second sentence
+Organizations wishing to share data through GBIF can register https://www.gbif.org/become-a-publisher[here^] to request endorsement as a data publisher.
 
-this is second paragraph first sentence.
-this is second sentence
-****
+:figure-caption!:
+.Click on the How-to menu on the GBIF website to navigate to the _Become a publisher_ page
+image::img/web/register.png[align="center", width="640", height="253"]
 
-==== sub sub topic
+Prospective new publishers are asked to complete an online form. 
+The answers provided help GBIF to give proper credit and attribution for the datasets shared by the new publisher.
 
-Paragraph1, sentence1.
-Sentence 2.
-Sentence 3.
+image::img/web/register3.png[align="center", width="640", height="584"]
 
-“Paragraph2, sentence1.
-Sentence 2.
-Sentence 3.
+Before GBIF indexes datasets, an institution must receive endorsement as a data publisher from one of the Participant nodes that coordinate activities of the national and organizational Participants in the GBIF network. 
+If the country is not yet participating in GBIF, endorsement is sought on the publisher's behalf from within the GBIF community.
+
+The endorsement procedure aims to ensure that:
+
+. Published data are relevant to GBIF’s scope and objectives
+. Data hosting arrangements are stable and persistent
+. Data publishing and use are supported by strong national, regional and thematic engagement
+. Data are as open as possible, and available for sharing and reuse
+. Data publishers can respond to feedback and improve data quality
+
+NOTE: At present, GBIF and its Participants only publish data from organizations—that is, institutions, networks and societies—rather than individuals. Individuals wishing to publish data should work through their affiliated organizations to seek endorsement as a publisher.
+
+image::img/web/register4.png[align="center", width="640", height="315"]
+
+The answers provided will also help users to understand more about the provenance of data shared through the GBIF network.
+
+image::img/web/register5.png[align="center", width="640", height="947"]
+
+Be sure to search existing publishers before registering a new one to make sure the publisher is not already registered.
+
+NOTE: BID and BIFA projects are required to register at least one data publisher (or provide evidence of an already registered publisher) by specific milestone dates.
+
+===
+
+[NOTE.activity]
+In this section, you will learn about data papers.
+
+You can read more about data papers on GBIF.org.
+
+image::img/web/datapapers.png[align="center", width="640", height="471"]
+
+image::img/web/datapapersIPT.png[align="center", width="640", height="489"]
+
+View the links below to see the data paper as it appears on the IPT, on GBIF.org and in the Journal. Each are cross-linked.
+
+    Journal: https://doi.org/10.3897/BDJ.2.e4244
+    GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c
+    IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana
+
+NOTE.presentation
+As an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh. In this video, you will learn more about publishing data papers.
+If you are unable to watch the embeded Vimeo video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)
+
+video::265350948[vimeo, height=480, width=640, align=center]
