@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 17:26+0000\n"
+"POT-Creation-Date: 2021-05-03 17:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,13 +78,13 @@ msgid "GBIF-mediated data"
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:12 data-publishing.en.adoc:2 solutions.en.adoc:51
+#: description.en.adoc:12 data-publishing.en.adoc:2 solutions.en.adoc:76
 #, no-wrap
 msgid "Data publishing"
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:13 data-access.en.adoc:2 solutions.en.adoc:53
+#: description.en.adoc:13 data-access.en.adoc:2 solutions.en.adoc:100
 #, no-wrap
 msgid "Data access"
 msgstr ""
@@ -2556,7 +2556,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: community-of-practice.en.adoc:6 solutions.en.adoc:55
+#: community-of-practice.en.adoc:6 solutions.en.adoc:122
 #, no-wrap
 msgid "Community of practice"
 msgstr ""
@@ -3169,7 +3169,217 @@ msgid "The Head of Delegation"
 msgstr ""
 
 #. type: Plain text
+#: solutions.en.adoc:52
+#, no-wrap
+msgid "*What dataset class makes up the core of data published within GBIF?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:54
+msgid "Occurrence"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:56
+#, no-wrap
+msgid "*What is the taxonomic backbone?*\n"
+msgstr ""
+
+#. type: Plain text
 #: solutions.en.adoc:58
+msgid "The GBIF taxonomic backbone is all of these:"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:59
+msgid "A dataset"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:60
+msgid "A management classification with the goal of covering all names in GBIF"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:61
+msgid "Allows for taxonomic search on GBIF"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:63
+#, no-wrap
+msgid "*Which licenses or waivers can be applied to datasets published in GBIF?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:65
+msgid "CC BY"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:66
+msgid "CC BY-NC"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:67
+msgid "CC0"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:69
+#, no-wrap
+msgid "*Images are subject to the same licenses as datasets?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:71 solutions.en.adoc:95
+msgid "False"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:73
+#, no-wrap
+msgid "*GBIF data are FAIR?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:75
+msgid "True"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:79
+#, no-wrap
+msgid "*What does data publishing mean in the context of GBIF?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:81
+msgid ""
+"Making your biodiversity dataset(s) publicly accessible and discoverable in "
+"a standardized format"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:83
+#, no-wrap
+msgid "*Which of the following are incentives for publishing data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:85
+msgid "contribute to global knowledge about biodiversity"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:86
+msgid "new opportunities for collaboration"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:87
+msgid "make data freely accessible"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:89
+#, no-wrap
+msgid "*How do you become a publisher in the GBIF network?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:91
+msgid "fill out the _Become a publisher_ form on GBIF.org and wait for endorsement"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:93
+#, no-wrap
+msgid "*There are no requirements for publishing your data on GBIF.org*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:97
+#, no-wrap
+msgid "*What is the GBIF data validator?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:99
+msgid "a tool to check my data for issues"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:103
+#, no-wrap
+msgid "*How can you access GBIF data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:105
+msgid "You can access GBIF data with all of these methods."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:107
+msgid "GBIF.org search interface"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:108
+msgid "GBIF API"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:109
+msgid "rGBIF"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:111
+#, no-wrap
+msgid "*Which file formats are available for downloads of data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:113
+msgid "simple"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:114
+msgid "Darwin Core Archive"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:115
+msgid "species list"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:117
+#, no-wrap
+msgid "*What kind of flags does GBIF apply to data to alert you to the quality?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:119
+msgid "altered"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:120
+msgid "exluded"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:121
+msgid "inferred"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:125
 #, no-wrap
 msgid ""
 "*Who does most of the translations of GBIF materials, including the GBIF.org "
@@ -3177,74 +3387,74 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:60
+#: solutions.en.adoc:127
 msgid "Volunteer translators from GBIF’s community of practice"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:62
+#: solutions.en.adoc:129
 #, no-wrap
 msgid "*How can I get support with a biodiversity data mobilization project?*\n"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:64
+#: solutions.en.adoc:131
 msgid "All of these choices are possible:"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:66
+#: solutions.en.adoc:133
 msgid "Write to info@gbif.org"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:67
+#: solutions.en.adoc:134
 msgid "Request a volunteer mentor to provide remote support"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:68
+#: solutions.en.adoc:135
 msgid "Undertake the online data mobilization course"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:70
+#: solutions.en.adoc:137
 #, no-wrap
 msgid "*What is a biodiversity open data ambassador?*\n"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:72
+#: solutions.en.adoc:139
 msgid ""
 "Biodiversity professionals who promote the principles and best practices of "
 "open data sharing and use"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:74
+#: solutions.en.adoc:141
 #, no-wrap
 msgid "*GBIF’s materials are not available in my language. What should I do?*\n"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:76
+#: solutions.en.adoc:143
 msgid "All of these options are possible:"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:78
+#: solutions.en.adoc:145
 msgid "Write to info@gbif.org to request the translation"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:79
+#: solutions.en.adoc:146
 msgid ""
 "Sign up to be a volunteer translator and contribute to the translation "
 "myself"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:79
+#: solutions.en.adoc:146
 msgid ""
 "Share information on how to be a volunteer translator with others to help in "
 "the translation effort"
