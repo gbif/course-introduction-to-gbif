@@ -62,7 +62,7 @@ While GBIF can support the identification of some quality issues that arise from
 The two most common issues for which this may be required are:
 
 * *Data gaps* - sampling across taxonomic groups and geographic regions is not equal and users may need to take into account sampling bias in their analyses before the data can be used effectively. 
-* *Taxonomic misidentificatio*n - some taxonomic groups may require additional information to ensure that taxa have been correctly identified such as images, videos and audio recordings that accompany data or collector information.
+* *Taxonomic misidentification* - some taxonomic groups may require additional information to ensure that taxa have been correctly identified such as images, videos and audio recordings that accompany data or collector information.
 
 *GBIF Flags for Data Quality Issues*
 
@@ -81,3 +81,49 @@ TIP: Be aware that if you are filtering for data quality issues, you should reve
 Data publishers have the responsibility for improving the quality of the data, and as a user, you play a key role in identifying where there are errors. 
 If you should find an error in the data, you should contact the publisher directly using the contact details that GBIF provides on the publisher page. 
 GBIF also provides the ability for users to log data quality issues using the "Feedback and questions" button on the menu bar of http://www.gbif.org[GBIF.org^].
+
+=== Review
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+****
+// Question 1
+. How can you access GBIF data?
++
+[question, mc]
+....
+
+- [x] GBIF.org search interface
+- [x] GBIF API
+- [x] rGBIF
+....
+// Question 2
+. Which file formats are available for downloads of data?
++
+[question, mc]
+....
+
+- [x] simple
+- [ ] XML
+- [x] Darwin Core Archive
+- [x] species list
+....
+// Question 3
+. What kind of flags does GBIF apply to data to alert you to the quality?
++
+[question, mc]
+....
+
+- [x] altered
+- [ ] ammended
+- [ ] translated
+- [x] exluded
+- [ ] interpreted
+- [x] inferred
+....
+****
