@@ -112,13 +112,13 @@ Each Darwin Core Archive includes as one of its components an EML file (written 
 
 ==== Open data
 
-In keeping with a 2014 decision by the GBIF governing board, data publishers must assign one of the three Creative Commons licences to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org.
+In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges.
 
-* http://creativecommons.org/publicdomain/zero/1.0[CC-0^],
-* https://creativecommons.org/licenses/by/4.0/[CC-BY^],
-* http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^]. 
+* http://creativecommons.org/publicdomain/zero/1.0[CC-0^] - no conditions for use
+* https://creativecommons.org/licenses/by/4.0/[CC-BY^] - use with attribution
+* http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commerical use with attribution 
 
-IMPORTANT: Note that CC-BY-NC licences have a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use.
+IMPORTANT: Note that the CC-BY-NC licence has a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use. Lastly, attribution/citation is a community norm, so even if the publishers has waived conditions for use, attribution is expected.
 
 ==== FAIR data
 
@@ -228,3 +228,63 @@ image::img/web/ActivityImage7.png[align="center", width="640", height="1009"]
 
 === Review
 
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this module.
+
+****
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+// Question 1
+. What dataset class makes up the core of data published within GBIF?
++
+[question, mc]
+....
+- [ ] Metadata-only
+- [] Checklist
+- [x] Occurrence
+- [ ] Sampling-event
+....
+// Question 2
+. What is the taxonomic backbone?
++
+[question, mc]
+....
+- [ ] A dataset
+- [ ] A management classification with the goal of covering all names in GBIF
+- [ ] Allows for taxonomic search on GBIF
+- [x] All of the above
+....
+// Question 3
+. Which licenses or waivers can be applied to datasets published in GBIF?
++
+[question, mc]
+....
+- [x] CC BY
+- [ ] CC BY-SA
+- [x] CC BY-NC
+- [ ] CC BY-NC-SA
+- [ ] CC BY-ND
+- [ ] CC BY-NC-ND
+- [ ] CC BY-NC-SA
+- [x] CC0
+....
+// Question 4
+. Images are subject to the same licenses as datasets?
++
+[question, mc]
+....
+- [ ] True
+- [x] False
+....
+// Question 5
+. GBIF data are FAIR?
++
+[question, mc]
+....
+- [x] True
+- [ ] False
+....
+****
