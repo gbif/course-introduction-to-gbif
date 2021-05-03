@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 16:21+0000\n"
+"POT-Creation-Date: 2021-05-03 16:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -306,7 +306,8 @@ msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:61 community-of-practice.en.adoc:57
+#: about.en.adoc:61 gbif-mediated-data.en.adoc:233
+#: community-of-practice.en.adoc:57
 msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
@@ -888,36 +889,46 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:116
 msgid ""
-"In keeping with a 2014 decision by the GBIF governing board, data publishers "
-"must assign one of the three Creative Commons licences to any occurrence "
-"dataset. The Governing Board recognized the need for much greater clarity "
-"both for data publishers and users on how data may be used when shared via "
-"GBIF.org."
+"In keeping with a 2014 "
+"https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision "
+"by the GBIF governing board^], data publishers must assign one of the three "
+"Creative Commons options to any occurrence dataset. The Governing Board "
+"recognized the need for much greater clarity both for data publishers and "
+"users on how data may be used when shared via "
+"GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit "
+"organization that helps overcome legal obstacles to the sharing of knowledge "
+"and creativity to address the world’s pressing challenges."
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:118 data-access.en.adoc:53
-msgid "http://creativecommons.org/publicdomain/zero/1.0[CC-0^],"
+#: gbif-mediated-data.en.adoc:118
+msgid ""
+"http://creativecommons.org/publicdomain/zero/1.0[CC-0^] - no conditions for "
+"use"
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:119 data-access.en.adoc:54
-msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^],"
+#: gbif-mediated-data.en.adoc:119
+msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^] - use with attribution"
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:120 data-access.en.adoc:55
-msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^]."
+#: gbif-mediated-data.en.adoc:120
+msgid ""
+"http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commerical "
+"use with attribution"
 msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
 msgid ""
-"Note that CC-BY-NC licences have a significant effect on the reusability of "
-"data. GBIF encourages data publishers to choose the most open option they "
+"Note that the CC-BY-NC licence has a significant effect on the reusability "
+"of data. GBIF encourages data publishers to choose the most open option they "
 "can wherever possible. It is important to note that images are not subject "
 "to the same licence that is applied to the dataset and may have more "
-"restricted terms of use."
+"restricted terms of use. Lastly, attribution/citation is a community norm, "
+"so even if the publishers has waived conditions for use, attribution is "
+"expected."
 msgstr ""
 
 #. type: Title ====
@@ -1249,6 +1260,90 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:227
 #, no-wrap
 msgid "img/web/ActivityImage7.png"
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:242
+msgid "What dataset class makes up the core of data published within GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:249
+#, no-wrap
+msgid ""
+"- [ ] Metadata-only\n"
+"- [] Checklist\n"
+"- [x] Occurrence\n"
+"- [ ] Sampling-event\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:252
+msgid "What is the taxonomic backbone?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:259
+#, no-wrap
+msgid ""
+"- [ ] A dataset\n"
+"- [ ] A management classification with the goal of covering all names in "
+"GBIF\n"
+"- [ ] Allows for taxonomic search on GBIF\n"
+"- [x] All of the above\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:262
+msgid "Which licenses or waivers can be applied to datasets published in GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:273
+#, no-wrap
+msgid ""
+"- [x] CC BY\n"
+"- [ ] CC BY-SA\n"
+"- [x] CC BY-NC\n"
+"- [ ] CC BY-NC-SA\n"
+"- [ ] CC BY-ND\n"
+"- [ ] CC BY-NC-ND\n"
+"- [ ] CC BY-NC-SA\n"
+"- [x] CC0\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:276
+msgid "Images are subject to the same licenses as datasets?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:281
+#, no-wrap
+msgid ""
+"- [ ] True\n"
+"- [x] False\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:284
+msgid "GBIF data are FAIR?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:289
+#, no-wrap
+msgid ""
+"- [x] True\n"
+"- [ ] False\n"
 msgstr ""
 
 #. type: Plain text
@@ -2218,6 +2313,21 @@ msgstr ""
 msgid ""
 "Publishers share their data under one of three Creative Commons digital "
 "licences:"
+msgstr ""
+
+#. type: Plain text
+#: data-access.en.adoc:53
+msgid "http://creativecommons.org/publicdomain/zero/1.0[CC-0^],"
+msgstr ""
+
+#. type: Plain text
+#: data-access.en.adoc:54
+msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^],"
+msgstr ""
+
+#. type: Plain text
+#: data-access.en.adoc:55
+msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^]."
 msgstr ""
 
 #. type: Plain text
