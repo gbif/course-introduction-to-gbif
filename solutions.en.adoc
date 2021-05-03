@@ -104,8 +104,8 @@ The GBIF taxonomic backbone is all of these:
 You can access GBIF data with all of these methods.
 
 * GBIF.org search interface
-* [x] GBIF API
-* [x] rGBIF
+* GBIF API
+* rGBIF
 
 *Which file formats are available for downloads of data?*
 
