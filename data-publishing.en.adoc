@@ -1,5 +1,5 @@
 [multipage-level=2]
-== Data publishering
+== Data publishing
 
 [NOTE.objectives]
 In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feeback available for publishers and review information about data papers.
