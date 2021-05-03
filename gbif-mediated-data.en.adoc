@@ -247,7 +247,7 @@ Quiz yourself on the concepts learned in this module.
 [question, mc]
 ....
 - [ ] Metadata-only
-- [] Checklist
+- [ ] Checklist
 - [x] Occurrence
 - [ ] Sampling-event
 ....
