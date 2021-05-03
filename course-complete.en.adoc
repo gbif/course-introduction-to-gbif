@@ -3,7 +3,6 @@
 You have now completed the course.
 
 As a reminder, this course serves as the prerequisite for other GBIF courses. 
-You only need to take the course one time, but you can of course refer back to the matieral at any time.
+You only need to take the course one time, but you can of course refer back to the material at any time.
 
 Please complete this form to http://bit.ly/GBIFIntroComplete[certify your completion^].
-
