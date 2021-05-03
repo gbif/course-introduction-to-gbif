@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 16:50+0000\n"
+"POT-Creation-Date: 2021-05-03 17:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -299,7 +299,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:57 gbif-mediated-data.en.adoc:229
+#: about.en.adoc:57 gbif-mediated-data.en.adoc:229 data-publishing.en.adoc:224
 #: community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
@@ -1325,7 +1325,7 @@ msgid "Images are subject to the same licenses as datasets?"
 msgstr ""
 
 #. type: delimited block .
-#: gbif-mediated-data.en.adoc:281
+#: gbif-mediated-data.en.adoc:281 data-publishing.en.adoc:273
 #, no-wrap
 msgid ""
 "- [ ] True\n"
@@ -2078,7 +2078,7 @@ msgid "*I’ve got the validation report - now what?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:222
+#: data-publishing.en.adoc:223
 msgid ""
 "If the validator finds that your dataset cannot be indexed by GBIF, you "
 "should address the issues raised by the validation report before you "
@@ -2088,6 +2088,84 @@ msgid ""
 "etc. which could affect the quality of the data.  If you find and correct "
 "any error - from a single typo to large systematic problems - feel free to "
 "resubmit your dataset as many times you like."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:228
+msgid "Quiz yourself on the concepts learned in this section."
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: data-publishing.en.adoc:236
+msgid "What does data publishing mean in the context of GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: data-publishing.en.adoc:243
+#, no-wrap
+msgid ""
+"- [ ] Exporting a csv file of your cleaned data that you can share with your "
+"colleagues\n"
+"- [ ] Writing an article describing your data, and the protocol(s) you used "
+"to collect, capture and clean them\n"
+"- [x] Making your biodiversity dataset(s) publicly accessible and "
+"discoverable in a standardized format\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: data-publishing.en.adoc:246
+msgid "Which of the following are incentives for publishing data?"
+msgstr ""
+
+#. type: delimited block .
+#: data-publishing.en.adoc:254
+#, no-wrap
+msgid ""
+"- [x] contribute to global knowledge about biodiversity\n"
+"- [ ] holding onto my data until it is perfect\n"
+"- [x] new opportunities for collaboration\n"
+"- [x] make data freely accessible\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: data-publishing.en.adoc:257
+msgid "How do you become a publisher in the GBIF network?"
+msgstr ""
+
+#. type: delimited block .
+#: data-publishing.en.adoc:263
+#, no-wrap
+msgid ""
+"- [ ] email the GBIF helpdesk and wait for endorsement\n"
+"- [x] fill out the _Become a publisher_ form on GBIF.org and wait for "
+"endorsement\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: data-publishing.en.adoc:267
+msgid "There are no requirements for publishing your data on GBIF.org"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: data-publishing.en.adoc:276
+msgid "What is the GBIF data validator?"
+msgstr ""
+
+#. type: delimited block .
+#: data-publishing.en.adoc:283
+#, no-wrap
+msgid ""
+"- [ ] a tool to publish my data to GBIF\n"
+"- [ ] a tool to turn my data into XML\n"
+"- [x] a tool to check my data for issues\n"
 msgstr ""
 
 #. type: Plain text
