@@ -40,7 +40,7 @@ Through the search functions on the website, users can access data that can eith
   
 NOTE: Remember that as a data user you should read and agree with the terms of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that include https://www.gbif.org/citation-guidelines[correctly citing^] the use of GBIF-mediated data.  
 
-image::img/web/downloadoptions.png[align="center", width="640"]
+image::img/web/downloadoptions.png[align="center"]
 
 The data available to you are:
 
