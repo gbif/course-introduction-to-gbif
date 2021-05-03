@@ -220,3 +220,65 @@ image::img/web/quality12.png[align="center", width="640", height="519"]
 If the validator finds that your dataset cannot be indexed by GBIF, you should address the issues raised by the validation report before you consider publishing it to GBIF. 
 On the other hand, if you get the green light and your dataset is indexable by GBIF, you should still carefully review any issues that may be the result of e.g. conversion errors, etc. which could affect the quality of the data. 
 If you find and correct any error - from a single typo to large systematic problems - feel free to resubmit your dataset as many times you like.
+
+=== Review
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+****
+// Question 1
+. What does data publishing mean in the context of GBIF?
++
+[question, mc]
+....
+
+- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues
+- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them
+- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format
+....
+// Question 2
+. Which of the following are incentives for publishing data?
++
+[question, mc]
+....
+
+- [x] contribute to global knowledge about biodiversity
+- [ ] holding onto my data until it is perfect
+- [x] new opportunities for collaboration
+- [x] make data freely accessible
+....
+// Question 3
+. How do you become a publisher in the GBIF network?
++
+[question, mc]
+....
+
+- [ ] email the GBIF helpdesk and wait for endorsement
+- [x] fill out the _Become a publisher_ form on GBIF.org and wait for endorsement
+
+....
+// Question 4
+. There are no requirements for publishing your data on GBIF.org
++
+[question, mc]
+....
+
+- [ ] True
+- [x] False
+....
+// Question 5
+. What is the GBIF data validator?
++
+[question, mc]
+....
+
+- [ ] a tool to publish my data to GBIF
+- [ ] a tool to turn my data into XML
+- [x] a tool to check my data for issues
+....
+****
