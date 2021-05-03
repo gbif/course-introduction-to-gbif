@@ -23,6 +23,8 @@ Sharing what is available through GBIF.org is valuable, because even partial inf
 
 The four classes of datasets supported by GBIF start simply and become progressively richer, more structured and more complex.
 
+image::img/web/QDataTypes-types.png[align="center", width="340"]
+
 * Meta-data only - datasets describing *undigitized* resources like those in natural history and other collections
 * Checklist - a *catalogue* or list of named organisms, or taxa
 * Occurrence - the evidence of the *occurrence of a species* (or other taxon) at a particular place on a specified date. 
@@ -43,6 +45,8 @@ But not just any dataset, it is probably the most important dataset for GBIF. On
 ----
 a single synthetic management classification with the goal of covering all names GBIF is dealing with
 ----
+
+image::img/web/backbone.png[align="center", width="340"]
 
 *Why does GBIF need a backbone?* 
 
