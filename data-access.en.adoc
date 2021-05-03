@@ -39,21 +39,13 @@ NOTE: Remember that as a data user you should read and agree with the terms of t
 The data available to you are:
 
 * Primary biodiversity data - occurrence, checklist and sampling event data that is provided to users through the one of the 3 download formats: 
-** *CSV*: https://www.gbif.org/faq?question=csv-download[Tab delimited CSV^]. Only contains the data after GBIF interpretation. No multimedia included. 
+** *Simple*: https://www.gbif.org/faq?question=csv-download[Tab delimited CSV^]. Only contains the data after GBIF interpretation. No multimedia included. 
 ** *Darwin Core Archive*: The https://www.gbif.org/faq?question=dwc-download[Darwin Core Archive^] (DwC-A) contains both the original data as the publisher provided it and the GBIF interpretation. Links (but not files) to multimedia included.
 ** *Species list*: Tab delimited CSV with the distinct list of names in the search result and as a map visualisation of the data.
 * A range of metrics are provided for https://www.gbif.org/analytics/global[countries and regions^], data publishers, datasets and data searches that provide taxonomic breakdowns, trends in data collection and highlight data quality issues. For countries, these metrics can be also be downloaded in the form of a PDF activity report. 
 * https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Searchable database of publications^] that have used GBIF-mediated data.
 
 Searches can be performed on the https://www.gbif.org/occurrence/search?occurrence_status=present&q=[occurrences^], https://www.gbif.org/species/search?q=[species^], https://www.gbif.org/dataset/search?q=[datasets^], https://www.gbif.org/publisher/search?q=[publishers] and https://www.gbif.org/resource/search?q=[resources^], and each search function carries a set of filters that allow for more refined searching and additional data associated with the data, for example, https://www.gbif.org/occurrence/gallery?occurrence_status=present[images^], can be found in tabs associated with the search. 
-
-Publishers share their data under one of three Creative Commons digital licences:
-
-* http://creativecommons.org/publicdomain/zero/1.0[CC-0^],
-* https://creativecommons.org/licenses/by/4.0/[CC-BY^],
-* http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^]. 
-
-IMPORTANT: It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use.
 
 === Handling data quality 
 
