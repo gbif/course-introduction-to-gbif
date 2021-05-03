@@ -1,8 +1,21 @@
 [multipage-level=2]
-== Data publishers
+== Data publishering
 
 [NOTE.objectives]
-In this module, you will learn about incentives for publishing data how to become a publisher, review feeback available for publishers and review information about data papers.
+In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feeback available for publishers and review information about data papers.
+
+=== What is data publishing?
+
+[NOTE.activity]
+In this section, you will learn what data publishing is in the GBIF network.
+
+In simpliest terms, data publishing is making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format.
+
+image::img/web/datapublishing.png[align="center", width="640", height="360"]
+ 
+Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.
+ 
+NOTE: If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.
 
 === Incentives for publishing open-access biodiversity data
 
@@ -16,6 +29,74 @@ An important part of GBIF's mission is to promote a culture in which people reco
 * Publishing data enables individuals and institutions to be properly credited for their work to create and curate biodiversity data, by *giving visibility to publishing institutions* through good metadata authoring. This recognition can be further developed if you author a peer-reviewed data paper, giving scholarly recognition to the publication of biodiversity datasets.
 * Collection managers can *trace usage and citations* of digitized data published from their institutions and accessed through GBIF and similar infrastructures.
 * Some funding agencies now require researchers receiving public funds to *make data freely accessible* at the end of a project.
+
+=== Data publisher visability and recognition
+
+[NOTE.activity]
+In this section, you will review frameworks for citing and tracking digitial data use on GBIF.org
+
+Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF. 
+That is why the organisation has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before.
+
+*The GBIF Memorandum of Understanding*
+
+GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU). 
+The MoU is the official document that countries and international organizations sign in order to join GBIF.
+
+image::img/web/GBIF_MoU.jpg[align="center", width="149", height="211"]
+
+The MoU is very clear stating that GBIF data publishers need to be acknowledged for their contributions:
+
+----
+"4. Attribution. +
+GBIF seeks to ensure that the publisher/holder of data is acknowledged and requests that such attribution be maintained in any subsequent use of the data."
+----
+
+GBIF strives to make all efforts possible to make this statement a reality.
+
+*The GBIF Data User Agreement*
+
+Prior to accessing any data using GBIF, users need to accept a data user agreement which includes very specific requirements on citation of the origin of the data accessed through GBIF. These are some of the requirements listed in the agreement:
+
+----
+"In order to make attribution of use for owners of the data possible, the identifier of ownership of data must be retained with every data record shared onward for reuse."
+----
+
+“Users must publicly acknowledge, following the scientific convention of citing sources in conjunction with the use of the data, the Data Publishers whose biodiversity data they have used, where appropriate through use of a Digital Object Identifier (DOI) applying to the dataset (s) and/or data downloads.”
+
+Similarly, the agreement is very specific in stating that the conditions stated in the licenses selected by the data published must be respected.
+
+----
+"Users must comply with the terms and conditions included in the licence selected by each Data Publisher, and the licensing information included with each data download. If any provision of this Use Agreement conflicts with the terms and conditions within the licences selected by the Data Publisher, licences selected by the Data Publisher shall prevail."
+----
+
+*Citation*
+
+GBIF strongly encourages all users to cite data retrieved from the GBIF network. For that purpose it provides recommended citation strings on the dataset, occurrence and download pages in GBIF.org.
+
+This is especially relevant for datasets published using the “CC-BY” and “CC-BY-NC” licenses, which include specific requirements for citing the origin of the data.
+
+Citation and right strings are automatically generated for data publishers for each dataset when using IPT as the publishing mechanism, providing that one of the standard licenses is selected.
+
+image::img/web/11_citations.png[align="center", width="640", height="861"]
+
+Data publishers must carefully select which license aligns best with any existing requirement from their institutions and from any data access policy to which they may be subject.
+
+*Data publisher page*
+
+All publishers feature their own page on GBIF.org. 
+It is important that publishers give some thought to how they want to appear on the website and provide relevant information about their institutions and their teams at the time of registration. 
+They should also strive to keep it up to date, as interested parties will use the contact data on that page to contact the team responsible for the data publishing.
+
+*Dataset DOI*
+
+Every time a new version of a dataset is published using an IPT, a DOI (Digital Object Identifier) is assigned. As in the case of the downloads, this identifier allows easy citation and tracking of work derived from the dataset, if the user follows good practices for source citation.
+
+As mentioned before, you can resolve DOI is websites like dx.doi.org: which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports.
+
+image::img/web/datasetdoiimage3_withcallouts.png[align="center", width="640", height="771"]
+
+image::img/web/datasetcitationsimage4.png[align="center", width="640", height="1490"]
 
 === How to become a data publisher
 
@@ -139,71 +220,3 @@ image::img/web/quality12.png[align="center", width="640", height="519"]
 If the validator finds that your dataset cannot be indexed by GBIF, you should address the issues raised by the validation report before you consider publishing it to GBIF. 
 On the other hand, if you get the green light and your dataset is indexable by GBIF, you should still carefully review any issues that may be the result of e.g. conversion errors, etc. which could affect the quality of the data. 
 If you find and correct any error - from a single typo to large systematic problems - feel free to resubmit your dataset as many times you like.
-
-=== Data publisher visability and recognition
-
-[NOTE.activity]
-In this section, you will review frameworks for citing and tracking digitial data use on GBIF.org
-
-Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF. 
-That is why the organisation has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before.
-
-*The GBIF Memorandum of Understanding*
-
-GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU). 
-The MoU is the official document that countries and international organizations sign in order to join GBIF.
-
-image::img/web/GBIF_MoU.jpg[align="center", width="149", height="211"]
-
-The MoU is very clear stating that GBIF data publishers need to be acknowledged for their contributions:
-
-----
-"4. Attribution. +
-GBIF seeks to ensure that the publisher/holder of data is acknowledged and requests that such attribution be maintained in any subsequent use of the data."
-----
-
-GBIF strives to make all efforts possible to make this statement a reality.
-
-*The GBIF Data User Agreement*
-
-Prior to accessing any data using GBIF, users need to accept a data user agreement which includes very specific requirements on citation of the origin of the data accessed through GBIF. These are some of the requirements listed in the agreement:
-
-----
-"In order to make attribution of use for owners of the data possible, the identifier of ownership of data must be retained with every data record shared onward for reuse."
-----
-
-“Users must publicly acknowledge, following the scientific convention of citing sources in conjunction with the use of the data, the Data Publishers whose biodiversity data they have used, where appropriate through use of a Digital Object Identifier (DOI) applying to the dataset (s) and/or data downloads.”
-
-Similarly, the agreement is very specific in stating that the conditions stated in the licenses selected by the data published must be respected.
-
-----
-"Users must comply with the terms and conditions included in the licence selected by each Data Publisher, and the licensing information included with each data download. If any provision of this Use Agreement conflicts with the terms and conditions within the licences selected by the Data Publisher, licences selected by the Data Publisher shall prevail."
-----
-
-*Citation*
-
-GBIF strongly encourages all users to cite data retrieved from the GBIF network. For that purpose it provides recommended citation strings on the dataset, occurrence and download pages in GBIF.org.
-
-This is especially relevant for datasets published using the “CC-BY” and “CC-BY-NC” licenses, which include specific requirements for citing the origin of the data.
-
-Citation and right strings are automatically generated for data publishers for each dataset when using IPT as the publishing mechanism, providing that one of the standard licenses is selected.
-
-image::img/web/11_citations.png[align="center", width="640", height="861"]
-
-Data publishers must carefully select which license aligns best with any existing requirement from their institutions and from any data access policy to which they may be subject.
-
-*Data publisher page*
-
-As already mentioned, all publishers feature their own page on GBIF.org. 
-It is important that publishers give some thought to how they want to appear on the website and provide relevant information about their institutions and their teams at the time of registration. 
-They should also strive to keep it up to date, as interested parties will use the contact data on that page to contact the team responsible for the data publishing.
-
-*Dataset DOI*
-
-Every time a new version of a dataset is published using an IPT, a DOI (Digital Object Identifier) is assigned. As in the case of the downloads, this identifier allows easy citation and tracking of work derived from the dataset, if the user follows good practices for source citation.
-
-As mentioned before, you can resolve DOI is websites like dx.doi.org: which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports.
-
-image::img/web/datasetdoiimage3_withcallouts.png[align="center", width="640", height="771"]
-
-image::img/web/datasetcitationsimage4.png[align="center", width="640", height="1490"]
