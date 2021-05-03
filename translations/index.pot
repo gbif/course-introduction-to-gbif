@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 19:48+0000\n"
+"POT-Creation-Date: 2021-05-03 19:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1413,7 +1413,7 @@ msgid "img/web/datapublishing.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:19
+#: data-publishing.en.adoc:17
 msgid ""
 "Most organizations within the GBIF Network, otherwise known as publishers, "
 "make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing "
@@ -1422,10 +1422,14 @@ msgid ""
 "find a suitable host for their data publishing activities. This might be "
 "through an established GBIF Participant Node like GBIF France or through an "
 "established thematic group like VertNet. Or, a another option, might be to "
-"make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional "
-"IPTs.    NOTE: If you are part of groups like Symbiota or the Living Atlases "
-"Communities, they have other means to assist you with publishing your data "
-"to GBIF."
+"make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:19
+msgid ""
+"If you are part of groups like Symbiota or the Living Atlases Communities, "
+"they have other means to assist you with publishing your data to GBIF."
 msgstr ""
 
 #. type: Title ===
