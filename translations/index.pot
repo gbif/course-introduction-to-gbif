@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 16:12+0000\n"
+"POT-Creation-Date: 2021-05-03 16:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -715,10 +715,10 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:69
 msgid ""
-"that many sequence-based occurrences have no Latin names but are named using "
-"species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarly "
-"animals). This is why adding these two major sources of stable OTUs to the "
-"latest backbone taxonomy significantly improves GBIF’s indexing "
+"Note that many sequence-based occurrences have no Latin names but are named "
+"using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: "
+"primarly animals). This is why adding these two major sources of stable OTUs "
+"to the latest backbone taxonomy significantly improves GBIF’s indexing "
 "functionality for sequence-based biodiversity data."
 msgstr ""
 
