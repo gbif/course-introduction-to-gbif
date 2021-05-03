@@ -182,7 +182,7 @@ This is especially relevant for datasets published using the “CC-BY” and “
 
 Citation and right strings are automatically generated for data publishers for each dataset when using IPT as the publishing mechanism, providing that one of the standard licenses is selected.
 
-image::img/web/11citations.png[align="center", width="640", height="861"]
+image::img/web/11_citations.png[align="center", width="640", height="861"]
 
 Data publishers must carefully select which license aligns best with any existing requirement from their institutions and from any data access policy to which they may be subject.
 
