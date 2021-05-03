@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-05-03 14:27+0000\n"
-"PO-Revision-Date: 2021-05-03 15:45\n"
+"POT-Creation-Date: 2021-05-03 16:50+0000\n"
+"PO-Revision-Date: 2021-05-03 16:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -235,14 +235,15 @@ msgid "How well does the information available on GBIF reflect what you know abo
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:57 gbif-mediated-data.en.adoc:83
+#: about.en.adoc:57 gbif-mediated-data.en.adoc:229
 #: community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:61 community-of-practice.en.adoc:57
+#: about.en.adoc:61 gbif-mediated-data.en.adoc:233
+#: community-of-practice.en.adoc:57
 msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
@@ -382,7 +383,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:6
-msgid "In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data."
+msgid "In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data. You will also have a chance to review the various metrics that are available for the data within the portal."
 msgstr ""
 
 #. type: Title ===
@@ -391,169 +392,617 @@ msgstr ""
 msgid "Primary biodiversity data"
 msgstr ""
 
-#. type: Title ====
-#: gbif-mediated-data.en.adoc:9
-#, no-wrap
-msgid "GBIF dataset types"
-msgstr ""
-
-#. type: Title ====
+#. type: Plain text
 #: gbif-mediated-data.en.adoc:11
-#, no-wrap
-msgid "GBIF taxonomic backbone"
+msgid "In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonmic information."
 msgstr ""
 
-#. type: Title ===
-#: gbif-mediated-data.en.adoc:13
-#, no-wrap
-msgid "Principles of GBIF-mediated data"
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:14
+msgid "When we refer to primary biodiversity data, we mean the data that document where and when species have been recorded.  This knowledge derives from many sources, including everything from museum specimens collected in the 18th and 19th century to geotagged smartphone photos shared by amateur naturalists in recent days and weeks."
 msgstr ""
 
-#. type: Title ====
-#: gbif-mediated-data.en.adoc:15
-#, no-wrap
-msgid "Digital object identifiers"
-msgstr ""
-
-#. type: Title ====
-#: gbif-mediated-data.en.adoc:17
-#, no-wrap
-msgid "Standards"
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:18
+msgid "The GBIF network draws all these sources together through the use of data standards, such as Darwin Core, which forms the basis for the bulk of GBIF.org's index of hundreds of millions of species occurrence records.  Publishers provide open access to their datasets using machine-readable Creative Commons licence designations, allowing scientists, researchers and others to apply the data in hundreds of peer-reviewed publications and policy papers each year.  Many of these analyses—which cover topics from the impacts of climate change and the spread of invasive and alien pests to priorities for conservation and protected areas, food security and human health— would not be possible without this."
 msgstr ""
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:19
 #, no-wrap
-msgid "Open data"
+msgid "GBIF dataset classes"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:23
+msgid "We encourage data holders to publish the richest data possible to ensure their use across a wider range of research approaches and questions, but not every dataset includes information at the same level of detail.  Sharing what is available through GBIF.org is valuable, because even partial information answers some important questions."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:25
+msgid "The four classes of datasets supported by GBIF start simply and become progressively richer, more structured and more complex."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:27
+msgid "Meta-data only - datasets describing *undigitized* resources like those in natural history and other collections"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:28
+msgid "Checklist - a *catalogue* or list of named organisms, or taxa"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:30
+msgid "Occurrence - the evidence of the *occurrence of a species* (or other taxon) at a particular place on a specified date.  Occurrence datasets make up the core of data published through GBIF.org"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:31
+msgid "Sampling-event - offering evidence that a species occurred at a given location and date, but also making it possible to *assess community composition* for broader taxonomic groups or even the *abundance of species* at multiple times and places."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:33
+msgid "More information on https://www.gbif.org/dataset-classes[dataset classes^] can be found on the GBIF website."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:35
+msgid "You might also want to explore https://data-blog.gbif.org/post/choose-dataset-type/[how to choose a dataset type^]."
 msgstr ""
 
 #. type: Title ====
-#: gbif-mediated-data.en.adoc:21
+#: gbif-mediated-data.en.adoc:36
+#, no-wrap
+msgid "GBIF taxonomic backbone"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:39
+#, no-wrap
+msgid "*What is the GBIF Backbone taxonomy?*\n"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:42
+msgid "The Backbone taxonomy is actually a https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[GBIF dataset^].  But not just any dataset, it is probably the most important dataset for GBIF. On its page, it is defined as:"
+msgstr ""
+
+#. type: delimited block -
+#: gbif-mediated-data.en.adoc:45
+#, no-wrap
+msgid "a single synthetic management classification with the goal of covering all names GBIF is dealing with\n"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:48
+#, no-wrap
+msgid "*Why does GBIF need a backbone?* \n"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:51
+msgid "The backbone is needed to organize the data available on GBIF.  Without it, we wouldn’t be able to do any taxonomic search and it would be difficult to generate consistent statistics and maps."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:55
+msgid "As you can imagine, not everyone uses the same classifications or names.  This results in considerable variations in higher taxa and a large number of synonyms.  The backbone aims to bring all these names together and organize them."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:57
+#, no-wrap
+msgid "*How is the backbone generated?*\n"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:59
+msgid "The backbone is built from other checklists. These include:"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:61
+msgid "55 authority checklists,"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:62
+msgid "a checklist generated from the type specimens shared on GBIF,"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:63
+msgid "two large sources for stable Operational Taxonomic Units (OTUs): iBOL Barcode Index Numbers and the UNITE Species Hypothesis identifiers,"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:64
+msgid "and any checklist shared by PLAZI.org on GBIF (currently 27,054 but not all these were available when the backbone was generated)."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:67
+msgid "These checklists are ordered by priority starting with the Catalogue of Life for most taxa.  This order is crucial as it shapes the taxonomy."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:69
+msgid "Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarly animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data."
+msgstr ""
+
+#. type: delimited block =
+#: gbif-mediated-data.en.adoc:72
+msgid "The information above is an excerpt from a 2019 blog post by Marie Grosjean. Read the https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[blog post^] for more detail on the backbone."
+msgstr ""
+
+#. type: Title ===
+#: gbif-mediated-data.en.adoc:74
+#, no-wrap
+msgid "Principles of GBIF-mediated data"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:78
+msgid "In this section, you will learn about the principles that GBIF follows with regards to data and how data in the GBIF portal are FAIR."
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:79
+#, no-wrap
+msgid "Digital object identifiers"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:83
+msgid "A Digital Object Identifier, or DOI, is a http://www.iso.org/iso/catalogue_detail?csnumber=43506[standard^], permanent identifier that provides an actionable, interoperable, persistent link to any entity.  The concept is that DOI differs from commonly used references like URL web links because it identifies an object itself as a first-class entity, not simply the place where the object is currently located."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:85
+msgid "In the context of GBIF.org, DOIs serve as stable identifiers for four different types of things:"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:87
+msgid "datasets from the GBIF network"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:88
+msgid "data downloads from GBIF.org"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:89
+msgid "research articles and reports published by scientific journals, agencies and NGOs"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:90
+msgid "materials deposited in a general-use repository"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:94
+msgid "GBIF assigns DOIs to all datasets and occurrence downloads.  When data is used, following DOI https://www.gbif.org/citation-guidelines[citation practice^] ensures an easy and consistent way of crediting dataset holders while also allowing for reproducibility.  The DOIs will always resolve to dataset or download pages, even if the underlying data is no longer available."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:97
+msgid "GBIF started issuing DOIs on 3 February 2015.  Downloads requested before this date do not have DOIs, however, if you wish to cite older downloads, you can contact helpdesk@gbif.org and we will assign DOIs as appropriate."
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:98
+#, no-wrap
+msgid "Standards"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:101
+msgid "The data available through GBIF.org and its associated services is the result of the GBIF network of Participants and publishers applying shared rules and conventions to describe, record and structure thousands of different datasets drawn from hundreds of institutions around the world. Common standards are the main enabler for bringing together the hundreds of millions of primary biodiversity records in the GBIF index."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:103
+msgid "Within the biodiversity domain, the group most often responsible for developing and maintaining data standards is http://www.tdwg.org/[Biodiversity Information Standards^]. This nonprofit scientific and educational association focuses on the development of standards for the exchange of biological and biodiversity data. Members of the biodiversity community generally refer to this group as TDWG (pronounced tad-wig)—a vestigial reminder of its earlier manifestation as the Taxonomic Databases Working Group."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:105
+msgid "Commonly use standards include:"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:108
+msgid "Darwin Core: The https://dwc.tdwg.org/[Darwin Core Standard^] (DwC) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources.  The majority of the datasets shared through GBIF.org are published using the Darwin Core Archive format (DwC-A)."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:111
+msgid "Ecological Metadata Language (EML): https://eml.ecoinformatics.org/[Ecological Metadata Language^] is a metadata standard that records information about ecological datasets in a series of modular and extensible XML document types.  All of the descriptions of datasets in GBIF.org rely on ‘metadata’—that is, the information about data—using the open-source EML standard, which is administered and maintained by https://knb.ecoinformatics.org/[The Knowledge Network for Biocomplexity^].  Each Darwin Core Archive includes as one of its components an EML file (written in XML format)."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:112
+msgid "BioCASe/ABCD: The http://www.biocase.org/[Biological Collection Access Service^], commonly referred to as BioCASe, is an international network linking biological collections data from natural history museums, botanical/zoological gardens and research institutions. The http://www.biocase.org/products/protocols[BioCASe protocol^] relies on the http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) data exchange standard, which TDWG also administers."
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:113
+#, no-wrap
+msgid "Open data"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:116
+msgid "In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:118
+msgid "http://creativecommons.org/publicdomain/zero/1.0[CC-0^] - no conditions for use"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:119
+msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^] - use with attribution"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:120
+msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commerical use with attribution"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:122
+msgid "Note that the CC-BY-NC licence has a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use. Lastly, attribution/citation is a community norm, so even if the publishers has waived conditions for use, attribution is expected."
+msgstr ""
+
+#. type: Title ====
+#: gbif-mediated-data.en.adoc:123
 #, no-wrap
 msgid "FAIR data"
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:28
-msgid "Many articles from 2011-2016 documented a crisis in scientific reproducability (see below).  In 2016, the www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the *F*indability, *A*ccessibility, the *I*nteroperability and the *R*eusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on www.go-fair.org/[GO-FAIR.org^]."
+#: gbif-mediated-data.en.adoc:130
+msgid "Many articles from 2011-2016 documented a crisis in scientific reproducability (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the *F*indability, *A*ccessibility, the *I*nteroperability and the *R*eusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
 msgstr ""
 
 #. type: Target for macro image
-#: gbif-mediated-data.en.adoc:29
+#: gbif-mediated-data.en.adoc:131
 #, no-wrap
 msgid "img/web/gofairlogo.svg"
 msgstr ""
 
 #. type: Target for macro image
-#: gbif-mediated-data.en.adoc:31
+#: gbif-mediated-data.en.adoc:133
 #, no-wrap
 msgid "img/web/FairPrinciples2.png"
 msgstr ""
 
 #. type: Plain text
-#: gbif-mediated-data.en.adoc:34
+#: gbif-mediated-data.en.adoc:136
 #, no-wrap
 msgid "*Data found on GBIF.org are FAIR.*\n"
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:37
+#: gbif-mediated-data.en.adoc:139
 #, no-wrap
 msgid "*FINDABLE*\n"
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:39
+#: gbif-mediated-data.en.adoc:141
 msgid "GBIF has https://www.gbif.org/data-quality-requirements[requirements] for metadata and datasets. All datasets are identified by https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Digital Object Identifiers^] (DOIs)."
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:43
+#: gbif-mediated-data.en.adoc:145
 #, no-wrap
 msgid "*ACCESSIBLE*\n"
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:45
+#: gbif-mediated-data.en.adoc:147
 msgid "The https://www.gbif.org/developer/summary[GBIF Portal API^] provides a machine readable interface (REST + JSON) and use the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) as trusted data repository."
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:49
+#: gbif-mediated-data.en.adoc:151
 #, no-wrap
 msgid "*INTEROPERABLE*\n"
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:51
+#: gbif-mediated-data.en.adoc:153
 msgid "GBIF recommends using the https://eml.ecoinformatics.org/[Ecological Metadata Language^] (EML) for datasets and https://dwc.tdwg.org/[Darwin Core^] for occurrence data."
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:55
+#: gbif-mediated-data.en.adoc:157
 #, no-wrap
 msgid "*REUSABLE*\n"
 msgstr ""
 
 #. type: delimited block *
-#: gbif-mediated-data.en.adoc:57
+#: gbif-mediated-data.en.adoc:159
 msgid "GBIF require creative common data licenses (https://creativecommons.org/publicdomain/zero/1.0[CC0^], https://creativecommons.org/licenses/by/4.0[CC BY^], or https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC^]). Provenance available from the GBIF portal."
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:61
+#: gbif-mediated-data.en.adoc:163
 #, no-wrap
 msgid "*Literature references*\n"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:63
+#: gbif-mediated-data.en.adoc:165
 msgid "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: 452-454 (26 May 2016) doi:10.1038/533452a"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:65
+#: gbif-mediated-data.en.adoc:167
 msgid "Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 (29 September 2016) doi:10.1038/nj7622-703a"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:67
+#: gbif-mediated-data.en.adoc:169
 msgid "Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:69
+#: gbif-mediated-data.en.adoc:171
 msgid "Baker (2016) Statisticians issue warning over misuse of P values. Nature 531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:71
+#: gbif-mediated-data.en.adoc:173
 msgid "Nosek et al. (2015) Promoting an open research culture. Science 348(6242): 1422-1425. DOI:10.1126/science.aab2374"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:73
+#: gbif-mediated-data.en.adoc:175
 msgid "Leek and Peng (2015) Statistics: P values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612°"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:75
+#: gbif-mediated-data.en.adoc:177
 msgid "Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:77
+#: gbif-mediated-data.en.adoc:179
 msgid "Hayden (2013) Weak statistical standards implicated in scientific irreproducibility. Nature doi:10.1038/nature.2013.14131"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:79
+#: gbif-mediated-data.en.adoc:181
 msgid "Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) doi:10.1038/485298a"
 msgstr ""
 
 #. type: delimited block =
-#: gbif-mediated-data.en.adoc:81
+#: gbif-mediated-data.en.adoc:183
 msgid "Callaway (2011) Reports finds massive fraud at Dutch universities. Nature 479, 15 (1 November 2011) doi:10.1038/479015a"
+msgstr ""
+
+#. type: Title ===
+#: gbif-mediated-data.en.adoc:185
+#, no-wrap
+msgid "Data metrics"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:189
+msgid "In this section review the various metrics available for datasets."
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:191
+msgid "One of the many benefits of publishing data via GBIF is that, during the indexing process, GBIF analyses all datasets and produces https://www.gbif.org/analytics/global[metrics^] about them. These metrics are made available in several different ways:"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:193
+msgid "global trends"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:194
+msgid "country pages"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:195
+msgid "dataset content statistics"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:196
+msgid "dataset download activity"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:199
+msgid "Participants and publishers can use this information to improve the quality of their datasets, e.g. by addressing issues detected during the indexing process. They can also use the access statistics as evidence of real user interest in their datasets and potential use of the published data.  Global data trends"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:201
+msgid "GBIF.org regularly updates analytics to provide an overview of global trends in the data from 2008 to the present. The charts illustrate trends in:"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:203
+msgid "occurrence records"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:204
+msgid "species counts"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:205
+msgid "time and seasonality"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:206
+msgid "completeness and precision"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:207
+msgid "geographic coverage for recorded species"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:208
+msgid "data sharing with country of origin"
+msgstr ""
+
+#. type: Target for macro image
+#: gbif-mediated-data.en.adoc:209
+#, no-wrap
+msgid "img/web/10_trends.png"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:212
+#, no-wrap
+msgid "*Dataset content statistics*\n"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:214
+msgid "Each dataset page includes a tab labeled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:216
+msgid "Taxonomic distribution (both list and chart)"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:217
+msgid "Occurrences per issue"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:218
+msgid "Occurrences per year"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:220
+msgid "The charts/tables are interactive and you can click to filter and explore further. Additionally, the images can be downloaded for reporting purposes."
+msgstr ""
+
+#. type: Target for macro image
+#: gbif-mediated-data.en.adoc:221
+#, no-wrap
+msgid "img/web/MetricsImage6.png"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:224
+#, no-wrap
+msgid "*Data access logs*\n"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:226
+msgid "There is a third tab in occurrence dataset pages labeled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking."
+msgstr ""
+
+#. type: Target for macro image
+#: gbif-mediated-data.en.adoc:227
+#, no-wrap
+msgid "img/web/ActivityImage7.png"
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: gbif-mediated-data.en.adoc:242
+msgid "What dataset class makes up the core of data published within GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:249
+#, no-wrap
+msgid "- [ ] Metadata-only\n"
+"- [] Checklist\n"
+"- [x] Occurrence\n"
+"- [ ] Sampling-event\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:252
+msgid "What is the taxonomic backbone?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:259
+#, no-wrap
+msgid "- [ ] A dataset\n"
+"- [ ] A management classification with the goal of covering all names in GBIF\n"
+"- [ ] Allows for taxonomic search on GBIF\n"
+"- [x] All of the above\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:262
+msgid "Which licenses or waivers can be applied to datasets published in GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:273
+#, no-wrap
+msgid "- [x] CC BY\n"
+"- [ ] CC BY-SA\n"
+"- [x] CC BY-NC\n"
+"- [ ] CC BY-NC-SA\n"
+"- [ ] CC BY-ND\n"
+"- [ ] CC BY-NC-ND\n"
+"- [ ] CC BY-NC-SA\n"
+"- [x] CC0\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:276
+msgid "Images are subject to the same licenses as datasets?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:281
+#, no-wrap
+msgid "- [ ] True\n"
+"- [x] False\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:284
+msgid "GBIF data are FAIR?"
+msgstr ""
+
+#. type: delimited block .
+#: gbif-mediated-data.en.adoc:289
+#, no-wrap
+msgid "- [x] True\n"
+"- [ ] False\n"
 msgstr ""
 
 #. type: Plain text
@@ -585,7 +1034,7 @@ msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:19
-msgid "  Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.    NOTE: If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF."
+msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.    NOTE: If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF."
 msgstr ""
 
 #. type: Title ===
@@ -1099,7 +1548,7 @@ msgstr ""
 
 #. type: Plain text
 #: data-access.en.adoc:12
-msgid "GBIF's https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to climate change, conservation, human health and agriculture.  A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[GBIF-mediated data by Heberling et al. (2020)^] showed:"
+msgid "The GBIF https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to climate change, conservation, human health and agriculture.  A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[GBIF-mediated data by Heberling et al. (2020)^] showed:"
 msgstr ""
 
 #. type: Plain text
