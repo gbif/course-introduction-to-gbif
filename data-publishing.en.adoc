@@ -14,7 +14,7 @@ In simpliest terms, data publishing is making your biodiversity dataset(s) publi
 image::img/web/datapublishing.png[align="center", width="640", height="360"]
 
 Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.
- 
+
 NOTE: If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.
 
 === Incentives for publishing open-access biodiversity data
