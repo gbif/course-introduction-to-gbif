@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 17:09+0000\n"
+"POT-Creation-Date: 2021-05-03 17:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -300,7 +300,7 @@ msgstr ""
 
 #. type: Title ===
 #: about.en.adoc:57 gbif-mediated-data.en.adoc:229 data-publishing.en.adoc:224
-#: community-of-practice.en.adoc:53
+#: data-access.en.adoc:85 community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
 msgstr ""
@@ -2091,7 +2091,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:228
+#: data-publishing.en.adoc:228 data-access.en.adoc:89
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2445,7 +2445,7 @@ msgstr ""
 #: data-access.en.adoc:66
 #, no-wrap
 msgid ""
-"*Taxonomic misidentificatio*n - some taxonomic groups may require additional "
+"*Taxonomic misidentification* - some taxonomic groups may require additional "
 "information to ensure that taxa have been correctly identified such as "
 "images, videos and audio recordings that accompany data or collector "
 "information.\n"
@@ -2508,7 +2508,7 @@ msgid "*How can I improve data quality?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:83
+#: data-access.en.adoc:84
 msgid ""
 "Data publishers have the responsibility for improving the quality of the "
 "data, and as a user, you play a key role in identifying where there are "
@@ -2517,6 +2517,58 @@ msgid ""
 "publisher page.  GBIF also provides the ability for users to log data "
 "quality issues using the \"Feedback and questions\" button on the menu bar "
 "of http://www.gbif.org[GBIF.org^]."
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: data-access.en.adoc:97
+msgid "How can you access GBIF data?"
+msgstr ""
+
+#. type: delimited block .
+#: data-access.en.adoc:104
+#, no-wrap
+msgid ""
+"- [x] GBIF.org search interface\n"
+"- [x] GBIF API\n"
+"- [x] rGBIF\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: data-access.en.adoc:107
+msgid "Which file formats are available for downloads of data?"
+msgstr ""
+
+#. type: delimited block .
+#: data-access.en.adoc:115
+#, no-wrap
+msgid ""
+"- [x] simple\n"
+"- [ ] XML\n"
+"- [x] Darwin Core Archive\n"
+"- [x] species list\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: data-access.en.adoc:118
+msgid "What kind of flags does GBIF apply to data to alert you to the quality?"
+msgstr ""
+
+#. type: delimited block .
+#: data-access.en.adoc:128
+#, no-wrap
+msgid ""
+"- [x] altered\n"
+"- [ ] ammended\n"
+"- [ ] translated\n"
+"- [x] exluded\n"
+"- [ ] interpreted\n"
+"- [x] inferred\n"
 msgstr ""
 
 #. type: Title ==
