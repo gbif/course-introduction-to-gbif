@@ -41,4 +41,6 @@ include::keydocs.en.adoc[]
 
 include::glossary.en.adoc[]
 
+include::solutions.en.adoc[]
+
 include::colophon.en.adoc[]
