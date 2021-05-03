@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 17:24+0000\n"
+"POT-Creation-Date: 2021-05-03 17:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -300,7 +300,7 @@ msgstr ""
 
 #. type: Title ===
 #: about.en.adoc:57 gbif-mediated-data.en.adoc:229 data-publishing.en.adoc:224
-#: data-access.en.adoc:85 community-of-practice.en.adoc:53
+#: data-access.en.adoc:77 community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
 msgstr ""
@@ -2091,7 +2091,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:228 data-access.en.adoc:89
+#: data-publishing.en.adoc:228 data-access.en.adoc:81
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2328,7 +2328,7 @@ msgstr ""
 #: data-access.en.adoc:43
 #, no-wrap
 msgid ""
-"*CSV*: https://www.gbif.org/faq?question=csv-download[Tab delimited "
+"*Simple*: https://www.gbif.org/faq?question=csv-download[Tab delimited "
 "CSV^]. Only contains the data after GBIF interpretation. No multimedia "
 "included. \n"
 msgstr ""
@@ -2386,43 +2386,14 @@ msgid ""
 "can be found in tabs associated with the search."
 msgstr ""
 
-#. type: Plain text
-#: data-access.en.adoc:51
-msgid ""
-"Publishers share their data under one of three Creative Commons digital "
-"licences:"
-msgstr ""
-
-#. type: Plain text
-#: data-access.en.adoc:53
-msgid "http://creativecommons.org/publicdomain/zero/1.0[CC-0^],"
-msgstr ""
-
-#. type: Plain text
-#: data-access.en.adoc:54
-msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^],"
-msgstr ""
-
-#. type: Plain text
-#: data-access.en.adoc:55
-msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^]."
-msgstr ""
-
-#. type: Plain text
-#: data-access.en.adoc:57
-msgid ""
-"It is important to note that images are not subject to the same licence that "
-"is applied to the dataset and may have more restricted terms of use."
-msgstr ""
-
 #. type: Title ===
-#: data-access.en.adoc:58
+#: data-access.en.adoc:50
 #, no-wrap
 msgid "Handling data quality "
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:63
+#: data-access.en.adoc:55
 msgid ""
 "Determining the precision and accuracy of the data for use is a key step in "
 "determining the usefulness of the data for any intended purpose.  While GBIF "
@@ -2433,7 +2404,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:65
+#: data-access.en.adoc:57
 #, no-wrap
 msgid ""
 "*Data gaps* - sampling across taxonomic groups and geographic regions is not "
@@ -2442,7 +2413,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:66
+#: data-access.en.adoc:58
 #, no-wrap
 msgid ""
 "*Taxonomic misidentification* - some taxonomic groups may require additional "
@@ -2452,13 +2423,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:68
+#: data-access.en.adoc:60
 #, no-wrap
 msgid "*GBIF Flags for Data Quality Issues*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:72
+#: data-access.en.adoc:64
 msgid ""
 "During the indexation process, GBIF assigns issues and flags to data for "
 "https://data-blog.gbif.org/post/issues-and-flags/[common data quality "
@@ -2468,7 +2439,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:74
+#: data-access.en.adoc:66
 #, no-wrap
 msgid ""
 "*Excluded* - where the original data couldn’t be interpreted, so is excluded "
@@ -2476,7 +2447,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:75
+#: data-access.en.adoc:67
 #, no-wrap
 msgid ""
 "*Altered* - where the original data is modified in the interpretation "
@@ -2484,7 +2455,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:76
+#: data-access.en.adoc:68
 #, no-wrap
 msgid ""
 "*Inferred* - where an empty field is inferred using other record "
@@ -2492,7 +2463,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:78
+#: data-access.en.adoc:70
 msgid ""
 "Be aware that if you are filtering for data quality issues, you should "
 "reverse the filter to exclude those data that have been flagged with that "
@@ -2502,13 +2473,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:80
+#: data-access.en.adoc:72
 #, no-wrap
 msgid "*How can I improve data quality?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-access.en.adoc:84
+#: data-access.en.adoc:76
 msgid ""
 "Data publishers have the responsibility for improving the quality of the "
 "data, and as a user, you play a key role in identifying where there are "
@@ -2524,12 +2495,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: data-access.en.adoc:97
+#: data-access.en.adoc:89
 msgid "How can you access GBIF data?"
 msgstr ""
 
 #. type: delimited block .
-#: data-access.en.adoc:104
+#: data-access.en.adoc:96
 #, no-wrap
 msgid ""
 "- [x] GBIF.org search interface\n"
@@ -2539,12 +2510,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: data-access.en.adoc:107
+#: data-access.en.adoc:99
 msgid "Which file formats are available for downloads of data?"
 msgstr ""
 
 #. type: delimited block .
-#: data-access.en.adoc:115
+#: data-access.en.adoc:107
 #, no-wrap
 msgid ""
 "- [x] simple\n"
@@ -2555,12 +2526,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: data-access.en.adoc:118
+#: data-access.en.adoc:110
 msgid "What kind of flags does GBIF apply to data to alert you to the quality?"
 msgstr ""
 
 #. type: delimited block .
-#: data-access.en.adoc:128
+#: data-access.en.adoc:120
 #, no-wrap
 msgid ""
 "- [x] altered\n"
