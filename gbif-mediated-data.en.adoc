@@ -128,7 +128,7 @@ IMPORTANT: Note that the CC-BY-NC licence has a significant effect on the reusab
 
 Many articles from 2011-2016 documented a crisis in scientific reproducability (see below). 
 In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^]. 
-The principles were designed to improve the *F*indability, *A*ccessibility, the *I*nteroperability and the *R*eusability of datasets and address "an urgent need to improve the infrastructure supporting the reuse of scholarly data." 
+The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address "an urgent need to improve the infrastructure supporting the reuse of scholarly data." 
 Implementation of these principles began in 2018. 
 You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^].
 
