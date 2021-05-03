@@ -18,7 +18,7 @@ image::img/web/register.png[align="center", width="640", height="253"]
 Prospective new publishers are asked to complete an online form. 
 The answers provided help GBIF to give proper credit and attribution for the datasets shared by the new publisher.
 
-image::img/web/register3.png[align="center", width="640", height="584"]
+image::img/web/Register3.png[align="center", width="640", height="584"]
 
 Before GBIF indexes datasets, an institution must receive endorsement as a data publisher from one of the Participant nodes that coordinate activities of the national and organizational Participants in the GBIF network. 
 If the country is not yet participating in GBIF, endorsement is sought on the publisher's behalf from within the GBIF community.
