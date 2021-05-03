@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-03 13:04+0000\n"
+"POT-Creation-Date: 2021-05-03 14:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,7 +78,7 @@ msgid "GBIF-mediated data"
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:12 solutions.en.adoc:51
+#: description.en.adoc:12 data-publishing.en.adoc:2 solutions.en.adoc:51
 #, no-wrap
 msgid "Data publishing"
 msgstr ""
@@ -728,35 +728,69 @@ msgid ""
 "479, 15 (1 November 2011) doi:10.1038/479015a"
 msgstr ""
 
-#. type: Title ==
-#: data-publishing.en.adoc:2
-#, no-wrap
-msgid "Data publishers"
-msgstr ""
-
 #. type: Plain text
 #: data-publishing.en.adoc:6
 msgid ""
-"In this module, you will learn about incentives for publishing data how to "
-"become a publisher, review feeback available for publishers and review "
-"information about data papers."
+"In this module, you will learn about data publishing, incentives for "
+"publishing data how to become a publisher, review feeback available for "
+"publishers and review information about data papers."
 msgstr ""
 
 #. type: Title ===
 #: data-publishing.en.adoc:7
 #, no-wrap
-msgid "Incentives for publishing open-access biodiversity data"
+msgid "What is data publishing?"
 msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:11
+msgid "In this section, you will learn what data publishing is in the GBIF network."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:13
+msgid ""
+"In simpliest terms, data publishing is making your biodiversity dataset(s) "
+"publicly accessible and discoverable in a standardized format."
+msgstr ""
+
+#. type: Target for macro image
+#: data-publishing.en.adoc:14
+#, no-wrap
+msgid "img/web/datapublishing.png"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:19
+msgid ""
+"  Most organizations within the GBIF Network, otherwise known as publishers, "
+"make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing "
+"Toolkit^], to publish their data. These publishers may choose to host their "
+"own installation of an IPT like the Field Museum, but generally prefer to "
+"find a suitable host for their data publishing activities. This might be "
+"through an established GBIF Participant Node like GBIF France or through an "
+"established thematic group like VertNet. Or, a another option, might be to "
+"make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional "
+"IPTs.    NOTE: If you are part of groups like Symbiota or the Living Atlases "
+"Communities, they have other means to assist you with publishing your data "
+"to GBIF."
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:20
+#, no-wrap
+msgid "Incentives for publishing open-access biodiversity data"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:24
 msgid ""
 "In this section, you will review some incentives for publishing biodiversity "
 "data."
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:13
+#: data-publishing.en.adoc:26
 msgid ""
 "An important part of GBIF's mission is to promote a culture in which people "
 "recognize the benefits of publishing open-access biodiversity data, for "
@@ -764,7 +798,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:15
+#: data-publishing.en.adoc:28
 msgid ""
 "By making your data discoverable and accessible through GBIF and similar "
 "information infrastructures, you will *contribute to global knowledge about "
@@ -773,7 +807,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:16
+#: data-publishing.en.adoc:29
 msgid ""
 "Data publishing enables datasets held all over the world to be integrated, "
 "revealing *new opportunities for collaboration* among data owners and "
@@ -781,7 +815,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:17
+#: data-publishing.en.adoc:30
 msgid ""
 "Publishing data enables individuals and institutions to be properly credited "
 "for their work to create and curate biodiversity data, by *giving visibility "
@@ -792,7 +826,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:18
+#: data-publishing.en.adoc:31
 msgid ""
 "Collection managers can *trace usage and citations* of digitized data "
 "published from their institutions and accessed through GBIF and similar "
@@ -800,25 +834,240 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:19
+#: data-publishing.en.adoc:32
 msgid ""
 "Some funding agencies now require researchers receiving public funds to "
 "*make data freely accessible* at the end of a project."
 msgstr ""
 
 #. type: Title ===
-#: data-publishing.en.adoc:20
+#: data-publishing.en.adoc:33
+#, no-wrap
+msgid "Data publisher visability and recognition"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:37
+msgid ""
+"In this section, you will review frameworks for citing and tracking digitial "
+"data use on GBIF.org"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:40
+msgid ""
+"Giving adequate visibility and recognition to data publishers is of "
+"paramount importance to GBIF.  That is why the organisation has put in place "
+"the regulatory and technical frameworks needed to make citing and tracking "
+"digital data use, easier than ever before."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:42
+#, no-wrap
+msgid "*The GBIF Memorandum of Understanding*\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:45
+msgid ""
+"GBIF is a multilateral initiative established by intergovernmental agreement "
+"and based on a non-binding https://www.gbif.org/mou[Memorandum of "
+"Understanding^] (MoU).  The MoU is the official document that countries and "
+"international organizations sign in order to join GBIF."
+msgstr ""
+
+#. type: Target for macro image
+#: data-publishing.en.adoc:46
+#, no-wrap
+msgid "img/web/GBIF_MoU.jpg"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:49
+msgid ""
+"The MoU is very clear stating that GBIF data publishers need to be "
+"acknowledged for their contributions:"
+msgstr ""
+
+#. type: delimited block -
+#: data-publishing.en.adoc:53
+#, no-wrap
+msgid ""
+"\"4. Attribution. +\n"
+"GBIF seeks to ensure that the publisher/holder of data is acknowledged and "
+"requests that such attribution be maintained in any subsequent use of the "
+"data.\"\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:56
+msgid "GBIF strives to make all efforts possible to make this statement a reality."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:58
+#, no-wrap
+msgid "*The GBIF Data User Agreement*\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:60
+msgid ""
+"Prior to accessing any data using GBIF, users need to accept a data user "
+"agreement which includes very specific requirements on citation of the "
+"origin of the data accessed through GBIF. These are some of the requirements "
+"listed in the agreement:"
+msgstr ""
+
+#. type: delimited block -
+#: data-publishing.en.adoc:63
+#, no-wrap
+msgid ""
+"\"In order to make attribution of use for owners of the data possible, the "
+"identifier of ownership of data must be retained with every data record "
+"shared onward for reuse.\"\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:66
+msgid ""
+"“Users must publicly acknowledge, following the scientific convention of "
+"citing sources in conjunction with the use of the data, the Data Publishers "
+"whose biodiversity data they have used, where appropriate through use of a "
+"Digital Object Identifier (DOI) applying to the dataset (s) and/or data "
+"downloads.”"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:68
+msgid ""
+"Similarly, the agreement is very specific in stating that the conditions "
+"stated in the licenses selected by the data published must be respected."
+msgstr ""
+
+#. type: delimited block -
+#: data-publishing.en.adoc:71
+#, no-wrap
+msgid ""
+"\"Users must comply with the terms and conditions included in the licence "
+"selected by each Data Publisher, and the licensing information included with "
+"each data download. If any provision of this Use Agreement conflicts with "
+"the terms and conditions within the licences selected by the Data Publisher, "
+"licences selected by the Data Publisher shall prevail.\"\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:74
+#, no-wrap
+msgid "*Citation*\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:76
+msgid ""
+"GBIF strongly encourages all users to cite data retrieved from the GBIF "
+"network. For that purpose it provides recommended citation strings on the "
+"dataset, occurrence and download pages in GBIF.org."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:78
+msgid ""
+"This is especially relevant for datasets published using the “CC-BY” and "
+"“CC-BY-NC” licenses, which include specific requirements for citing the "
+"origin of the data."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:80
+msgid ""
+"Citation and right strings are automatically generated for data publishers "
+"for each dataset when using IPT as the publishing mechanism, providing that "
+"one of the standard licenses is selected."
+msgstr ""
+
+#. type: Target for macro image
+#: data-publishing.en.adoc:81
+#, no-wrap
+msgid "img/web/11_citations.png"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:84
+msgid ""
+"Data publishers must carefully select which license aligns best with any "
+"existing requirement from their institutions and from any data access policy "
+"to which they may be subject."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:86
+#, no-wrap
+msgid "*Data publisher page*\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:90
+msgid ""
+"All publishers feature their own page on GBIF.org.  It is important that "
+"publishers give some thought to how they want to appear on the website and "
+"provide relevant information about their institutions and their teams at the "
+"time of registration.  They should also strive to keep it up to date, as "
+"interested parties will use the contact data on that page to contact the "
+"team responsible for the data publishing."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:92
+#, no-wrap
+msgid "*Dataset DOI*\n"
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:94
+msgid ""
+"Every time a new version of a dataset is published using an IPT, a DOI "
+"(Digital Object Identifier) is assigned. As in the case of the downloads, "
+"this identifier allows easy citation and tracking of work derived from the "
+"dataset, if the user follows good practices for source citation."
+msgstr ""
+
+#. type: Plain text
+#: data-publishing.en.adoc:96
+msgid ""
+"As mentioned before, you can resolve DOI is websites like dx.doi.org: which "
+"will always redirect to the original source, in this case, the dataset "
+"page. You can also search for DOI using a normal web search, which will "
+"normally reveal any other resource citing use of the same DOI such as "
+"articles or public reports."
+msgstr ""
+
+#. type: Target for macro image
+#: data-publishing.en.adoc:97
+#, no-wrap
+msgid "img/web/datasetdoiimage3_withcallouts.png"
+msgstr ""
+
+#. type: Target for macro image
+#: data-publishing.en.adoc:99
+#, no-wrap
+msgid "img/web/datasetcitationsimage4.png"
+msgstr ""
+
+#. type: Title ===
+#: data-publishing.en.adoc:101
 #, no-wrap
 msgid "How to become a data publisher"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:24
+#: data-publishing.en.adoc:105
 msgid "In this section, you will review the steps to become a data publisher."
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:26
+#: data-publishing.en.adoc:107
 msgid ""
 "Organizations wishing to share data through GBIF can register "
 "https://www.gbif.org/become-a-publisher[here^] to request endorsement as a "
@@ -826,7 +1075,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: data-publishing.en.adoc:28
+#: data-publishing.en.adoc:109
 #, no-wrap
 msgid ""
 "Click on the _How-to menu_ on the GBIF website to navigate to the _Become a "
@@ -834,13 +1083,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:29 data-publishing.en.adoc:68
+#: data-publishing.en.adoc:110 data-publishing.en.adoc:149
 #, no-wrap
 msgid "img/web/register.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:33
+#: data-publishing.en.adoc:114
 msgid ""
 "Prospective new publishers are asked to complete an online form.  The "
 "answers provided help GBIF to give proper credit and attribution for the "
@@ -848,13 +1097,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:34
+#: data-publishing.en.adoc:115
 #, no-wrap
 msgid "img/web/Register3.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:38
+#: data-publishing.en.adoc:119
 msgid ""
 "Before GBIF indexes datasets, an institution must receive endorsement as a "
 "data publisher from one of the Participant nodes that coordinate activities "
@@ -864,39 +1113,39 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:40
+#: data-publishing.en.adoc:121
 msgid "The endorsement procedure aims to ensure that:"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:42
+#: data-publishing.en.adoc:123
 msgid "Published data are relevant to GBIF’s scope and objectives"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:43
+#: data-publishing.en.adoc:124
 msgid "Data hosting arrangements are stable and persistent"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:44
+#: data-publishing.en.adoc:125
 msgid ""
 "Data publishing and use are supported by strong national, regional and "
 "thematic engagement"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:45
+#: data-publishing.en.adoc:126
 msgid "Data are as open as possible, and available for sharing and reuse"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:46
+#: data-publishing.en.adoc:127
 msgid "Data publishers can respond to feedback and improve data quality"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:48
+#: data-publishing.en.adoc:129
 msgid ""
 "At present, GBIF and its Participants only publish data from "
 "organizations—that is, institutions, networks and societies—rather than "
@@ -905,33 +1154,33 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:49
+#: data-publishing.en.adoc:130
 #, no-wrap
 msgid "img/web/register4.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:52
+#: data-publishing.en.adoc:133
 msgid ""
 "The answers provided will also help users to understand more about the "
 "provenance of data shared through the GBIF network."
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:53
+#: data-publishing.en.adoc:134
 #, no-wrap
 msgid "img/web/register5.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:56
+#: data-publishing.en.adoc:137
 msgid ""
 "Be sure to search existing publishers before registering a new one to make "
 "sure the publisher is not already registered."
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:58
+#: data-publishing.en.adoc:139
 msgid ""
 "BID and BIFA projects are required to register at least one data publisher "
 "(or provide evidence of an already registered publisher) by specific "
@@ -939,18 +1188,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: data-publishing.en.adoc:59
+#: data-publishing.en.adoc:140
 #, no-wrap
 msgid "GBIF data quality requirements"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:63
+#: data-publishing.en.adoc:144
 msgid "In this section, you will review GBIF's data quality requirements."
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:65
+#: data-publishing.en.adoc:146
 msgid ""
 "Publishers play an essential role not simply in sharing datasets, but also "
 "in managing their quality, completeness and usefulness and ensuring their "
@@ -958,7 +1207,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: data-publishing.en.adoc:67
+#: data-publishing.en.adoc:148
 #, no-wrap
 msgid ""
 "Click on the _How-to menu_ on the GBIF website to navigate to the _Data "
@@ -966,7 +1215,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:72
+#: data-publishing.en.adoc:153
 msgid ""
 "To share data through GBIF.org, publishers typically have to collate or "
 "transform existing datasets into a standardized format.  This work may "
@@ -978,7 +1227,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:76
+#: data-publishing.en.adoc:157
 msgid ""
 "Once published, GBIF’s real-time infrastructure ‘indexes’ or ‘harvests’ new "
 "datasets, integrating them into a common access system where users can "
@@ -991,7 +1240,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:79
+#: data-publishing.en.adoc:160
 msgid ""
 "Publishers thus play an essential role not simply in sharing datasets, but "
 "also in managing their quality, completeness and usefulness as well as "
@@ -1001,26 +1250,26 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:81
+#: data-publishing.en.adoc:162
 msgid ""
 "https://www.gbif.org/data-quality-requirements-occurrences[Occurrence-only "
 "datasets^]"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:82
+#: data-publishing.en.adoc:163
 msgid "https://www.gbif.org/data-quality-requirements-checklists[Checklists^]"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:83
+#: data-publishing.en.adoc:164
 msgid ""
 "https://www.gbif.org/data-quality-requirements-sampling-events[Sampling-event "
 "datasets^]"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:86
+#: data-publishing.en.adoc:167
 msgid ""
 "In practice, we encourage those responsible for publishing data to get "
 "acquainted with the expected data formats and content requirements as early "
@@ -1038,7 +1287,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:88
+#: data-publishing.en.adoc:169
 msgid ""
 "BID and BIFA projects are required to include their projectID on published "
 "datasets as part of the dataset metadata. This allows datasets to be linked "
@@ -1046,24 +1295,24 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:89
+#: data-publishing.en.adoc:170
 #, no-wrap
 msgid "img/web/quality8.png"
 msgstr ""
 
 #. type: Title ===
-#: data-publishing.en.adoc:91
+#: data-publishing.en.adoc:172
 #, no-wrap
 msgid "Improve published data quality"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:95
+#: data-publishing.en.adoc:176
 msgid "In this section, you will learn how to use the GBIF data validator."
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:98
+#: data-publishing.en.adoc:179
 msgid ""
 "The GBIF https://www.gbif.org/tools/data-validator[data validator^] is a "
 "service that allows anyone with a GBIF-relevant dataset to receive a report "
@@ -1075,7 +1324,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: data-publishing.en.adoc:100
+#: data-publishing.en.adoc:181
 #, no-wrap
 msgid ""
 "Click on the _Tools_ menu on the GBIF website to navigate to the _Data "
@@ -1083,19 +1332,19 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:101
+#: data-publishing.en.adoc:182
 #, no-wrap
 msgid "img/web/datavalidator.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:104
+#: data-publishing.en.adoc:185
 #, no-wrap
 msgid "*How does it work?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:109
+#: data-publishing.en.adoc:190
 msgid ""
 "You start by uploading the dataset file to the validator, either by 1) "
 "clicking SELECT FILE and selecting it on your local computer or 2) dragging "
@@ -1107,13 +1356,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:110
+#: data-publishing.en.adoc:191
 #, no-wrap
 msgid "img/web/quality11.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:116
+#: data-publishing.en.adoc:197
 msgid ""
 "Depending on the size of your dataset, processing might take a while.  You "
 "don’t have to keep the browser window open, as a unique job ID is issued "
@@ -1124,74 +1373,74 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:118
+#: data-publishing.en.adoc:199
 #, no-wrap
 msgid "*Which file types are accepted?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:120
+#: data-publishing.en.adoc:201
 msgid ""
 "ZIP-compressed Darwin Core Archives (DwC-A) (containing cores Occurrence, "
 "Taxon, or Event)"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:121
+#: data-publishing.en.adoc:202
 msgid ""
 "Integrated Processing Toolkit (IPT) Excel templates containing Checklist, "
 "Occurrence, or Sampling-event data"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:122
+#: data-publishing.en.adoc:203
 msgid "Simple CSV files containing Darwin Core terms in the first row"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:124
+#: data-publishing.en.adoc:205
 #, no-wrap
 msgid "*What information is provided from the validation report?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:126
+#: data-publishing.en.adoc:207
 msgid ""
 "Once processing is done, you will be able to see the validation report "
 "containing the following information:"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:128
+#: data-publishing.en.adoc:209
 msgid ""
 "a summary of the dataset type and a simple indicator of whether it can be "
 "indexed by GBIF or not"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:129
+#: data-publishing.en.adoc:210
 msgid "a summary of issues found during the GBIF interpretation of the dataset"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:130
+#: data-publishing.en.adoc:211
 msgid ""
 "detailed break-down of issues found in metadata, dataset core, and "
 "extensions (if any), respectively"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:131
+#: data-publishing.en.adoc:212
 msgid "number of records successfully interpreted"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:132
+#: data-publishing.en.adoc:213
 msgid "frequency of terms used in dataset"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:134
+#: data-publishing.en.adoc:215
 msgid ""
 "You will also be able to view the metadata as a draft version of the dataset "
 "page as it would appear when the dataset it published and registered with "
@@ -1199,19 +1448,19 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: data-publishing.en.adoc:135
+#: data-publishing.en.adoc:216
 #, no-wrap
 msgid "img/web/quality12.png"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:138
+#: data-publishing.en.adoc:219
 #, no-wrap
 msgid "*I’ve got the validation report - now what?*\n"
 msgstr ""
 
 #. type: Plain text
-#: data-publishing.en.adoc:142
+#: data-publishing.en.adoc:222
 msgid ""
 "If the validator finds that your dataset cannot be indexed by GBIF, you "
 "should address the issues raised by the validation report before you "
@@ -1221,221 +1470,6 @@ msgid ""
 "etc. which could affect the quality of the data.  If you find and correct "
 "any error - from a single typo to large systematic problems - feel free to "
 "resubmit your dataset as many times you like."
-msgstr ""
-
-#. type: Title ===
-#: data-publishing.en.adoc:143
-#, no-wrap
-msgid "Data publisher visability and recognition"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:147
-msgid ""
-"In this section, you will review frameworks for citing and tracking digitial "
-"data use on GBIF.org"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:150
-msgid ""
-"Giving adequate visibility and recognition to data publishers is of "
-"paramount importance to GBIF.  That is why the organisation has put in place "
-"the regulatory and technical frameworks needed to make citing and tracking "
-"digital data use, easier than ever before."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:152
-#, no-wrap
-msgid "*The GBIF Memorandum of Understanding*\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:155
-msgid ""
-"GBIF is a multilateral initiative established by intergovernmental agreement "
-"and based on a non-binding https://www.gbif.org/mou[Memorandum of "
-"Understanding^] (MoU).  The MoU is the official document that countries and "
-"international organizations sign in order to join GBIF."
-msgstr ""
-
-#. type: Target for macro image
-#: data-publishing.en.adoc:156
-#, no-wrap
-msgid "img/web/GBIF_MoU.jpg"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:159
-msgid ""
-"The MoU is very clear stating that GBIF data publishers need to be "
-"acknowledged for their contributions:"
-msgstr ""
-
-#. type: delimited block -
-#: data-publishing.en.adoc:163
-#, no-wrap
-msgid ""
-"\"4. Attribution. +\n"
-"GBIF seeks to ensure that the publisher/holder of data is acknowledged and "
-"requests that such attribution be maintained in any subsequent use of the "
-"data.\"\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:166
-msgid "GBIF strives to make all efforts possible to make this statement a reality."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:168
-#, no-wrap
-msgid "*The GBIF Data User Agreement*\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:170
-msgid ""
-"Prior to accessing any data using GBIF, users need to accept a data user "
-"agreement which includes very specific requirements on citation of the "
-"origin of the data accessed through GBIF. These are some of the requirements "
-"listed in the agreement:"
-msgstr ""
-
-#. type: delimited block -
-#: data-publishing.en.adoc:173
-#, no-wrap
-msgid ""
-"\"In order to make attribution of use for owners of the data possible, the "
-"identifier of ownership of data must be retained with every data record "
-"shared onward for reuse.\"\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:176
-msgid ""
-"“Users must publicly acknowledge, following the scientific convention of "
-"citing sources in conjunction with the use of the data, the Data Publishers "
-"whose biodiversity data they have used, where appropriate through use of a "
-"Digital Object Identifier (DOI) applying to the dataset (s) and/or data "
-"downloads.”"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:178
-msgid ""
-"Similarly, the agreement is very specific in stating that the conditions "
-"stated in the licenses selected by the data published must be respected."
-msgstr ""
-
-#. type: delimited block -
-#: data-publishing.en.adoc:181
-#, no-wrap
-msgid ""
-"\"Users must comply with the terms and conditions included in the licence "
-"selected by each Data Publisher, and the licensing information included with "
-"each data download. If any provision of this Use Agreement conflicts with "
-"the terms and conditions within the licences selected by the Data Publisher, "
-"licences selected by the Data Publisher shall prevail.\"\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:184
-#, no-wrap
-msgid "*Citation*\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:186
-msgid ""
-"GBIF strongly encourages all users to cite data retrieved from the GBIF "
-"network. For that purpose it provides recommended citation strings on the "
-"dataset, occurrence and download pages in GBIF.org."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:188
-msgid ""
-"This is especially relevant for datasets published using the “CC-BY” and "
-"“CC-BY-NC” licenses, which include specific requirements for citing the "
-"origin of the data."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:190
-msgid ""
-"Citation and right strings are automatically generated for data publishers "
-"for each dataset when using IPT as the publishing mechanism, providing that "
-"one of the standard licenses is selected."
-msgstr ""
-
-#. type: Target for macro image
-#: data-publishing.en.adoc:191
-#, no-wrap
-msgid "img/web/11_citations.png"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:194
-msgid ""
-"Data publishers must carefully select which license aligns best with any "
-"existing requirement from their institutions and from any data access policy "
-"to which they may be subject."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:196
-#, no-wrap
-msgid "*Data publisher page*\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:200
-msgid ""
-"As already mentioned, all publishers feature their own page on GBIF.org.  It "
-"is important that publishers give some thought to how they want to appear on "
-"the website and provide relevant information about their institutions and "
-"their teams at the time of registration.  They should also strive to keep it "
-"up to date, as interested parties will use the contact data on that page to "
-"contact the team responsible for the data publishing."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:202
-#, no-wrap
-msgid "*Dataset DOI*\n"
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:204
-msgid ""
-"Every time a new version of a dataset is published using an IPT, a DOI "
-"(Digital Object Identifier) is assigned. As in the case of the downloads, "
-"this identifier allows easy citation and tracking of work derived from the "
-"dataset, if the user follows good practices for source citation."
-msgstr ""
-
-#. type: Plain text
-#: data-publishing.en.adoc:206
-msgid ""
-"As mentioned before, you can resolve DOI is websites like dx.doi.org: which "
-"will always redirect to the original source, in this case, the dataset "
-"page. You can also search for DOI using a normal web search, which will "
-"normally reveal any other resource citing use of the same DOI such as "
-"articles or public reports."
-msgstr ""
-
-#. type: Target for macro image
-#: data-publishing.en.adoc:207
-#, no-wrap
-msgid "img/web/datasetdoiimage3_withcallouts.png"
-msgstr ""
-
-#. type: Target for macro image
-#: data-publishing.en.adoc:209
-#, no-wrap
-msgid "img/web/datasetcitationsimage4.png"
 msgstr ""
 
 #. type: Plain text
