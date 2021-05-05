@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-05 12:09\n"
+"PO-Revision-Date: 2021-05-05 13:04\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -30,7 +30,7 @@ msgstr "Secrétariat du GBIF <training@gbif.org>"
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Block title
 #: index.en.adoc:22
