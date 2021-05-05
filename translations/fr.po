@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-05 13:04\n"
+"PO-Revision-Date: 2021-05-05 14:02\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -48,7 +48,7 @@ msgstr ""
 #: description.en.adoc:2
 #, no-wrap
 msgid "Course description"
-msgstr ""
+msgstr "Description du cours"
 
 #. type: delimited block *
 #: description.en.adoc:6
@@ -63,25 +63,25 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "Information about GBIF"
-msgstr ""
+msgstr "Informations à propos de GBIF"
 
 #. type: Title ===
 #: description.en.adoc:11 solutions.en.adoc:49
 #, no-wrap
 msgid "GBIF-mediated data"
-msgstr ""
+msgstr "Les données obtenues via GBIF"
 
 #. type: Title ===
 #: description.en.adoc:12 data-publishing.en.adoc:2 solutions.en.adoc:76
 #, no-wrap
 msgid "Data publishing"
-msgstr ""
+msgstr "Publication de données"
 
 #. type: Title ===
 #: description.en.adoc:13 data-access.en.adoc:2 solutions.en.adoc:100
 #, no-wrap
 msgid "Data access"
-msgstr ""
+msgstr "Accès aux données"
 
 #. type: delimited block *
 #: description.en.adoc:14
@@ -97,7 +97,7 @@ msgstr ""
 #: description.en.adoc:18
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Public"
 
 #. type: Plain text
 #: description.en.adoc:21
@@ -108,7 +108,7 @@ msgstr ""
 #: description.en.adoc:22
 #, no-wrap
 msgid "Prerequisites"
-msgstr ""
+msgstr "Prérequis"
 
 #. type: Plain text
 #: description.en.adoc:26
@@ -139,7 +139,7 @@ msgstr ""
 #: about.en.adoc:9 about.en.adoc:75
 #, no-wrap
 msgid "What is GBIF?"
-msgstr ""
+msgstr "Qu'est-ce que le GBIF ?"
 
 #. type: Plain text
 #: about.en.adoc:13
@@ -395,7 +395,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:2
 #, no-wrap
 msgid "GBIF-mediated data "
-msgstr ""
+msgstr "Les données obtenues via GBIF "
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:6
@@ -406,7 +406,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:7
 #, no-wrap
 msgid "Primary biodiversity data"
-msgstr ""
+msgstr "Données primaires sur la biodiversité"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:11
@@ -427,7 +427,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:19
 #, no-wrap
 msgid "GBIF dataset classes"
-msgstr ""
+msgstr "Classes de jeux de données GBIF"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:23
