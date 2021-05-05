@@ -9,6 +9,6 @@ https://builds.gbif.org/job/course-introduction-to-gbif/lastBuild/console[image:
 
 _This is information *about* this document's source code.  It is not part of the document._
 
-The document is available as HTML and PDF at https://docs.gbif-uat.org/course-introduction-to-gbif/[Introduction to GBIF].
+The document is available as HTML and PDF at https://docs.gbif.org/course-introduction-to-gbif/[Introduction to GBIF].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
