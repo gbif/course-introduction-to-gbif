@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-05-03 20:04+0000\n"
-"PO-Revision-Date: 2021-05-03 21:27\n"
+"POT-Creation-Date: 2021-05-05 09:38+0000\n"
+"PO-Revision-Date: 2021-05-05 10:07\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -143,12 +143,12 @@ msgstr ""
 
 #. type: Plain text
 #: about.en.adoc:13
-msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embeded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
+msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
 msgstr ""
 
 #. type: Plain text
 #: about.en.adoc:21
-msgid "In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, provides you with an overview of GBIF.  If you are unable to watch the embeded Vimeo video, you can link:../videos/Introduction-to-GBIF.mp4[download^,opts=download] it locally. (MP4 - 32.3 MB)"
+msgid "In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, provides you with an overview of GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Introduction-to-GBIF.mp4[download^,opts=download] it locally. (MP4 - 32.3 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -159,7 +159,7 @@ msgstr ""
 
 #. type: Plain text
 #: about.en.adoc:32
-msgid "Since GBIF’s founding in 2001, the participating countries and organizations have been testing and developing models for coordinating the mobilization, management and reuse of biodiversity data at the national level or within an organization’s scope.  The formation of Participant ‘nodes’ has been central to these efforts.  Designated by each Participant, these teams coordinate the needs and interests of the many stakeholders involved.  In this video (07:53), we look at the variety of node models in the GBIF network to present generalized concepts relating to Participant nodes and the roles that they play in the GBIF community.  If you are unable to watch the embeded Vimeo video, you can link:../videos/Role-of-nodes-in-GBIF.mp4[download^,opts=download] it locally. (MP4 - 14.0 MB)"
+msgid "Since GBIF’s founding in 2001, the participating countries and organizations have been testing and developing models for coordinating the mobilization, management and reuse of biodiversity data at the national level or within an organization’s scope.  The formation of Participant ‘nodes’ has been central to these efforts.  Designated by each Participant, these teams coordinate the needs and interests of the many stakeholders involved.  In this video (07:53), we look at the variety of node models in the GBIF network to present generalized concepts relating to Participant nodes and the roles that they play in the GBIF community.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Role-of-nodes-in-GBIF.mp4[download^,opts=download] it locally. (MP4 - 14.0 MB)"
 msgstr ""
 
 #. type: delimited block =
@@ -410,7 +410,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:11
-msgid "In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonmic information."
+msgid "In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonomic information."
 msgstr ""
 
 #. type: Plain text
@@ -558,7 +558,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:73
-msgid "Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarly animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data."
+msgid "Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarily animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data."
 msgstr ""
 
 #. type: delimited block =
@@ -682,7 +682,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:124
-msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commerical use with attribution"
+msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commercial use with attribution"
 msgstr ""
 
 #. type: Plain text
@@ -698,7 +698,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
-msgid "Many articles from 2011-2016 documented a crisis in scientific reproducability (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
+msgid "Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
 msgstr ""
 
 #. type: Target for macro image
@@ -909,7 +909,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:218
-msgid "Each dataset page includes a tab labeled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:"
+msgid "Each dataset page includes a tab labelled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:"
 msgstr ""
 
 #. type: Plain text
@@ -946,7 +946,7 @@ msgstr ""
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:230
-msgid "There is a third tab in occurrence dataset pages labeled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking."
+msgid "There is a third tab in occurrence dataset pages labelled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking."
 msgstr ""
 
 #. type: Target for macro image
@@ -1035,7 +1035,7 @@ msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:6
-msgid "In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feeback available for publishers and review information about data papers."
+msgid "In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feedback available for publishers and review information about data papers."
 msgstr ""
 
 #. type: Title ===
@@ -1051,7 +1051,7 @@ msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:13
-msgid "In simpliest terms, data publishing is making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format."
+msgid "In simplest terms, data publishing is making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format."
 msgstr ""
 
 #. type: Target for macro image
@@ -1114,17 +1114,17 @@ msgstr ""
 #. type: Title ===
 #: data-publishing.en.adoc:33
 #, no-wrap
-msgid "Data publisher visability and recognition"
+msgid "Data publisher visibility and recognition"
 msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:37
-msgid "In this section, you will review frameworks for citing and tracking digitial data use on GBIF.org"
+msgid "In this section, you will review frameworks for citing and tracking digital data use on GBIF.org"
 msgstr ""
 
 #. type: Plain text
 #: data-publishing.en.adoc:40
-msgid "Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF.  That is why the organisation has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before."
+msgid "Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF.  That is why the organization has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before."
 msgstr ""
 
 #. type: Plain text
@@ -1714,7 +1714,7 @@ msgstr ""
 
 #. type: Plain text
 #: data-access.en.adoc:36
-msgid "There are two main points of access to GBIF-mediated data: http://www.gbif.org[GBIF.org^] and the https://www.gbif.org/developer/summary[Application Programming Interface (API) services^].  Using the website requires no programming experience and allows for quick and easy search, filter and download functions for GBIF-mediated data, as well as a range of additional tools and metrics that are not available through API services.  API services allow continued access to GBIF-mediated data through other systems and can be the basis for the development of tools that allow for the interrogation of the data.  Examples include a number of R packages, such as https://www.gbif.org/tool/81747/rgbif[rgbif^] and https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], as well as more specialised tools that allow for more specific use cases, such as http://geocat.kew.org/?_ga=1.156980155.1499417894.1455306340[GeoCat^] for Red List assessments."
+msgid "There are two main points of access to GBIF-mediated data: http://www.gbif.org[GBIF.org^] and the https://www.gbif.org/developer/summary[Application Programming Interface (API) services^].  Using the website requires no programming experience and allows for quick and easy search, filter and download functions for GBIF-mediated data, as well as a range of additional tools and metrics that are not available through API services.  API services allow continued access to GBIF-mediated data through other systems and can be the basis for the development of tools that allow for the interrogation of the data.  Examples include a number of R packages, such as https://www.gbif.org/tool/81747/rgbif[rgbif^] and https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], as well as more specialized tools that allow for more specific use cases, such as http://geocat.kew.org/[GeoCat^] for Red List assessments."
 msgstr ""
 
 #. type: Plain text
@@ -1764,7 +1764,7 @@ msgstr ""
 #. type: Plain text
 #: data-access.en.adoc:51
 #, no-wrap
-msgid "*Species list*: Tab delimited CSV with the distinct list of names in the search result and as a map visualisation of the data.\n"
+msgid "*Species list*: Tab delimited CSV with the distinct list of names in the search result and as a map visualization of the data.\n"
 msgstr ""
 
 #. type: Plain text
@@ -1894,9 +1894,9 @@ msgstr ""
 #: data-access.en.adoc:126
 #, no-wrap
 msgid "- [x] altered\n"
-"- [ ] ammended\n"
+"- [ ] amended\n"
 "- [ ] translated\n"
-"- [x] exluded\n"
+"- [x] excluded\n"
 "- [ ] interpreted\n"
 "- [x] inferred\n"
 msgstr ""
@@ -1920,7 +1920,7 @@ msgstr ""
 
 #. type: Plain text
 #: community-of-practice.en.adoc:11
-msgid "In this video (06:44), you will review participation in GBIF, and take a closer look at the four key ways that volunteers contribute to the GBIF community of practice: as mentors, trainers, biodiversity open data ambassadors and translators.  If you are unable to watch the embeded Vimeo video, you can link:../videos/Community-of-Practice.mp4[download^,opts=download] it locally. (MP4 - 14.4 MB)"
+msgid "In this video (06:44), you will review participation in GBIF, and take a closer look at the four key ways that volunteers contribute to the GBIF community of practice: as mentors, trainers, biodiversity open data ambassadors and translators.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Community-of-Practice.mp4[download^,opts=download] it locally. (MP4 - 14.4 MB)"
 msgstr ""
 
 #. type: Plain text
@@ -2099,7 +2099,7 @@ msgstr ""
 msgid "Glossary"
 msgstr ""
 
-#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
@@ -2141,7 +2141,7 @@ msgstr ""
 
 #. type: Plain text
 #: glossary.en.adoc:18
-msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organisation that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
+msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
 msgstr ""
 
 #. type: Labeled list
@@ -2152,7 +2152,7 @@ msgstr ""
 
 #. type: Plain text
 #: glossary.en.adoc:21
-msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardised terms (or field names) and their definitions, which are used to share biodiversity information."
+msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
 msgstr ""
 
 #. type: Labeled list
@@ -2211,7 +2211,7 @@ msgstr ""
 
 #. type: Plain text
 #: glossary.en.adoc:41
-msgid "With regards to GBIF we have a very specific defintion of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
+msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
 msgstr ""
 
 #. type: Labeled list
@@ -2577,7 +2577,7 @@ msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:120
-msgid "exluded"
+msgid "excluded"
 msgstr ""
 
 #. type: Plain text
