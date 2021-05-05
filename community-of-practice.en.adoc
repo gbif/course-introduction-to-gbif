@@ -7,7 +7,7 @@ In this module, you will learn about GBIF's community of practice, capacity enha
 
 [NOTE.presentation]
 In this video (06:44), you will review participation in GBIF, and take a closer look at the four key ways that volunteers contribute to the GBIF community of practice: as mentors, trainers, biodiversity open data ambassadors and translators. 
-If you are unable to watch the embeded Vimeo video, you can link:../videos/Community-of-Practice.mp4[download^,opts=download]  it locally. (MP4 - 14.4 MB)
+If you are unable to watch the embedded Vimeo video, you can link:../videos/Community-of-Practice.mp4[download^,opts=download]  it locally. (MP4 - 14.4 MB)
 
 video::460207962[vimeo, height=480, width=640, align=center]
 

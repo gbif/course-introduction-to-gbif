@@ -2,14 +2,14 @@
 == Data publishing
 
 [NOTE.objectives]
-In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feeback available for publishers and review information about data papers.
+In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feedback available for publishers and review information about data papers.
 
 === What is data publishing?
 
 [NOTE.activity]
 In this section, you will learn what data publishing is in the GBIF network.
 
-In simpliest terms, data publishing is making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format.
+In simplest terms, data publishing is making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format.
 
 image::img/web/datapublishing.png[align="center", width="640", height="360"]
 
@@ -30,13 +30,13 @@ An important part of GBIF's mission is to promote a culture in which people reco
 * Collection managers can *trace usage and citations* of digitized data published from their institutions and accessed through GBIF and similar infrastructures.
 * Some funding agencies now require researchers receiving public funds to *make data freely accessible* at the end of a project.
 
-=== Data publisher visability and recognition
+=== Data publisher visibility and recognition
 
 [NOTE.activity]
-In this section, you will review frameworks for citing and tracking digitial data use on GBIF.org
+In this section, you will review frameworks for citing and tracking digital data use on GBIF.org
 
 Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF. 
-That is why the organisation has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before.
+That is why the organization has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before.
 
 *The GBIF Memorandum of Understanding*
 

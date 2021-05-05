@@ -7,7 +7,7 @@ In this module, you will learn about primary biodiversity data and the principle
 === Primary biodiversity data
 
 [NOTE.activity]
-In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonmic information.
+In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonomic information.
 
 When we refer to primary biodiversity data, we mean the data that document where and when species have been recorded. 
 This knowledge derives from many sources, including everything from museum specimens collected in the 18th and 19th century to geotagged smartphone photos shared by amateur naturalists in recent days and weeks.
@@ -69,7 +69,7 @@ The backbone is built from other checklists. These include:
 These checklists are ordered by priority starting with the Catalogue of Life for most taxa. 
 This order is crucial as it shapes the taxonomy.
 
-NOTE: Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarly animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data.
+NOTE: Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarily animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data.
 
 ====
 The information above is an excerpt from a 2019 blog post by Marie Grosjean. Read the https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[blog post^] for more detail on the backbone.
@@ -120,13 +120,13 @@ In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-li
 
 * http://creativecommons.org/publicdomain/zero/1.0[CC0^] - no conditions for use
 * https://creativecommons.org/licenses/by/4.0/[CC-BY^] - use with attribution
-* http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commerical use with attribution 
+* http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commercial use with attribution 
 
 IMPORTANT: Note that the CC-BY-NC licence has a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use. Lastly, attribution/citation is a community norm, so even if the publishers has waived conditions for use, attribution is expected.
 
 ==== FAIR data
 
-Many articles from 2011-2016 documented a crisis in scientific reproducability (see below). 
+Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below). 
 In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^]. 
 The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address "an urgent need to improve the infrastructure supporting the reuse of scholarly data." 
 Implementation of these principles began in 2018. 
@@ -214,7 +214,7 @@ image::img/web/10_trends.png[align="center", width="640", height="815"]
 
 *Dataset content statistics*
 
-Each dataset page includes a tab labeled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:
+Each dataset page includes a tab labelled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:
 
 * Taxonomic distribution (both list and chart)
 * Occurrences per issue
@@ -226,7 +226,7 @@ image::img/web/MetricsImage6.png[align="center", width="640", height="843"]
 
 *Data access logs*
 
-There is a third tab in occurrence dataset pages labeled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking.
+There is a third tab in occurrence dataset pages labelled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking.
 
 image::img/web/ActivityImage7.png[align="center", width="640", height="1009"]
 

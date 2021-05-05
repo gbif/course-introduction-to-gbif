@@ -116,7 +116,7 @@ You can access GBIF data with all of these methods.
 *What kind of flags does GBIF apply to data to alert you to the quality?*
 
 * altered
-* exluded
+* excluded
 * inferred
 
 === Community of practice
