@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-05 15:18\n"
+"PO-Revision-Date: 2021-05-05 16:37\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -166,7 +166,7 @@ msgstr ""
 #: about.en.adoc:37
 #, no-wrap
 msgid "*Further guidance for Nodes*\n"
-msgstr ""
+msgstr "*Conseils supplémentaires pour les nœuds*\n"
 
 #. type: Plain text
 #: about.en.adoc:39 keydocs.en.adoc:9
@@ -373,7 +373,7 @@ msgstr ""
 #. type: Plain text
 #: about.en.adoc:146
 msgid "What is a Node manager?"
-msgstr ""
+msgstr "Qu'est-ce qu'un gestionnaire de nœud?"
 
 #. type: delimited block .
 #: about.en.adoc:153
