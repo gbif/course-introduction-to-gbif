@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-06 14:47\n"
+"PO-Revision-Date: 2021-05-06 15:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1109,12 +1109,12 @@ msgstr "Dans cette section, vous examinerez quelques avantages de la publication
 #. type: Plain text
 #: data-publishing.en.adoc:26
 msgid "An important part of GBIF's mission is to promote a culture in which people recognize the benefits of publishing open-access biodiversity data, for themselves as well as for the broader society."
-msgstr ""
+msgstr "Une partie importante de la mission du GBIF consiste à promouvoir une culture dans laquelle les gens reconnaissent les avantages de la publication de données sur la biodiversité en libre accès, pour eux-mêmes comme pour la société en général."
 
 #. type: Plain text
 #: data-publishing.en.adoc:28
 msgid "By making your data discoverable and accessible through GBIF and similar information infrastructures, you will *contribute to global knowledge about biodiversity*, and thus to the solutions that will promote its conservation and sustainable use."
-msgstr ""
+msgstr "En rendant vos données découvrables et accessibles par le biais du GBIF et d'autres infrastructures d'information similaires, vous *contribuerez à la connaissance globale de la biodiversité*, et donc aux solutions qui favoriseront sa conservation et son utilisation durable."
 
 #. type: Plain text
 #: data-publishing.en.adoc:29
@@ -1124,17 +1124,17 @@ msgstr "La publication des données permet d'intégrer des jeux de données vena
 #. type: Plain text
 #: data-publishing.en.adoc:30
 msgid "Publishing data enables individuals and institutions to be properly credited for their work to create and curate biodiversity data, by *giving visibility to publishing institutions* through good metadata authoring. This recognition can be further developed if you author a peer-reviewed data paper, giving scholarly recognition to the publication of biodiversity datasets."
-msgstr ""
+msgstr "La publication des données permet aux individus et aux institutions d'être correctement crédités pour leur travail de création et de conservation des données de biodiversité, en *donnant de la visibilité aux institutions qui publient* grâce à une bonne rédaction des métadonnées. Cette reconnaissance peut être approfondie si vous rédigez un article sur les données évalué par des pairs, ce qui confère une reconnaissance scientifique à la publication des ensembles de données sur la biodiversité."
 
 #. type: Plain text
 #: data-publishing.en.adoc:31
 msgid "Collection managers can *trace usage and citations* of digitized data published from their institutions and accessed through GBIF and similar infrastructures."
-msgstr ""
+msgstr "Les gestionnaires de collections peuvent *tracer l'utilisation et les citations* des données numérisées et publiées par leurs institutions et accessibles via GBIF et les infrastructures similaires."
 
 #. type: Plain text
 #: data-publishing.en.adoc:32
 msgid "Some funding agencies now require researchers receiving public funds to *make data freely accessible* at the end of a project."
-msgstr ""
+msgstr "Certains organismes de financement exigent désormais des chercheurs recevant des fonds publics qu'ils rendent leurs données librement accessibles à la fin d'un projet."
 
 #. type: Title ===
 #: data-publishing.en.adoc:33
@@ -1316,7 +1316,7 @@ msgstr ""
 #: data-publishing.en.adoc:110 data-publishing.en.adoc:149
 #, no-wrap
 msgid "img/web/register.png"
-msgstr ""
+msgstr "img/web/register.png"
 
 #. type: Plain text
 #: data-publishing.en.adoc:114
@@ -1327,53 +1327,53 @@ msgstr ""
 #: data-publishing.en.adoc:115
 #, no-wrap
 msgid "img/web/Register3.png"
-msgstr ""
+msgstr "img/web/Register3.png"
 
 #. type: Plain text
 #: data-publishing.en.adoc:119
 msgid "Before GBIF indexes datasets, an institution must receive endorsement as a data publisher from one of the Participant nodes that coordinate activities of the national and organizational Participants in the GBIF network.  If the country is not yet participating in GBIF, endorsement is sought on the publisher's behalf from within the GBIF community."
-msgstr ""
+msgstr "Avant que le GBIF n'indexe des jeux de données, une institution doit être approuvée en tant qu'éditeur de données par l'un des nœuds de participants qui coordonnent les activités des participants nationaux et organisationnels du réseau GBIF.  Si le pays ne participe pas encore au GBIF, le parrainage est demandé au nom de l'éditeur au sein de la communauté GBIF."
 
 #. type: Plain text
 #: data-publishing.en.adoc:121
 msgid "The endorsement procedure aims to ensure that:"
-msgstr ""
+msgstr "La procédure d'endossement vise à garantir que:"
 
 #. type: Plain text
 #: data-publishing.en.adoc:123
 msgid "Published data are relevant to GBIF’s scope and objectives"
-msgstr ""
+msgstr "Les données publiées sont pertinentes pour la portée et les objectifs du GBIF"
 
 #. type: Plain text
 #: data-publishing.en.adoc:124
 msgid "Data hosting arrangements are stable and persistent"
-msgstr ""
+msgstr "Les arrangements d'hébergement de données sont stables et persistants"
 
 #. type: Plain text
 #: data-publishing.en.adoc:125
 msgid "Data publishing and use are supported by strong national, regional and thematic engagement"
-msgstr ""
+msgstr "La publication et l'utilisation des données sont soutenues par un engagement fort, national, régional et thématique"
 
 #. type: Plain text
 #: data-publishing.en.adoc:126
 msgid "Data are as open as possible, and available for sharing and reuse"
-msgstr ""
+msgstr "Les données sont aussi ouvertes que possible et disponibles pour le partage et la réutilisation"
 
 #. type: Plain text
 #: data-publishing.en.adoc:127
 msgid "Data publishers can respond to feedback and improve data quality"
-msgstr ""
+msgstr "Les éditeurs de données peuvent répondre aux commentaires et améliorer la qualité des données"
 
 #. type: Plain text
 #: data-publishing.en.adoc:129
 msgid "At present, GBIF and its Participants only publish data from organizations—that is, institutions, networks and societies—rather than individuals. Individuals wishing to publish data should work through their affiliated organizations to seek endorsement as a publisher."
-msgstr ""
+msgstr "Actuellement, le GBIF et ses participants ne publient que des données provenant d'organisations - c'est-à-dire d'institutions, de réseaux et de sociétés - et non de particuliers. Les personnes qui souhaitent publier des données doivent passer par leurs organisations affiliées pour obtenir l'approbation en tant que publieur."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:130
 #, no-wrap
 msgid "img/web/register4.png"
-msgstr ""
+msgstr "img/web/register4.png"
 
 #. type: Plain text
 #: data-publishing.en.adoc:133
@@ -1400,7 +1400,7 @@ msgstr ""
 #: data-publishing.en.adoc:140
 #, no-wrap
 msgid "GBIF data quality requirements"
-msgstr ""
+msgstr "Exigences de qualité des données GBIF"
 
 #. type: Plain text
 #: data-publishing.en.adoc:144
@@ -1410,7 +1410,7 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:146
 msgid "Publishers play an essential role not simply in sharing datasets, but also in managing their quality, completeness and usefulness and ensuring their integration and value within GBIF’s global knowledge base."
-msgstr ""
+msgstr "Les éditeurs jouent un rôle essentiel non seulement dans le partage des jeux de données mais aussi dans la gestion de leur qualité, leur complétude et utilité, et assurent leur intégration et leur valeur dans la base de connaissances globale du GBIF."
 
 #. type: Block title
 #: data-publishing.en.adoc:148
@@ -1462,7 +1462,7 @@ msgstr ""
 #: data-publishing.en.adoc:170
 #, no-wrap
 msgid "img/web/quality8.png"
-msgstr ""
+msgstr "img/web/quality8.png"
 
 #. type: Title ===
 #: data-publishing.en.adoc:172
@@ -2677,24 +2677,24 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:146
 msgid "Sign up to be a volunteer translator and contribute to the translation myself"
-msgstr ""
+msgstr "M'inscrire pour être un traducteur bénévole et contribuer à la traduction moi-même"
 
 #. type: Plain text
 #: solutions.en.adoc:146
 msgid "Share information on how to be a volunteer translator with others to help in the translation effort"
-msgstr ""
+msgstr "Partagez les informations sur comment devenir un traducteur bénévole avec d'autres personnes pour aider à l'effort de traduction"
 
 #. type: Title ==
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colophon"
 
 #. type: Title ===
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Suggestion de citation"
 
 #. type: Plain text
 #: colophon.en.adoc:10
@@ -2705,68 +2705,68 @@ msgstr ""
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "Mélianie Raymond, Andrew Rodrigues and Laura Anne Russell"
-msgstr ""
+msgstr "Mélianie Raymond, Andrew Rodrigues et Laura Anne Russell"
 
 #. type: Title ===
 #: colophon.en.adoc:15
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "GBIF Secretariat staff."
-msgstr ""
+msgstr "Personnel du secrétariat GBIF."
 
 #. type: Title ===
 #: colophon.en.adoc:19
 #, no-wrap
 msgid "Translators"
-msgstr ""
+msgstr "Traducteurs"
 
 #. type: Title ===
 #: colophon.en.adoc:21
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licence"
 
 #. type: Plain text
 #: colophon.en.adoc:24
 msgid "The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr ""
+msgstr "Le cours _Introduction au GBIF_ est sous licence https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:25
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI permanent"
 
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-xxxx-xxxx"
 
 #. type: Title ===
 #: colophon.en.adoc:29
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Contrôle du document"
 
 #. type: Plain text
 #: colophon.en.adoc:31
 msgid "First edition, May 2021"
-msgstr ""
+msgstr "Première édition, Mai 2021"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:2
 #, no-wrap
 msgid "Hello, my name is Tim Hirsch. I am deputy director at GBIF, the Global Biodiversity Information Facility. I am going to take a few minutes to give you a basic introduction to GBIF - who we are, what we do, and why we do it. Hopefully it will give a bit of context to rest of the training, and motivate you to use the skills you will acquire in this course to support GBIF's mission.\n"
-msgstr ""
+msgstr "Bonjour, je m’appelle Tim Hirsch, directeur adjoint du GBIF, le Global Biodiversity Information Facility. Je vais prendre quelques minutes pour vous donner une introduction basique sur GBIF - qui nous sommes, ce que nous faisons, et pourquoi nous le faisons. Espérons que cela donnera un peu le contexte pour le reste de la formation, et vous motivera à utiliser les compétences que vous allez acquérir dans ce cours pour soutenir la mission du GBIF.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:4
@@ -2820,7 +2820,7 @@ msgstr ""
 #: scripts/intro-gbif.en.txt:20
 #, no-wrap
 msgid "So welcome to the GBIF community, and good luck! If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
-msgstr ""
+msgstr "Alors bienvenue dans la communauté GBIF, et bonne chance! Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la plateforme e-Learning.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:22
