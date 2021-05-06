@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-06 09:46\n"
+"PO-Revision-Date: 2021-05-06 10:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -113,12 +113,12 @@ msgstr "Prérequis"
 #. type: Plain text
 #: description.en.adoc:26
 msgid "There are no prerequisites for this course.  This course serves as a prerequisite for other GBIF courses."
-msgstr ""
+msgstr "Il n'y a pas de prérequis pour ce cours.  Ce cours est un prérequis pour d'autres cours du GBIF."
 
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Participants should have a good command of English. While efforts are made to provide materials in other languages, instruction videos will be in English with subtitles in other languages."
-msgstr ""
+msgstr "Les participants doivent avoir une bonne maîtrise de l'anglais. Bien que des efforts soient déployés pour fournir du matériel dans d'autres langues, les vidéos d'instruction seront en anglais avec des sous-titres dans d'autres langues."
 
 #. type: Title ==
 #: about.en.adoc:2
@@ -496,7 +496,7 @@ msgstr "*Qu'est-ce que l'Ossature taxonomique du GBIF?*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:44
 msgid "The Backbone taxonomy is actually a https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[GBIF dataset^].  But not just any dataset, it is probably the most important dataset for GBIF. On its page, it is defined as:"
-msgstr ""
+msgstr "L'Ossature taxonomique est en fait un https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[jeu de données GBIF^]. Mais pas n'importe quel jeu de données, c'est probablement le jeu de données le plus important pour le GBIF. Sur sa page, il est défini comme:"
 
 #. type: delimited block -
 #: gbif-mediated-data.en.adoc:47
@@ -535,17 +535,17 @@ msgstr "*Comment l'ossature est-elle générée ?*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:63
 msgid "The backbone is built from other checklists. These include:"
-msgstr ""
+msgstr "L'ossature est construite à partir d'autres listes taxonomiques. Celles-ci incluent:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:65
 msgid "55 authority checklists,"
-msgstr ""
+msgstr "55 listes taxonomiques faisant autorité,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:66
 msgid "a checklist generated from the type specimens shared on GBIF,"
-msgstr ""
+msgstr "une liste taxonomique générée à partir de spécimens types partagés sur GBIF,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:67
@@ -844,32 +844,32 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:197
 msgid "global trends"
-msgstr ""
+msgstr "tendances globales"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:198
 msgid "country pages"
-msgstr ""
+msgstr "pages des pays"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:199
 msgid "dataset content statistics"
-msgstr ""
+msgstr "statistiques sur le contenu du jeu de données"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:200
 msgid "dataset download activity"
-msgstr ""
+msgstr "activité de téléchargement du jeu de données"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:203
 msgid "Participants and publishers can use this information to improve the quality of their datasets, e.g. by addressing issues detected during the indexing process. They can also use the access statistics as evidence of real user interest in their datasets and potential use of the published data.  Global data trends"
-msgstr ""
+msgstr "Les participants et les éditeurs peuvent utiliser ces informations pour améliorer la qualité de leurs jeux de données, par exemple en répondant aux problèmes détectés au cours du processus d'indexation. Ils peuvent également utiliser les statistiques d'accès comme preuve de l'intérêt réel des utilisateurs envers leurs jeux de données et l'utilisation potentielle des données publiées. Tendances globales des données"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:205
 msgid "GBIF.org regularly updates analytics to provide an overview of global trends in the data from 2008 to the present. The charts illustrate trends in:"
-msgstr ""
+msgstr "GBIF.org met régulièrement à jour les statistiques pour fournir un aperçu des tendances globales des données de 2008 à nos jours. Les graphiques illustrent les tendances dans:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:207
@@ -879,27 +879,27 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:208
 msgid "species counts"
-msgstr ""
+msgstr "comptages des espèces"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:209
 msgid "time and seasonality"
-msgstr ""
+msgstr "temps et saisonnalité"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:210
 msgid "completeness and precision"
-msgstr ""
+msgstr "exhaustivité et précision"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:211
 msgid "geographic coverage for recorded species"
-msgstr ""
+msgstr "couverture géographique des espèces recensées"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:212
 msgid "data sharing with country of origin"
-msgstr ""
+msgstr "partage de données avec le pays d'origine"
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:213
@@ -1100,7 +1100,7 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:29
 msgid "Data publishing enables datasets held all over the world to be integrated, revealing *new opportunities for collaboration* among data owners and researchers."
-msgstr ""
+msgstr "La publication des données permet d'intégrer des jeux de données venant du monde entier, révélant *de nouvelles possibilités de collaboration* entre les propriétaires de données et les chercheurs."
 
 #. type: Plain text
 #: data-publishing.en.adoc:30
@@ -1142,13 +1142,13 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:45
 msgid "GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU).  The MoU is the official document that countries and international organizations sign in order to join GBIF."
-msgstr ""
+msgstr "Le GBIF est une initiative multilatérale établie par un accord intergouvernemental et basée sur un https://www.gbif.org/mou [Memorandum of Understanding^] (MoU) non contraignant.  Le MoU est le document officiel que les pays et les organisations internationales signent afin d'adhérer au GBIF."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:46
 #, no-wrap
 msgid "img/web/GBIF_MoU.jpg"
-msgstr ""
+msgstr "img/web/GBIF_MoU.jpg"
 
 #. type: Plain text
 #: data-publishing.en.adoc:49
@@ -1171,12 +1171,12 @@ msgstr ""
 #: data-publishing.en.adoc:58
 #, no-wrap
 msgid "*The GBIF Data User Agreement*\n"
-msgstr ""
+msgstr "*L'accord d'utilisation des données du GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:60
 msgid "Prior to accessing any data using GBIF, users need to accept a data user agreement which includes very specific requirements on citation of the origin of the data accessed through GBIF. These are some of the requirements listed in the agreement:"
-msgstr ""
+msgstr "Avant d'accéder à des données par l'intermédiaire du GBIF, les utilisateurs doivent accepter un accord d'utilisation des données qui comprend des exigences très spécifiques sur la citation de l'origine des données obtenues via GBIF. Voici quelques-unes des exigences énumérées dans l'accord:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:63
@@ -1204,17 +1204,17 @@ msgstr ""
 #: data-publishing.en.adoc:74
 #, no-wrap
 msgid "*Citation*\n"
-msgstr ""
+msgstr "*Citation*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:76
 msgid "GBIF strongly encourages all users to cite data retrieved from the GBIF network. For that purpose it provides recommended citation strings on the dataset, occurrence and download pages in GBIF.org."
-msgstr ""
+msgstr "Le GBIF encourage vivement tous les utilisateurs à citer les données extraites du réseau du GBIF. À cette fin, il fournit des citations recommandées sur les pages des jeux de données, des occurrences et des téléchargements de GBIF.org."
 
 #. type: Plain text
 #: data-publishing.en.adoc:78
 msgid "This is especially relevant for datasets published using the “CC-BY” and “CC-BY-NC” licenses, which include specific requirements for citing the origin of the data."
-msgstr ""
+msgstr "Ceci est particulièrement pertinent pour les jeux de données publiés en utilisant les licences « CC-BY » et « CC-BY-NC », qui incluent des exigences spécifiques pour indiquer l’origine des données."
 
 #. type: Plain text
 #: data-publishing.en.adoc:80
@@ -1236,7 +1236,7 @@ msgstr ""
 #: data-publishing.en.adoc:86
 #, no-wrap
 msgid "*Data publisher page*\n"
-msgstr ""
+msgstr "*Page du publieur de données*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:90
@@ -1247,12 +1247,12 @@ msgstr ""
 #: data-publishing.en.adoc:92
 #, no-wrap
 msgid "*Dataset DOI*\n"
-msgstr ""
+msgstr "*DOI du jeu de données*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:94
 msgid "Every time a new version of a dataset is published using an IPT, a DOI (Digital Object Identifier) is assigned. As in the case of the downloads, this identifier allows easy citation and tracking of work derived from the dataset, if the user follows good practices for source citation."
-msgstr ""
+msgstr "Chaque fois qu'une nouvelle version d'un jeu de données est publiée à l'aide d'un IPT, un DOI (Identificateur d'Objet Digital) est attribué. Comme dans le cas des téléchargements, cet identifiant permet une citation et un suivi faciles du travail dérivé du jeu de données, si l'utilisateur suit les bonnes pratiques pour l'accréditation de la source."
 
 #. type: Plain text
 #: data-publishing.en.adoc:96
