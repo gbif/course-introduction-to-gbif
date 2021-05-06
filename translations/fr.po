@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-06 11:50\n"
+"PO-Revision-Date: 2021-05-06 13:44\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -358,7 +358,7 @@ msgstr ""
 #. type: Plain text
 #: about.en.adoc:136
 msgid "What is a Biodiversity information facility?"
-msgstr ""
+msgstr "Qu'est-ce qu'un service d'information sur la Biodiversité?"
 
 #. type: delimited block .
 #: about.en.adoc:143
@@ -474,12 +474,12 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:35
 msgid "More information on https://www.gbif.org/dataset-classes[dataset classes^] can be found on the GBIF website."
-msgstr ""
+msgstr "Plus d'informations sur les https://www.gbif.org/dataset-classes[classes de jeu de données^] peuvent être trouvées sur le site Web du GBIF."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:37
 msgid "You might also want to explore https://data-blog.gbif.org/post/choose-dataset-type/[how to choose a dataset type^]."
-msgstr ""
+msgstr "Vous pouvez également explorer https://data-blog.gbif.org/post/choose-dataset-type/[comment choisir un type de jeu de données^]."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:38
@@ -519,7 +519,7 @@ msgstr "*Pourquoi le GBIF a-t-il besoin d'une ossature taxonomique?*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:55
 msgid "The backbone is needed to organize the data available on GBIF.  Without it, we wouldn’t be able to do any taxonomic search and it would be difficult to generate consistent statistics and maps."
-msgstr ""
+msgstr "L'ossature taxonomique est nécessaire pour organiser les données disponibles sur GBIF. Sans cela, nous ne serions pas en mesure de faire une recherche taxonomique et il serait difficile de générer des statistiques et des cartes cohérentes."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:59
@@ -555,12 +555,12 @@ msgstr "deux sources conséquentes pour des Unités Taxonomiques Opérationnelle
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:68
 msgid "and any checklist shared by PLAZI.org on GBIF (currently 27,054 but not all these were available when the backbone was generated)."
-msgstr ""
+msgstr "et toutes les listes taxonomiques partagées par PLAZI.org sur GBIF (actuellement 27,054 mais ces listes n'étaient pas toutes disponibles lors de la génération de l'ossature taxonomique)."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:71
 msgid "These checklists are ordered by priority starting with the Catalogue of Life for most taxa.  This order is crucial as it shapes the taxonomy."
-msgstr ""
+msgstr "Ces listes taxonomiques sont classées par ordre de priorité en commençant par le Catalogue of Life pour la plupart des taxons. Cet ordre est crucial car il modèle la taxonomie."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:73
@@ -602,7 +602,7 @@ msgstr "Dans le contexte de GBIF.org, les DOI servent d'identifiants stables pou
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:91
 msgid "datasets from the GBIF network"
-msgstr ""
+msgstr "jeux de données du réseau GBIF"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:92
@@ -679,17 +679,17 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
 msgid "http://creativecommons.org/publicdomain/zero/1.0[CC0^] - no conditions for use"
-msgstr ""
+msgstr "http://creativecommons.org/publicdomain/zero/1.0[CC0^] - pas de conditions d'utilisation"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:123
 msgid "https://creativecommons.org/licenses/by/4.0/[CC-BY^] - use with attribution"
-msgstr ""
+msgstr "https://creativecommons.org/licenses/by/4.0/[CC-BY^] - utilisation avec attribution"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:124
 msgid "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - non-commercial use with attribution"
-msgstr ""
+msgstr "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - utilisation non commerciale avec attribution"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:126
