@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-05 16:37\n"
+"PO-Revision-Date: 2021-05-06 09:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -700,7 +700,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:127
 #, no-wrap
 msgid "FAIR data"
-msgstr ""
+msgstr "Données FAIR"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
@@ -773,7 +773,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:167
 #, no-wrap
 msgid "*Literature references*\n"
-msgstr ""
+msgstr "*Références littéraires*\n"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:169
