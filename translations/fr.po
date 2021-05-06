@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-06 10:42\n"
+"PO-Revision-Date: 2021-05-06 11:50\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -205,7 +205,7 @@ msgstr "img/web/lookupcountry.png"
 #: about.en.adoc:50
 #, no-wrap
 msgid "The tabs on these pages provide a general description of the data available about the biodiversity of the country, any data published by national institutions, as well as other relevant information on the use of data by researchers in the country."
-msgstr ""
+msgstr "Les onglets de ces pages fournissent une description générale des données sur la biodiversité du pays disponibles, toute donnée publiée par les institutions nationales, ainsi que toute autre information pertinente sur l'utilisation des données par les chercheurs du pays."
 
 #. type: Target for macro image
 #: about.en.adoc:51
@@ -459,7 +459,7 @@ msgstr "Méta-données seules - jeux de données décrivant des ressources *non 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:30
 msgid "Checklist - a *catalogue* or list of named organisms, or taxa"
-msgstr ""
+msgstr "Liste taxonomique - un *catalogue* ou une liste d'organismes nommés, ou taxons"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:32
@@ -550,7 +550,7 @@ msgstr "une liste taxonomique générée à partir de spécimens types partagés
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:67
 msgid "two large sources for stable Operational Taxonomic Units (OTUs): iBOL Barcode Index Numbers and the UNITE Species Hypothesis identifiers,"
-msgstr ""
+msgstr "deux sources conséquentes pour des Unités Taxonomiques Opérationnelles (OTUs) stables: les Numéros d'Index des Codes-Barres iBOL et les identifiants d'Hypothèse d'Espèces UNITE,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:68
@@ -570,24 +570,24 @@ msgstr ""
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:76
 msgid "The information above is an excerpt from a 2019 blog post by Marie Grosjean. Read the https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[blog post^] for more detail on the backbone."
-msgstr ""
+msgstr "Les informations ci-dessus sont un extrait d'un article blog 2019 de Marie Grosjean. Lisez l'https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[article^] pour plus de détails sur l'ossature taxonomique."
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:78
 #, no-wrap
 msgid "Principles of GBIF-mediated data"
-msgstr ""
+msgstr "Principes des données relayées par GBIF"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:82
 msgid "In this section, you will learn about the principles that GBIF follows with regards to data and how data in the GBIF portal are FAIR."
-msgstr ""
+msgstr "Dans cette section, vous apprendrez les principes que le GBIF suit en ce qui concerne les données et en quoi les données du portail GBIF sont FAIR."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:83
 #, no-wrap
 msgid "Digital object identifiers"
-msgstr ""
+msgstr "Identifiants d'objet Digital"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:87
@@ -711,25 +711,25 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:135
 #, no-wrap
 msgid "img/web/gofairlogo.svg"
-msgstr ""
+msgstr "img/web/gofairlogo.svg"
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:137
 #, no-wrap
 msgid "img/web/FairPrinciples2.png"
-msgstr ""
+msgstr "img/web/FairPrinciples2.png"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:140
 #, no-wrap
 msgid "*Data found on GBIF.org are FAIR.*\n"
-msgstr ""
+msgstr "*Les données trouvées sur GBIF.org sont FAIR.*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:143
 #, no-wrap
 msgid "*FINDABLE*\n"
-msgstr ""
+msgstr "*FACILES À TROUVER*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:145
@@ -740,7 +740,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:149
 #, no-wrap
 msgid "*ACCESSIBLE*\n"
-msgstr ""
+msgstr "*ACCESSIBLES*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:151
@@ -751,7 +751,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:155
 #, no-wrap
 msgid "*INTEROPERABLE*\n"
-msgstr ""
+msgstr "*INTEROPÉRABLES*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:157
@@ -762,7 +762,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:161
 #, no-wrap
 msgid "*REUSABLE*\n"
-msgstr ""
+msgstr "*RÉUTILISABLES*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:163
@@ -778,63 +778,63 @@ msgstr "*Références littéraires*\n"
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:169
 msgid "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: 452-454 (26 May 2016) doi:10.1038/533452a"
-msgstr ""
+msgstr "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: 452-454 (26 May 2016) doi:10.1038/533452a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:171
 msgid "Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 (29 September 2016) doi:10.1038/nj7622-703a"
-msgstr ""
+msgstr "Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 (29 September 2016) doi:10.1038/nj7622-703a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:173
 msgid "Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a"
-msgstr ""
+msgstr "Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:175
 msgid "Baker (2016) Statisticians issue warning over misuse of P values. Nature 531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
-msgstr ""
+msgstr "Baker (2016) Statisticians issue warning over misuse of P values. Nature 531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:177
 msgid "Nosek et al. (2015) Promoting an open research culture. Science 348(6242): 1422-1425. DOI:10.1126/science.aab2374"
-msgstr ""
+msgstr "Nosek et al. (2015) Promoting an open research culture. Science 348(6242): 1422-1425. DOI:10.1126/science.aab2374"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:179
 msgid "Leek and Peng (2015) Statistics: P values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612°"
-msgstr ""
+msgstr "Leek and Peng (2015) Statistics: P values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612°"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:181
 msgid "Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a"
-msgstr ""
+msgstr "Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:183
 msgid "Hayden (2013) Weak statistical standards implicated in scientific irreproducibility. Nature doi:10.1038/nature.2013.14131"
-msgstr ""
+msgstr "Hayden (2013) Weak statistical standards implicated in scientific irreproducibility. Nature doi:10.1038/nature.2013.14131"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:185
 msgid "Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) doi:10.1038/485298a"
-msgstr ""
+msgstr "Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) doi:10.1038/485298a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:187
 msgid "Callaway (2011) Reports finds massive fraud at Dutch universities. Nature 479, 15 (1 November 2011) doi:10.1038/479015a"
-msgstr ""
+msgstr "Callaway (2011) Reports finds massive fraud at Dutch universities. Nature 479, 15 (1 November 2011) doi:10.1038/479015a"
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:189
 #, no-wrap
 msgid "Data metrics"
-msgstr ""
+msgstr "Statistiques des données"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:193
 msgid "In this section review the various metrics available for datasets."
-msgstr ""
+msgstr "Dans cette section, nous passons en revue les différentes statistiques disponibles pour les ensembles de données."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:195
@@ -905,7 +905,7 @@ msgstr "partage de données avec le pays d'origine"
 #: gbif-mediated-data.en.adoc:213
 #, no-wrap
 msgid "img/web/10_trends.png"
-msgstr ""
+msgstr "img/web/10_trends.png"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:216
@@ -931,7 +931,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:222
 msgid "Occurrences per year"
-msgstr ""
+msgstr "Occurrences par année"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:224
@@ -948,18 +948,18 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:228
 #, no-wrap
 msgid "*Data access logs*\n"
-msgstr ""
+msgstr "*Les rapports d'accès aux données*\n"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:230
 msgid "There is a third tab in occurrence dataset pages labelled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking."
-msgstr ""
+msgstr "Il y a un troisième onglet dans les pages du jeu de données des occurrences intitulé « Activité ». Dans cet onglet, vous pouvez voir une liste de toutes les demandes de téléchargement qui ont inclus des enregistrements de ce jeu de données, y compris leur DOI de téléchargement pour un suivi facile."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:231
 #, no-wrap
 msgid "img/web/ActivityImage7.png"
-msgstr ""
+msgstr "img/web/ActivityImage7.png"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -968,7 +968,7 @@ msgstr ""
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:246
 msgid "What dataset class makes up the core of data published within GBIF?"
-msgstr ""
+msgstr "Quelle classe de jeux de données constitue le principal élément des données publiées dans le GBIF?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:253
@@ -977,13 +977,16 @@ msgid "- [ ] Metadata-only\n"
 "- [ ] Checklist\n"
 "- [x] Occurrence\n"
 "- [ ] Sampling-event\n"
-msgstr ""
+msgstr "- [ ] Métadonnées seules\n"
+"- [ ] Liste Taxonomique\n"
+"- [x] Occurrence\n"
+"- [ ] Événement d'échantillonnage\n"
 
 #.  Question 2
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:256
 msgid "What is the taxonomic backbone?"
-msgstr ""
+msgstr "Qu'est-ce que l'ossature taxonomique?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:263
@@ -1024,31 +1027,33 @@ msgstr ""
 #, no-wrap
 msgid "- [ ] True\n"
 "- [x] False\n"
-msgstr ""
+msgstr "- [ ] Vrai\n"
+"- [x] Faux\n"
 
 #.  Question 5
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:288
 msgid "GBIF data are FAIR?"
-msgstr ""
+msgstr "Les données du GBIF sont-elles FAIR?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:293
 #, no-wrap
 msgid "- [x] True\n"
 "- [ ] False\n"
-msgstr ""
+msgstr "- [x] Vrai\n"
+"- [ ] Faux\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feedback available for publishers and review information about data papers."
-msgstr ""
+msgstr "Dans ce module, vous découvrirez ce qu'est la publication de données, les avantages de la publication de données, comment devenir publieur, passerez en revue les retours d'information disponibles pour les publieurs et examinerez les informations relatives aux data papers."
 
 #. type: Title ===
 #: data-publishing.en.adoc:7
 #, no-wrap
 msgid "What is data publishing?"
-msgstr ""
+msgstr "Qu'est-ce que la publication des données?"
 
 #. type: Plain text
 #: data-publishing.en.adoc:11
@@ -1171,7 +1176,7 @@ msgstr ""
 #: data-publishing.en.adoc:58
 #, no-wrap
 msgid "*The GBIF Data User Agreement*\n"
-msgstr "*L'accord d'utilisation des données du GBIF*\n"
+msgstr "*Conditions d'utilisation des données du GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:60
