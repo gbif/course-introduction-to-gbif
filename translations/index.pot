@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-05 09:38+0000\n"
+"POT-Creation-Date: 2021-05-07 14:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -218,15 +218,15 @@ msgstr ""
 msgid "*Further guidance for Nodes*\n"
 msgstr ""
 
-#. type: Plain text
-#: about.en.adoc:39 keydocs.en.adoc:9
+#. type: delimited block =
+#: about.en.adoc:39
 msgid ""
 "https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an "
 "effective GBIF Participant Node^]"
 msgstr ""
 
-#. type: Plain text
-#: about.en.adoc:40 keydocs.en.adoc:9
+#. type: delimited block =
+#: about.en.adoc:40
 msgid ""
 "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online "
 "capacity self-assessment tool for national biodiversity information "
@@ -2844,22 +2844,29 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: keydocs.en.adoc:2
+#: course-complete.en.adoc:1
 #, no-wrap
-msgid "Key documentation"
+msgid "Course complete"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:5
-msgid ""
-"The following references provide further detail on the topics covered in "
-"this course."
+#: course-complete.en.adoc:4
+msgid "You have now completed the course."
 msgstr ""
 
-#. type: Title ===
-#: keydocs.en.adoc:6
-#, no-wrap
-msgid "Guidance for Nodes"
+#. type: Plain text
+#: course-complete.en.adoc:7
+msgid ""
+"As a reminder, this course serves as the prerequisite for other GBIF "
+"courses.  You only need to take the course one time, but you can of course "
+"refer back to the material at any time."
+msgstr ""
+
+#. type: Plain text
+#: course-complete.en.adoc:8
+msgid ""
+"Please complete this form to http://bit.ly/GBIFIntroComplete[certify your "
+"completion^]."
 msgstr ""
 
 #. type: Title ==
