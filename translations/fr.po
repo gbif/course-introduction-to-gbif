@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-06 15:46\n"
+"PO-Revision-Date: 2021-05-07 11:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -634,7 +634,7 @@ msgstr "Le GBIF assigne des DOI à tous les jeux de données et téléchargement
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:101
 msgid "GBIF started issuing DOIs on 3 February 2015.  Downloads requested before this date do not have DOIs, however, if you wish to cite older downloads, you can contact helpdesk@gbif.org and we will assign DOIs as appropriate."
-msgstr ""
+msgstr "Le GBIF a commencé à utiliser les DOI le 3 février 2015. Les téléchargements obtenus avant cette date n'ont pas de DOIs, cependant, si vous souhaitez citer des téléchargements plus anciens, vous pouvez contacter helpdesk@gbif.org et nous assignerons les DOI en fonction."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:102
