@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-05-05 09:38+0000\n"
-"PO-Revision-Date: 2021-05-07 13:43\n"
+"POT-Creation-Date: 2021-05-07 14:03+0000\n"
+"PO-Revision-Date: 2021-05-07 14:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -168,13 +168,13 @@ msgstr "Depuis la création du GBIF en 2001, les pays et organisations participa
 msgid "*Further guidance for Nodes*\n"
 msgstr "*Conseils supplémentaires pour les nœuds*\n"
 
-#. type: Plain text
-#: about.en.adoc:39 keydocs.en.adoc:9
+#. type: delimited block =
+#: about.en.adoc:39
 msgid "https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an effective GBIF Participant Node^]"
 msgstr "https://docs.gbif.org/effective-nodes-guidance/1.0/fr/[Établir un nœud participant GBIF effectif^]"
 
-#. type: Plain text
-#: about.en.adoc:40 keydocs.en.adoc:9
+#. type: delimited block =
+#: about.en.adoc:40
 msgid "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online capacity self-assessment tool for national biodiversity information facilities^]"
 msgstr "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/self-assessment-capacité-tool-for-national-biodiversity-information-facilities[Outil d'auto-évaluation en ligne pour les services d'information nationaux sur la biodiversité^]"
 
@@ -1845,7 +1845,7 @@ msgstr ""
 #: data-access.en.adoc:66
 #, no-wrap
 msgid "*GBIF Flags for Data Quality Issues*\n"
-msgstr ""
+msgstr "*Les signaux GBIF pour les problèmes de qualité des données*\n"
 
 #. type: Plain text
 #: data-access.en.adoc:70
@@ -2111,34 +2111,38 @@ msgid "- [ ] Write to info@gbif.org to request the translation\n"
 msgstr ""
 
 #. type: Title ==
-#: keydocs.en.adoc:2
+#: course-complete.en.adoc:1
 #, no-wrap
-msgid "Key documentation"
-msgstr ""
+msgid "Course complete"
+msgstr "Cours terminé"
 
 #. type: Plain text
-#: keydocs.en.adoc:5
-msgid "The following references provide further detail on the topics covered in this course."
-msgstr ""
+#: course-complete.en.adoc:4
+msgid "You have now completed the course."
+msgstr "Vous avez maintenant terminé le cours."
 
-#. type: Title ===
-#: keydocs.en.adoc:6
-#, no-wrap
-msgid "Guidance for Nodes"
+#. type: Plain text
+#: course-complete.en.adoc:7
+msgid "As a reminder, this course serves as the prerequisite for other GBIF courses.  You only need to take the course one time, but you can of course refer back to the material at any time."
+msgstr "Pour rappel, ce cours est un pré-requis à d'autres cours du GBIF. Vous n'avez besoin de suivre le cours qu'une seule fois, mais vous pouvez bien sûr vous référer aux documents à tout moment."
+
+#. type: Plain text
+#: course-complete.en.adoc:8
+msgid "Please complete this form to http://bit.ly/GBIFIntroComplete[certify your completion^]."
 msgstr ""
 
 #. type: Title ==
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Glossaire"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[API]]API"
-msgstr ""
+msgstr "[[API]]API"
 
 #. type: Plain text
 #: glossary.en.adoc:9
@@ -2149,7 +2153,7 @@ msgstr ""
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[BID]]BID"
-msgstr ""
+msgstr "[[BID]]BID"
 
 #. type: Plain text
 #: glossary.en.adoc:12
@@ -2160,7 +2164,7 @@ msgstr ""
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[BIFA]]BIFA"
-msgstr ""
+msgstr "[[BIFA]]BIFA"
 
 #. type: Plain text
 #: glossary.en.adoc:14
@@ -2182,7 +2186,7 @@ msgstr ""
 #: glossary.en.adoc:19
 #, no-wrap
 msgid "[[DwC]]DwC"
-msgstr ""
+msgstr "[[DwC]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:21
@@ -2193,7 +2197,7 @@ msgstr ""
 #: glossary.en.adoc:22
 #, no-wrap
 msgid "[[DOI]]DOI"
-msgstr ""
+msgstr "[[DOI]]DOI"
 
 #. type: Plain text
 #: glossary.en.adoc:24
@@ -2204,7 +2208,7 @@ msgstr ""
 #: glossary.en.adoc:25
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC-A"
 
 #. type: Plain text
 #: glossary.en.adoc:28
@@ -2230,7 +2234,7 @@ msgstr ""
 #: glossary.en.adoc:34
 #, no-wrap
 msgid "[[IPT]]IPT"
-msgstr ""
+msgstr "[[IPT]]IPT"
 
 #. type: Plain text
 #: glossary.en.adoc:38
@@ -2263,7 +2267,7 @@ msgstr ""
 #: glossary.en.adoc:44
 #, no-wrap
 msgid "[[TDWG]]TDWG"
-msgstr ""
+msgstr "[[TDWG]]TDWG"
 
 #. type: Plain text
 #: glossary.en.adoc:45
@@ -2273,13 +2277,13 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:46
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: solutions.en.adoc:2
 #, no-wrap
 msgid "Appendix: Solutions"
-msgstr ""
+msgstr "Annexe: Solutions"
 
 #. type: Plain text
 #: solutions.en.adoc:5
@@ -2290,13 +2294,13 @@ msgstr ""
 #: solutions.en.adoc:6
 #, no-wrap
 msgid "About GBIF"
-msgstr ""
+msgstr "À propos de GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:9
 #, no-wrap
 msgid "*What is GBIF?*\n"
-msgstr ""
+msgstr "*Qu'est-ce que le GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:11
@@ -2316,12 +2320,12 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:15
 msgid "A network of participant nodes"
-msgstr ""
+msgstr "Un réseau de nœuds participants"
 
 #. type: Plain text
 #: solutions.en.adoc:16
 msgid "A secretariat, based in Copenhagen, Denmark"
-msgstr ""
+msgstr "Un secrétariat, basé à Copenhague, au Danemark"
 
 #. type: Plain text
 #: solutions.en.adoc:18
@@ -2420,23 +2424,23 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:54
 msgid "Occurrence"
-msgstr ""
+msgstr "Une occurrence"
 
 #. type: Plain text
 #: solutions.en.adoc:56
 #, no-wrap
 msgid "*What is the taxonomic backbone?*\n"
-msgstr ""
+msgstr "*Qu'est-ce que l'ossature taxonomique?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:58
 msgid "The GBIF taxonomic backbone is all of these:"
-msgstr ""
+msgstr "L'ossature taxonomique du GBIF est tous ces éléments:"
 
 #. type: Plain text
 #: solutions.en.adoc:59
 msgid "A dataset"
-msgstr ""
+msgstr "Un jeu de données"
 
 #. type: Plain text
 #: solutions.en.adoc:60
@@ -2457,50 +2461,50 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:65
 msgid "CC BY"
-msgstr ""
+msgstr "CC BY"
 
 #. type: Plain text
 #: solutions.en.adoc:66
 msgid "CC BY-NC"
-msgstr ""
+msgstr "CC BY-NC"
 
 #. type: Plain text
 #: solutions.en.adoc:67
 msgid "CC0"
-msgstr ""
+msgstr "CC0"
 
 #. type: Plain text
 #: solutions.en.adoc:69
 #, no-wrap
 msgid "*Images are subject to the same licenses as datasets?*\n"
-msgstr ""
+msgstr "*Les images sont-elles soumises aux mêmes licences que les jeux de données?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:71 solutions.en.adoc:95
 msgid "False"
-msgstr ""
+msgstr "Faux"
 
 #. type: Plain text
 #: solutions.en.adoc:73
 #, no-wrap
 msgid "*GBIF data are FAIR?*\n"
-msgstr ""
+msgstr "*Les données du GBIF sont-elles FAIR?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:75
 msgid "True"
-msgstr ""
+msgstr "Vrai"
 
 #. type: Plain text
 #: solutions.en.adoc:79
 #, no-wrap
 msgid "*What does data publishing mean in the context of GBIF?*\n"
-msgstr ""
+msgstr "*Que signifie la publication de données dans le contexte du GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:81
 msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
-msgstr ""
+msgstr "Rendre votre ou vos jeu(x) de données sur la biodiversité accessible(s) au public et découvrables(s) dans un format standardisé"
 
 #. type: Plain text
 #: solutions.en.adoc:83
@@ -2521,13 +2525,13 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:87
 msgid "make data freely accessible"
-msgstr ""
+msgstr "rendre les données librement accessibles"
 
 #. type: Plain text
 #: solutions.en.adoc:89
 #, no-wrap
 msgid "*How do you become a publisher in the GBIF network?*\n"
-msgstr ""
+msgstr "*Comment devenez-vous un fournisseur de données sur le réseau GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:91
@@ -2538,13 +2542,13 @@ msgstr ""
 #: solutions.en.adoc:93
 #, no-wrap
 msgid "*There are no requirements for publishing your data on GBIF.org*\n"
-msgstr ""
+msgstr "*Il n'y a pas de conditions pour publier vos données sur GBIF.org*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:97
 #, no-wrap
 msgid "*What is the GBIF data validator?*\n"
-msgstr ""
+msgstr "*Qu'est-ce que le validateur de données GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:99
@@ -2586,7 +2590,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:113
 msgid "simple"
-msgstr ""
+msgstr "simple"
 
 #. type: Plain text
 #: solutions.en.adoc:114
@@ -2607,7 +2611,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:119
 msgid "altered"
-msgstr ""
+msgstr "altérée"
 
 #. type: Plain text
 #: solutions.en.adoc:120
