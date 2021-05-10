@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-10 11:42\n"
+"PO-Revision-Date: 2021-05-10 12:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -362,7 +362,10 @@ msgid "- [ ] The person designated by a participating country/economy/organizati
 "- [ ]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
 "- [ ]  The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders\n"
 "- [x] The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making\n"
-msgstr ""
+msgstr "- [ ] La personne désignée par un pays/une économie/une organisation participant(e) pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité\n"
+"- [] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
+"- [ ]  La structure plus générale de personnes et d'institutions, coordonnées par le nœud, qui forment collectivement une infrastructure pour fournir des informations sur la biodiversité aux parties prenantes concernées\n"
+"- [x]  La personne désignée par le pays/économie/organisation participant(e) pour le représenter au conseil d'administration du GBIF et prendre part à la prise de décision au niveau mondial\n"
 
 #.  Question 7
 #. type: Plain text
@@ -377,7 +380,10 @@ msgid "- [ ] The person designated by a participating country/economy/organizati
 "- [ ]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
 "- [x]  The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders\n"
 "- [ ]  The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making\n"
-msgstr ""
+msgstr "- [ ] La personne désignée par un pays/une économie/une organisation participant(e) pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité\n"
+"- [ ] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
+"- [x]  La structure plus générale de personnes et d'institutions, coordonnées par le nœud, qui forment collectivement une infrastructure pour fournir des informations sur la biodiversité aux parties prenantes concernées\n"
+"- [ ]  La personne désignée par le pays/économie/organisation participant(e) pour le représenter au conseil d'administration du GBIF et prendre part à la prise de décision au niveau mondial\n"
 
 #.  Question 8
 #. type: Plain text
@@ -392,13 +398,16 @@ msgid "- [x] The person designated by a participating country/economy/organizati
 "- [ ]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
 "- [ ]  The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders\n"
 "- [ ]  The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making\n"
-msgstr ""
+msgstr "- [x] La personne désignée par un pays/une économie/une organisation participant(e) pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité\n"
+"- [ ] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
+"- [ ]  La structure plus générale de personnes et d'institutions, coordonnées par le nœud, qui forment collectivement une infrastructure pour fournir des informations sur la biodiversité aux parties prenantes concernées\n"
+"- [ ]  La personne désignée par le pays/économie/organisation participant(e) pour le représenter au conseil d'administration du GBIF et prendre part à la prise de décision au niveau mondial\n"
 
 #.  Question 9
 #. type: Plain text
 #: about.en.adoc:156
 msgid "Who designates the institution that hosts the GBIF Participant node?"
-msgstr ""
+msgstr "Qui désigne l'institution qui héberge le nœud participant au GBIF?"
 
 #. type: delimited block .
 #: about.en.adoc:161
@@ -417,7 +426,7 @@ msgstr "Les données obtenues via GBIF "
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:6
 msgid "In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data. You will also have a chance to review the various metrics that are available for the data within the portal."
-msgstr ""
+msgstr "Dans ce module, vous découvrirez les données primaires sur la biodiversité et les principes que le GBIF suit en matière de données. Vous aurez également l'occasion d'examiner les différents indicateurs disponibles pour les données du portail."
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:7
@@ -438,7 +447,7 @@ msgstr "Lorsque nous faisons référence aux données primaires sur la biodivers
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:18
 msgid "The GBIF network draws all these sources together through the use of data standards, such as Darwin Core, which forms the basis for the bulk of GBIF.org's index of hundreds of millions of species occurrence records.  Publishers provide open access to their datasets using machine-readable Creative Commons licence designations, allowing scientists, researchers and others to apply the data in hundreds of peer-reviewed publications and policy papers each year.  Many of these analyses—which cover topics from the impacts of climate change and the spread of invasive and alien pests to priorities for conservation and protected areas, food security and human health— would not be possible without this."
-msgstr ""
+msgstr "Le réseau GBIF rassemble toutes ces sources grâce à l'utilisation de standards de données tels que le Darwin Core, qui est à la base de la majeure partie de l'index de GBIF.org de plusieurs centaines de millions d'enregistrements d'occurrences d'espèces.  Les fournisseurs offrent un accès libre à leurs jeux de données en utilisant des licences Creative Commons lisibles par machine, ce qui permet aux scientifiques, aux chercheurs et à d'autres personnes d'impliquer les données dans des centaines de publications évaluées par des pairs et de documents stratégiques chaque année.  Nombre de ces analyses - qui couvrent des sujets allant des effets du changement climatique et de la propagation des espèces exotiques envahissantes aux priorités en matière de conservation et de zones protégées, de sécurité alimentaire et de santé humaine - ne seraient pas possibles sans cela."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:19
@@ -664,7 +673,7 @@ msgstr "Les standards utilisés fréquemment comprennent:"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:112
 msgid "Darwin Core: The https://dwc.tdwg.org/[Darwin Core Standard^] (DwC) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources.  The majority of the datasets shared through GBIF.org are published using the Darwin Core Archive format (DwC-A)."
-msgstr ""
+msgstr "Darwin Core: Le https://dwc.tdwg.org/[Standard Darwin Core^] (DwC) offre un cadre stable, simple et flexible pour compiler des données sur la biodiversité à partir de sources variées et variables. La majorité des jeux de données partagés via GBIF.org sont publiés au format Darwin Core Archive (DwC-A)."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:115
@@ -1883,7 +1892,7 @@ msgstr ""
 #: data-access.en.adoc:78
 #, no-wrap
 msgid "*How can I improve data quality?*\n"
-msgstr ""
+msgstr "*Comment puis-je améliorer la qualité des données?*\n"
 
 #. type: Plain text
 #: data-access.en.adoc:82
