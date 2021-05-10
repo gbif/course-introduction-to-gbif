@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-07 15:36\n"
+"PO-Revision-Date: 2021-05-10 11:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -344,7 +344,10 @@ msgid "- [ ] The person designated by a participating country/economy/organizati
 "- [x]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
 "- [ ]  The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders\n"
 "- [ ]  The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making\n"
-msgstr ""
+msgstr "- [ ] La personne désignée par un pays/une économie/une organisation participant(e) pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité\n"
+"- [x] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
+"- [ ]  La structure plus générale de personnes et d'institutions, coordonnées par le nœud, qui forment collectivement une infrastructure pour fournir des informations sur la biodiversité aux parties prenantes concernées\n"
+"- [ ]  La personne désignée par le pays/économie/organisation participant(e) pour le représenter au conseil d'administration du GBIF et prendre part à la prise de décision au niveau mondial\n"
 
 #.  Question 6
 #. type: Plain text
@@ -402,7 +405,8 @@ msgstr ""
 #, no-wrap
 msgid "- [x] The Head of Delegation\n"
 "- [ ] The GBIF Secretariat\n"
-msgstr ""
+msgstr "[x] Le Responsable de Délégation\n"
+"- [ ] Le Secrétariat du GBIF\n"
 
 #. type: Title ==
 #: gbif-mediated-data.en.adoc:2
@@ -424,7 +428,7 @@ msgstr "Données primaires sur la biodiversité"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:11
 msgid "In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonomic information."
-msgstr ""
+msgstr "Dans cette section, vous apprendrez comment GBIF rend les données primaires sur la biodiversité accessibles, les types de jeux de données acceptés et comment GBIF utilise l'ossature taxonomique pour fournir des informations taxonomiques."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:14
@@ -1140,7 +1144,7 @@ msgstr "Certains organismes de financement exigent désormais des chercheurs rec
 #: data-publishing.en.adoc:33
 #, no-wrap
 msgid "Data publisher visibility and recognition"
-msgstr ""
+msgstr "Visibilité et reconnaissance du fournisseur de données"
 
 #. type: Plain text
 #: data-publishing.en.adoc:37
@@ -1184,7 +1188,7 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:56
 msgid "GBIF strives to make all efforts possible to make this statement a reality."
-msgstr ""
+msgstr "Le GBIF s’efforce de faire de cette déclaration une réalité."
 
 #. type: Plain text
 #: data-publishing.en.adoc:58
@@ -1201,7 +1205,7 @@ msgstr "Avant d'accéder à des données par l'intermédiaire du GBIF, les utili
 #: data-publishing.en.adoc:63
 #, no-wrap
 msgid "\"In order to make attribution of use for owners of the data possible, the identifier of ownership of data must be retained with every data record shared onward for reuse.\"\n"
-msgstr ""
+msgstr "\"Afin de rendre possible l'attribution aux propriétaires des données utilisées, l'identifiant de la propriété des données doit être conservé pour chaque enregistrement partagé pour être réutilisé.\"\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:66
@@ -1282,13 +1286,13 @@ msgstr ""
 #: data-publishing.en.adoc:97
 #, no-wrap
 msgid "img/web/datasetdoiimage3_withcallouts.png"
-msgstr ""
+msgstr "img/web/datasetdoiimage3_withcallouts.png"
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:99
 #, no-wrap
 msgid "img/web/datasetcitationsimage4.png"
-msgstr ""
+msgstr "img/web/datasetcitationsimage4.png"
 
 #. type: Title ===
 #: data-publishing.en.adoc:101
@@ -1456,7 +1460,7 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:169
 msgid "BID and BIFA projects are required to include their projectID on published datasets as part of the dataset metadata. This allows datasets to be linked to project pages."
-msgstr ""
+msgstr "Les projets BID et BIFA doivent inclure leur identifiant de projet dans la partie métadonnées des jeux de données publiés. Cela permet de lier les jeux de données aux pages du projet."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:170
@@ -1478,7 +1482,7 @@ msgstr "Dans cette section, vous apprendrez comment utiliser le validateur de do
 #. type: Plain text
 #: data-publishing.en.adoc:179
 msgid "The GBIF https://www.gbif.org/tools/data-validator[data validator^] is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset.  By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it."
-msgstr ""
+msgstr "Le https://www.gbif. rg/tools/data-validator[validateur de données^] du GBIF est un service qui permet à toute personne ayant un jeu de données GBIF de recevoir un rapport sur la justesse syntaxique et la validité du contenu de le jeu de données. En soumettant un jeu de données au validateur, vous pouvez passer par les procédures de validation et d'interprétation généralement associées à la publication sur GBIF et déterminer rapidement les éventuels problèmes dans les données - sans avoir à les publier."
 
 #. type: Block title
 #: data-publishing.en.adoc:181
