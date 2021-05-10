@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-10 09:37\n"
+"PO-Revision-Date: 2021-05-10 11:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -344,7 +344,10 @@ msgid "- [ ] The person designated by a participating country/economy/organizati
 "- [x]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
 "- [ ]  The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders\n"
 "- [ ]  The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making\n"
-msgstr ""
+msgstr "- [ ] La personne désignée par un pays/une économie/une organisation participant(e) pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité\n"
+"- [x] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
+"- [ ]  La structure plus générale de personnes et d'institutions, coordonnées par le nœud, qui forment collectivement une infrastructure pour fournir des informations sur la biodiversité aux parties prenantes concernées\n"
+"- [ ]  La personne désignée par le pays/économie/organisation participant(e) pour le représenter au conseil d'administration du GBIF et prendre part à la prise de décision au niveau mondial\n"
 
 #.  Question 6
 #. type: Plain text
@@ -425,7 +428,7 @@ msgstr "Données primaires sur la biodiversité"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:11
 msgid "In this section, you will learn how GBIF makes primary biodiversity data accessible, the accepted dataset types and how GBIF uses the taxonomic backbone to provide taxonomic information."
-msgstr ""
+msgstr "Dans cette section, vous apprendrez comment GBIF rend les données primaires sur la biodiversité accessibles, les types de jeux de données acceptés et comment GBIF utilise l'ossature taxonomique pour fournir des informations taxonomiques."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:14
