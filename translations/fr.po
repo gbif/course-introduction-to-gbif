@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-10 12:38\n"
+"PO-Revision-Date: 2021-05-12 07:23\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -612,7 +612,7 @@ msgstr "Identifiants d'objet Digital"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:87
 msgid "A Digital Object Identifier, or DOI, is a http://www.iso.org/iso/catalogue_detail?csnumber=43506[standard^], permanent identifier that provides an actionable, interoperable, persistent link to any entity.  The concept is that DOI differs from commonly used references like URL web links because it identifies an object itself as a first-class entity, not simply the place where the object is currently located."
-msgstr ""
+msgstr "Un Identificateur d'Objet Digital, ou DOI, est un identifiant permanent http://www.iso.org/iso/catalogue_detail?csnumber=43506[standard^]  qui fournit un lien fonctionnel, interopérable et persistant vers n'importe quelle entité. Le concept est que le DOI diffère des références couramment utilisées comme les liens web d'URL car il identifie un objet lui-même comme une entité de première classe, pas seulement l'endroit où l'objet est actuellement situé."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:89
@@ -714,7 +714,7 @@ msgstr "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - utilisation 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:126
 msgid "Note that the CC-BY-NC licence has a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use. Lastly, attribution/citation is a community norm, so even if the publishers has waived conditions for use, attribution is expected."
-msgstr ""
+msgstr "Notez que la licence CC-BY-NC a un effet significatif sur la réutilisabilité des données. Le GBIF encourage les fournisseurs de données à choisir l'option la plus ouverte possible. Il est important de noter que les images ne sont pas soumises à la même licence qui est appliquée au jeu de données et peuvent avoir des conditions d'utilisation plus restreintes. Enfin, l'attribution/citation est une norme communautaire, donc même si les éditeurs ont renoncé à des conditions d'utilisation, l'attribution est attendue."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:127
