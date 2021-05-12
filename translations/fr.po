@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-12 10:34\n"
+"PO-Revision-Date: 2021-05-12 11:49\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1445,7 +1445,7 @@ msgstr "Pour partager des données via GBIF.org, les fournisseurs de données do
 #. type: Plain text
 #: data-publishing.en.adoc:157
 msgid "Once published, GBIF’s real-time infrastructure ‘indexes’ or ‘harvests’ new datasets, integrating them into a common access system where users can retrieve any and all data through common search and download services.  As datasets are indexed, GBIF.org performs additional checks, interpretation and conversion routines to ensure that data are interoperable and comply with minimum standards of data formats, data quality and fitness for use.  Many criteria for quality and usability of data, however, are best and most easily handled when addressed at their source: the individual dataset."
-msgstr ""
+msgstr "Une fois publiés, l'infrastructure en temps réel du GBIF \"indexe\" ou \"récolte\" les nouveaux ensembles de données, les intégrant dans un système d'accès commun où les utilisateurs peuvent récupérer toutes les données grâce à des services communs de recherche et de téléchargement.  Au fur et à mesure que les ensembles de données sont indexés, GBIF.org effectue des contrôles supplémentaires, des routines d'interprétation et de conversion pour s'assurer que les données sont interopérables et conformes aux standards minimaux de formats de données, de qualité des données et d'aptitude à l'emploi.  Cependant, de nombreux critères de qualité et d'utilisation des données sont plus faciles à gérer lorsqu'ils sont traités à la source: le de données individuel."
 
 #. type: Plain text
 #: data-publishing.en.adoc:160
@@ -1470,7 +1470,7 @@ msgstr "https://www.gbif.org/data-quality-requirements-sampling-events[Jeux de d
 #. type: Plain text
 #: data-publishing.en.adoc:167
 msgid "In practice, we encourage those responsible for publishing data to get acquainted with the expected data formats and content requirements as early as possible in the process (see also the pre-configured GBIF Excel templates with required and recommended terms for https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence-only datasets^], https://github.com/gbif/ipt/wiki/checklistData#templates[checklists^], and https://github.com/gbif/ipt/wiki/samplingEventData#templates[sampling-event datasets^], all available with example data).  Doing so will save a lot of effort that may be needed at later stages, for example, in adding data conversions, capturing information for required or strongly recommended fields, or performing and addressing final pre-publication data-quality checks."
-msgstr ""
+msgstr "En pratique, nous encourageons les responsables de la publication des données à se familiariser avec les formats de données attendus et les exigences en matière de contenu le plus tôt possible dans le processus (voir également les templates Excel GBIF préconfigurés avec les termes requis et recommandés pour https://github.com/gbif/ipt/wiki/occurrenceData#templates [les jeux de données d'occurrences^], https://github.com/gbif/ipt/wiki/checklistData#templates [de listes d'espèces^], et https://github.com/gbif/ipt/wiki/samplingEventData#templates [d’événements d'échantillonnage^], tous disponibles avec des exemples de données).  Vous économiserez ainsi beaucoup d'efforts qui pourraient être nécessaires à des étapes ultérieures, par exemple pour ajouter des conversions de données, saisir des informations pour les champs obligatoires ou fortement recommandés, ou effectuer les contrôles finaux de qualité des données avant la publication."
 
 #. type: Plain text
 #: data-publishing.en.adoc:169
@@ -1503,7 +1503,7 @@ msgstr "Le https://www.gbif. rg/tools/data-validator[validateur de données^] du
 #: data-publishing.en.adoc:181
 #, no-wrap
 msgid "Click on the _Tools_ menu on the GBIF website to navigate to the _Data validator_ page"
-msgstr ""
+msgstr "Cliquez sur le menu _Outils_ sur le site du GBIF pour accéder à la page _Validateur de données_"
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:182
@@ -1548,7 +1548,7 @@ msgstr "Archives Darwin Core (DwC-A) compressées en ZIP (contenant des cœurs d
 #. type: Plain text
 #: data-publishing.en.adoc:202
 msgid "Integrated Processing Toolkit (IPT) Excel templates containing Checklist, Occurrence, or Sampling-event data"
-msgstr ""
+msgstr "Kit de publication intégré (IPT) templates Excel contenant les données de liste d'espèces, d'occurrences ou d'événements d'échantillonnage"
 
 #. type: Plain text
 #: data-publishing.en.adoc:203
@@ -1700,12 +1700,12 @@ msgstr "Dans ce module, vous apprendrez comment les données du GBIF sont utilis
 #: data-access.en.adoc:8
 #, no-wrap
 msgid "How is GBIF-mediated data used?"
-msgstr ""
+msgstr "Comment les données médiatisées par le GBIF sont-elles utilisées?"
 
 #. type: Plain text
 #: data-access.en.adoc:12
 msgid "The GBIF https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to climate change, conservation, human health and agriculture.  A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[GBIF-mediated data by Heberling et al. (2020)^] showed:"
-msgstr ""
+msgstr "Le https://www.gbif.org/literature-tracking [système de suivi de la littérature^] du GBIF a identifié plus de 5,000 utilisations des données médiatisées par GBIF, dont la plupart figurent dans des articles évalués par des pairs.  La majorité de ces utilisations sont dans le domaine de l'écologie, mais d'autres concernent le changement climatique, la conservation, la santé humaine et l'agriculture.  Une revue systématique de l'utilisation des https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis [données médiatisées par le GBIF par Heberling et al. (2020)^] a montré que:"
 
 #. type: Plain text
 #: data-access.en.adoc:14
@@ -1720,7 +1720,7 @@ msgstr "L'intégration des données facilite la recherche et l'accès à l'éche
 #. type: Plain text
 #: data-access.en.adoc:16
 msgid "Uses of GBIF-mediated data span disciplinary boundaries."
-msgstr ""
+msgstr "Les utilisations des données médiatisées par le GBIF dépassent les frontières disciplinaires."
 
 #. type: Plain text
 #: data-access.en.adoc:17
@@ -1730,7 +1730,7 @@ msgstr "Les domaines scientifiques utilisant les données du GBIF sont conceptue
 #. type: Plain text
 #: data-access.en.adoc:18
 msgid "Globally integrated datasets enable researchers to ask both basic and applied questions at taxonomic, temporal and spatial scales that would be otherwise impossible."
-msgstr ""
+msgstr "Les ensembles de données intégrés au niveau mondial permettent aux chercheurs de poser des questions fondamentales et appliquées à des échelles taxonomiques, temporelles et spatiales qui seraient autrement impossibles."
 
 #. type: Plain text
 #: data-access.en.adoc:19
@@ -1741,7 +1741,7 @@ msgstr "Les rôles synergiques des données de biodiversité basées sur les obs
 #: data-access.en.adoc:21
 #, no-wrap
 msgid "Structural topic model results from 4,035 studies that used GBIF-mediated data published between 2003 and 2019."
-msgstr ""
+msgstr "Le modèle thématique structurel résulte de 4 035 études ayant utilisé des données médiatisées par le GBIF et publiées entre 2003 et 2019."
 
 #. type: Target for macro image
 #: data-access.en.adoc:22
@@ -2421,13 +2421,13 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:44
 msgid "The person designated by a participating country/economy/organization to manage the activities of the node to coordinate a biodiversity information facility"
-msgstr ""
+msgstr "La personne désignée par un pays participant/une économie/une organisation pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité"
 
 #. type: Plain text
 #: solutions.en.adoc:46
 #, no-wrap
 msgid "*Who designates the institution that hosts the GBIF Participant node?*\n"
-msgstr ""
+msgstr "*Qui désigne l'institution qui héberge le nœud participant au GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:48
@@ -2438,7 +2438,7 @@ msgstr "Le Chef de Délégation"
 #: solutions.en.adoc:52
 #, no-wrap
 msgid "*What dataset class makes up the core of data published within GBIF?*\n"
-msgstr ""
+msgstr "*Quelle classe de jeux de données constitue le principal élément des données publiées dans le GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:54
@@ -2555,7 +2555,7 @@ msgstr "*Comment devenez-vous un fournisseur de données sur le réseau GBIF?*\n
 #. type: Plain text
 #: solutions.en.adoc:91
 msgid "fill out the _Become a publisher_ form on GBIF.org and wait for endorsement"
-msgstr ""
+msgstr "remplissez le formulaire _Devenir un fournisseur de données_ sur GBIF.org et attendez votre approbation"
 
 #. type: Plain text
 #: solutions.en.adoc:93
@@ -2731,7 +2731,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/doc-xxxx-xxxx."
-msgstr ""
+msgstr "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/doc-xxxx-xxxx."
 
 #. type: Title ===
 #: colophon.en.adoc:11
@@ -2804,19 +2804,19 @@ msgstr "Bonjour, je m’appelle Tim Hirsch, directeur adjoint du GBIF, le Global
 #: scripts/intro-gbif.en.txt:4
 #, no-wrap
 msgid "So what is GBIF? We are an intergovernmental network and research infrastructure, with the overall purpose of providing anyone, anywhere, with free and open access to data about all types of life on earth. GBIF was established in 2001, and it is a voluntary collaboration among governments and international organizations - the GBIF Participants - working through a common Memorandum of Understanding. This MoU sets out the basic principles of sharing data for the common good, and the way GBIF should be governed and funded. Under the MoU, each GBIF Participant agrees to set up a node to coordinate data sharing and use among stakeholders in the country or organization. A secretariat, based in Copenhagen, Denmark, manages the technical infrastructure and supports the collaborations that keep GBIF going and growing as a global community. As you'll see from the GBIF.org homepage on the right, this community is now managing very large volumes of data, shared from thousands of publishing institutions around the world, and used in a growing body of research to support understanding and decisions relating to biodiversity.\n"
-msgstr ""
+msgstr "Alors, qu'est-ce que le GBIF? Nous sommes un réseau intergouvernemental et une infrastructure de recherche, dont l'objectif global est de fournir à quiconque, où qu'il soit, un accès libre et gratuit aux données sur tous les types de vie sur terre. Créé en 2001, le GBIF est une collaboration volontaire entre des gouvernements et des organisations internationales - les participants au GBIF - qui travaillent dans le cadre d'un Protocole d'Accord commun. Ce protocole d'accord définit les principes de base du partage des données pour le bien commun, ainsi que la manière dont le GBIF doit être gouverné et financé. En vertu du protocole d'accord, chaque participant au GBIF accepte de mettre en place un nœud de coordination pour le partage et l'utilisation des données entre les parties prenantes du pays ou de l'organisation. Un secrétariat, basé à Copenhague, au Danemark, gère l'infrastructure technique et soutient les collaborations qui permettent au GBIF de se développer en tant que communauté mondiale. Comme vous pouvez le constater sur la droite de la page d'accueil de GBIF.org, cette communauté gère aujourd'hui de très grands volumes de données, partagées par des milliers d'institutions de publication à travers le monde, et utilisées dans un corpus de recherche croissant pour soutenir la compréhension et les décisions en matière de biodiversité.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:6
 #, no-wrap
 msgid "One way to look at GBIF is as a window on the huge amount of evidence, accumulated over centuries, about where species have lived, and when they lived there. This evidence takes many different forms, and often starts out scattered, isolated and inaccessible. Here are some examples. Specimens, literally billions of them,  collected from around the world, along with the labels that describe them, contain vital evidence which may be literally locked away in the drawers of natural history collections. Observations from surveys and monitoring programmes, as well as the increasing acitivities of citizen scientists, are recorded and stored in varying formats. Literature about the natural world, both historic and current, often contains detailed information on species occurrences, but embedded and effectively hidden in text - it needs 'liberating'. Automated wildlife records such as through satellite tracking, camera traps or acoustic monitoring, add yet more to this wealth of evidence. And finally, large volumes of data derived from DNA sequencing of samples from the environment - so-called eDNA - provide evidence of previously-hidden biodiversity. The key to discovering and applying all of this evidence is the use of common standards - a common language, if you like, that organises all the essential facts according to an agreed vocabulary even if they started out in a mess of different formats. That's one of the things you'll be learning much more about in this course. Once organized using agreed standards, datasets can be shared or published through GBIF - and using the technical infrastructure of the network, easily discovered by users through filtered searches, plotted on maps and used in models, always with clear links back to the original evidence.\n"
-msgstr ""
+msgstr "L'une des façons d'envisager le GBIF est de le considérer comme une fenêtre sur l'énorme quantité de preuves, accumulées au fil des siècles, concernant les lieux où les espèces ont vécu et le moment où elles y ont vécu. Ces preuves prennent de nombreuses formes différentes et sont souvent éparpillées, isolées et inaccessibles au départ. En voici quelques exemples. Les spécimens, littéralement des milliards, collectés dans le monde entier, ainsi que les étiquettes qui les décrivent, contiennent des preuves essentielles qui peuvent être littéralement enfermées dans les tiroirs des collections d'histoire naturelle. Les observations réalisées dans le cadre d'études et de programmes de surveillance, ainsi que les activités croissantes des citoyens scientifiques, sont enregistrées et stockées sous différents formats. La littérature sur le monde naturel, tant historique qu'actuelle, contient souvent des informations détaillées sur la présence des espèces, mais enfouies et cachées dans le texte - il faut les \"libérer\". Les enregistrements automatisés de la faune et de la flore, tels que le suivi par satellite, les pièges à caméra ou la surveillance acoustique, viennent s'ajouter à cette multitude de preuves. Enfin, d'importants volumes de données provenant du séquençage de l'ADN d'échantillons prélevés dans l'environnement - ce que l'on appelle eADN - fournissent des preuves d'une biodiversité jusque-là cachée. La clé de la découverte et de la mise en application de toutes ces preuves est l'utilisation de standards communs - un langage commun, si vous voulez, qui organise tous les faits essentiels selon un vocabulaire convenu, même s'ils ont commencé dans une multitude de formats différents. C'est l'une des choses que vous apprendrez à mieux connaître dans ce cours. Une fois organisés selon des standards convenus, les jeux de données peuvent être partagés ou publiés par l'intermédiaire du GBIF - et, grâce à l'infrastructure technique du réseau, être facilement découverts par les utilisateurs au moyen de recherches filtrées, être reportés sur des cartes et être utilisés dans des modèles, toujours avec des liens clairs vers les données originales.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:8
 #, no-wrap
 msgid "So we've brought all of this data together, but for what purpose? Through tracking the citations of GBIF in research, and its onward relevance to policy and decisions, we can build up a picture of how all of those involved in sharing standardized data, from the volunteer wildlife observer to researchers and museum curators, are contributing to the knowledge that supports better decisions for our planet and our societies. Just some examples: \n"
-msgstr ""
+msgstr "Nous avons donc rassemblé toutes ces données, mais dans quel but? En suivant les citations du GBIF dans la recherche, et sa pertinence ultérieure pour les politiques et les décisions, nous pouvons nous faire une idée sur la manière dont tous ceux qui participent au partage de données standardisées, de l'observateur bénévole de la faune sauvage aux chercheurs et aux conservateurs de musée, contribuent aux connaissances qui soutiennent de meilleures décisions pour notre planète et nos sociétés. Quelques exemples:\n"
 
 #. type: Bullet: '- '
 #: scripts/intro-gbif.en.txt:10
@@ -2828,13 +2828,13 @@ msgstr "Les données partagées via GBIF supportent la CONSERVATION, en aidant �
 #: scripts/intro-gbif.en.txt:12
 #, markdown-text, no-wrap
 msgid "Data shared through GBIF supports FOOD SECURITY, by mapping the distribution of the wild relatives of the most important food crops, and therefore the location of the genetic resources that need to be conserved for future plant breeding; and by providing information on both marine and freshwater fish species - along with other wild species important for nutrition.\n"
-msgstr ""
+msgstr "Les données partagées par le GBIF contribuent à la SÉCURITÉ ALIMENTAIRE, en cartographiant la distribution des espèces sauvages apparentées aux cultures alimentaires les plus importantes et, par conséquent, la localisation des ressources génétiques qui doivent être conservées pour la sélection végétale future, et en fournissant des informations sur les espèces de poissons marins et d'eau douce, ainsi que sur d'autres espèces sauvages importantes pour la nutrition.\n"
 
 #. type: Bullet: '- '
 #: scripts/intro-gbif.en.txt:14
 #, markdown-text, no-wrap
 msgid "Data shared through GBIF supports action on CLIMATE CHANGE, through helping to model how species ranges will change under different climate change scenarios, informing strategies to adapt to climate change, and assessing the impacts of measures to mitigate climate change, for example increased production of biofuels and hydropower.\n"
-msgstr ""
+msgstr "Les données partagées par le GBIF soutiennent les actions relatives au CHANGEMENT CLIMATIQUE, en aidant à modéliser la façon dont les aires de répartition des espèces évolueront selon différents scénarios de changement climatique, en informant les stratégies d'adaptation au changement climatique et en évaluant les impacts des mesures visant à atténuer le changement climatique, par exemple l'augmentation de la production de biocarburants et d'hydroélectricité.\n"
 
 #. type: Bullet: '- '
 #: scripts/intro-gbif.en.txt:16
