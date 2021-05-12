@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-12 08:23\n"
+"PO-Revision-Date: 2021-05-12 09:21\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1104,7 +1104,9 @@ msgstr "img/web/datapublishing.png"
 #. type: Plain text
 #: data-publishing.en.adoc:17
 msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs."
-msgstr ""
+msgstr "La plupart des organisations du réseau GBIF, autrement connues sous le nom d'éditeurs, de fournisseurs ou de publieurs de données, utilisent un IPT, le https://www.gbif.org/ipt[Kit de Publication Intégré^], pour publier leurs données.\n"
+"Ces éditeurs peuvent choisir d'héberger leur propre installation d'un IPT comme le Field Museum, mais préfèrent généralement trouver un hôte approprié pour leurs activités de publication de données.\n"
+"Cela peut se faire par le biais d'un nœud participant du GBIF tel que GBIF France, ou par le biais d'un groupe thématique établi comme VertNet. Ou, une autre option peut être d'utiliser l'un des IPT hébergés par GBIF comme ceux du BID, du BIFA ou les IPT régionaux."
 
 #. type: Plain text
 #: data-publishing.en.adoc:19
@@ -1172,7 +1174,7 @@ msgstr "Donner une visibilité et une reconnaissance adéquates aux fournisseurs
 #: data-publishing.en.adoc:42
 #, no-wrap
 msgid "*The GBIF Memorandum of Understanding*\n"
-msgstr ""
+msgstr "*Le Protocole d'Accord du GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:45
@@ -1188,14 +1190,15 @@ msgstr "img/web/GBIF_MoU.jpg"
 #. type: Plain text
 #: data-publishing.en.adoc:49
 msgid "The MoU is very clear stating that GBIF data publishers need to be acknowledged for their contributions:"
-msgstr ""
+msgstr "Le Protocole d'Accord stipule très clairement que les fournisseurs de données du GBIF doivent être reconnus pour leurs contributions:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:53
 #, no-wrap
 msgid "\"4. Attribution. +\n"
 "GBIF seeks to ensure that the publisher/holder of data is acknowledged and requests that such attribution be maintained in any subsequent use of the data.\"\n"
-msgstr ""
+msgstr "\"4. Attribution. +\n"
+"Le GBIF cherche à s'assurer que l'éditeur/détenteur de données soit reconnu et demande que cette attribution soit maintenue dans toute utilisation ultérieure des données.\"\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:56
@@ -1222,18 +1225,18 @@ msgstr "\"Afin de rendre possible l'attribution aux propriétaires des données 
 #. type: Plain text
 #: data-publishing.en.adoc:66
 msgid "“Users must publicly acknowledge, following the scientific convention of citing sources in conjunction with the use of the data, the Data Publishers whose biodiversity data they have used, where appropriate through use of a Digital Object Identifier (DOI) applying to the dataset (s) and/or data downloads.”"
-msgstr ""
+msgstr "\"Les utilisateurs doivent mentionner publiquement, en suivant la convention scientifique de citation des sources en association avec l'utilisation des données, les éditeurs de données dont ils ont utilisé les données de biodiversité, si possible par l'utilisation d'un Identifiant d'Objet Digital (DOI) s'appliquant au(x) jeu(x) de données et/ou au(x) téléchargement(s) de donnée(s).\""
 
 #. type: Plain text
 #: data-publishing.en.adoc:68
 msgid "Similarly, the agreement is very specific in stating that the conditions stated in the licenses selected by the data published must be respected."
-msgstr ""
+msgstr "De la même manière, l'accord est très spécifique en indiquant que les conditions énoncées dans les licences choisies par les données publiées doivent être respectées."
 
 #. type: delimited block -
 #: data-publishing.en.adoc:71
 #, no-wrap
 msgid "\"Users must comply with the terms and conditions included in the licence selected by each Data Publisher, and the licensing information included with each data download. If any provision of this Use Agreement conflicts with the terms and conditions within the licences selected by the Data Publisher, licences selected by the Data Publisher shall prevail.\"\n"
-msgstr ""
+msgstr "\"Les utilisateurs doivent se conformer aux termes et conditions inclus dans la licence sélectionnée par chaque éditeur de données, ainsi qu'aux informations relatives aux licences incluses dans chaque téléchargement de données. Si une quelconque disposition du présent Accord d'Utilisation entre en conflit avec les termes et conditions inclus dans les licences sélectionnées par l'éditeur de données, les licences sélectionnées par l'éditeur de données prévaudront.\"\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:74
@@ -1254,7 +1257,7 @@ msgstr "Ceci est particulièrement pertinent pour les jeux de données publiés 
 #. type: Plain text
 #: data-publishing.en.adoc:80
 msgid "Citation and right strings are automatically generated for data publishers for each dataset when using IPT as the publishing mechanism, providing that one of the standard licenses is selected."
-msgstr ""
+msgstr "Les phrases de citation et de droits sont automatiquement générées pour les fournisseurs de données dans chaque jeu de données publié en utilisant l'IPT, à condition que l'une des licences possibles soit sélectionnée."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:81
@@ -1292,7 +1295,7 @@ msgstr "Chaque fois qu'une nouvelle version d'un jeu de données est publiée à
 #. type: Plain text
 #: data-publishing.en.adoc:96
 msgid "As mentioned before, you can resolve DOI is websites like dx.doi.org: which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports."
-msgstr ""
+msgstr "Comme mentionné précédemment, vous pouvez rechercher les DOI sur des sites web tels que dx.doi.org: qui redirigera toujours vers la source originale, dans ce cas, la page du jeu de données. Vous pouvez également rechercher les DOI à l'aide d'une recherche normale sur le web, qui révélera normalement toute autre ressource citant l'utilisation du même DOI, comme des articles ou des rapports publics."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:97
@@ -2590,12 +2593,12 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "GBIF API"
-msgstr ""
+msgstr "L'API du GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:109
 msgid "rGBIF"
-msgstr ""
+msgstr "rGBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:111
@@ -2616,13 +2619,13 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:115
 msgid "species list"
-msgstr ""
+msgstr "liste d'espèces"
 
 #. type: Plain text
 #: solutions.en.adoc:117
 #, no-wrap
 msgid "*What kind of flags does GBIF apply to data to alert you to the quality?*\n"
-msgstr ""
+msgstr "*Quel type de signaux le GBIF applique-t-il aux données pour vous alerter sur leur qualité?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:119
@@ -2643,7 +2646,7 @@ msgstr ""
 #: solutions.en.adoc:125
 #, no-wrap
 msgid "*Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?*\n"
-msgstr ""
+msgstr "*Qui effectue la plupart des traductions des documents du GBIF, y compris le site web GBIF.org et les documents de formation?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:127
