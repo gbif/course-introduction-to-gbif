@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-12 07:23\n"
+"PO-Revision-Date: 2021-05-12 08:23\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -585,7 +585,7 @@ msgstr "Ces listes taxonomiques sont classées par ordre de priorité en commen�
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:73
 msgid "Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarily animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data."
-msgstr ""
+msgstr "Notez que de nombreuses occurrences basées sur des séquences génétiques n'ont pas de noms latins, mais sont nommées en utilisant des hypothèses d'espèces (UNITE: champignons) ou des Indices Numériques de Codes-Barres (iBOL : principalement des animaux). C’est pourquoi l’ajout de ces deux principales sources d’OTUs à la dernière version de l'ossature taxonomique améliore considérablement la fonctionnalité d’indexation du GBIF pour les données de biodiversité basées sur des séquences ADN."
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:76
@@ -637,7 +637,7 @@ msgstr "articles et rapports de recherche publiés par des revues, des agences e
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:94
 msgid "materials deposited in a general-use repository"
-msgstr ""
+msgstr "les documents déposés dans un dépôt à usage général"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:98
@@ -658,7 +658,7 @@ msgstr "Standards"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:105
 msgid "The data available through GBIF.org and its associated services is the result of the GBIF network of Participants and publishers applying shared rules and conventions to describe, record and structure thousands of different datasets drawn from hundreds of institutions around the world. Common standards are the main enabler for bringing together the hundreds of millions of primary biodiversity records in the GBIF index."
-msgstr ""
+msgstr "Les données disponibles sur GBIF.org et ses services associés sont le résultat de l'application, par le réseau de participants et de fournisseurs GBIF, de règles et de conventions communes pour décrire, enregistrer et structurer des milliers d'ensembles de données différents provenant de centaines d'institutions à travers le monde entier. Les standards communs sont le principal moyen de rassembler les centaines de millions de données primaires sur la biodiversité dans l'index du GBIF."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:107
@@ -678,12 +678,12 @@ msgstr "Darwin Core: Le https://dwc.tdwg.org/[Standard Darwin Core^] (DwC) offre
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:115
 msgid "Ecological Metadata Language (EML): https://eml.ecoinformatics.org/[Ecological Metadata Language^] is a metadata standard that records information about ecological datasets in a series of modular and extensible XML document types.  All of the descriptions of datasets in GBIF.org rely on ‘metadata’—that is, the information about data—using the open-source EML standard, which is administered and maintained by https://knb.ecoinformatics.org/[The Knowledge Network for Biocomplexity^].  Each Darwin Core Archive includes as one of its components an EML file (written in XML format)."
-msgstr ""
+msgstr "Langage de Métadonnées Écologiques (EML): https://eml.ecoinformatics. rg/[Le Langage de Métadonnées Écologiques^] est un standard de métadonnées qui enregistre des informations sur les ensembles de données écologiques dans une série de types de documents XML modulaires et extensibles. Toutes les descriptions des jeux de données sur GBIF.org s'appuient sur les 'métadonnées'—c'est-à-dire les informations sur les données—en utilisant le standard open-source EML, qui est administré et maintenu par https://knb.coinformatics.org/[Le Knowledge Network for Biocomplexity^]. Chaque archive Darwin Core inclut un fichier EML (écrit au format XML) comme un de ses composants."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:116
 msgid "BioCASe/ABCD: The http://www.biocase.org/[Biological Collection Access Service^], commonly referred to as BioCASe, is an international network linking biological collections data from natural history museums, botanical/zoological gardens and research institutions. The http://www.biocase.org/products/protocols[BioCASe protocol^] relies on the http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) data exchange standard, which TDWG also administers."
-msgstr ""
+msgstr "BioCASe/ABCD : Le http://www.biocase. rg/[Biological Collection Access Service^], communément appelé BioCASe, est un réseau international reliant les données des collections biologiques des musées d'histoire naturelle, des jardins botaniques et zoologiques et des institutions de recherche. Le http://www.biocase.org/products/protocols[Protocole BioCASe^] repose sur le standard d'échange de données http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) que TDWG administre également."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:117
@@ -694,7 +694,7 @@ msgstr "Les données ouvertes"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:120
 msgid "In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
-msgstr ""
+msgstr "Conformément à une https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement [décision du conseil d'administration du GBIF^] de 2014, les fournisseurs de données doivent attribuer l'une des trois options Creative Commons à tout jeu de données d'occurrences. Le conseil d'administration a reconnu la nécessité d'une plus grande clarté, tant pour les éditeurs de données que pour les utilisateurs, sur la manière dont les données peuvent être utilisées lorsqu'elles sont partagées via GBIF.org. https://creativecommons.org/[Creative Commons] est une organisation à but non lucratif qui aide à surmonter les obstacles juridiques au partage des connaissances et soutient la créativité pour relever les défis les plus urgents du monde."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
@@ -725,7 +725,7 @@ msgstr "Données FAIR"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
 msgid "Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
-msgstr ""
+msgstr "De nombreux articles de 2011 à 2016 ont documenté une crise de la reproductibilité scientifique (voir ci-dessous).  En 2016, les https://www.nature.com/articles/sdata201618 [Principes de conduite FAIR pour la gestion et l'intendance des données scientifiques^] ont été publiés dans https://www.nature.com/sdata/ [Nature Scientific Data^].  Ces principes ont été conçus pour améliorer la trouvabilité, l'accessibilité, l'interopérabilité et la réutilisabilité des ensembles de données et répondent à \"un besoin urgent d'améliorer l'infrastructure soutenant la réutilisation des données scientifiques.\" La mise en œuvre de ces principes a débuté en 2018.  Vous pouvez en savoir plus sur http://www.go-fair.org/how-to-go-fair/ [Comment agir FAIR^] sur https://www.go-fair.org/ [GO-FAIR.org^]."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:135
@@ -754,7 +754,7 @@ msgstr "*FACILES À TROUVER*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:145
 msgid "GBIF has https://www.gbif.org/data-quality-requirements[requirements] for metadata and datasets. All datasets are identified by https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Digital Object Identifiers^] (DOIs)."
-msgstr ""
+msgstr "Le GBIF a des https://www.gbif.org/data-quality-requirements[requirements] pour les métadonnées et les jeux de données. Tous les jeux de données sont identifiés par des https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Identifiants d'Objets Digitaux^] (DOI)."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:149
@@ -765,7 +765,7 @@ msgstr "*ACCESSIBLES*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:151
 msgid "The https://www.gbif.org/developer/summary[GBIF Portal API^] provides a machine readable interface (REST + JSON) and use the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) as trusted data repository."
-msgstr ""
+msgstr "L' https://www.gbif.org/developer/summary[API du portail GBIF^] fournit une interface lisible par machine (REST + JSON) et utilise le https://www.gbif.org/ipt[Kit de Publication Intégré^] (IPT) comme référentiel de données de confiance."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:155
@@ -776,7 +776,7 @@ msgstr "*INTEROPÉRABLES*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:157
 msgid "GBIF recommends using the https://eml.ecoinformatics.org/[Ecological Metadata Language^] (EML) for datasets and https://dwc.tdwg.org/[Darwin Core^] for occurrence data."
-msgstr ""
+msgstr "Le GBIF recommande d'utiliser le https://eml.ecoinformatics.org/[Langage des Métadonnées Ecologiques^] (EML) pour les jeux de données et le https://dwc.tdwg.org/[Darwin Core^] pour les données d'occurrences."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:161
@@ -787,7 +787,7 @@ msgstr "*RÉUTILISABLES*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:163
 msgid "GBIF require creative common data licenses (https://creativecommons.org/publicdomain/zero/1.0[CC0^], https://creativecommons.org/licenses/by/4.0[CC BY^], or https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC^]). Provenance available from the GBIF portal."
-msgstr ""
+msgstr "Le GBIF utilise des licences de données Creative Commons (https://creativecommons.org/publicdomain/zero/1.0[CC0^], https://creativecommons.org/licenses/by/4.0[CC BY^], ou https://creativecommons.org/licenses/by-nc/4.0[CC BY-NC^]). La documentation est disponible sur le portail GBIF."
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:167
@@ -859,7 +859,7 @@ msgstr "Dans cette section, nous passons en revue les différentes statistiques 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:195
 msgid "One of the many benefits of publishing data via GBIF is that, during the indexing process, GBIF analyses all datasets and produces https://www.gbif.org/analytics/global[metrics^] about them. These metrics are made available in several different ways:"
-msgstr ""
+msgstr "L'un des nombreux avantages de la publication de données via le GBIF est que, durant le processus d'indexation, le GBIF analyse tous les jeux de données et produit des https://www. bif.org/analytics/global[statistiques^] à leur sujet. Ces statistiques sont mises à disposition de plusieurs manières:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:197
@@ -936,12 +936,12 @@ msgstr "*Statistiques sur le contenu du jeu de données*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:218
 msgid "Each dataset page includes a tab labelled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:"
-msgstr ""
+msgstr "Chaque page du jeu de données comprend un onglet intitulé 'Statistiques'. Cet onglet donne accès aux graphiques et aux tableaux résultant de l'analyse du contenu du jeu de données. Cela inclut des résumés de:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:220
 msgid "Taxonomic distribution (both list and chart)"
-msgstr ""
+msgstr "La distribution taxonomique (sous forme de liste et de graphique)"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:221
@@ -956,7 +956,7 @@ msgstr "Occurrences par année"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:224
 msgid "The charts/tables are interactive and you can click to filter and explore further. Additionally, the images can be downloaded for reporting purposes."
-msgstr ""
+msgstr "Les graphiques/tableaux sont interactifs et vous pouvez cliquer dessus pour filtrer et explorer. De plus, les images peuvent être téléchargées à des fins de rapports."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:225
@@ -1015,7 +1015,10 @@ msgid "- [ ] A dataset\n"
 "- [ ] A management classification with the goal of covering all names in GBIF\n"
 "- [ ] Allows for taxonomic search on GBIF\n"
 "- [x] All of the above\n"
-msgstr ""
+msgstr "- [ ] Un jeu de données\n"
+"- [ ] Une classification de gestion ayant pour but de couvrir tous les noms rencontrés sur GBIF\n"
+"- [ ] Permet une recherche taxonomique sur GBIF\n"
+"- [x] Tout ce qui précède\n"
 
 #.  Question 3
 #. type: Plain text
