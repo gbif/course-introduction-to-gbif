@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-12 09:21\n"
+"PO-Revision-Date: 2021-05-12 10:34\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2432,7 +2432,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:48
 msgid "The Head of Delegation"
-msgstr ""
+msgstr "Le Chef de Délégation"
 
 #. type: Plain text
 #: solutions.en.adoc:52
@@ -2464,18 +2464,18 @@ msgstr "Un jeu de données"
 #. type: Plain text
 #: solutions.en.adoc:60
 msgid "A management classification with the goal of covering all names in GBIF"
-msgstr ""
+msgstr "Une classification de gestion dans le but de couvrir tous les noms du GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:61
 msgid "Allows for taxonomic search on GBIF"
-msgstr ""
+msgstr "Permet la recherche taxonomique sur GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:63
 #, no-wrap
 msgid "*Which licenses or waivers can be applied to datasets published in GBIF?*\n"
-msgstr ""
+msgstr "*Quelles licences ou autorisations peuvent être appliquées aux jeux de données publiés sur GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:65
@@ -2529,17 +2529,17 @@ msgstr "Rendre votre ou vos jeu(x) de données sur la biodiversité accessible(s
 #: solutions.en.adoc:83
 #, no-wrap
 msgid "*Which of the following are incentives for publishing data?*\n"
-msgstr ""
+msgstr "*Parmi les éléments suivants, lesquels sont des avantages de la publication de données?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:85
 msgid "contribute to global knowledge about biodiversity"
-msgstr ""
+msgstr "contribuer à la connaissance globale de la biodiversité"
 
 #. type: Plain text
 #: solutions.en.adoc:86
 msgid "new opportunities for collaboration"
-msgstr ""
+msgstr "de nouvelles opportunités de collaboration"
 
 #. type: Plain text
 #: solutions.en.adoc:87
@@ -2572,23 +2572,23 @@ msgstr "*Qu'est-ce que le validateur de données GBIF?*\n"
 #. type: Plain text
 #: solutions.en.adoc:99
 msgid "a tool to check my data for issues"
-msgstr ""
+msgstr "un outil pour vérifier si mes données présentent des anomalies"
 
 #. type: Plain text
 #: solutions.en.adoc:103
 #, no-wrap
 msgid "*How can you access GBIF data?*\n"
-msgstr ""
+msgstr "*Comment pouvez-vous accéder aux données GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:105
 msgid "You can access GBIF data with all of these methods."
-msgstr ""
+msgstr "Vous pouvez accéder aux données GBIF avec toutes ces méthodes."
 
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "GBIF.org search interface"
-msgstr ""
+msgstr "L'interface de recherche GBIF.org"
 
 #. type: Plain text
 #: solutions.en.adoc:108
@@ -2604,7 +2604,7 @@ msgstr "rGBIF"
 #: solutions.en.adoc:111
 #, no-wrap
 msgid "*Which file formats are available for downloads of data?*\n"
-msgstr ""
+msgstr "*Quels formats de fichier sont disponibles pour les téléchargements de données?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:113
@@ -2614,7 +2614,7 @@ msgstr "simple"
 #. type: Plain text
 #: solutions.en.adoc:114
 msgid "Darwin Core Archive"
-msgstr ""
+msgstr "Archive Darwin Core"
 
 #. type: Plain text
 #: solutions.en.adoc:115
@@ -2635,12 +2635,12 @@ msgstr "altérée"
 #. type: Plain text
 #: solutions.en.adoc:120
 msgid "excluded"
-msgstr ""
+msgstr "exclu"
 
 #. type: Plain text
 #: solutions.en.adoc:121
 msgid "inferred"
-msgstr ""
+msgstr "inféré"
 
 #. type: Plain text
 #: solutions.en.adoc:125
@@ -2677,7 +2677,7 @@ msgstr "Demander un mentor bénévole pour fournir une assistance à distance"
 #. type: Plain text
 #: solutions.en.adoc:135
 msgid "Undertake the online data mobilization course"
-msgstr ""
+msgstr "Entreprenez le cours en ligne de mobilisation des données"
 
 #. type: Plain text
 #: solutions.en.adoc:137
@@ -2704,7 +2704,7 @@ msgstr "Toutes ces options sont possibles:"
 #. type: Plain text
 #: solutions.en.adoc:145
 msgid "Write to info@gbif.org to request the translation"
-msgstr ""
+msgstr "Écrire à info@gbif.org pour demander la traduction"
 
 #. type: Plain text
 #: solutions.en.adoc:146
@@ -2822,7 +2822,7 @@ msgstr ""
 #: scripts/intro-gbif.en.txt:10
 #, markdown-text, no-wrap
 msgid "Data shared through GBIF supports CONSERVATION, by helping to identify the most important sites for protected areas; by underpinning assessment of species extinction risk through the Red Listing process; and by tracking the actual and predicted spread of invasive alien species.\n"
-msgstr ""
+msgstr "Les données partagées via GBIF supportent la CONSERVATION, en aidant à identifier les sites les plus importants pour les zones protégées; en soutenant l'évaluation du risque d'extinction des espèces par le biais de l'établissement de listes rouges; et en suivant la propagation actuelle et prévue des espèces exotiques envahissantes.\n"
 
 #. type: Bullet: '- '
 #: scripts/intro-gbif.en.txt:12
@@ -2840,13 +2840,13 @@ msgstr ""
 #: scripts/intro-gbif.en.txt:16
 #, markdown-text, no-wrap
 msgid "And finally, data shared through GBIF supports HUMAN HEALTH, by tracking the distribution of species that act as vectors, hosts and reservoirs of human diseases; by helping to map medicinal plant species, and by assessing risks posted by significant public health hazards such as snakebite.\n"
-msgstr ""
+msgstr "Enfin, les données partagées via GBIF supportent la SANTÉ HUMAINE en suivant la distribution des espèces qui agissent en tant que vecteurs, hôtes et réservoirs de maladies humaines; en aidant à cartographier les espèces de plantes médicinales et en évaluant les risques posés par les dangers importants pour la santé publique tels que les morsures de serpents.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:18
 #, no-wrap
 msgid "GBIF provides technical solutions, but it is above all a global community - it's people collaborating to develop skills and good practices in the management, sharing and use of biodiversity data. This biodiversity informatics community of practice has over the years generated a variety of tools and guidance materials which are all freely available through the GBIF network, increasingly in multiple languages. At the heart of this collaboration is training, through the use of curricula and e-Learning - like the course you're following now. Another key feature is the use of our growing pool of volunteer mentors, experienced GBIF practitioners who help new colleagues to get started with advice and technical guidance. Today’s trainees soon become tomorrow’s mentors – and so the community of practice grows. GBIF’s network of nodes helps develop these skills both within a country’s institutions and through collaboration at regional and global levels. Through a range of programmes and partnerships, GBIF brings funding into projects that enhance biodiversity informatics capacity among countries and institutions. \n"
-msgstr ""
+msgstr "Le GBIF fournit des solutions techniques, mais il est avant tout une communauté mondiale - ce sont des personnes qui collaborent pour développer des compétences et des bonnes pratiques dans la gestion, le partage et l'utilisation des données sur la biodiversité. Cette communauté de pratique de l'informatique de la biodiversité a généré au fil des ans une variété d'outils et de documents d'orientation qui sont tous disponibles gratuitement par le biais du réseau GBIF, dans de plus en plus de langues. La formation est au cœur de cette collaboration, grâce à l'utilisation de programmes d'apprentissage en ligne, - comme le cours que vous suivez actuellement. Un autre élément clé est l'utilisation de notre pool croissant de mentors bénévoles, des praticiens expérimentés du GBIF qui aident les nouveaux collègues à démarrer en leur donnant des conseils et une orientation technique. Les stagiaires d'aujourd'hui deviennent rapidement les mentors de demain - et la communauté de pratique se développe ainsi. Le réseau de nœuds du GBIF contribue à développer ces compétences tant au sein des institutions d'un pays que par le biais d'une collaboration aux niveaux régional et mondial. Grâce à une série de programmes et de partenariats, le GBIF finance des projets qui renforcent les capacités informatiques en matière de biodiversité dans les pays et les institutions.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:20
@@ -2858,7 +2858,7 @@ msgstr "Alors bienvenue dans la communauté GBIF, et bonne chance! Si vous avez 
 #: scripts/intro-gbif.en.txt:22
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
-msgstr ""
+msgstr "Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données de biodiversité du GBIF. Le programme de mobilisation des données sur la biodiversité a été initialement développé dans le cadre du Programme Biodiversity Information Development financé par l'Union européenne. \n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:23
