@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-07 14:38\n"
+"PO-Revision-Date: 2021-06-21 23:12\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,89 +20,89 @@ msgstr ""
 #: index.en.adoc:1 about.en.adoc:16
 #, no-wrap
 msgid "Introduction to GBIF"
-msgstr ""
+msgstr "Introducción a GBIF"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <training@gbif.org>"
-msgstr ""
+msgstr "Secreariado de GBIF <training@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Block title
 #: index.en.adoc:22
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/2550098325[_Microporus xanthopus_^] (Fr.) Kuntze observed in Malaysia by siburanlai (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0^])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/2550098325[_Microporus xanthopus_^] (Fr.) Kuntze observado en Malasia por siburanlai (bajo licencia http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0^])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/web/Microporus_xanthopus.jpg"
-msgstr ""
+msgstr "img/web/Microporus_xanthopus.jpg"
 
 #. type: Title ==
 #: description.en.adoc:2
 #, no-wrap
 msgid "Course description"
-msgstr ""
+msgstr "Descripción del curso"
 
 #. type: delimited block *
 #: description.en.adoc:6
 msgid "This course provides an introduction to GBIF, the data available in GBIF's portal, accessing that data and information about engaging with GBIF and its community of practice."
-msgstr ""
+msgstr "Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos e información sobre el compromiso con GBIF y su comunidad de práctica."
 
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "Topics include:"
-msgstr ""
+msgstr "Los temas incluyen:"
 
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "Information about GBIF"
-msgstr ""
+msgstr "Información sobre GBIF"
 
 #. type: Title ===
 #: description.en.adoc:11 solutions.en.adoc:49
 #, no-wrap
 msgid "GBIF-mediated data"
-msgstr ""
+msgstr "Datos mediados por GBIF"
 
 #. type: Title ===
 #: description.en.adoc:12 data-publishing.en.adoc:2 solutions.en.adoc:76
 #, no-wrap
 msgid "Data publishing"
-msgstr ""
+msgstr "Publicación de datos"
 
 #. type: Title ===
 #: description.en.adoc:13 data-access.en.adoc:2 solutions.en.adoc:100
 #, no-wrap
 msgid "Data access"
-msgstr ""
+msgstr "Acceso a los datos"
 
 #. type: delimited block *
 #: description.en.adoc:14
 msgid "GBIF community of practice"
-msgstr ""
+msgstr "Comunidad de práctica GBIF"
 
 #. type: delimited block *
 #: description.en.adoc:16
 msgid "This course is comprised of video and written instruction and paired with quizzes and practical exercises."
-msgstr ""
+msgstr "Este curso se compone de vídeo e instrucciones escritas y emparejado con cuestionarios y ejercicios prácticos."
 
 #. type: Title ===
 #: description.en.adoc:18
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Público"
 
 #. type: Plain text
 #: description.en.adoc:21
 msgid "This course is designed for individuals who work in biodiversity research or policy institutions and contribute to or use data from the GBIF portal. The instruction provided is particularly useful for those who have a desire to know more about GBIF and its place in the biodiversity community and want to engage further with GBIF."
-msgstr ""
+msgstr "Este curso está diseñado para personas que trabajan en instituciones de investigación o políticas de biodiversidad y contribuyen o utilizan datos del portal de GBIF. La instrucción proporcionada es particularmente útil para aquellos que desean saber más sobre GBIF y su lugar en la comunidad de la biodiversidad y desean involucrarse más con GBIF."
 
 #. type: Title ===
 #: description.en.adoc:22
