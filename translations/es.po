@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-21 23:12\n"
+"PO-Revision-Date: 2021-06-22 00:09\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -108,12 +108,12 @@ msgstr "Este curso está diseñado para personas que trabajan en instituciones d
 #: description.en.adoc:22
 #, no-wrap
 msgid "Prerequisites"
-msgstr ""
+msgstr "Prerrequisitos"
 
 #. type: Plain text
 #: description.en.adoc:26
 msgid "There are no prerequisites for this course.  This course serves as a prerequisite for other GBIF courses."
-msgstr ""
+msgstr "No hay requisitos previos para este curso. Este curso es un prerequisito para otros cursos de GBIF."
 
 #. type: Plain text
 #: description.en.adoc:28
@@ -124,7 +124,7 @@ msgstr ""
 #: about.en.adoc:2
 #, no-wrap
 msgid "About GBIF "
-msgstr ""
+msgstr "Acerca de GBIF "
 
 #. type: Plain text
 #: about.en.adoc:8
