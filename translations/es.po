@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-22 14:13\n"
+"PO-Revision-Date: 2021-06-22 15:14\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -505,7 +505,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:38
 #, no-wrap
 msgid "GBIF taxonomic backbone"
-msgstr ""
+msgstr "Árbol taxonómico de GBIF"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:41
@@ -534,38 +534,38 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:52
 #, no-wrap
 msgid "*Why does GBIF need a backbone?* \n"
-msgstr ""
+msgstr "*¿Por qué GBIF necesita un árbol taxonómico?* \n"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:55
 msgid "The backbone is needed to organize the data available on GBIF.  Without it, we wouldn’t be able to do any taxonomic search and it would be difficult to generate consistent statistics and maps."
-msgstr ""
+msgstr "El árbol taxonómico es necesario para organizar los datos disponibles en GBIF. Sin este, no podríamos hacer ninguna búsqueda taxonómica y sería difícil generar estadísticas y mapas coherentes."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:59
 msgid "As you can imagine, not everyone uses the same classifications or names.  This results in considerable variations in higher taxa and a large number of synonyms.  The backbone aims to bring all these names together and organize them."
-msgstr ""
+msgstr "Como se puede imaginar, no todos utilizan los mismos nombres  o  clasificación taxonómica. Esto genera variaciones considerables en lo nombres de los niveles taxonómicos más altos y un gran número de sinónimos. El árbol taxonómico busca reunir todos estos nombres y organizarlos."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:61
 #, no-wrap
 msgid "*How is the backbone generated?*\n"
-msgstr ""
+msgstr "*¿Cómo se genera el árbol taxonómico?*\n"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:63
 msgid "The backbone is built from other checklists. These include:"
-msgstr ""
+msgstr "El árbol taxonómico se construye a partir de otras listas de especies. Estas incluyen:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:65
 msgid "55 authority checklists,"
-msgstr ""
+msgstr "55 listas de autoridades taxonómicas,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:66
 msgid "a checklist generated from the type specimens shared on GBIF,"
-msgstr ""
+msgstr "una lista de especies generada a partir de los especímenes tipo compartidos en GBIF,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:67
@@ -580,7 +580,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:71
 msgid "These checklists are ordered by priority starting with the Catalogue of Life for most taxa.  This order is crucial as it shapes the taxonomy."
-msgstr ""
+msgstr "Estas listas se ordenan por prioridad comenzando con el Catálogo de Vida para la mayoría de los taxones. Este orden es crucial ya que da forma a la taxonomía del árbol."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:73
@@ -596,12 +596,12 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:78
 #, no-wrap
 msgid "Principles of GBIF-mediated data"
-msgstr ""
+msgstr "Principios de los datos mediados por GBIF"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:82
 msgid "In this section, you will learn about the principles that GBIF follows with regards to data and how data in the GBIF portal are FAIR."
-msgstr ""
+msgstr "En esta sección aprenderás sobre los principios que sigue GBIF respecto a los datos y cómo los datos en el portal de GBIF son FAIR."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:83
@@ -622,12 +622,12 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:91
 msgid "datasets from the GBIF network"
-msgstr ""
+msgstr "conjuntos de datos de la red de GBIF"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:92
 msgid "data downloads from GBIF.org"
-msgstr ""
+msgstr "descargas de datos de GBIF.org"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:93
@@ -653,7 +653,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:102
 #, no-wrap
 msgid "Standards"
-msgstr ""
+msgstr "Estándares"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:105
@@ -689,7 +689,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:117
 #, no-wrap
 msgid "Open data"
-msgstr ""
+msgstr "Datos abiertos"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:120
@@ -771,7 +771,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:155
 #, no-wrap
 msgid "*INTEROPERABLE*\n"
-msgstr ""
+msgstr "*INTEROPERABLE*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:157
@@ -864,7 +864,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:197
 msgid "global trends"
-msgstr ""
+msgstr "tendencias globales"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:198
@@ -879,7 +879,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:200
 msgid "dataset download activity"
-msgstr ""
+msgstr "actividad de descarga del conjunto de datos"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:203
@@ -894,7 +894,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:207
 msgid "occurrence records"
-msgstr ""
+msgstr "registros biológicos"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:208
@@ -909,7 +909,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:210
 msgid "completeness and precision"
-msgstr ""
+msgstr "completitud y precisión"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:211
