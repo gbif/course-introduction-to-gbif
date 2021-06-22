@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-22 01:18\n"
+"PO-Revision-Date: 2021-06-22 02:17\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -453,7 +453,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:19
 #, no-wrap
 msgid "GBIF dataset classes"
-msgstr ""
+msgstr "Tipos de conjuntos de datos"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:23
@@ -469,7 +469,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:26
 #, no-wrap
 msgid "img/web/QDataTypes-types.png"
-msgstr ""
+msgstr "img/web/QDataTypes-types.png"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:29
