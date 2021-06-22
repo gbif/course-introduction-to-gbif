@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-22 02:17\n"
+"PO-Revision-Date: 2021-06-22 14:13\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -511,7 +511,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:41
 #, no-wrap
 msgid "*What is the GBIF Backbone taxonomy?*\n"
-msgstr ""
+msgstr "*¿Qué es el árbol taxonómico de GBIF?*\n"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:44
