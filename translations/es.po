@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-22 15:14\n"
+"PO-Revision-Date: 2021-06-23 13:35\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -193,7 +193,7 @@ msgstr "Investiga cómo tu país/economía está representado/a en GBIF"
 #: about.en.adoc:47
 #, no-wrap
 msgid "The GBIF website has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/economy name."
-msgstr ""
+msgstr "El sitio web de GBIF tiene páginas dedicadas a países/economías, incluyendo para países/economías que aún no participan en GBIF. Puede usar la barra de búsqueda en la página principal para buscar un nombre de país/economía."
 
 #. type: Target for macro image
 #: about.en.adoc:48
@@ -463,7 +463,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:25
 msgid "The four classes of datasets supported by GBIF start simply and become progressively richer, more structured and more complex."
-msgstr ""
+msgstr "Las cuatro clases de conjuntos de datos soportados por GBIF comienzan con una estructura simple y se vuelven progresivamente más completos, estructurados y complejos."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:26
@@ -516,7 +516,7 @@ msgstr "*¿Qué es el árbol taxonómico de GBIF?*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:44
 msgid "The Backbone taxonomy is actually a https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[GBIF dataset^].  But not just any dataset, it is probably the most important dataset for GBIF. On its page, it is defined as:"
-msgstr ""
+msgstr "El árbol taxonómico es en realidad un https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[conjunto de datos^]. Pero no es cualquier conjunto de datos, es probablemente el conjunto de datos más importante para GBIF. En su página se define como:"
 
 #. type: delimited block -
 #: gbif-mediated-data.en.adoc:47
@@ -528,7 +528,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:49
 #, no-wrap
 msgid "img/web/backbone.png"
-msgstr ""
+msgstr "img/web/backbone.png"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:52
@@ -1267,7 +1267,7 @@ msgstr ""
 #: data-publishing.en.adoc:92
 #, no-wrap
 msgid "*Dataset DOI*\n"
-msgstr ""
+msgstr "*DOI del conjuntos de datos*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:94
@@ -2323,7 +2323,7 @@ msgstr ""
 #: solutions.en.adoc:18
 #, no-wrap
 msgid "*When was GBIF established?*\n"
-msgstr ""
+msgstr "*¿Cuándo se estableció GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:20
@@ -2485,7 +2485,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:75
 msgid "True"
-msgstr ""
+msgstr "Verdadero"
 
 #. type: Plain text
 #: solutions.en.adoc:79
@@ -2561,12 +2561,12 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "GBIF.org search interface"
-msgstr ""
+msgstr "Interfaz de búsqueda de GBIF.org"
 
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "GBIF API"
-msgstr ""
+msgstr "API de GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:109
