@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-23 18:14\n"
+"PO-Revision-Date: 2021-06-23 19:28\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -590,7 +590,7 @@ msgstr ""
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:76
 msgid "The information above is an excerpt from a 2019 blog post by Marie Grosjean. Read the https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[blog post^] for more detail on the backbone."
-msgstr ""
+msgstr "La información anterior es un extracto de una entrada de blog de Marie Grosjean. Lee la https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[entrada de blog^] para más detalles sobre el árbol taxonómico."
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:78
@@ -869,7 +869,7 @@ msgstr "tendencias globales"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:198
 msgid "country pages"
-msgstr ""
+msgstr "páginas de país"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:199
@@ -951,7 +951,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:222
 msgid "Occurrences per year"
-msgstr ""
+msgstr "Registros biológicos por año"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:224
