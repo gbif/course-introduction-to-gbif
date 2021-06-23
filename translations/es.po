@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-23 19:28\n"
+"PO-Revision-Date: 2021-06-23 20:43\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -956,7 +956,7 @@ msgstr "Registros biológicos por año"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:224
 msgid "The charts/tables are interactive and you can click to filter and explore further. Additionally, the images can be downloaded for reporting purposes."
-msgstr ""
+msgstr "Las tablas y gráficos son interactivos, usted puede hacer clic para filtrar y explorar. Además, las gráficas se pueden descargar con fines informativos."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:225
@@ -973,7 +973,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:230
 msgid "There is a third tab in occurrence dataset pages labelled ‘Activity’. In this tab you can see a list of all download requests that included records from that dataset, including their download DOI for easy tracking."
-msgstr ""
+msgstr "Hay una tercera pestaña en la página de los conjuntos de datos de registros biológicos etiquetada como 'Actividad'. En esta pestaña puede ver una lista de todas las solicitudes de descarga que incluyen registros de ese conjunto de datos, incluyendo el DOI de la descarga para un seguimiento fácil."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:231
@@ -1018,7 +1018,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:266
 msgid "Which licenses or waivers can be applied to datasets published in GBIF?"
-msgstr ""
+msgstr "¿Qué licencias o exenciones se pueden aplicar a los conjuntos de datos publicados en GBIF?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:277
@@ -1037,27 +1037,29 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:280
 msgid "Images are subject to the same licenses as datasets?"
-msgstr ""
+msgstr "¿Las imágenes están sujetas a las mismas licencias que los conjuntos de datos?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:285 data-publishing.en.adoc:273
 #, no-wrap
 msgid "- [ ] True\n"
 "- [x] False\n"
-msgstr ""
+msgstr "- [ ] Verdadero\n"
+"- [x] Falso\n"
 
 #.  Question 5
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:288
 msgid "GBIF data are FAIR?"
-msgstr ""
+msgstr "¿Los datos de GBIF son FAIR?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:293
 #, no-wrap
 msgid "- [x] True\n"
 "- [ ] False\n"
-msgstr ""
+msgstr "- [x] Verdadero\n"
+"- [ ] Falso\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:6
@@ -1068,7 +1070,7 @@ msgstr ""
 #: data-publishing.en.adoc:7
 #, no-wrap
 msgid "What is data publishing?"
-msgstr ""
+msgstr "¿Qué es la publicación de datos?"
 
 #. type: Plain text
 #: data-publishing.en.adoc:11
@@ -1100,7 +1102,7 @@ msgstr ""
 #: data-publishing.en.adoc:20
 #, no-wrap
 msgid "Incentives for publishing open-access biodiversity data"
-msgstr ""
+msgstr "Incentivos para publicar datos abiertos sobre biodiversidad"
 
 #. type: Plain text
 #: data-publishing.en.adoc:24
