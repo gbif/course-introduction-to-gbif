@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-23 20:43\n"
+"PO-Revision-Date: 2021-06-23 21:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1159,7 +1159,7 @@ msgstr ""
 #: data-publishing.en.adoc:42
 #, no-wrap
 msgid "*The GBIF Memorandum of Understanding*\n"
-msgstr ""
+msgstr "*Memorando de Entendimiento de GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:45
