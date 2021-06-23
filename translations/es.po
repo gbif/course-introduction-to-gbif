@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-23 13:35\n"
+"PO-Revision-Date: 2021-06-23 18:14\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -499,7 +499,7 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:37
 msgid "You might also want to explore https://data-blog.gbif.org/post/choose-dataset-type/[how to choose a dataset type^]."
-msgstr ""
+msgstr "También puede explorar https://data-blog.gbif.org/post/choose-dataset-type/[cómo elegir un tipo de conjunto de datos ^]."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:38
