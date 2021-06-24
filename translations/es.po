@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-23 22:53\n"
+"PO-Revision-Date: 2021-06-24 00:03\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1504,13 +1504,13 @@ msgstr ""
 #. type: Plain text
 #: data-publishing.en.adoc:190
 msgid "You start by uploading the dataset file to the validator, either by 1) clicking SELECT FILE and selecting it on your local computer or 2) dragging the file from a local folder and dropping it on the Drop here icon.  You can also enter the URL of a dataset file accessible from the internet.  This is particularly useful for larger datasets. Once you hit the Submit button, the validator starts processing your dataset file.  You will be taken straight to a page showing the status of the validation."
-msgstr ""
+msgstr "Comienze subiendo el archivo del conjunto de datos al validador, o bien 1) haciendo clic en SELECCIONAR UN ARCHIVO y seleccionándolo de su equipo local o 2) arrastrando el archivo desde una carpeta local y soltándolo en el icono  SOLTAR AQUÍ. También puede introducir la URL de conjunto de datos accesible desde Internet, esto es particularmente útil para conjuntos de datos más grandes. Una vez que pulse el botón ENVIAR, el validador comienzará a procesar su conjuntos de datos y le llevará directamente a una página que muestra el estado de la validación."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:191
 #, no-wrap
 msgid "img/web/quality11.png"
-msgstr ""
+msgstr "img/web/quality11.png"
 
 #. type: Plain text
 #: data-publishing.en.adoc:197
