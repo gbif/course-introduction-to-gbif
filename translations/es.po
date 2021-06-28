@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-28 16:01\n"
+"PO-Revision-Date: 2021-06-28 20:57\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -447,7 +447,7 @@ msgstr "Cuando nos referimos a los datos primarios de biodiversidad, nos referim
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:18
 msgid "The GBIF network draws all these sources together through the use of data standards, such as Darwin Core, which forms the basis for the bulk of GBIF.org's index of hundreds of millions of species occurrence records.  Publishers provide open access to their datasets using machine-readable Creative Commons licence designations, allowing scientists, researchers and others to apply the data in hundreds of peer-reviewed publications and policy papers each year.  Many of these analyses—which cover topics from the impacts of climate change and the spread of invasive and alien pests to priorities for conservation and protected areas, food security and human health— would not be possible without this."
-msgstr ""
+msgstr "La red GBIF reúne todas estas fuentes a través del uso de estándares de datos, como Darwin Core, que constituye la base de la mayor parte del índice de cientos de millones de registros de ocurrencia de especies de GBIF.org. Los publicadores proporcionan acceso abierto a sus conjuntos de datos usando licencias Creative Commons legibles por computadoras, permitiendo a los científicos, investigadores y otras personas aplicar los datos en cientos de publicaciones  revisadas por pares y documentos de políticas cada año. Sin ello, muchos de estos análisis, que cubren temas desde los impactos del cambio climático y la propagación de plagas invasoras y exóticas hasta las prioridades para la conservación y para las áreas protegidas. la seguridad alimentaria y la salud humana — no serían posibles."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:19
@@ -458,7 +458,7 @@ msgstr "Tipos de conjuntos de datos"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:23
 msgid "We encourage data holders to publish the richest data possible to ensure their use across a wider range of research approaches and questions, but not every dataset includes information at the same level of detail.  Sharing what is available through GBIF.org is valuable, because even partial information answers some important questions."
-msgstr ""
+msgstr "Alentamos a los poseedores de datos a publicarlos de la forma más rica posible para asegurar su uso a través de una amplia gama de enfoques y preguntas de investigación, pero no todos los conjuntos de datos incluyen información con el mismo nivel de detalle. Compartir lo que está disponible a través de GBIF.org es valioso, ya que incluso la información parcial puede responder a algunas preguntas importantes."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:25
@@ -474,27 +474,27 @@ msgstr "img/web/QDataTypes-types.png"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:29
 msgid "Meta-data only - datasets describing *undigitized* resources like those in natural history and other collections"
-msgstr ""
+msgstr "Solo metadatos - conjuntos de datos que describen recursos *no digitalizados* como aquellos contenidos en colecciones de historia natural y en otras colecciones"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:30
 msgid "Checklist - a *catalogue* or list of named organisms, or taxa"
-msgstr ""
+msgstr "Lista de especies (\"checklist\") - un *catálogo* o lista de organismos nombrados, o taxones"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:32
 msgid "Occurrence - the evidence of the *occurrence of a species* (or other taxon) at a particular place on a specified date.  Occurrence datasets make up the core of data published through GBIF.org"
-msgstr ""
+msgstr "Ocurrencia - la evidencia sobre la *presencia de una especie* (u otro taxón) en un lugar determinado en una fecha determinada. Los conjuntos de datos de ocurrencia constituyen la parte central de los datos publicados a través de GBIF.org"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:33
 msgid "Sampling-event - offering evidence that a species occurred at a given location and date, but also making it possible to *assess community composition* for broader taxonomic groups or even the *abundance of species* at multiple times and places."
-msgstr ""
+msgstr "Evento de muestreo - ofrece evidencia de que una especie ocurrió en una determinada ubicación y fecha, pero también haciendo posible *evaluar la composición de la comunidad* para grupos taxonómicos más amplios o incluso la *abundancia de especies* en múltiples tiempos y lugares."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:35
 msgid "More information on https://www.gbif.org/dataset-classes[dataset classes^] can be found on the GBIF website."
-msgstr ""
+msgstr "Más información en https://www.gbif.org/dataset-classes[tipos de conjuntos de datos^] en el sitio web de GBIF."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:37
