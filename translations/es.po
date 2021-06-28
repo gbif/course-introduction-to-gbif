@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-06-28 20:57\n"
+"PO-Revision-Date: 2021-06-28 21:55\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -25,7 +25,7 @@ msgstr "Introducción a GBIF"
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <training@gbif.org>"
-msgstr "Secreariado de GBIF <training@gbif.org>"
+msgstr "Secretariado de GBIF <training@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:17
@@ -522,7 +522,7 @@ msgstr "El árbol taxonómico es en realidad un https://www.gbif.org/dataset/d7d
 #: gbif-mediated-data.en.adoc:47
 #, no-wrap
 msgid "a single synthetic management classification with the goal of covering all names GBIF is dealing with\n"
-msgstr ""
+msgstr "una clasificación operativa única y sintética con el fin de cubrir todos los nombres con los que GBIF trata\n"
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:49
@@ -607,7 +607,7 @@ msgstr "En esta sección aprenderás sobre los principios que sigue GBIF respect
 #: gbif-mediated-data.en.adoc:83
 #, no-wrap
 msgid "Digital object identifiers"
-msgstr ""
+msgstr "Identificadores de objeto digital"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:87
@@ -632,12 +632,12 @@ msgstr "descargas de datos de GBIF.org"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:93
 msgid "research articles and reports published by scientific journals, agencies and NGOs"
-msgstr ""
+msgstr "artículos de investigación e informes publicados por revistas científicas, agencias y ONGs"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:94
 msgid "materials deposited in a general-use repository"
-msgstr ""
+msgstr "materiales depositados en un repositorio de uso general"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:98
@@ -668,12 +668,12 @@ msgstr ""
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:109
 msgid "Commonly use standards include:"
-msgstr ""
+msgstr "Los estándares de uso común incluyen:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:112
 msgid "Darwin Core: The https://dwc.tdwg.org/[Darwin Core Standard^] (DwC) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources.  The majority of the datasets shared through GBIF.org are published using the Darwin Core Archive format (DwC-A)."
-msgstr ""
+msgstr "Darwin Core: El https://dwc.tdwg.org/[Estándar Darwin Core^] (DwC) ofrece un marco estable, sencillo y flexible para compilar datos de biodiversidad de fuentes variadas y variables. La mayoría de los conjuntos de datos compartidos a través de GBIF.org se publican utilizando el formato de Archivo Darwin Core (DwC-A)."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:115
@@ -743,7 +743,7 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:140
 #, no-wrap
 msgid "*Data found on GBIF.org are FAIR.*\n"
-msgstr ""
+msgstr "*Los datos que se encuentran en GBIF.org son FAIR.*\n"
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:143
@@ -793,52 +793,52 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:167
 #, no-wrap
 msgid "*Literature references*\n"
-msgstr ""
+msgstr "*Referencias bibliográficas*\n"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:169
 msgid "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: 452-454 (26 May 2016) doi:10.1038/533452a"
-msgstr ""
+msgstr "Baker (2016) 1,500 scientists lift the lid on reproducibility. Nature 533: 452-454 (26 May 2016) doi:10.1038/533452a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:171
 msgid "Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 (29 September 2016) doi:10.1038/nj7622-703a"
-msgstr ""
+msgstr "Baker (2016) Reproducibility: Seek out stronger science. Nature 537: 703-704 (29 September 2016) doi:10.1038/nj7622-703a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:173
 msgid "Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a"
-msgstr ""
+msgstr "Nature editorial (2016) Reality check on reproducibility. Nature 533: 437 (26 May 2016) doi:10.1038/533437a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:175
 msgid "Baker (2016) Statisticians issue warning over misuse of P values. Nature 531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
-msgstr ""
+msgstr "Baker (2016) Statisticians issue warning over misuse of P values. Nature 531: 151 (10 March 2016) doi:10.1038/nature.2016.19503"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:177
 msgid "Nosek et al. (2015) Promoting an open research culture. Science 348(6242): 1422-1425. DOI:10.1126/science.aab2374"
-msgstr ""
+msgstr "Nosek et al. (2015) Promoting an open research culture. Science 348(6242): 1422-1425. DOI:10.1126/science.aab2374"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:179
 msgid "Leek and Peng (2015) Statistics: P values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612°"
-msgstr ""
+msgstr "Leek and Peng (2015) Statistics: P values are just the tip of the iceberg. Nature 520: 612 (30 April 2015) doi:10.1038/520612"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:181
 msgid "Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a"
-msgstr ""
+msgstr "Nuzzo (2015) How scientists fool themselves – and how they can stop. Nature 526: 182–185 (08 October 2015) doi:10.1038/526182a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:183
 msgid "Hayden (2013) Weak statistical standards implicated in scientific irreproducibility. Nature doi:10.1038/nature.2013.14131"
-msgstr ""
+msgstr "Hayden (2013) Weak statistical standards implicated in scientific irreproducibility. Nature doi:10.1038/nature.2013.14131"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:185
 msgid "Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) doi:10.1038/485298a"
-msgstr ""
+msgstr "Young (2012) Replication studies: Bad copy. Nature 485, 298–300 (17 May 2012) doi:10.1038/485298a"
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:187
