@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-05-12 13:51\n"
+"PO-Revision-Date: 2021-07-12 11:41\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -58,7 +58,7 @@ msgstr "Ce cours fournit une introduction au GBIF, aux données disponibles sur 
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "Topics include:"
-msgstr "Sujets inclus:"
+msgstr "Sujets inclus :"
 
 #. type: delimited block *
 #: description.en.adoc:10
@@ -144,12 +144,12 @@ msgstr "Qu'est-ce que le GBIF ?"
 #. type: Plain text
 #: about.en.adoc:13
 msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
-msgstr "Dans cette vidéo (03:23) vous apprendrez à connaitre le GBIF au travers d'une animation. Il s'agit d'une coproduction de SiB Colombie et de GBIF Espagne, deux nœuds nationaux du GBIF, avec un cofinancement du GBIF Espagne et de l'Instituto de Investigación de Recursos Biologicos Alexander von Humboldt (IAvH). La vidéo est en espagnol, mais les sous-titres sont disponibles. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:./videos/GBIF-La-biblioteca-de-la-vida.mp4[télécharger^,opts=télécharger] localement. (MP4 - 19.3 MB)"
+msgstr "Dans cette vidéo (03:23) vous apprendrez à connaitre le GBIF au travers d'une animation. Il s'agit d'une coproduction de SiB Colombie et de GBIF Espagne, deux nœuds nationaux du GBIF, avec un cofinancement du GBIF Espagne et de l'Instituto de Investigación de Recursos Biologicos Alexander von Humboldt (IAvH). La vidéo est en espagnol, mais les sous-titres sont disponibles. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:./videos/GBIF-La-biblioteca-de-la-vida.mp4[télécharger^,opts=download] localement. (MP4 - 19.3 MB)"
 
 #. type: Plain text
 #: about.en.adoc:21
 msgid "In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, provides you with an overview of GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Introduction-to-GBIF.mp4[download^,opts=download] it locally. (MP4 - 32.3 MB)"
-msgstr "Dans cette vidéo (07:55), Tim Hirsch, directeur adjoint du secrétariat GBIF, vous donne un aperçu du GBIF.  Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Introduction-to-GBIF.mp4 [télécharger^,opts=télécharger] localement. (MP4 - 32.3 MB)"
+msgstr "Dans cette vidéo (07:55), Tim Hirsch, directeur adjoint du secrétariat GBIF, vous donne un aperçu du GBIF.  Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Introduction-to-GBIF.mp4[télécharger^,opts=download] localement. (MP4 - 32.3 MB)"
 
 #. type: Title ===
 #: about.en.adoc:24
@@ -160,7 +160,7 @@ msgstr "Introduction aux nœuds participants du GBIF"
 #. type: Plain text
 #: about.en.adoc:32
 msgid "Since GBIF’s founding in 2001, the participating countries and organizations have been testing and developing models for coordinating the mobilization, management and reuse of biodiversity data at the national level or within an organization’s scope.  The formation of Participant ‘nodes’ has been central to these efforts.  Designated by each Participant, these teams coordinate the needs and interests of the many stakeholders involved.  In this video (07:53), we look at the variety of node models in the GBIF network to present generalized concepts relating to Participant nodes and the roles that they play in the GBIF community.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Role-of-nodes-in-GBIF.mp4[download^,opts=download] it locally. (MP4 - 14.0 MB)"
-msgstr "Depuis la création du GBIF en 2001, les pays et organisations participants ont testé et développé des modèles pour coordonner la mobilisation, la gestion et la réutilisation des données de biodiversité au niveau national ou dans le cadre d'une organisation.  La formation de 'nœuds' Participants a été au cœur de ces efforts.  Désignées par chaque Participant, ces équipes coordonnent les besoins et les intérêts des nombreuses parties prenantes.  Dans cette vidéo (07:53), nous examinons la variété des modèles de nœuds du réseau GBIF afin de présenter des concepts généraux relatifs aux nœuds de participants et aux rôles qu'ils jouent dans la communauté GBIF.  Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Role-of-nodes-in-GBIF.mp4 [télécharger^,opts=télécharger localement. (MP4 - 14.0 MB)"
+msgstr "Depuis la création du GBIF en 2001, les pays et organisations participants ont testé et développé des modèles pour coordonner la mobilisation, la gestion et la réutilisation des données de biodiversité au niveau national ou dans le cadre d'une organisation.  La formation de 'nœuds' Participants a été au cœur de ces efforts.  Désignées par chaque Participant, ces équipes coordonnent les besoins et les intérêts des nombreuses parties prenantes.  Dans cette vidéo (07:53), nous examinons la variété des modèles de nœuds du réseau GBIF afin de présenter des concepts généraux relatifs aux nœuds de participants et aux rôles qu'ils jouent dans la communauté GBIF.  Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Role-of-nodes-in-GBIF.mp4[télécharger^,opts=download] localement. (MP4 - 14.0 MB)"
 
 #. type: delimited block =
 #: about.en.adoc:37
@@ -171,7 +171,7 @@ msgstr "*Conseils supplémentaires pour les nœuds*\n"
 #. type: delimited block =
 #: about.en.adoc:39
 msgid "https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an effective GBIF Participant Node^]"
-msgstr "https://docs.gbif.org/effective-nodes-guidance/1.0/fr/[Établir un nœud participant GBIF effectif^]"
+msgstr "https://docs.gbif.org/effective-nodes-guidance/1.0/fr/[Établir un nœud participant GBIF efficace^]"
 
 #. type: delimited block =
 #: about.en.adoc:40
@@ -248,14 +248,14 @@ msgstr "Une liste d'espèces exotiques envahissantes et introduites est-elle dis
 #. type: delimited block *
 #: about.en.adoc:62
 msgid "How well does the information available on GBIF reflect what you know about the biodiversity of your country?"
-msgstr "Dans quelle mesure les informations disponibles sur le GBIF reflètent-elles ce que vous savez sur la biodiversité de votre pays?"
+msgstr "Dans quelle mesure les informations disponibles sur le GBIF reflètent-elles ce que vous savez sur la biodiversité de votre pays ?"
 
 #. type: Title ===
 #: about.en.adoc:64 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
 #: data-access.en.adoc:83 community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
-msgstr "Revue"
+msgstr "Révision"
 
 #. type: Plain text
 #: about.en.adoc:68 gbif-mediated-data.en.adoc:237
@@ -281,7 +281,7 @@ msgstr "- [ ] Un réseau intergouvernemental et une infrastructure de recherche\
 #. type: Plain text
 #: about.en.adoc:86
 msgid "When was GBIF established?"
-msgstr "Quand le GBIF a-t-il été établi?"
+msgstr "Quand le GBIF a-t-il été établi ?"
 
 #. type: delimited block .
 #: about.en.adoc:92
@@ -297,7 +297,7 @@ msgstr "- [ ] 1992\n"
 #. type: Plain text
 #: about.en.adoc:95
 msgid "Which of the following is the best description of a GBIF Participant node?"
-msgstr "Parmi les énoncés suivants, lequel donne la meilleure description d'un nœud participant du GBIF?"
+msgstr "Parmi les énoncés suivants, lequel donne la meilleure description d'un nœud participant du GBIF ?"
 
 #. type: delimited block .
 #: about.en.adoc:102
@@ -315,7 +315,7 @@ msgstr "- [ ] Un bureau national GBIF financé par le Secrétariat du GBIF\n"
 #. type: Plain text
 #: about.en.adoc:105
 msgid "Which of the following is NOT a typical function of a GBIF Participant node?"
-msgstr "Lequel des énoncés suivants n'est PAS une fonction typique d'un nœud de participant au GBIF?"
+msgstr "Lequel des énoncés suivants n'est PAS une fonction typique d'un nœud de participant au GBIF ?"
 
 #. type: delimited block .
 #: about.en.adoc:113
@@ -335,7 +335,7 @@ msgstr "- [ ] Coordonner une communauté d'initiatives relatives à l'informatio
 #. type: Plain text
 #: about.en.adoc:116
 msgid "What is a GBIF Participant?"
-msgstr "Qu'est-ce qu'un participant au GBIF?"
+msgstr "Qu'est-ce qu'un participant au GBIF ?"
 
 #. type: delimited block .
 #: about.en.adoc:123
@@ -353,7 +353,7 @@ msgstr "- [ ] La personne désignée par un pays/une économie/une organisation 
 #. type: Plain text
 #: about.en.adoc:126
 msgid "What is a GBIF Head of Delegation?"
-msgstr "Qu'est-ce qu'un chef de délégation du GBIF?"
+msgstr "Qu'est-ce qu'un chef de délégation du GBIF ?"
 
 #. type: delimited block .
 #: about.en.adoc:133
@@ -363,7 +363,7 @@ msgid "- [ ] The person designated by a participating country/economy/organizati
 "- [ ]  The broader structure of people and institutions, coordinated by the node, that collectively forms an infrastructure for delivering biodiversity information to relevant stakeholders\n"
 "- [x] The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making\n"
 msgstr "- [ ] La personne désignée par un pays/une économie/une organisation participant(e) pour gérer les activités du nœud afin de coordonner un service d'information sur la biodiversité\n"
-"- [] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
+"- [ ] Un pays, une économie ou une organisation qui rejoint le GBIF en signant le protocole d'accord et en établissant un effort coordonné pour soutenir le libre accès et l'utilisation des données de biodiversité, pour faire progresser la recherche scientifique et pour promouvoir le développement technologique et durable\n"
 "- [ ]  La structure plus générale de personnes et d'institutions, coordonnées par le nœud, qui forment collectivement une infrastructure pour fournir des informations sur la biodiversité aux parties prenantes concernées\n"
 "- [x]  La personne désignée par le pays/économie/organisation participant(e) pour le représenter au conseil d'administration du GBIF et prendre part à la prise de décision au niveau mondial\n"
 
@@ -371,7 +371,7 @@ msgstr "- [ ] La personne désignée par un pays/une économie/une organisation 
 #. type: Plain text
 #: about.en.adoc:136
 msgid "What is a Biodiversity information facility?"
-msgstr "Qu'est-ce qu'un service d'information sur la Biodiversité?"
+msgstr "Qu'est-ce qu'un service d'information sur la Biodiversité ?"
 
 #. type: delimited block .
 #: about.en.adoc:143
@@ -389,7 +389,7 @@ msgstr "- [ ] La personne désignée par un pays/une économie/une organisation 
 #. type: Plain text
 #: about.en.adoc:146
 msgid "What is a Node manager?"
-msgstr "Qu'est-ce qu'un gestionnaire de nœud?"
+msgstr "Qu'est-ce qu'un gestionnaire de nœud ?"
 
 #. type: delimited block .
 #: about.en.adoc:153
@@ -407,14 +407,14 @@ msgstr "- [x] La personne désignée par un pays/une économie/une organisation 
 #. type: Plain text
 #: about.en.adoc:156
 msgid "Who designates the institution that hosts the GBIF Participant node?"
-msgstr "Qui désigne l'institution qui héberge le nœud participant au GBIF?"
+msgstr "Qui désigne l'institution qui héberge le nœud participant au GBIF ?"
 
 #. type: delimited block .
 #: about.en.adoc:161
 #, no-wrap
 msgid "- [x] The Head of Delegation\n"
 "- [ ] The GBIF Secretariat\n"
-msgstr "[x] Le Responsable de Délégation\n"
+msgstr "- [x] Le Responsable de Délégation\n"
 "- [ ] Le Secrétariat du GBIF\n"
 
 #. type: Title ==
@@ -426,7 +426,7 @@ msgstr "Les données obtenues via GBIF "
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:6
 msgid "In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data. You will also have a chance to review the various metrics that are available for the data within the portal."
-msgstr "Dans ce module, vous découvrirez les données primaires sur la biodiversité et les principes que le GBIF suit en matière de données. Vous aurez également l'occasion d'examiner les différents indicateurs disponibles pour les données du portail."
+msgstr "Dans ce module, vous en apprendrez davantage sur les données primaires sur la biodiversité et les principes que le GBIF suit en matière de données. Vous aurez également l'occasion d'examiner les différents indicateurs disponibles pour les données du portail."
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:7
@@ -442,7 +442,7 @@ msgstr "Dans cette section, vous apprendrez comment GBIF rend les données prima
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:14
 msgid "When we refer to primary biodiversity data, we mean the data that document where and when species have been recorded.  This knowledge derives from many sources, including everything from museum specimens collected in the 18th and 19th century to geotagged smartphone photos shared by amateur naturalists in recent days and weeks."
-msgstr "Lorsque nous faisons référence aux données primaires sur la biodiversité, nous entendons les données qui documentent où et quand les espèces ont été enregistrées.  Ces connaissances proviennent de nombreuses sources, depuis les spécimens de musées collectés aux 18e et 19e siècles jusqu'aux photos géolocalisées prises sur des smartphones par des naturalistes amateurs au cours des derniers jours et des dernières semaines."
+msgstr "Lorsque nous faisons référence aux données primaires sur la biodiversité, nous parlons des données qui documentent où et quand les espèces ont été enregistrées.  Ces connaissances proviennent de nombreuses sources, depuis les spécimens de musées collectés aux 18ème et 19ème siècles jusqu'aux photos géolocalisées prises sur des téléphones intelligents par des naturalistes amateurs au cours des derniers jours et des dernières semaines."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:18
@@ -494,7 +494,7 @@ msgstr "Événement d'échantillonnage - offre la preuve qu'une espèce a été 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:35
 msgid "More information on https://www.gbif.org/dataset-classes[dataset classes^] can be found on the GBIF website."
-msgstr "Plus d'informations sur les https://www.gbif.org/dataset-classes[classes de jeu de données^] peuvent être trouvées sur le site Web du GBIF."
+msgstr "Plus d'informations sur les https://www.gbif.org/dataset-classes[classes de jeux de données^] peuvent être trouvées sur le site Web du GBIF."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:37
@@ -511,12 +511,12 @@ msgstr "Ossature taxonomique du GBIF"
 #: gbif-mediated-data.en.adoc:41
 #, no-wrap
 msgid "*What is the GBIF Backbone taxonomy?*\n"
-msgstr "*Qu'est-ce que l'Ossature taxonomique du GBIF?*\n"
+msgstr "*Qu'est-ce que l'Ossature taxonomique du GBIF ?*\n"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:44
 msgid "The Backbone taxonomy is actually a https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[GBIF dataset^].  But not just any dataset, it is probably the most important dataset for GBIF. On its page, it is defined as:"
-msgstr "L'Ossature taxonomique est en fait un https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[jeu de données GBIF^]. Mais pas n'importe quel jeu de données, c'est probablement le jeu de données le plus important pour le GBIF. Sur sa page, il est défini comme:"
+msgstr "L'Ossature taxonomique est en fait un https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c[jeu de données GBIF^]. Mais pas n'importe quel jeu de données, c'est probablement le jeu de données le plus important pour le GBIF. Sur sa page, il est défini comme :"
 
 #. type: delimited block -
 #: gbif-mediated-data.en.adoc:47
@@ -534,7 +534,7 @@ msgstr "img/web/backbone.png"
 #: gbif-mediated-data.en.adoc:52
 #, no-wrap
 msgid "*Why does GBIF need a backbone?* \n"
-msgstr "*Pourquoi le GBIF a-t-il besoin d'une ossature taxonomique?*\n"
+msgstr "*Pourquoi le GBIF a-t-il besoin d'une ossature taxonomique ?*\n"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:55
@@ -555,7 +555,7 @@ msgstr "*Comment l'ossature est-elle générée ?*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:63
 msgid "The backbone is built from other checklists. These include:"
-msgstr "L'ossature est construite à partir d'autres listes taxonomiques. Celles-ci incluent:"
+msgstr "L'ossature est construite à partir d'autres listes taxonomiques. Celles-ci incluent :"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:65
@@ -642,7 +642,7 @@ msgstr "les documents déposés dans un dépôt à usage général"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:98
 msgid "GBIF assigns DOIs to all datasets and occurrence downloads.  When data is used, following DOI https://www.gbif.org/citation-guidelines[citation practice^] ensures an easy and consistent way of crediting dataset holders while also allowing for reproducibility.  The DOIs will always resolve to dataset or download pages, even if the underlying data is no longer available."
-msgstr "Le GBIF assigne des DOI à tous les jeux de données et téléchargements d'occurrences. Lorsque des données sont utilisées, suivre les https://www.gbif. rg/citation-guidelines[règles de citation^] DOI offre une façon facile et cohérente de créditer les détenteurs de jeux de données tout en permettant la reproductibilité. Les DOI se rapporteront toujours au jeu de données ou aux pages de téléchargement, même si les données sous-jacentes ne sont plus disponibles."
+msgstr "Le GBIF assigne des DOI à tous les jeux de données et téléchargements d'occurrences. Lorsque des données sont utilisées, suivre les https://www.gbif.org/citation-guidelines[règles de citation^] DOI offre une façon facile et cohérente de créditer les détenteurs de jeux de données tout en permettant la reproductibilité. Les DOI se rapporteront toujours au jeu de données ou aux pages de téléchargement, même si les données sous-jacentes ne sont plus disponibles."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:101
@@ -663,27 +663,27 @@ msgstr "Les données disponibles sur GBIF.org et ses services associés sont le 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:107
 msgid "Within the biodiversity domain, the group most often responsible for developing and maintaining data standards is http://www.tdwg.org/[Biodiversity Information Standards^]. This nonprofit scientific and educational association focuses on the development of standards for the exchange of biological and biodiversity data. Members of the biodiversity community generally refer to this group as TDWG (pronounced tad-wig)—a vestigial reminder of its earlier manifestation as the Taxonomic Databases Working Group."
-msgstr "Dans le domaine de la biodiversité, le groupe qui est le plus souvent responsable du développement et de la maintenance des standards de données est http://www.tdwg.org/ [Biodiversity Information Standards^]. Cette association scientifique et éducative à but non lucratif se concentre sur le développement de standards pour l'échange de données biologiques et de biodiversité. Les membres de la communauté de la biodiversité se réfèrent généralement à ce groupe sous le nom de TDWG (prononcé tad-wig) - un rappel de son ancienne appellation, le Taxonomic Databases Working Group."
+msgstr "Dans le domaine de la biodiversité, le groupe qui est le plus souvent responsable du développement et de la maintenance des standards de données est http://www.tdwg.org/[Biodiversity Information Standards^]. Cette association scientifique et éducative à but non lucratif se concentre sur le développement de standards pour l'échange de données biologiques et de biodiversité. Les membres de la communauté de la biodiversité se réfèrent généralement à ce groupe sous le nom de TDWG (prononcé tad-wig) - un rappel de son ancienne appellation, le Taxonomic Databases Working Group."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:109
 msgid "Commonly use standards include:"
-msgstr "Les standards utilisés fréquemment comprennent:"
+msgstr "Les standards utilisés fréquemment comprennent :"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:112
 msgid "Darwin Core: The https://dwc.tdwg.org/[Darwin Core Standard^] (DwC) offers a stable, straightforward and flexible framework for compiling biodiversity data from varied and variable sources.  The majority of the datasets shared through GBIF.org are published using the Darwin Core Archive format (DwC-A)."
-msgstr "Darwin Core: Le https://dwc.tdwg.org/[Standard Darwin Core^] (DwC) offre un cadre stable, simple et flexible pour compiler des données sur la biodiversité à partir de sources variées et variables. La majorité des jeux de données partagés via GBIF.org sont publiés au format Darwin Core Archive (DwC-A)."
+msgstr "Darwin Core : Le https://dwc.tdwg.org/[Standard Darwin Core^] (DwC) offre un cadre stable, simple et flexible pour compiler des données sur la biodiversité à partir de sources variées et variables. La majorité des jeux de données partagés via GBIF.org sont publiés au format Darwin Core Archive (DwC-A)."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:115
 msgid "Ecological Metadata Language (EML): https://eml.ecoinformatics.org/[Ecological Metadata Language^] is a metadata standard that records information about ecological datasets in a series of modular and extensible XML document types.  All of the descriptions of datasets in GBIF.org rely on ‘metadata’—that is, the information about data—using the open-source EML standard, which is administered and maintained by https://knb.ecoinformatics.org/[The Knowledge Network for Biocomplexity^].  Each Darwin Core Archive includes as one of its components an EML file (written in XML format)."
-msgstr "Langage de Métadonnées Écologiques (EML): https://eml.ecoinformatics. rg/[Le Langage de Métadonnées Écologiques^] est un standard de métadonnées qui enregistre des informations sur les ensembles de données écologiques dans une série de types de documents XML modulaires et extensibles. Toutes les descriptions des jeux de données sur GBIF.org s'appuient sur les 'métadonnées'—c'est-à-dire les informations sur les données—en utilisant le standard open-source EML, qui est administré et maintenu par https://knb.coinformatics.org/[Le Knowledge Network for Biocomplexity^]. Chaque archive Darwin Core inclut un fichier EML (écrit au format XML) comme un de ses composants."
+msgstr "Langage de Métadonnées Écologiques (EML) : https://eml.ecoinformatics.org/[Le Langage de Métadonnées Écologiques^] est un standard de métadonnées qui enregistre des informations sur les ensembles de données écologiques dans une série de types de documents XML modulaires et extensibles. Toutes les descriptions des jeux de données sur GBIF.org s'appuient sur les 'métadonnées'—c'est-à-dire les informations sur les données—en utilisant le standard open-source EML, qui est administré et maintenu par https://knb.coinformatics.org/[Le Knowledge Network for Biocomplexity^]. Chaque archive Darwin Core inclut un fichier EML (écrit au format XML) comme un de ses composants."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:116
 msgid "BioCASe/ABCD: The http://www.biocase.org/[Biological Collection Access Service^], commonly referred to as BioCASe, is an international network linking biological collections data from natural history museums, botanical/zoological gardens and research institutions. The http://www.biocase.org/products/protocols[BioCASe protocol^] relies on the http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) data exchange standard, which TDWG also administers."
-msgstr "BioCASe/ABCD : Le http://www.biocase. rg/[Biological Collection Access Service^], communément appelé BioCASe, est un réseau international reliant les données des collections biologiques des musées d'histoire naturelle, des jardins botaniques et zoologiques et des institutions de recherche. Le http://www.biocase.org/products/protocols[Protocole BioCASe^] repose sur le standard d'échange de données http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) que TDWG administre également."
+msgstr "BioCASe/ABCD : Le http://www.biocase.org/[Biological Collection Access Service^], communément appelé BioCASe, est un réseau international reliant les données des collections biologiques des musées d'histoire naturelle, des jardins botaniques et zoologiques et des institutions de recherche. Le http://www.biocase.org/products/protocols[Protocole BioCASe^] repose sur le standard d'échange de données http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) que TDWG administre également."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:117
@@ -694,7 +694,7 @@ msgstr "Les données ouvertes"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:120
 msgid "In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
-msgstr "Conformément à une https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement [décision du conseil d'administration du GBIF^] de 2014, les fournisseurs de données doivent attribuer l'une des trois options Creative Commons à tout jeu de données d'occurrences. Le conseil d'administration a reconnu la nécessité d'une plus grande clarté, tant pour les éditeurs de données que pour les utilisateurs, sur la manière dont les données peuvent être utilisées lorsqu'elles sont partagées via GBIF.org. https://creativecommons.org/[Creative Commons] est une organisation à but non lucratif qui aide à surmonter les obstacles juridiques au partage des connaissances et soutient la créativité pour relever les défis les plus urgents du monde."
+msgstr "Conformément à une https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[décision du conseil d'administration du GBIF^] de 2014, les fournisseurs de données doivent attribuer l'une des trois options Creative Commons à tout jeu de données d'occurrences. Le conseil d'administration a reconnu la nécessité d'une plus grande clarté, tant pour les éditeurs de données que pour les utilisateurs, sur la manière dont les données peuvent être utilisées lorsqu'elles sont partagées via GBIF.org. https://creativecommons.org/[Creative Commons] est une organisation à but non lucratif qui aide à surmonter les obstacles juridiques au partage des connaissances et soutient la créativité pour relever les défis les plus urgents du monde."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
@@ -714,7 +714,7 @@ msgstr "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - utilisation 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:126
 msgid "Note that the CC-BY-NC licence has a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use. Lastly, attribution/citation is a community norm, so even if the publishers has waived conditions for use, attribution is expected."
-msgstr "Notez que la licence CC-BY-NC a un effet significatif sur la réutilisabilité des données. Le GBIF encourage les fournisseurs de données à choisir l'option la plus ouverte possible. Il est important de noter que les images ne sont pas soumises à la même licence qui est appliquée au jeu de données et peuvent avoir des conditions d'utilisation plus restreintes. Enfin, l'attribution/citation est une norme communautaire, donc même si les éditeurs ont renoncé à des conditions d'utilisation, l'attribution est attendue."
+msgstr "Notez que la licence CC-BY-NC a un effet significatif sur la possibilité de réutiliser les données. Le GBIF encourage les fournisseurs de données à choisir l'option la plus ouverte possible. Il est important de noter que les images ne sont pas soumises à la même licence qui est appliquée au jeu de données et peuvent avoir des conditions d'utilisation plus restreintes. Enfin, l'attribution/citation est une norme communautaire, donc même si les éditeurs ont renoncé à des conditions d'utilisation, l'attribution est attendue."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:127
@@ -725,7 +725,7 @@ msgstr "Données FAIR"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
 msgid "Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
-msgstr "De nombreux articles de 2011 à 2016 ont documenté une crise de la reproductibilité scientifique (voir ci-dessous).  En 2016, les https://www.nature.com/articles/sdata201618 [Principes de conduite FAIR pour la gestion et l'intendance des données scientifiques^] ont été publiés dans https://www.nature.com/sdata/ [Nature Scientific Data^].  Ces principes ont été conçus pour améliorer la trouvabilité, l'accessibilité, l'interopérabilité et la réutilisabilité des ensembles de données et répondent à \"un besoin urgent d'améliorer l'infrastructure soutenant la réutilisation des données scientifiques.\" La mise en œuvre de ces principes a débuté en 2018.  Vous pouvez en savoir plus sur http://www.go-fair.org/how-to-go-fair/ [Comment agir FAIR^] sur https://www.go-fair.org/ [GO-FAIR.org^]."
+msgstr "De nombreux articles de 2011 à 2016 ont documenté une crise de la reproductibilité scientifique (voir ci-dessous).  En 2016, les https://www.nature.com/articles/sdata201618[Principes de conduite FAIR pour la gestion et l'intendance des données scientifiques^] ont été publiés dans https://www.nature.com/sdata/[Nature Scientific Data^].  Ces principes ont été conçus pour améliorer la trouvabilité, l'accessibilité, l'interopérabilité et la réutilisabilité des ensembles de données et répondent à \"un besoin urgent d'améliorer l'infrastructure soutenant la réutilisation des données scientifiques.\" La mise en œuvre de ces principes a débuté en 2018.  Vous pouvez en savoir plus sur http://www.go-fair.org/how-to-go-fair/[Comment agir FAIR^] sur https://www.go-fair.org/[GO-FAIR.org^]."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:135
@@ -754,7 +754,7 @@ msgstr "*FACILES À TROUVER*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:145
 msgid "GBIF has https://www.gbif.org/data-quality-requirements[requirements] for metadata and datasets. All datasets are identified by https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Digital Object Identifiers^] (DOIs)."
-msgstr "Le GBIF a des https://www.gbif.org/data-quality-requirements[requirements] pour les métadonnées et les jeux de données. Tous les jeux de données sont identifiés par des https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Identifiants d'Objets Digitaux^] (DOI)."
+msgstr "Le GBIF a des https://www.gbif.org/data-quality-requirements[exigences] pour les métadonnées et les jeux de données. Tous les jeux de données sont identifiés par des https://www.gbif.org/faq?question=how-and-when-does-gbif-assign-digital-object-identifiers-dois[Identifiants d'Objets Digitaux^] (DOI)."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:149
@@ -859,7 +859,7 @@ msgstr "Dans cette section, nous passons en revue les différentes statistiques 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:195
 msgid "One of the many benefits of publishing data via GBIF is that, during the indexing process, GBIF analyses all datasets and produces https://www.gbif.org/analytics/global[metrics^] about them. These metrics are made available in several different ways:"
-msgstr "L'un des nombreux avantages de la publication de données via le GBIF est que, durant le processus d'indexation, le GBIF analyse tous les jeux de données et produit des https://www. bif.org/analytics/global[statistiques^] à leur sujet. Ces statistiques sont mises à disposition de plusieurs manières:"
+msgstr "L'un des nombreux avantages de la publication de données via le GBIF est que, durant le processus d'indexation, le GBIF analyse tous les jeux de données et produit des https://www.gbif.org/analytics/global[statistiques^] à leur sujet. Ces statistiques sont mises à disposition de plusieurs manières :"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:197
@@ -889,7 +889,7 @@ msgstr "Les participants et les éditeurs peuvent utiliser ces informations pour
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:205
 msgid "GBIF.org regularly updates analytics to provide an overview of global trends in the data from 2008 to the present. The charts illustrate trends in:"
-msgstr "GBIF.org met régulièrement à jour les statistiques pour fournir un aperçu des tendances globales des données de 2008 à nos jours. Les graphiques illustrent les tendances dans:"
+msgstr "GBIF.org met régulièrement à jour les statistiques pour fournir un aperçu des tendances globales des données de 2008 à nos jours. Les graphiques illustrent les tendances dans :"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:207
@@ -899,7 +899,7 @@ msgstr "relevés d'occurrences"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:208
 msgid "species counts"
-msgstr "comptages des espèces"
+msgstr "nombre d'espèces"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:209
@@ -936,7 +936,7 @@ msgstr "*Statistiques sur le contenu du jeu de données*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:218
 msgid "Each dataset page includes a tab labelled ‘Metrics’. This tab gives access to graphs and tables resulting from the analysis of the contents of the dataset. This includes a summaries of:"
-msgstr "Chaque page du jeu de données comprend un onglet intitulé 'Statistiques'. Cet onglet donne accès aux graphiques et aux tableaux résultant de l'analyse du contenu du jeu de données. Cela inclut des résumés de:"
+msgstr "Chaque page du jeu de données comprend un onglet intitulé \"Statistiques\". Cet onglet donne accès aux graphiques et aux tableaux résultant de l'analyse du contenu du jeu de données. Cela inclut des résumés de :"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:220
@@ -988,7 +988,7 @@ msgstr "img/web/ActivityImage7.png"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:246
 msgid "What dataset class makes up the core of data published within GBIF?"
-msgstr "Quelle classe de jeux de données constitue le principal élément des données publiées dans le GBIF?"
+msgstr "Quelle classe de jeux de données constitue le principal élément des données publiées dans le GBIF ?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:253
@@ -1006,7 +1006,7 @@ msgstr "- [ ] Métadonnées seules\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:256
 msgid "What is the taxonomic backbone?"
-msgstr "Qu'est-ce que l'ossature taxonomique?"
+msgstr "Qu'est-ce que l'ossature taxonomique ?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:263
@@ -1024,7 +1024,7 @@ msgstr "- [ ] Un jeu de données\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:266
 msgid "Which licenses or waivers can be applied to datasets published in GBIF?"
-msgstr "Quelles licences ou dérogations peuvent être appliquées aux jeux de données publiés sur GBIF?"
+msgstr "Quelles licences ou dérogations peuvent être appliquées aux jeux de données publiés sur GBIF ?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:277
@@ -1050,7 +1050,7 @@ msgstr "- [x] CC BY\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:280
 msgid "Images are subject to the same licenses as datasets?"
-msgstr "Les images sont-elles soumises aux mêmes licences que les jeux de données?"
+msgstr "Les images sont soumises aux mêmes licences que les jeux de données ?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:285 data-publishing.en.adoc:273
@@ -1064,7 +1064,7 @@ msgstr "- [ ] Vrai\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:288
 msgid "GBIF data are FAIR?"
-msgstr "Les données du GBIF sont-elles FAIR?"
+msgstr "Les données du GBIF sont FAIR ?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:293
@@ -1077,13 +1077,13 @@ msgstr "- [x] Vrai\n"
 #. type: Plain text
 #: data-publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing, incentives for publishing data how to become a publisher, review feedback available for publishers and review information about data papers."
-msgstr "Dans ce module, vous découvrirez ce qu'est la publication de données, les avantages de la publication de données, comment devenir publieur, passerez en revue les retours d'information disponibles pour les publieurs et examinerez les informations relatives aux data papers."
+msgstr "Dans ce module, vous découvrirez ce qu'est la publication de données, les avantages de la publication de données, comment devenir un fournisseur de données, passerez en revue les retours d'information disponibles pour les fournisseurs et examinerez les informations relatives aux data papers."
 
 #. type: Title ===
 #: data-publishing.en.adoc:7
 #, no-wrap
 msgid "What is data publishing?"
-msgstr "Qu'est-ce que la publication des données?"
+msgstr "Qu'est-ce que la publication des données ?"
 
 #. type: Plain text
 #: data-publishing.en.adoc:11
@@ -1104,7 +1104,7 @@ msgstr "img/web/datapublishing.png"
 #. type: Plain text
 #: data-publishing.en.adoc:17
 msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs."
-msgstr "La plupart des organisations du réseau GBIF, autrement connues sous le nom d'éditeurs, de fournisseurs ou de publieurs de données, utilisent un IPT, le https://www.gbif.org/ipt[Kit de Publication Intégré^], pour publier leurs données.\n"
+msgstr "La plupart des organisations du réseau GBIF, autrement connues sous le nom d'éditeurs ou de fournisseurs de données, utilisent un IPT, le https://www.gbif.org/ipt[Kit de Publication Intégré^], pour publier leurs données.\n"
 "Ces éditeurs peuvent choisir d'héberger leur propre installation d'un IPT comme le Field Museum, mais préfèrent généralement trouver un hôte approprié pour leurs activités de publication de données.\n"
 "Cela peut se faire par le biais d'un nœud participant du GBIF tel que GBIF France, ou par le biais d'un groupe thématique établi comme VertNet. Ou, une autre option peut être d'utiliser l'un des IPT hébergés par GBIF comme ceux du BID, du BIFA ou les IPT régionaux."
 
@@ -1147,7 +1147,7 @@ msgstr "La publication des données permet aux individus et aux institutions d'�
 #. type: Plain text
 #: data-publishing.en.adoc:31
 msgid "Collection managers can *trace usage and citations* of digitized data published from their institutions and accessed through GBIF and similar infrastructures."
-msgstr "Les gestionnaires de collections peuvent *tracer l'utilisation et les citations* des données numérisées et publiées par leurs institutions et accessibles via GBIF et les infrastructures similaires."
+msgstr "Les gestionnaires de collections peuvent *suivre l'utilisation et les citations* des données numérisées et publiées par leurs institutions et accessibles via GBIF et les infrastructures similaires."
 
 #. type: Plain text
 #: data-publishing.en.adoc:32
@@ -1179,7 +1179,7 @@ msgstr "*Le Protocole d'Accord du GBIF*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:45
 msgid "GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU).  The MoU is the official document that countries and international organizations sign in order to join GBIF."
-msgstr "Le GBIF est une initiative multilatérale établie par un accord intergouvernemental et basée sur un https://www.gbif.org/mou [Memorandum of Understanding^] (MoU) non contraignant.  Le MoU est le document officiel que les pays et les organisations internationales signent afin d'adhérer au GBIF."
+msgstr "Le GBIF est une initiative multilatérale établie par un accord intergouvernemental et basée sur un https://www.gbif.org/mou[Memorandum of Understanding^] (MoU) non contraignant.  Le MoU est le document officiel que les pays et les organisations internationales signent afin d'adhérer au GBIF."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:46
@@ -1274,7 +1274,7 @@ msgstr "Les éditeurs de données doivent soigneusement choisir quelle licence c
 #: data-publishing.en.adoc:86
 #, no-wrap
 msgid "*Data publisher page*\n"
-msgstr "*Page du publieur de données*\n"
+msgstr "*Page du fournisseur de données*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:90
@@ -1356,7 +1356,7 @@ msgstr "Avant que le GBIF n'indexe des jeux de données, une institution doit ê
 #. type: Plain text
 #: data-publishing.en.adoc:121
 msgid "The endorsement procedure aims to ensure that:"
-msgstr "La procédure d'endossement vise à garantir que:"
+msgstr "La procédure d'endossement vise à garantir que :"
 
 #. type: Plain text
 #: data-publishing.en.adoc:123
@@ -1386,7 +1386,7 @@ msgstr "Les éditeurs de données peuvent répondre aux commentaires et amélior
 #. type: Plain text
 #: data-publishing.en.adoc:129
 msgid "At present, GBIF and its Participants only publish data from organizations—that is, institutions, networks and societies—rather than individuals. Individuals wishing to publish data should work through their affiliated organizations to seek endorsement as a publisher."
-msgstr "Actuellement, le GBIF et ses participants ne publient que des données provenant d'organisations - c'est-à-dire d'institutions, de réseaux et de sociétés - et non de particuliers. Les personnes qui souhaitent publier des données doivent passer par leurs organisations affiliées pour obtenir l'approbation en tant que publieur."
+msgstr "Actuellement, le GBIF et ses participants ne publient que des données provenant d'organisations - c'est-à-dire d'institutions, de réseaux et de sociétés - et non de particuliers. Les personnes qui souhaitent publier des données doivent passer par leurs organisations affiliées pour obtenir l'approbation en tant que fournisseur."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:130
@@ -1440,7 +1440,7 @@ msgstr "Cliquez sur le menu _How-to_ sur le site du GBIF pour accéder à la pag
 #. type: Plain text
 #: data-publishing.en.adoc:153
 msgid "To share data through GBIF.org, publishers typically have to collate or transform existing datasets into a standardized format.  This work may include additional processing, content editing and mapping a dataset’s content into one of the available data transfer formats, as well as publication through one of the available data publishing tools, such as GBIF’s free, open-source https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT)."
-msgstr "Pour partager des données via GBIF.org, les fournisseurs de données doivent généralement rassembler ou transformer des jeux de données existants dans un format standardisé. Ce travail peut inclure un traitement supplémentaire, des éditions sur contenu et la conversion du contenu d'un jeu de données vers l'un des formats de transfert de données disponibles, ainsi que la publication à l'aide d'un des outils de publication de données disponibles, tels que le https://www. bif.org/ipt[Kit de publication intégré^] (IPT) du GBIF, qui est gratuit et open-source ."
+msgstr "Pour partager des données via GBIF.org, les fournisseurs de données doivent généralement rassembler ou transformer des jeux de données existants dans un format standardisé. Ce travail peut inclure un traitement supplémentaire, des éditions sur contenu et la conversion du contenu d'un jeu de données vers l'un des formats de transfert de données disponibles, ainsi que la publication à l'aide d'un des outils de publication de données disponibles, tels que le https://www.gbif.org/ipt[Kit de publication intégré^] (IPT) du GBIF, qui est gratuit et open-source ."
 
 #. type: Plain text
 #: data-publishing.en.adoc:157
@@ -1455,7 +1455,7 @@ msgstr "Les fournisseurs de données jouent donc un rôle essentiel non seulemen
 #. type: Plain text
 #: data-publishing.en.adoc:162
 msgid "https://www.gbif.org/data-quality-requirements-occurrences[Occurrence-only datasets^]"
-msgstr "https://www.gbif.org/data-quality-requirements-occurrences[jeux de données d'occurrences^]"
+msgstr "https://www.gbif.org/data-quality-requirements-occurrences[Jeux de données d'occurrences^]"
 
 #. type: Plain text
 #: data-publishing.en.adoc:163
@@ -1470,7 +1470,7 @@ msgstr "https://www.gbif.org/data-quality-requirements-sampling-events[Jeux de d
 #. type: Plain text
 #: data-publishing.en.adoc:167
 msgid "In practice, we encourage those responsible for publishing data to get acquainted with the expected data formats and content requirements as early as possible in the process (see also the pre-configured GBIF Excel templates with required and recommended terms for https://github.com/gbif/ipt/wiki/occurrenceData#templates[occurrence-only datasets^], https://github.com/gbif/ipt/wiki/checklistData#templates[checklists^], and https://github.com/gbif/ipt/wiki/samplingEventData#templates[sampling-event datasets^], all available with example data).  Doing so will save a lot of effort that may be needed at later stages, for example, in adding data conversions, capturing information for required or strongly recommended fields, or performing and addressing final pre-publication data-quality checks."
-msgstr "En pratique, nous encourageons les responsables de la publication des données à se familiariser avec les formats de données attendus et les exigences en matière de contenu le plus tôt possible dans le processus (voir également les templates Excel GBIF préconfigurés avec les termes requis et recommandés pour https://github.com/gbif/ipt/wiki/occurrenceData#templates [les jeux de données d'occurrences^], https://github.com/gbif/ipt/wiki/checklistData#templates [de listes d'espèces^], et https://github.com/gbif/ipt/wiki/samplingEventData#templates [d’événements d'échantillonnage^], tous disponibles avec des exemples de données).  Vous économiserez ainsi beaucoup d'efforts qui pourraient être nécessaires à des étapes ultérieures, par exemple pour ajouter des conversions de données, saisir des informations pour les champs obligatoires ou fortement recommandés, ou effectuer les contrôles finaux de qualité des données avant la publication."
+msgstr "En pratique, nous encourageons les responsables de la publication des données à se familiariser avec les formats de données attendus et les exigences en matière de contenu le plus tôt possible dans le processus (voir également les templates Excel GBIF préconfigurés avec les termes requis et recommandés pour https://github.com/gbif/ipt/wiki/occurrenceData#templates[les jeux de données d'occurrences^], https://github.com/gbif/ipt/wiki/checklistData#templates[les listes d'espèces^], et https://github.com/gbif/ipt/wiki/samplingEventData#templates[les événements d'échantillonnage^], tous disponibles avec des exemples de données).  Vous économiserez ainsi beaucoup d'efforts qui pourraient être nécessaires à des étapes ultérieures, par exemple pour ajouter des conversions de données, saisir des informations pour les champs obligatoires ou fortement recommandés, ou effectuer les contrôles finaux de qualité des données avant la publication."
 
 #. type: Plain text
 #: data-publishing.en.adoc:169
@@ -1497,7 +1497,7 @@ msgstr "Dans cette section, vous apprendrez comment utiliser le validateur de do
 #. type: Plain text
 #: data-publishing.en.adoc:179
 msgid "The GBIF https://www.gbif.org/tools/data-validator[data validator^] is a service that allows anyone with a GBIF-relevant dataset to receive a report on the syntactical correctness and the validity of the content contained within the dataset.  By submitting a dataset to the validator, you can go through the validation and interpretation procedures usually associated with publishing in GBIF and quickly determine potential issues in data - without having to publish it."
-msgstr "Le https://www.gbif. rg/tools/data-validator[validateur de données^] du GBIF est un service qui permet à toute personne ayant un jeu de données GBIF de recevoir un rapport sur la justesse syntaxique et la validité du contenu de le jeu de données. En soumettant un jeu de données au validateur, vous pouvez passer par les procédures de validation et d'interprétation généralement associées à la publication sur GBIF et déterminer rapidement les éventuels problèmes dans les données - sans avoir à les publier."
+msgstr "Le https://www.gbif.org/tools/data-validator[validateur de données^] du GBIF est un service qui permet à toute personne ayant un jeu de données GBIF de recevoir un rapport sur la justesse syntaxique et la validité du contenu de le jeu de données. En soumettant un jeu de données au validateur, vous pouvez passer par les procédures de validation et d'interprétation généralement associées à la publication sur GBIF et déterminer rapidement les éventuels problèmes dans les données - sans avoir à les publier."
 
 #. type: Block title
 #: data-publishing.en.adoc:181
@@ -1515,7 +1515,7 @@ msgstr "img/web/datavalidator.png"
 #: data-publishing.en.adoc:185
 #, no-wrap
 msgid "*How does it work?*\n"
-msgstr "*Comment ça fonctionne?*\n"
+msgstr "*Comment ça fonctionne ?*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:190
@@ -1538,7 +1538,7 @@ msgstr "Selon la taille de votre ensemble de données, le traitement peut prendr
 #: data-publishing.en.adoc:199
 #, no-wrap
 msgid "*Which file types are accepted?*\n"
-msgstr "*Quels types de fichiers sont acceptés?*\n"
+msgstr "*Quels types de fichiers sont acceptés ?*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:201
@@ -1548,7 +1548,7 @@ msgstr "Archives Darwin Core (DwC-A) compressées en ZIP (contenant des cœurs d
 #. type: Plain text
 #: data-publishing.en.adoc:202
 msgid "Integrated Processing Toolkit (IPT) Excel templates containing Checklist, Occurrence, or Sampling-event data"
-msgstr "Kit de publication intégré (IPT) templates Excel contenant les données de liste d'espèces, d'occurrences ou d'événements d'échantillonnage"
+msgstr "Modèles Excel du Kit de publication intégré (IPT) contenant les données de liste d'espèces, d'occurrences ou d'événements d'échantillonnage"
 
 #. type: Plain text
 #: data-publishing.en.adoc:203
@@ -1559,12 +1559,12 @@ msgstr "Des fichiers CSV simples contenant les termes Darwin Core dans la premi�
 #: data-publishing.en.adoc:205
 #, no-wrap
 msgid "*What information is provided from the validation report?*\n"
-msgstr "*Quelles informations sont fournies à partir du rapport de validation?*\n"
+msgstr "*Quelles informations sont fournies à partir du rapport de validation ?*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:207
 msgid "Once processing is done, you will be able to see the validation report containing the following information:"
-msgstr "Une fois le traitement effectué, vous pourrez voir le rapport de validation contenant les informations suivantes:"
+msgstr "Une fois le traitement effectué, vous pourrez voir le rapport de validation contenant les informations suivantes :"
 
 #. type: Plain text
 #: data-publishing.en.adoc:209
@@ -1606,7 +1606,7 @@ msgstr "img/web/quality12.png"
 #: data-publishing.en.adoc:219
 #, no-wrap
 msgid "*I’ve got the validation report - now what?*\n"
-msgstr "*J'ai le rapport de validation - et maintenant quoi?*\n"
+msgstr "*J'ai le rapport de validation - et après ?*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:223
@@ -1625,7 +1625,7 @@ msgstr "Interrogez-vous sur les concepts appris dans cette section."
 #. type: delimited block *
 #: data-publishing.en.adoc:236
 msgid "What does data publishing mean in the context of GBIF?"
-msgstr "Que signifie la publication de données dans le contexte du GBIF?"
+msgstr "Que signifie la publication de données dans le contexte du GBIF ?"
 
 #. type: delimited block .
 #: data-publishing.en.adoc:243
@@ -1641,7 +1641,7 @@ msgstr "- [ ] Exporter un fichier csv de vos données nettoyées que vous pouvez
 #. type: Plain text
 #: data-publishing.en.adoc:246
 msgid "Which of the following are incentives for publishing data?"
-msgstr "Lesquels des éléments suivants sont des avantages de la publication de données?"
+msgstr "Lesquels des éléments suivants sont des avantages de la publication de données ?"
 
 #. type: delimited block .
 #: data-publishing.en.adoc:254
@@ -1659,7 +1659,7 @@ msgstr "- [x] contribuer à la connaissance globale de la biodiversité\n"
 #. type: Plain text
 #: data-publishing.en.adoc:257
 msgid "How do you become a publisher in the GBIF network?"
-msgstr "Comment devenez-vous publieur sur le réseau GBIF?"
+msgstr "Comment devenez-vous fournisseur de données sur le réseau GBIF ?"
 
 #. type: delimited block .
 #: data-publishing.en.adoc:263
@@ -1679,7 +1679,7 @@ msgstr "Il n'y a pas conditions pour publier vos données sur GBIF.org"
 #. type: Plain text
 #: data-publishing.en.adoc:276
 msgid "What is the GBIF data validator?"
-msgstr "Qu'est-ce que le validateur de données GBIF?"
+msgstr "Qu'est-ce que le validateur de données GBIF ?"
 
 #. type: delimited block .
 #: data-publishing.en.adoc:283
@@ -1700,12 +1700,12 @@ msgstr "Dans ce module, vous apprendrez comment les données du GBIF sont utilis
 #: data-access.en.adoc:8
 #, no-wrap
 msgid "How is GBIF-mediated data used?"
-msgstr "Comment les données médiatisées par le GBIF sont-elles utilisées?"
+msgstr "Comment les données médiatisées par le GBIF sont-elles utilisées ?"
 
 #. type: Plain text
 #: data-access.en.adoc:12
 msgid "The GBIF https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to climate change, conservation, human health and agriculture.  A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[GBIF-mediated data by Heberling et al. (2020)^] showed:"
-msgstr "Le https://www.gbif.org/literature-tracking [système de suivi de la littérature^] du GBIF a identifié plus de 5,000 utilisations des données médiatisées par GBIF, dont la plupart figurent dans des articles évalués par des pairs.  La majorité de ces utilisations sont dans le domaine de l'écologie, mais d'autres concernent le changement climatique, la conservation, la santé humaine et l'agriculture.  Une revue systématique de l'utilisation des https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis [données médiatisées par le GBIF par Heberling et al. (2020)^] a montré que:"
+msgstr "Le https://www.gbif.org/literature-tracking[système de suivi de la littérature^] du GBIF a identifié plus de 5,000 utilisations des données médiatisées par GBIF, dont la plupart figurent dans des articles évalués par des pairs.  La majorité de ces utilisations sont dans le domaine de l'écologie, mais d'autres concernent le changement climatique, la conservation, la santé humaine et l'agriculture.  Une revue systématique de l'utilisation des https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[données médiatisées par le GBIF par Heberling et al. (2020)^] a montré que :"
 
 #. type: Plain text
 #: data-access.en.adoc:14
@@ -1752,12 +1752,12 @@ msgstr "img/web/fig3.png"
 #. type: Plain text
 #: data-access.en.adoc:26
 msgid "GBIF-mediated data is also used for monitoring the state of biodiversity and progress towards achieving the targets of the Convention on Biological Diversity.  The increase in availability of GBIF occurrence data is one of the indicators for tracking progress towards the achievement of Aichi Biodiversity target 19 and GBIF is a key data source in the creation of a number of other indicators, including the https://www.bipindicators.net/indicators/species-status-information-index[Species Status Information Index^], https://www.bipindicators.net/indicators/species-habitat-index[Species Habitat Index^] and the https://www.bipindicators.net/indicators/biodiversity-habitat-index[Biodiversity Habitat Index^]."
-msgstr "Les données médiatisées par le GBIF sont également utilisées pour surveiller l'état de la biodiversité et les progrès accomplis dans la réalisation des objectifs de la Convention sur la Diversité Biologique.  L'augmentation de la disponibilité des données d'occurrence du GBIF est l'un des indicateurs permettant de suivre les progrès vers la réalisation de l'objectif 19 d'Aichi en matière de biodiversité et le GBIF est une source de données essentielle dans la création d'un certain nombre d'autres indicateurs, notamment le https://www.bipindicators.net/indicators/species-status-information-index [Indice d'Information sur l' Statut des Espèces^], l' https://www.bipindicators.net/indicators/species-habitat-index [Indice sur l'Habitat des Espèces^] et l' https://www.bipindicators.net/indicators/biodiversity-habitat-index [Indice de Biodiversité des Habitats^]."
+msgstr "Les données médiatisées par le GBIF sont également utilisées pour surveiller l'état de la biodiversité et les progrès accomplis dans la réalisation des objectifs de la Convention sur la Diversité Biologique.  L'augmentation de la disponibilité des données d'occurrence du GBIF est l'un des indicateurs permettant de suivre les progrès vers la réalisation de l'objectif 19 d'Aichi en matière de biodiversité et le GBIF est une source de données essentielle dans la création d'un certain nombre d'autres indicateurs, notamment l' https://www.bipindicators.net/indicators/species-status-information-index[Indice d'Information sur le Statut des Espèces^], l' https://www.bipindicators.net/indicators/species-habitat-index[Indice sur l'Habitat des Espèces^] et l' https://www.bipindicators.net/indicators/biodiversity-habitat-index[Indice de Biodiversité des Habitats^]."
 
 #. type: Plain text
 #: data-access.en.adoc:29
 msgid "While the utility of GBIF-mediated data is clear, the wide variety of sources of data accessible through GBIF, spanning museum collections, citizen science, metagenomics, among others, means that not all GBIF-mediated data will be fit for every use.  Key components of using GBIF-mediated data are understanding how to access the specific data that you need from what is available in GBIF and understanding some of the common data quality issues that affect the data so as to facilitate processing of the data before analysis."
-msgstr "Bien que l'utilité des données médiatisées par le GBIF soit claire, la grande variété de sources de données accessibles via GBIF, couvrant les collections du musée, la science citoyenne, la métagénomique, et bien d'autres, signifie que toutes les données fournies par le GBIF ne seront pas adaptées à toute utilisation. Les composants clés de l'utilisation des données gérées par le GBIF sont la compréhension de la manière d'accéder aux données dont vous avez spécifiquement besoin à partir de ce qui est disponible dans le GBIF et la compréhension de certains des problèmes courants de qualité des données qui affectent les données afin de faciliter le traitement des données avant l'analyse."
+msgstr "Bien que l'utilité des données médiatisées par le GBIF soit claire, la grande variété de sources de données accessibles via GBIF, couvrant les collections du musée, la science citoyenne, la métagénomique, et bien d'autres, signifie que toutes les données fournies par le GBIF ne seront pas adaptées à toute utilisation. Les composants clés de l'utilisation des données gérées par le GBIF sont la compréhension de la manière d'accéder aux données dont vous avez spécifiquement besoin à partir de ce qui est disponible dans le GBIF et la compréhension de certains des problèmes courants de qualité des données qui affectent celles-ci afin de faciliter leur traitement avant l'analyse."
 
 #. type: Title ===
 #: data-access.en.adoc:30
@@ -1768,13 +1768,13 @@ msgstr "Accéder aux données du GBIF"
 #. type: Plain text
 #: data-access.en.adoc:36
 msgid "There are two main points of access to GBIF-mediated data: http://www.gbif.org[GBIF.org^] and the https://www.gbif.org/developer/summary[Application Programming Interface (API) services^].  Using the website requires no programming experience and allows for quick and easy search, filter and download functions for GBIF-mediated data, as well as a range of additional tools and metrics that are not available through API services.  API services allow continued access to GBIF-mediated data through other systems and can be the basis for the development of tools that allow for the interrogation of the data.  Examples include a number of R packages, such as https://www.gbif.org/tool/81747/rgbif[rgbif^] and https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], as well as more specialized tools that allow for more specific use cases, such as http://geocat.kew.org/[GeoCat^] for Red List assessments."
-msgstr "Il existe deux principaux points d'accès aux données médiatisées par le GBIF: http://www.gbif.org [GBIF.org^] et le site https://www.gbif.org/developer/summary [du service d'Interface de Programmation d'Applications (API)^]. L'utilisation du site Web ne nécessite aucune expérience de programmation et permet d'effectuer rapidement et facilement des fonctions de recherche, de filtrage et de téléchargement des données médiatisées par le GBIF, et offre une gamme d'outils et de statistiques supplémentaires qui ne sont pas disponibles via les services API.  Les services API permettent un accès continu aux données médiatisées par le GBIF via d'autres systèmes et peuvent servir de base au développement d'outils permettant d'interroger les données.  Les exemples incluent un certain nombre de packages R, tels que https://www.gbif.org/tool/81747/rgbif [rgbif^] et https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18 [CoordinateCleaner^], ainsi que des outils plus spécialisés qui permettent des cas d'utilisation plus spécifiques, tels que http://geocat.kew.org/ [GeoCat^] pour les analyses de Liste Rouge."
+msgstr "Il existe deux principaux points d'accès aux données médiatisées par le GBIF: http://www.gbif.org[GBIF.org^] et le site https://www.gbif.org/developer/summary[du service d'Interface de Programmation d'Applications (API)^]. L'utilisation du site Web ne nécessite aucune expérience de programmation et permet d'effectuer rapidement et facilement des fonctions de recherche, de filtrage et de téléchargement des données médiatisées par le GBIF, et offre une gamme d'outils et de statistiques supplémentaires qui ne sont pas disponibles via les services API.  Les services API permettent un accès continu aux données médiatisées par le GBIF via d'autres systèmes et peuvent servir de base au développement d'outils permettant d'interroger les données.  Les exemples incluent un certain nombre de packages R, tels que https://www.gbif.org/tool/81747/rgbif[rgbif^] et https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], ainsi que des outils plus spécialisés qui permettent des cas d'utilisation plus spécifiques, tels que http://geocat.kew.org/[GeoCat^] pour les analyses de Liste Rouge."
 
 #. type: Plain text
 #: data-access.en.adoc:38
 #, no-wrap
 msgid "*What is available to me?*\n"
-msgstr "*Qu'est-ce qui est disponible pour moi?*\n"
+msgstr "*Qu'est-ce qui est disponible pour moi ?*\n"
 
 #. type: Plain text
 #: data-access.en.adoc:40
@@ -1784,7 +1784,7 @@ msgstr "Grâce aux fonctions de recherche du site web, les utilisateurs peuvent 
 #. type: Plain text
 #: data-access.en.adoc:42
 msgid "Remember that as a data user you should read and agree with the terms of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that include https://www.gbif.org/citation-guidelines[correctly citing^] the use of GBIF-mediated data."
-msgstr "N'oubliez pas qu'en tant qu'utilisateur de données, vous devez lire et accepter les termes de https://www.gbif.org/terms/data-user [la charte d'utilisation des données^] GBIF qui inclut comment https://www.gbif.org/citation-guidelines [citer correctement^] l'utilisation des données relayées par GBIF."
+msgstr "N'oubliez pas qu'en tant qu'utilisateur de données, vous devez lire et accepter les termes de https://www.gbif.org/terms/data-user[la charte d'utilisation des données^] GBIF qui inclut comment https://www.gbif.org/citation-guidelines[citer correctement^] l'utilisation des données relayées par GBIF."
 
 #. type: Target for macro image
 #: data-access.en.adoc:43
@@ -1795,36 +1795,36 @@ msgstr "img/web/downloadoptions.png"
 #. type: Plain text
 #: data-access.en.adoc:46
 msgid "The data available to you are:"
-msgstr "Les données dont vous disposez sont:"
+msgstr "Les données dont vous disposez sont :"
 
 #. type: Plain text
 #: data-access.en.adoc:48
 msgid "Primary biodiversity data - occurrence, checklist and sampling event data that is provided to users through the one of the 3 download formats:"
-msgstr "Données primaires sur la biodiversité - données sur des occurrences, des listes taxonomiques et des événements d'échantillonnage qui sont fournies aux utilisateurs dans l'un des trois formats de téléchargement:"
+msgstr "Des données primaires sur la biodiversité - données sur des occurrences, des listes taxonomiques et des événements d'échantillonnage qui sont fournies aux utilisateurs dans l'un des trois formats de téléchargement :"
 
 #. type: Plain text
 #: data-access.en.adoc:49
 #, no-wrap
 msgid "*Simple*: https://www.gbif.org/faq?question=csv-download[Tab delimited CSV^]. Only contains the data after GBIF interpretation. No multimedia included. \n"
-msgstr "*Simple*: https://www.gbif.org/faq?question=csv-download[CSV délimité par des tabulations^]. Ne contient que les données après interprétation du GBIF. Pas de multimédia inclus.\n"
+msgstr "*Simple* : https://www.gbif.org/faq?question=csv-download[CSV délimité par des tabulations^]. Ne contient que les données après interprétation du GBIF. Pas de multimédia inclus.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:50
 #, no-wrap
 msgid "*Darwin Core Archive*: The https://www.gbif.org/faq?question=dwc-download[Darwin Core Archive^] (DwC-A) contains both the original data as the publisher provided it and the GBIF interpretation. Links (but not files) to multimedia included.\n"
-msgstr "*Archive Darwin Core*: L' https://www.gbif.org/faq?question=dwc-download[Archive Darwin Core^] (DwC-A) contient à la fois les données originales telles que l'éditeur les a fournies et l'interprétation du GBIF. Des liens (mais pas de fichiers) vers le multimédia sont inclus.\n"
+msgstr "*Archive Darwin Core* : L' https://www.gbif.org/faq?question=dwc-download[Archive Darwin Core^] (DwC-A) contient à la fois les données originales telles que l'éditeur les a fournies et l'interprétation du GBIF. Des liens (mais pas de fichiers) vers le multimédia sont inclus.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:51
 #, no-wrap
 msgid "*Species list*: Tab delimited CSV with the distinct list of names in the search result and as a map visualization of the data.\n"
-msgstr "*Liste des espèces*: CSV délimité par des tabulations avec la liste de noms distincts dans le résultat de la recherche ainsi qu'une carte de visualisation des données.\n"
+msgstr "*Liste des espèces* : CSV délimité par des tabulations avec la liste de noms distincts dans le résultat de la recherche ainsi qu'une carte de visualisation des données.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:52
 #, no-wrap
 msgid "A range of metrics are provided for https://www.gbif.org/analytics/global[countries and regions^], data publishers, datasets and data searches that provide taxonomic breakdowns, trends in data collection and highlight data quality issues. For countries, these metrics can be also be downloaded in the form of a PDF activity report. \n"
-msgstr "Une gamme de statistiques est fournie pour les https://www.gbif.org/analytics/global [pays et régions^], les fournisseurs de données, les jeux de données et les recherches de données qui fournissent des détails taxonomiques, des tendances dans la collecte de données et soulignent les problèmes de qualité des données. Pour les pays, ces statistiques peuvent également être téléchargées sous la forme d'un rapport d'activité au format PDF. \n"
+msgstr "Une gamme de statistiques est fournie pour les https://www.gbif.org/analytics/global[pays et régions^], les fournisseurs de données, les jeux de données et les recherches de données qui fournissent des détails taxonomiques, des tendances dans la collecte de données et soulignent les problèmes de qualité des données. Pour les pays, ces statistiques peuvent également être téléchargées sous la forme d'un rapport d'activité au format PDF.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:53
@@ -1835,7 +1835,7 @@ msgstr "https://www.gbif.org/resource/search?contentType=literature&literatureTy
 #. type: Plain text
 #: data-access.en.adoc:55
 msgid "Searches can be performed on the https://www.gbif.org/occurrence/search?occurrence_status=present&q=[occurrences^], https://www.gbif.org/species/search?q=[species^], https://www.gbif.org/dataset/search?q=[datasets^], https://www.gbif.org/publisher/search?q=[publishers] and https://www.gbif.org/resource/search?q=[resources^], and each search function carries a set of filters that allow for more refined searching and additional data associated with the data, for example, https://www.gbif.org/occurrence/gallery?occurrence_status=present[images^], can be found in tabs associated with the search."
-msgstr "Les recherches peuvent être effectuées sur les https://www.gbif.org/occurrence/search?occurrence_status=present&q=[occurrences^], https://www.gbif.org/species/search?q=[espèces^], https://www.gbif.org/dataset/search?q=[jeux de données^], https://www.gbif.org/publisher/search?q=[éditeurs] et https://www.gbif.org/resource/search?q= [ressources^]. Chaque fonction de recherche comporte un ensemble de filtres qui permettent d'affiner la recherche et les contenus supplémentaires associées aux données, par exemple https://www.gbif.org/occurrence/gallery?occurrence_status=present[les images^], peuvent être trouvées dans les onglets associés à la recherche."
+msgstr "Les recherches peuvent être effectuées sur les https://www.gbif.org/occurrence/search?occurrence_status=present&q=[occurrences^], https://www.gbif.org/species/search?q=[espèces^], https://www.gbif.org/dataset/search?q=[jeux de données^], https://www.gbif.org/publisher/search?q=[éditeurs] et https://www.gbif.org/resource/search?q=[ressources^]. Chaque fonction de recherche comporte un ensemble de filtres qui permettent d'affiner la recherche et les contenus supplémentaires associées aux données, par exemple https://www.gbif.org/occurrence/gallery?occurrence_status=present[les images^], peuvent être trouvées dans les onglets associés à la recherche."
 
 #. type: Title ===
 #: data-access.en.adoc:56
@@ -1846,7 +1846,7 @@ msgstr "Gérer la qualité des données "
 #. type: Plain text
 #: data-access.en.adoc:61
 msgid "Determining the precision and accuracy of the data for use is a key step in determining the usefulness of the data for any intended purpose.  While GBIF can support the identification of some quality issues that arise from within the data publishing workflow, handling some quality issues requires additional expert knowledge.  The two most common issues for which this may be required are:"
-msgstr "Déterminer la précision et l'exactitude des données à utiliser est une étape clé pour déterminer l'utilité des données pour tout objectif prévu.  Bien que le GBIF puisse contribuer à l'identification de certains problèmes de qualité qui surviennent dans le cadre du flux de publication des données, le traitement de certains problèmes de qualité nécessite des connaissances spécialisées supplémentaires.  Les deux problèmes les plus courants pour lesquels elles peuvent être nécessaires sont les suivants:"
+msgstr "Déterminer la précision et l'exactitude des données à utiliser est une étape clé pour déterminer l'utilité des données pour tout objectif prévu.  Bien que le GBIF puisse contribuer à l'identification de certains problèmes de qualité qui surviennent dans le cadre du flux de publication des données, le traitement de certains problèmes de qualité nécessite des connaissances spécialisées supplémentaires.  Les deux problèmes les plus courants pour lesquels elles peuvent être nécessaires sont les suivants :"
 
 #. type: Plain text
 #: data-access.en.adoc:63
@@ -1881,13 +1881,13 @@ msgstr "*Exclues* - lorsque les données originales n'ont pas pu être interpré
 #: data-access.en.adoc:73
 #, no-wrap
 msgid "*Altered* - where the original data is modified in the interpretation process to be indexed in GBIF.org.\n"
-msgstr "*Modifiées* - où les données originales sont modifiées dans le processus d'interprétation pour les indexer sur GBIF.org.\n"
+msgstr "*Modifiées* - lorsque les données originales sont modifiées dans le processus d'interprétation pour les indexer sur GBIF.org.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:74
 #, no-wrap
 msgid "*Inferred* - where an empty field is inferred using other record information.\n"
-msgstr "*Inférées* - où un champ vide est déduit en utilisant d'autres informations de l'enregistrement.\n"
+msgstr "*Inférées* - lorsqu'un champ vide est déduit en utilisant d'autres informations de l'enregistrement.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:76
@@ -1898,12 +1898,12 @@ msgstr "Sachez que si vous filtrez pour des problèmes de qualité des données,
 #: data-access.en.adoc:78
 #, no-wrap
 msgid "*How can I improve data quality?*\n"
-msgstr "*Comment puis-je améliorer la qualité des données?*\n"
+msgstr "*Comment puis-je améliorer la qualité des données ?*\n"
 
 #. type: Plain text
 #: data-access.en.adoc:82
 msgid "Data publishers have the responsibility for improving the quality of the data, and as a user, you play a key role in identifying where there are errors.  If you should find an error in the data, you should contact the publisher directly using the contact details that GBIF provides on the publisher page.  GBIF also provides the ability for users to log data quality issues using the \"Feedback and questions\" button on the menu bar of http://www.gbif.org[GBIF.org^]."
-msgstr "Les fournisseurs de données ont la responsabilité d'améliorer la qualité des données, et en tant qu'utilisateur, vous jouez un rôle clé dans l'identification des erreurs. Si vous devriez trouver une erreur dans les données, vous devez contacter directement l'éditeur en utilisant les coordonnées fournies par GBIF sur la page de l'éditeur. Le GBIF permet également aux utilisateurs d'enregistrer les problèmes de qualité des données en utilisant le bouton \"Commentaires et questions\" sur la barre du menu de http://www.gbif.org[GBIF.org^]."
+msgstr "Les fournisseurs de données ont la responsabilité d'améliorer la qualité des données, et en tant qu'utilisateur, vous jouez un rôle clé dans l'identification des erreurs. Si vous trouvez une erreur dans les données, vous devez contacter directement l'éditeur en utilisant les coordonnées fournies par GBIF sur la page de l'éditeur. Le GBIF permet également aux utilisateurs d'enregistrer les problèmes de qualité des données en utilisant le bouton \"Commentaires et questions\" sur la barre du menu de http://www.gbif.org[GBIF.org^]."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1912,7 +1912,7 @@ msgstr "Les fournisseurs de données ont la responsabilité d'améliorer la qual
 #. type: delimited block *
 #: data-access.en.adoc:95
 msgid "How can you access GBIF data?"
-msgstr "Comment pouvez-vous accéder aux données GBIF?"
+msgstr "Comment pouvez-vous accéder aux données GBIF ?"
 
 #. type: delimited block .
 #: data-access.en.adoc:102
@@ -1928,7 +1928,7 @@ msgstr "- [x] Interface de recherche GBIF.org\n"
 #. type: Plain text
 #: data-access.en.adoc:105
 msgid "Which file formats are available for downloads of data?"
-msgstr "Quels formats de fichier sont disponibles pour les téléchargements de données?"
+msgstr "Quels formats de fichier sont disponibles pour les téléchargements de données ?"
 
 #. type: delimited block .
 #: data-access.en.adoc:113
@@ -1946,7 +1946,7 @@ msgstr "- [x] simple\n"
 #. type: Plain text
 #: data-access.en.adoc:116
 msgid "What kind of flags does GBIF apply to data to alert you to the quality?"
-msgstr "Quel type de signaux le GBIF applique-t-il aux données pour vous alerter sur leur qualité?"
+msgstr "Quel type de signaux le GBIF applique-t-il aux données pour vous alerter sur leur qualité ?"
 
 #. type: delimited block .
 #: data-access.en.adoc:126
@@ -1984,7 +1984,7 @@ msgstr "Communauté de pratique"
 #. type: Plain text
 #: community-of-practice.en.adoc:11
 msgid "In this video (06:44), you will review participation in GBIF, and take a closer look at the four key ways that volunteers contribute to the GBIF community of practice: as mentors, trainers, biodiversity open data ambassadors and translators.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Community-of-Practice.mp4[download^,opts=download] it locally. (MP4 - 14.4 MB)"
-msgstr "Dans cette vidéo (06:44), vous ferez le point sur la participation au GBIF, et vous examinerez de plus près les quatre principales façons dont les volontaires contribuent à la communauté de pratique du GBIF: en tant que mentors, formateurs, ambassadeurs des données ouvertes sur la biodiversité et traducteurs.  Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la: ../videos/Community-of-Practice.mp4[download^,opts=télécharger] localement. (MP4 - 14.4 MB)"
+msgstr "Dans cette vidéo (06:44), vous ferez le point sur la participation au GBIF, et vous examinerez de plus près les quatre principales façons dont les volontaires contribuent à la communauté de pratique du GBIF: en tant que mentors, formateurs, ambassadeurs des données ouvertes sur la biodiversité et traducteurs.  Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link: ../videos/Community-of-Practice.mp4[télécharger^,opts=download] localement. (MP4 - 14.4 MB)"
 
 #. type: Plain text
 #: community-of-practice.en.adoc:15
@@ -1994,12 +1994,12 @@ msgstr "Si vous réalisez un projet sur la biodiversité et que vous souhaitez d
 #. type: Plain text
 #: community-of-practice.en.adoc:17
 msgid "We encourage you to consider whether you can contribute to the GBIF community of practice in any of these roles. We would welcome your participation!"
-msgstr "Nous vous encourageons à vous demander si vous pouvez contribuer à la communauté de pratique du GBIF dans l'un de ces rôles. Nous vous serions reconnaissants pour votre participation!"
+msgstr "Nous vous encourageons à vous demander si vous pouvez contribuer à la communauté de pratique du GBIF dans l'un de ces rôles. Nous vous serions reconnaissants pour votre participation !"
 
 #. type: Plain text
 #: community-of-practice.en.adoc:19
 msgid "Further information on how to participate in the community of practice is available on GBIF.org:"
-msgstr "De plus amples informations sur la façon de participer à la communauté de pratique sont disponibles sur GBIF.org:"
+msgstr "De plus amples informations sur la façon de participer à la communauté de pratique sont disponibles sur GBIF.org :"
 
 #. type: Plain text
 #: community-of-practice.en.adoc:21
@@ -2087,7 +2087,7 @@ msgstr "Le GBIF organise régulièrement des https://www.gbif.org/webinars[webin
 #. type: delimited block *
 #: community-of-practice.en.adoc:66
 msgid "Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?"
-msgstr "Qui effectue la plupart des traductions des documents du GBIF, y compris le site web GBIF.org et les documents de formation?"
+msgstr "Qui effectue la plupart des traductions des documents du GBIF, y compris le site web GBIF.org et les documents de formation ?"
 
 #. type: delimited block .
 #: community-of-practice.en.adoc:71
@@ -2101,7 +2101,7 @@ msgstr "- [ ] Une entreprise spécialisée ayant de l'expérience dans le travai
 #. type: Plain text
 #: community-of-practice.en.adoc:74
 msgid "How can I get support with a biodiversity data mobilization project?"
-msgstr "Comment puis-je obtenir de l'aide pour un projet de mobilisation de données de biodiversité?"
+msgstr "Comment puis-je obtenir de l'aide pour un projet de mobilisation de données de biodiversité ?"
 
 #. type: delimited block .
 #: community-of-practice.en.adoc:81
@@ -2119,7 +2119,7 @@ msgstr "- [ ] Écrire à info@gbif.org\n"
 #. type: Plain text
 #: community-of-practice.en.adoc:84
 msgid "What is a biodiversity open data ambassador?"
-msgstr "Qu'est-ce qu'un ambassadeur de données ouvertes sur la biodiversité?"
+msgstr "Qu'est-ce qu'un ambassadeur de données ouvertes sur la biodiversité ?"
 
 #. type: delimited block .
 #: community-of-practice.en.adoc:89
@@ -2133,7 +2133,7 @@ msgstr "- [x] Des professionnels de la biodiversité qui promeuvent les principe
 #. type: Plain text
 #: community-of-practice.en.adoc:92
 msgid "GBIF’s materials are not available in my language. What should I do?"
-msgstr "Les documents du GBIF ne sont pas disponibles dans ma langue, que dois-je faire?"
+msgstr "Les documents du GBIF ne sont pas disponibles dans ma langue, que dois-je faire ?"
 
 #. type: delimited block .
 #: community-of-practice.en.adoc:99
@@ -2217,7 +2217,7 @@ msgstr "[[CC]]Licences CC"
 #. type: Plain text
 #: glossary.en.adoc:18
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
-msgstr "Creative Commons. Il s'agit d'une série de licences mises en place par l'organisation Creative Commons et qui permettent le partage et la réutilisation de la créativité et du savoir par la fourniture d'outils juridiques libres. Trois d'entre eux peuvent être assignés à des jeux de données partagés par GBIF: CC0, CC BY et CC BY-NC."
+msgstr "Creative Commons. Il s'agit d'une série de licences mises en place par l'organisation Creative Commons et qui permettent le partage et la réutilisation de la créativité et du savoir par la fourniture d'outils juridiques libres. Trois d'entre eux peuvent être assignés à des jeux de données partagés par GBIF : CC0, CC BY et CC BY-NC."
 
 #. type: Labeled list
 #: glossary.en.adoc:19
@@ -2250,7 +2250,7 @@ msgstr "[[DwC-A]]DwC-A"
 #. type: Plain text
 #: glossary.en.adoc:28
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr "Archive Darwin Core. Un fichier compressé (zippé) contenant toutes les informations nécessaires pour partager avec GBIF, pour une ressource particulière. Chaque zip contient trois types de fichiers:"
+msgstr "Archive Darwin Core. Un fichier compressé (zippé) contenant toutes les informations nécessaires pour partager avec GBIF, pour une ressource particulière. Chaque zip contient trois types de fichiers :"
 
 #. type: Plain text
 #: glossary.en.adoc:29
@@ -2260,12 +2260,12 @@ msgstr "les données proprement dites, dans un ou plusieurs fichiers texte: occu
 #. type: Plain text
 #: glossary.en.adoc:30
 msgid "a mapping file: rtf.xml"
-msgstr "un fichier de mappage: rtf.xml"
+msgstr "un fichier de mappage : rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:33
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr "un fichier de métadonnées (EML): eml.xml Lorsque vous publiez avec l'IPT, il crée une Archive Darwin Core, qui est partagée avec GBIF. En outre, lorsque vous téléchargez des données à partir du site Web du GBIF, vous pouvez également choisir un format DwC-A."
+msgstr "un fichier de métadonnées (EML) : eml.xml Lorsque vous publiez avec l'IPT, il crée une Archive Darwin Core, qui est partagée avec GBIF. En outre, lorsque vous téléchargez des données à partir du site Web du GBIF, vous pouvez également choisir un format DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:34
@@ -2320,7 +2320,7 @@ msgstr "<<<"
 #: solutions.en.adoc:2
 #, no-wrap
 msgid "Appendix: Solutions"
-msgstr "Annexe: Solutions"
+msgstr "Annexe : Solutions"
 
 #. type: Plain text
 #: solutions.en.adoc:5
@@ -2337,12 +2337,12 @@ msgstr "À propos de GBIF"
 #: solutions.en.adoc:9
 #, no-wrap
 msgid "*What is GBIF?*\n"
-msgstr "*Qu'est-ce que le GBIF?*\n"
+msgstr "*Qu'est-ce que le GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:11
 msgid "GBIF is all of these:"
-msgstr "Le GBIF est tout cela:"
+msgstr "Le GBIF est tout cela :"
 
 #. type: Plain text
 #: solutions.en.adoc:13
@@ -2368,7 +2368,7 @@ msgstr "Un secrétariat, basé à Copenhague, au Danemark"
 #: solutions.en.adoc:18
 #, no-wrap
 msgid "*When was GBIF established?*\n"
-msgstr "*Quand le GBIF a-t-il été établi?*\n"
+msgstr "*Quand le GBIF a-t-il été établi ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:20
@@ -2379,7 +2379,7 @@ msgstr "2001"
 #: solutions.en.adoc:22
 #, no-wrap
 msgid "*Which of the following is the best description of a GBIF Participant node?*\n"
-msgstr "*Parmi les énoncés suivants, lequel donne la meilleure description d'un nœud participant du GBIF?*\n"
+msgstr "*Parmi les énoncés suivants, lequel donne la meilleure description d'un nœud participant du GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:24
@@ -2390,7 +2390,7 @@ msgstr "Une équipe désignée par un pays ou une organisation participant pour 
 #: solutions.en.adoc:26
 #, no-wrap
 msgid "*Which of the following is NOT a typical function of a GBIF Participant node?*\n"
-msgstr "*Lequel des énoncés suivants n'est PAS une fonction typique d'un nœud de participant au GBIF?*\n"
+msgstr "*Lequel des énoncés suivants n'est PAS une fonction typique d'un nœud de participant au GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:28
@@ -2401,7 +2401,7 @@ msgstr "Maintenir un site web miroir du GBIF.org pour assurer une sauvegarde en 
 #: solutions.en.adoc:30
 #, no-wrap
 msgid "*What is a GBIF Participant?*\n"
-msgstr "*Qu'est-ce qu'un participant au GBIF?*\n"
+msgstr "*Qu'est-ce qu'un participant au GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:32
@@ -2412,7 +2412,7 @@ msgstr "Un pays, une économie ou une organisation qui rejoint le GBIF en signan
 #: solutions.en.adoc:34
 #, no-wrap
 msgid "*What is a GBIF Head of Delegation?*\n"
-msgstr "*Qu'est-ce qu'un chef de délégation GBIF?*\n"
+msgstr "*Qu'est-ce qu'un chef de délégation GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:36
@@ -2423,7 +2423,7 @@ msgstr "La personne désignée par le pays/économie/organisation participante p
 #: solutions.en.adoc:38
 #, no-wrap
 msgid "*What is a Biodiversity information facility?*\n"
-msgstr "*Qu'est-ce qu'un service d'information sur la Biodiversité?*\n"
+msgstr "*Qu'est-ce qu'un service d'information sur la Biodiversité ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:40
@@ -2434,7 +2434,7 @@ msgstr "La structure plus générale des personnes et des institutions, coordonn
 #: solutions.en.adoc:42
 #, no-wrap
 msgid "*What is a Node manager?*\n"
-msgstr "*Qu'est-ce qu'un gestionnaire de nœud?*\n"
+msgstr "*Qu'est-ce qu'un gestionnaire de nœud ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:44
@@ -2445,7 +2445,7 @@ msgstr "La personne désignée par un pays participant/une économie/une organis
 #: solutions.en.adoc:46
 #, no-wrap
 msgid "*Who designates the institution that hosts the GBIF Participant node?*\n"
-msgstr "*Qui désigne l'institution qui héberge le nœud participant au GBIF?*\n"
+msgstr "*Qui désigne l'institution qui héberge le nœud participant au GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:48
@@ -2456,7 +2456,7 @@ msgstr "Le Chef de Délégation"
 #: solutions.en.adoc:52
 #, no-wrap
 msgid "*What dataset class makes up the core of data published within GBIF?*\n"
-msgstr "*Quelle classe de jeux de données constitue le principal élément des données publiées dans le GBIF?*\n"
+msgstr "*Quelle classe de jeux de données constitue le principal élément des données publiées dans le GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:54
@@ -2467,12 +2467,12 @@ msgstr "Une occurrence"
 #: solutions.en.adoc:56
 #, no-wrap
 msgid "*What is the taxonomic backbone?*\n"
-msgstr "*Qu'est-ce que l'ossature taxonomique?*\n"
+msgstr "*Qu'est-ce que l'ossature taxonomique ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:58
 msgid "The GBIF taxonomic backbone is all of these:"
-msgstr "L'ossature taxonomique du GBIF est tous ces éléments:"
+msgstr "L'ossature taxonomique du GBIF est tous ces éléments :"
 
 #. type: Plain text
 #: solutions.en.adoc:59
@@ -2493,7 +2493,7 @@ msgstr "Permet la recherche taxonomique sur GBIF"
 #: solutions.en.adoc:63
 #, no-wrap
 msgid "*Which licenses or waivers can be applied to datasets published in GBIF?*\n"
-msgstr "*Quelles licences ou autorisations peuvent être appliquées aux jeux de données publiés sur GBIF?*\n"
+msgstr "*Quelles licences ou autorisations peuvent être appliquées aux jeux de données publiés sur GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:65
@@ -2514,7 +2514,7 @@ msgstr "CC0"
 #: solutions.en.adoc:69
 #, no-wrap
 msgid "*Images are subject to the same licenses as datasets?*\n"
-msgstr "*Les images sont-elles soumises aux mêmes licences que les jeux de données?*\n"
+msgstr "*Les images sont soumises aux mêmes licences que les jeux de données ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:71 solutions.en.adoc:95
@@ -2525,7 +2525,7 @@ msgstr "Faux"
 #: solutions.en.adoc:73
 #, no-wrap
 msgid "*GBIF data are FAIR?*\n"
-msgstr "*Les données du GBIF sont-elles FAIR?*\n"
+msgstr "*Les données du GBIF sont FAIR ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:75
@@ -2536,7 +2536,7 @@ msgstr "Vrai"
 #: solutions.en.adoc:79
 #, no-wrap
 msgid "*What does data publishing mean in the context of GBIF?*\n"
-msgstr "*Que signifie la publication de données dans le contexte du GBIF?*\n"
+msgstr "*Que signifie la publication de données dans le contexte du GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:81
@@ -2547,7 +2547,7 @@ msgstr "Rendre votre ou vos jeu(x) de données sur la biodiversité accessible(s
 #: solutions.en.adoc:83
 #, no-wrap
 msgid "*Which of the following are incentives for publishing data?*\n"
-msgstr "*Parmi les éléments suivants, lesquels sont des avantages de la publication de données?*\n"
+msgstr "*Parmi les éléments suivants, lesquels sont des avantages de la publication de données ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:85
@@ -2568,7 +2568,7 @@ msgstr "rendre les données librement accessibles"
 #: solutions.en.adoc:89
 #, no-wrap
 msgid "*How do you become a publisher in the GBIF network?*\n"
-msgstr "*Comment devenez-vous un fournisseur de données sur le réseau GBIF?*\n"
+msgstr "*Comment devenez-vous un fournisseur de données sur le réseau GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:91
@@ -2585,7 +2585,7 @@ msgstr "*Il n'y a pas de conditions pour publier vos données sur GBIF.org*\n"
 #: solutions.en.adoc:97
 #, no-wrap
 msgid "*What is the GBIF data validator?*\n"
-msgstr "*Qu'est-ce que le validateur de données GBIF?*\n"
+msgstr "*Qu'est-ce que le validateur de données GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:99
@@ -2596,7 +2596,7 @@ msgstr "un outil pour vérifier si mes données présentent des anomalies"
 #: solutions.en.adoc:103
 #, no-wrap
 msgid "*How can you access GBIF data?*\n"
-msgstr "*Comment pouvez-vous accéder aux données GBIF?*\n"
+msgstr "*Comment pouvez-vous accéder aux données GBIF ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:105
@@ -2622,7 +2622,7 @@ msgstr "rGBIF"
 #: solutions.en.adoc:111
 #, no-wrap
 msgid "*Which file formats are available for downloads of data?*\n"
-msgstr "*Quels formats de fichier sont disponibles pour les téléchargements de données?*\n"
+msgstr "*Quels formats de fichier sont disponibles pour les téléchargements de données ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:113
@@ -2643,7 +2643,7 @@ msgstr "liste d'espèces"
 #: solutions.en.adoc:117
 #, no-wrap
 msgid "*What kind of flags does GBIF apply to data to alert you to the quality?*\n"
-msgstr "*Quel type de signaux le GBIF applique-t-il aux données pour vous alerter sur leur qualité?*\n"
+msgstr "*Quel type de signaux le GBIF applique-t-il aux données pour vous alerter sur leur qualité ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:119
@@ -2664,7 +2664,7 @@ msgstr "inféré"
 #: solutions.en.adoc:125
 #, no-wrap
 msgid "*Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?*\n"
-msgstr "*Qui effectue la plupart des traductions des documents du GBIF, y compris le site web GBIF.org et les documents de formation?*\n"
+msgstr "*Qui effectue la plupart des traductions des documents du GBIF, y compris le site web GBIF.org et les documents de formation ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:127
@@ -2675,7 +2675,7 @@ msgstr "Traducteurs bénévoles de la communauté de travail du GBIF"
 #: solutions.en.adoc:129
 #, no-wrap
 msgid "*How can I get support with a biodiversity data mobilization project?*\n"
-msgstr "*Comment puis-je obtenir de l'aide pour un projet de mobilisation de données de biodiversité?*\n"
+msgstr "*Comment puis-je obtenir de l'aide pour un projet de mobilisation de données de biodiversité ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:131
@@ -2701,7 +2701,7 @@ msgstr "Entreprenez le cours en ligne de mobilisation des données"
 #: solutions.en.adoc:137
 #, no-wrap
 msgid "*What is a biodiversity open data ambassador?*\n"
-msgstr "*Qu'est-ce qu'un ambassadeur de données ouvertes sur la biodiversité?*\n"
+msgstr "*Qu'est-ce qu'un ambassadeur de données ouvertes sur la biodiversité ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:139
@@ -2712,12 +2712,12 @@ msgstr "Des professionnels de la biodiversité qui encouragent les principes et 
 #: solutions.en.adoc:141
 #, no-wrap
 msgid "*GBIF’s materials are not available in my language. What should I do?*\n"
-msgstr "*Les ressources du GBIF ne sont pas disponibles dans ma langue. Que dois-je faire?*\n"
+msgstr "*Les ressources du GBIF ne sont pas disponibles dans ma langue. Que dois-je faire ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 msgid "All of these options are possible:"
-msgstr "Toutes ces options sont possibles:"
+msgstr "Toutes ces options sont possibles :"
 
 #. type: Plain text
 #: solutions.en.adoc:145
@@ -2834,7 +2834,7 @@ msgstr "L'une des façons d'envisager le GBIF est de le considérer comme une fe
 #: scripts/intro-gbif.en.txt:8
 #, no-wrap
 msgid "So we've brought all of this data together, but for what purpose? Through tracking the citations of GBIF in research, and its onward relevance to policy and decisions, we can build up a picture of how all of those involved in sharing standardized data, from the volunteer wildlife observer to researchers and museum curators, are contributing to the knowledge that supports better decisions for our planet and our societies. Just some examples: \n"
-msgstr "Nous avons donc rassemblé toutes ces données, mais dans quel but? En suivant les citations du GBIF dans la recherche, et sa pertinence ultérieure pour les politiques et les décisions, nous pouvons nous faire une idée sur la manière dont tous ceux qui participent au partage de données standardisées, de l'observateur bénévole de la faune sauvage aux chercheurs et aux conservateurs de musée, contribuent aux connaissances qui soutiennent de meilleures décisions pour notre planète et nos sociétés. Quelques exemples:\n"
+msgstr "Nous avons donc rassemblé toutes ces données, mais dans quel but ? En suivant les citations du GBIF dans la recherche, et sa pertinence ultérieure pour les politiques et les décisions, nous pouvons nous faire une idée sur la manière dont tous ceux qui participent au partage de données standardisées, de l'observateur bénévole de la faune sauvage aux chercheurs et aux conservateurs de musée, contribuent aux connaissances qui soutiennent de meilleures décisions pour notre planète et nos sociétés. Quelques exemples :\n"
 
 #. type: Bullet: '- '
 #: scripts/intro-gbif.en.txt:10
