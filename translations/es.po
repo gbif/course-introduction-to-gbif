@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-07-12 11:41\n"
+"PO-Revision-Date: 2021-07-13 15:03\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -144,7 +144,7 @@ msgstr "¿Qué es GBIF?"
 #. type: Plain text
 #: about.en.adoc:13
 msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
-msgstr "En este video (03:23) aprenderás sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español, y con subtítulos disponibles. Si no puedes ver el vídeo de Vimeo embebido, puedes link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] localmente. (MP4 - 19.3 MB)"
+msgstr "En este video (03:23) aprenderás sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español, y con subtítulos disponibles. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[descargarlo^,opts=download] localmente. (MP4 - 19.3 MB)"
 
 #. type: Plain text
 #: about.en.adoc:21
@@ -261,7 +261,7 @@ msgstr "Repaso"
 #: about.en.adoc:68 gbif-mediated-data.en.adoc:237
 #: community-of-practice.en.adoc:57
 msgid "Quiz yourself on the concepts learned in this module."
-msgstr "Comprueba los conceptos aprendidos en este módulo."
+msgstr "Compruebe los conceptos aprendidos en este módulo."
 
 #. type: delimited block .
 #: about.en.adoc:83
@@ -328,7 +328,7 @@ msgid "- [ ] Coordinating a community of initiatives relating to biodiversity in
 msgstr "- [ ] Coordinar una comunidad de iniciativas relacionadas con la información sobre la biodiversidad incluyendo la creación de conexiones a la red internacional GBIF \n"
 "- [ ] Promover y apoyar la movilización de datos sobre biodiversidad dentro del país u organización para que todas las fuentes posibles estén libre y abiertamente disponibles \n"
 "- [ ] Fomentar la reutilización de los datos disponibles para apoyar la ciencia relacionada con la biodiversidad y apoyar la toma de decisiones para el desarrollo sostenible \n"
-"- [ ] Proveer experiencia en la gestión de datos sobre biodiversidad y mejorar la calidad de los datos para apoyar las necesidades de los usuarios \n"
+"- [ ] Proveer su experticia en la gestión de datos sobre biodiversidad y mejorar la calidad de los datos para apoyar las necesidades de los usuarios \n"
 "- [x] Mantener un sitio web espejo del GBIF.org para asegurar una copia de seguridad en tiempo real del índice de datos GBIF y mejorar el acceso del usuario desde el país\n"
 
 #.  Question 5
