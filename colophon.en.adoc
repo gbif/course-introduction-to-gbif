@@ -6,7 +6,7 @@ Raymond M, Rodrigues A & Russell L A.
 Introduction to GBIF course 
 First edition. 
 GBIF Secretariat: Copenhagen. 
-https://doi.org/10.35035/doc-xxxx-xxxx.
+https://doi.org/10.35035/ce-fcmk-aq49.
 
 === Authors
 
@@ -40,7 +40,7 @@ The course _Introduction to GBIF_ is licensed under https://creativecommons.org/
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+https://doi.org/10.35035/ce-fcmk-aq49
 
 === Document control
 
