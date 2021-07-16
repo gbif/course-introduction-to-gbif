@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-07 14:03+0000\n"
+"POT-Creation-Date: 2021-07-16 11:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3556,39 +3556,101 @@ msgstr ""
 msgid "Translators"
 msgstr ""
 
-#. type: Title ===
+#. type: Title ====
 #: colophon.en.adoc:21
+#, no-wrap
+msgid "French"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:24
+msgid "Maxime Coupremanne"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:25
+msgid "Patricia Mergen"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:26
+msgid "Sophie Pamerlon"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:27
+msgid "Carole Sinou"
+msgstr ""
+
+#. type: Title ====
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "Spanish"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:31
+msgid "Leonardo Buitrago"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:32
+msgid "Victor Chocho"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:33
+msgid "Camila Plata"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:34
+msgid "Anabela Plos"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:35
+msgid "Miguel Vega"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:36
+msgid "Paula Zermoglio"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:37
 #, no-wrap
 msgid "Licence"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:24
+#: colophon.en.adoc:40
 msgid ""
 "The course _Introduction to GBIF_ is licensed under "
-"https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
-"Attribution-ShareAlike 4.0 Unported License]."
+"https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 "
+"Unported License]."
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:25
+#: colophon.en.adoc:41
 #, no-wrap
 msgid "Persistent URI"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:28
+#: colophon.en.adoc:44
 msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
 msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:29
+#: colophon.en.adoc:45
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:31
+#: colophon.en.adoc:47
 msgid "First edition, May 2021"
 msgstr ""
 
