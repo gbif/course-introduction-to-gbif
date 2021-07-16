@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-07-16 11:09+0000\n"
+"POT-Creation-Date: 2021-07-16 11:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3525,7 +3525,7 @@ msgstr ""
 msgid ""
 "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First "
 "edition.  GBIF Secretariat: Copenhagen.  "
-"https://doi.org/10.35035/doc-xxxx-xxxx."
+"https://doi.org/10.35035/ce-fcmk-aq49."
 msgstr ""
 
 #. type: Title ===
@@ -3640,7 +3640,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:44
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgid "https://doi.org/10.35035/ce-fcmk-aq49"
 msgstr ""
 
 #. type: Title ===
