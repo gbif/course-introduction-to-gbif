@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-07-12 11:41\n"
+"PO-Revision-Date: 2021-07-13 15:58\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -144,7 +144,7 @@ msgstr "¿Qué es GBIF?"
 #. type: Plain text
 #: about.en.adoc:13
 msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
-msgstr "En este video (03:23) aprenderás sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español, y con subtítulos disponibles. Si no puedes ver el vídeo de Vimeo embebido, puedes link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] localmente. (MP4 - 19.3 MB)"
+msgstr "En este video (03:23) aprenderás sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español, y con subtítulos disponibles. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[descargarlo^,opts=download] localmente. (MP4 - 19.3 MB)"
 
 #. type: Plain text
 #: about.en.adoc:21
@@ -261,7 +261,7 @@ msgstr "Repaso"
 #: about.en.adoc:68 gbif-mediated-data.en.adoc:237
 #: community-of-practice.en.adoc:57
 msgid "Quiz yourself on the concepts learned in this module."
-msgstr "Comprueba los conceptos aprendidos en este módulo."
+msgstr "Compruebe los conceptos aprendidos en este módulo."
 
 #. type: delimited block .
 #: about.en.adoc:83
@@ -328,7 +328,7 @@ msgid "- [ ] Coordinating a community of initiatives relating to biodiversity in
 msgstr "- [ ] Coordinar una comunidad de iniciativas relacionadas con la información sobre la biodiversidad incluyendo la creación de conexiones a la red internacional GBIF \n"
 "- [ ] Promover y apoyar la movilización de datos sobre biodiversidad dentro del país u organización para que todas las fuentes posibles estén libre y abiertamente disponibles \n"
 "- [ ] Fomentar la reutilización de los datos disponibles para apoyar la ciencia relacionada con la biodiversidad y apoyar la toma de decisiones para el desarrollo sostenible \n"
-"- [ ] Proveer experiencia en la gestión de datos sobre biodiversidad y mejorar la calidad de los datos para apoyar las necesidades de los usuarios \n"
+"- [ ] Proveer su experticia en la gestión de datos sobre biodiversidad y mejorar la calidad de los datos para apoyar las necesidades de los usuarios \n"
 "- [x] Mantener un sitio web espejo del GBIF.org para asegurar una copia de seguridad en tiempo real del índice de datos GBIF y mejorar el acceso del usuario desde el país\n"
 
 #.  Question 5
@@ -371,7 +371,7 @@ msgstr "- [ ] La persona designada por un país/economía u organización partic
 #. type: Plain text
 #: about.en.adoc:136
 msgid "What is a Biodiversity information facility?"
-msgstr "¿Qué es una instalación de información sobre biodiversidad?"
+msgstr "¿Qué es un sistema de información sobre biodiversidad?"
 
 #. type: delimited block .
 #: about.en.adoc:143
@@ -426,7 +426,7 @@ msgstr "Datos mediados por GBIF "
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:6
 msgid "In this module, you will learn about primary biodiversity data and the principles that GBIF follows with regards to data. You will also have a chance to review the various metrics that are available for the data within the portal."
-msgstr "En este módulo, aprenderás sobre los datos primarios de biodiversidad y los principios que GBIF sigue con respecto a los datos. También tendrás la oportunidad de revisar las diferentes métricas disponibles para los datos del portal."
+msgstr "En este módulo, aprenderá sobre los datos primarios de biodiversidad y los principios que GBIF sigue con respecto a los datos. También tendrá la oportunidad de revisar las diferentes métricas disponibles para los datos del portal."
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:7
@@ -683,7 +683,7 @@ msgstr "Ecological Metadata Language (EML): https://eml.ecoinformatics. rg/[Ecol
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:116
 msgid "BioCASe/ABCD: The http://www.biocase.org/[Biological Collection Access Service^], commonly referred to as BioCASe, is an international network linking biological collections data from natural history museums, botanical/zoological gardens and research institutions. The http://www.biocase.org/products/protocols[BioCASe protocol^] relies on the http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD) data exchange standard, which TDWG also administers."
-msgstr "BioCASe/ABCD: http://www.biocase. rg/[Biological Collection Access Service^], comúnmente conocido como BioCASe, es una red internacional que conecta datos de las colecciones biológicas de los museos de historia natural, de jardines botánicos y zoológicos y de instituciones de investigación. El http://www.biocase.org/products/protocols[protocolo BioCAse^] se basa en http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD), un estándar de intercambio de datos que también administra TDWG."
+msgstr "BioCASe/ABCD: http://www.biocase.org/[Biological Collection Access Service^], comúnmente conocido como BioCASe, es una red internacional que conecta datos de las colecciones biológicas de los museos de historia natural, de jardines botánicos y zoológicos y de instituciones de investigación. El http://www.biocase.org/products/protocols[protocolo BioCAse^] se basa en http://www.tdwg.org/standards/115[Access to Biological Collections Data^] (ABCD), un estándar de intercambio de datos que también administra TDWG."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:117
@@ -694,7 +694,7 @@ msgstr "Datos abiertos"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:120
 msgid "In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
-msgstr "De acuerdo con una https://www.gbif de 2014. rg/news/82363/new-approaches-to-data-licensing-and-endorsement[decisión de la junta de gobierno de GBIF^] de 2014, los publicadores de datos deben asignar una de las tres opciones Creative Commons a cada conjunto de datos de ocurrencias. La junta de gobierno reconoció la necesidad de una mayor claridad tanto para los publicadores de datos como para los usuarios sobre cómo se pueden utilizar los datos cuando se comparten a través de GBIF.org. https://creativecommons. rg/[Creative Commons] es una organización sin fines de lucro que ayuda a superar los obstáculos legales para compartir el conocimiento y la creatividad a fin de abordar los desafíos apremiantes del mundo."
+msgstr "De acuerdo con una https://www.gbif de 2014.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decisión de la junta de gobierno de GBIF^] de 2014, los publicadores de datos deben asignar una de las tres opciones Creative Commons a cada conjunto de datos. La junta de gobierno reconoció la necesidad de una mayor claridad tanto para los publicadores de datos como para los usuarios sobre cómo se pueden utilizar los datos cuando se comparten a través de GBIF.org. https://creativecommons.org/[Creative Commons] es una organización sin fines de lucro que ayuda a superar los obstáculos legales para compartir el conocimiento y la creatividad a fin de abordar los desafíos apremiantes del mundo."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
@@ -725,7 +725,7 @@ msgstr "Datos FAIR"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
 msgid "Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
-msgstr "Muchos artículos publicados en el periodo 2011-2016 evidencian una crisis en  la reproducibilidad científica (ver abajo). En 2016, el  artículo https://www.nature.com/articles/sdata201618[ Principios orientadores FAIR para la gestión y administración de datos científicos^] fueron publicados en https://www.nature.com/sdata/[Scientific Data^]. Los principios fueron diseñados para conseguir que los datos sean encontrables, accesibles,  interoperables, y reutilizables;  y para abordar \"una necesidad urgente de mejorar la infraestructura que soporta la reutilización de los datos académicos\". La implementación de estos principios comenzó en 2018. Puedes leer más sobre http://www.go-fair.org/how-to-go-fair/[Cómo ser FAIR^] en https://www.go-fair.org/[GO-FAIR.org^]."
+msgstr "Muchos artículos publicados en el periodo 2011-2016 evidencian una crisis en  la reproducibilidad científica (ver abajo). En 2016, los  https://www.nature.com/articles/sdata201618[ Principios orientadores FAIR para la gestión y administración de datos científicos^] fueron publicados en https://www.nature.com/sdata/[Scientific Data^]. Los principios fueron diseñados para conseguir que los datos sean fáciles de encontrar, accesibles,  interoperables, y reutilizables;  y para abordar \"una necesidad urgente de mejorar la infraestructura que soporta la reutilización de los datos académicos\". La implementación de estos principios comenzó en 2018. Puedes leer más sobre http://www.go-fair.org/how-to-go-fair/[Cómo ser FAIR^] en https://www.go-fair.org/[GO-FAIR.org^]."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:135
@@ -776,7 +776,7 @@ msgstr "*INTEROPERABLE*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:157
 msgid "GBIF recommends using the https://eml.ecoinformatics.org/[Ecological Metadata Language^] (EML) for datasets and https://dwc.tdwg.org/[Darwin Core^] for occurrence data."
-msgstr "GBIF recomienda utilizar https://eml.ecoinformatics.org/[Ecological Metadata Language^] (EML) para conjuntos de datos y https://dwc.tdwg.org/[Darwin Core^] para datos de ocurrencia."
+msgstr "GBIF recomienda utilizar https://eml.ecoinformatics.org/[Ecological Metadata Language^] (EML) para conjuntos de datos y https://dwc.tdwg.org/[Darwin Core^] para los datos de registros biológicos."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:161
@@ -946,7 +946,7 @@ msgstr "Distribución taxonómica (lista y gráfico)"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:221
 msgid "Occurrences per issue"
-msgstr "Ocurrencias por incidencia"
+msgstr "Registros biológicos por incidencia"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:222
@@ -1018,13 +1018,13 @@ msgid "- [ ] A dataset\n"
 msgstr "- [ ] Un conjunto de datos\n"
 "- [ ] Una clasificación de gestión con el objetivo de cubrir todos los nombres en GBIF\n"
 "- [ ] Permite la búsqueda taxonómica en GBIF\n"
-"- [x] Todo las anterior\n"
+"- [x] Todo lo anterior\n"
 
 #.  Question 3
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:266
 msgid "Which licenses or waivers can be applied to datasets published in GBIF?"
-msgstr "¿Qué licencias o exenciones se pueden aplicar a los conjuntos de datos publicados en GBIF?"
+msgstr "¿Qué licencias o exenciones se pueden aplicar a los conjuntos de datos publicados a través de GBIF?"
 
 #. type: delimited block .
 #: gbif-mediated-data.en.adoc:277
