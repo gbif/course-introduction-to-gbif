@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-16 12:11\n"
+"PO-Revision-Date: 2021-07-16 14:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2780,7 +2780,7 @@ msgstr "Traductores"
 #: colophon.en.adoc:21
 #, no-wrap
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #. type: Plain text
 #: colophon.en.adoc:24
@@ -2806,7 +2806,7 @@ msgstr ""
 #: colophon.en.adoc:28
 #, no-wrap
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #. type: Plain text
 #: colophon.en.adoc:31
@@ -2847,7 +2847,7 @@ msgstr "Licencia"
 #. type: Plain text
 #: colophon.en.adoc:40
 msgid "The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "El curso _Introducción a GBIF_ está licenciado bajo https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:41
