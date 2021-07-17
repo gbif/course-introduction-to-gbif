@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-16 14:08\n"
+"PO-Revision-Date: 2021-07-17 01:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2746,7 +2746,7 @@ msgstr "Cita sugerida"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/ce-fcmk-aq49."
-msgstr ""
+msgstr "Raymond M, Rodrigues A & Russell L A. Curso de introducción a GBIF Primera edición. Secretariado de GBIF: Copenhague. https://doi.org/10.35035/ce-fcmk-aq49."
 
 #. type: Title ===
 #: colophon.en.adoc:11
@@ -2785,22 +2785,22 @@ msgstr "Francés"
 #. type: Plain text
 #: colophon.en.adoc:24
 msgid "Maxime Coupremanne"
-msgstr ""
+msgstr "Maxime Coupremanne"
 
 #. type: Plain text
 #: colophon.en.adoc:25
 msgid "Patricia Mergen"
-msgstr ""
+msgstr "Patricia Mergen"
 
 #. type: Plain text
 #: colophon.en.adoc:26
 msgid "Sophie Pamerlon"
-msgstr ""
+msgstr "Sophie Pamerlon"
 
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Carole Sinou"
-msgstr ""
+msgstr "Carole Sinou"
 
 #. type: Title ====
 #: colophon.en.adoc:28
@@ -2811,32 +2811,32 @@ msgstr "Español"
 #. type: Plain text
 #: colophon.en.adoc:31
 msgid "Leonardo Buitrago"
-msgstr ""
+msgstr "Leonardo Buitrago"
 
 #. type: Plain text
 #: colophon.en.adoc:32
 msgid "Victor Chocho"
-msgstr ""
+msgstr "Victor Chocho"
 
 #. type: Plain text
 #: colophon.en.adoc:33
 msgid "Camila Plata"
-msgstr ""
+msgstr "Camila Plata"
 
 #. type: Plain text
 #: colophon.en.adoc:34
 msgid "Anabela Plos"
-msgstr ""
+msgstr "Anabela Plos"
 
 #. type: Plain text
 #: colophon.en.adoc:35
 msgid "Miguel Vega"
-msgstr ""
+msgstr "Miguel Vega"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Paula Zermoglio"
-msgstr ""
+msgstr "Paula Zermoglio"
 
 #. type: Title ===
 #: colophon.en.adoc:37
@@ -2858,7 +2858,7 @@ msgstr "URI persistente"
 #. type: Plain text
 #: colophon.en.adoc:44
 msgid "https://doi.org/10.35035/ce-fcmk-aq49"
-msgstr ""
+msgstr "https://doi.org/10.35035/ce-fcmk-aq49"
 
 #. type: Title ===
 #: colophon.en.adoc:45
