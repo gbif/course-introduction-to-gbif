@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-18 12:56\n"
+"PO-Revision-Date: 2021-07-18 14:07\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1161,12 +1161,12 @@ msgstr "Visibilidad y reconocimiento de los publicadores de datos"
 #. type: Plain text
 #: data-publishing.en.adoc:37
 msgid "In this section, you will review frameworks for citing and tracking digital data use on GBIF.org"
-msgstr "En esta sección, revisará los flujos de trabajo para citar y rastrear el uso de datos digitales en GBIF.org"
+msgstr "En esta sección, revisará los flujos de trabajo para citar y rastrear el uso digital de datos en GBIF.org"
 
 #. type: Plain text
 #: data-publishing.en.adoc:40
 msgid "Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF.  That is why the organization has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before."
-msgstr "Dar una visibilidad y reconocimiento adecuados a los editores de datos es de suma importancia para GBIF. Por eso la organización ha puesto en marcha los marcos normativos y técnicos necesarios para hacer uso de los datos digitales citados y rastreados. más fácil que nunca."
+msgstr "Dar una visibilidad y reconocimiento adecuados a los publicadores de datos es de suma importancia para GBIF. Por eso la organización ha puesto en marcha los marcos normativos y técnicos necesarios para hacer  la citación y el rastreo del uso digital de los datos, más fácil que nunca."
 
 #. type: Plain text
 #: data-publishing.en.adoc:42
@@ -1177,7 +1177,7 @@ msgstr "*Memorando de Entendimiento de GBIF*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:45
 msgid "GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU).  The MoU is the official document that countries and international organizations sign in order to join GBIF."
-msgstr "GBIF es una iniciativa multilateral establecida por acuerdo intergubernamental y basada en un https://www.gbif. rg/mou[Memorando de Entendimiento^] (MdE). El MdE es el documento oficial que los países y las organizaciones internacionales firman para unirse a GBIF."
+msgstr "GBIF es una iniciativa multilateral establecida por un acuerdo intergubernamental y basada en un https://www.gbif.org/mou[Memorando de Entendimiento^] (MoU). El MoU es el documento oficial que los países y las organizaciones internacionales firman para unirse a GBIF."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:46
@@ -1188,7 +1188,7 @@ msgstr "img/web/GBIF_MoU.jpg"
 #. type: Plain text
 #: data-publishing.en.adoc:49
 msgid "The MoU is very clear stating that GBIF data publishers need to be acknowledged for their contributions:"
-msgstr "El MdE es muy claro afirmando que los editores de datos GBIF deben ser reconocidos por sus contribuciones:"
+msgstr "El MoU es muy claro afirmando que los publicadores de datos de GBIF deben ser reconocidos por sus contribuciones:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:53
