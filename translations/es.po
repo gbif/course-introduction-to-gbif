@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-17 01:52\n"
+"PO-Revision-Date: 2021-07-18 12:56\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -765,7 +765,7 @@ msgstr "*ACCESIBLE*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:151
 msgid "The https://www.gbif.org/developer/summary[GBIF Portal API^] provides a machine readable interface (REST + JSON) and use the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) as trusted data repository."
-msgstr "La https://www.gbif.org/developer/Texty[API del Portal de GBIF^] proporciona una interfaz legible por computadoras (REST + JSON) y utiliza la https://www.gbif.org/ipt[Herramientas para la publicación integrada de datos^] (IPT) como repositorio de datos de confianza."
+msgstr "La https://www.gbif.org/developer/Texty[API del Portal de GBIF^] proporciona una interfaz legible por computadoras (REST + JSON) y utiliza la https://www.gbif.org/ipt[Herramienta de Publicación Integrada^] (IPT) como repositorio de datos de confianza."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:155
@@ -1104,7 +1104,7 @@ msgstr "img/web/datapublishing.png"
 #. type: Plain text
 #: data-publishing.en.adoc:17
 msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs."
-msgstr "La mayoría de las organizaciones de la red GBIF, también conocidas como publicadores, hacen uso de un IPT, el https://www.gbif.org/ipt[Integrated Publishing Toolkit^], para publicar sus datos. Estos publicadores pueden optar por albergar su propia instalación de IPT, como el Field Museum, pero generalmente prefieren encontrar un anfitrión adecuado para sus actividades de publicación de datos. Esto podría ser a través de un nodo participante de GBIF establecido, como GBIF France, o a través de un grupo temático establecido, como VertNet. Otra opción podría ser hacer uso de uno de los IPT albergados por GBIF, como los de BID, BIFA o los IPT regionales."
+msgstr "La mayoría de las organizaciones de la red GBIF, también conocidas como publicadores, hacen uso de un IPT, https://www.gbif.org/ipt[Herramienta de Publicación Integrada^], para publicar sus datos. Estos publicadores pueden optar por albergar su propia instalación de IPT, como el Field Museum, pero generalmente prefieren encontrar un anfitrión adecuado para sus actividades de publicación de datos. Esto podría ser a través de un nodo participante de GBIF establecido, como GBIF France, o a través de un grupo temático establecido, como VertNet. Otra opción podría ser hacer uso de uno de los IPT albergados por GBIF, como los de BID, BIFA o los IPT regionales."
 
 #. type: Plain text
 #: data-publishing.en.adoc:19
@@ -1130,7 +1130,7 @@ msgstr "Una parte importante de la misión de GBIF es promover una cultura en la
 #. type: Plain text
 #: data-publishing.en.adoc:28
 msgid "By making your data discoverable and accessible through GBIF and similar information infrastructures, you will *contribute to global knowledge about biodiversity*, and thus to the solutions that will promote its conservation and sustainable use."
-msgstr "Al hacer que sus datos sean detectables y accesibles a través de GBIF e infraestructuras de información similares, usted *contribuirá al conocimiento global de la biodiversidad*, y por tanto a las soluciones que promoverán su conservación y uso sostenible."
+msgstr "Al hacer que sus datos sean fáciles de encontrar y accesibles a través de GBIF e infraestructuras de información similares, usted *contribuirá al conocimiento global de la biodiversidad*, y por tanto a las soluciones que promoverán su conservación y uso sostenible."
 
 #. type: Plain text
 #: data-publishing.en.adoc:29
@@ -1140,17 +1140,17 @@ msgstr "La publicación de datos permite la integración de conjuntos de datos e
 #. type: Plain text
 #: data-publishing.en.adoc:30
 msgid "Publishing data enables individuals and institutions to be properly credited for their work to create and curate biodiversity data, by *giving visibility to publishing institutions* through good metadata authoring. This recognition can be further developed if you author a peer-reviewed data paper, giving scholarly recognition to the publication of biodiversity datasets."
-msgstr "La publicación de datos permite que individuos e instituciones sean debidamente acreditados por su trabajo para crear y curar datos de biodiversidad, *dando visibilidad a las instituciones de publicación* a través de una buena creación de metadatos. Este reconocimiento se puede desarrollar aún más si usted autoriza un documento de datos revisado por pares, dando reconocimiento científico a la publicación de conjuntos de datos sobre biodiversidad."
+msgstr "La publicación de datos permite que individuos e instituciones tengan el credito adecuado por su trabajo de creación y curaduría datos sobre biodiversidad, *dando visibilidad a las instituciones publicadoras* a través de una buena documentación de los metadatos. Este reconocimiento se puede desarrollar aún más si usted es autor de un artículo de datos revisado por pares, dando reconocimiento científico a la publicación de los conjuntos de datos sobre biodiversidad."
 
 #. type: Plain text
 #: data-publishing.en.adoc:31
 msgid "Collection managers can *trace usage and citations* of digitized data published from their institutions and accessed through GBIF and similar infrastructures."
-msgstr "Los gestores de colecciones pueden *rastrear el uso y las citas* de datos digitalizados publicados desde sus instituciones y accesibles a través de GBIF e infraestructuras similares."
+msgstr "Los administradores de colecciones biológicas pueden *rastrear el uso y las citas* de los datos digitalizados y publicados desde sus instituciones que son accesibles a través de GBIF e infraestructuras similares."
 
 #. type: Plain text
 #: data-publishing.en.adoc:32
 msgid "Some funding agencies now require researchers receiving public funds to *make data freely accessible* at the end of a project."
-msgstr "Algunas agencias de financiación ahora requieren que los investigadores que reciben fondos públicos *aseguren que los datos sean de acceso abierto* al final de un proyecto."
+msgstr "Algunas entidades financiaciadoras ahora requieren que los investigadores que reciben fondos públicos *aseguren que los datos sean de acceso abierto* al final de los proyectos."
 
 #. type: Title ===
 #: data-publishing.en.adoc:33
@@ -1438,7 +1438,7 @@ msgstr "Haga clic en el menú _How-to_ en el sitio web de GBIF para navegar a la
 #. type: Plain text
 #: data-publishing.en.adoc:153
 msgid "To share data through GBIF.org, publishers typically have to collate or transform existing datasets into a standardized format.  This work may include additional processing, content editing and mapping a dataset’s content into one of the available data transfer formats, as well as publication through one of the available data publishing tools, such as GBIF’s free, open-source https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT)."
-msgstr "Para compartir datos a través de GBIF.org, los editores normalmente tienen que recopilar o transformar los conjuntos de datos existentes en un formato estandarizado. Este trabajo puede incluir procesamiento, edición de contenido y mapeo del contenido de un dataset en uno de los formatos de transferencia de datos disponibles, así como publicación a través de una de las herramientas de publicación de datos disponibles, tales como GBIF's free open-source https://www. bif.org/ipt[Herramienta de publicación integrada^] (IPT)."
+msgstr "Para compartir datos a través de GBIF.org, los editores normalmente tienen que recopilar o transformar los conjuntos de datos existentes en un formato estandarizado. Este trabajo puede incluir procesamiento, edición de contenido y mapeo del contenido de un dataset en uno de los formatos de transferencia de datos disponibles, así como publicación a través de una de las herramientas de publicación de datos disponibles, tales como GBIF's free open-source https://www. bif.org/ipt[Herramienta de Publicación Integrada^] (IPT)."
 
 #. type: Plain text
 #: data-publishing.en.adoc:157
@@ -1545,7 +1545,7 @@ msgstr "Archivos de Darwin Core comprimidos por ZIP (DwC-A) (que contienen datos
 #. type: Plain text
 #: data-publishing.en.adoc:202
 msgid "Integrated Processing Toolkit (IPT) Excel templates containing Checklist, Occurrence, or Sampling-event data"
-msgstr "Plantillas de herramientas de procesamiento integradas (IPT) de Excel que contienen lista de verificación, ocurrencia o datos de eventos de muestreo"
+msgstr "Plantillas de Excel para la Herramienta de Publicación Integrada (IPT) que contengan datos de listas de especies (\"Checklist\"), registros biológicos, o eventos de muestreo"
 
 #. type: Plain text
 #: data-publishing.en.adoc:203
@@ -2273,7 +2273,7 @@ msgstr "[[IPT]]IPT"
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr "Kit de Herramientas de Publicación Integrado. Es una aplicación web (software) gratuita y de código abierto para publicar datos de biodiversidad. El software en sí existe en un servidor (ya sea en su institución o en otro lugar) que debe tener acceso a Internet las 24 horas del día, los 7 días de la semana. Se utiliza para crear y gestionar archivos de Darwin Core que pueden ser compartidos y utilizados por cualquier persona, incluido GBIF."
+msgstr "Herramienta de Publicación Integrada. Es una aplicación web (software) gratuita y de código abierto para publicar datos de biodiversidad. El software en sí existe en un servidor (ya sea en su institución o en otro lugar) que debe tener acceso a Internet las 24 horas del día, los 7 días de la semana. Se utiliza para crear y gestionar archivos de Darwin Core que pueden ser compartidos y utilizados por cualquier persona, incluido GBIF."
 
 #. type: Labeled list
 #: glossary.en.adoc:39
