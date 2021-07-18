@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-18 14:07\n"
+"PO-Revision-Date: 2021-07-18 16:38\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1201,18 +1201,18 @@ msgstr "\"4. Atribución. +\n"
 #. type: Plain text
 #: data-publishing.en.adoc:56
 msgid "GBIF strives to make all efforts possible to make this statement a reality."
-msgstr "GBIF se esfuerza por hacer todos los esfuerzos posibles para hacer de esta declaración una realidad."
+msgstr "GBIF se esmera por hacer todos los esfuerzos posibles para hacer de esta declaración una realidad."
 
 #. type: Plain text
 #: data-publishing.en.adoc:58
 #, no-wrap
 msgid "*The GBIF Data User Agreement*\n"
-msgstr "*El acuerdo de usuario de datos GBIF*\n"
+msgstr "*El Acuerdo del Usuario de Datos GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:60
 msgid "Prior to accessing any data using GBIF, users need to accept a data user agreement which includes very specific requirements on citation of the origin of the data accessed through GBIF. These are some of the requirements listed in the agreement:"
-msgstr "Antes de acceder a cualquier dato usando GBIF, los usuarios deben aceptar un acuerdo de usuario de datos que incluya requisitos muy específicos sobre la mención del origen de los datos a los que se accede a través de GBIF. Estos son algunos de los requisitos enumerados en el acuerdo:"
+msgstr "Antes de acceder a cualquier dato usando GBIF, los usuarios deben aceptar un acuerdo de usuario de datos que incluye requisitos muy específicos sobre la citación del origen de los datos a los que se accede a través de GBIF. Estos son algunos de los requisitos enumerados en el acuerdo:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:63
