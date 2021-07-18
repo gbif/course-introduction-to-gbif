@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-18 16:38\n"
+"PO-Revision-Date: 2021-07-18 17:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1245,7 +1245,7 @@ msgstr "*Citación*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:76
 msgid "GBIF strongly encourages all users to cite data retrieved from the GBIF network. For that purpose it provides recommended citation strings on the dataset, occurrence and download pages in GBIF.org."
-msgstr "GBIF alienta a todos los usuarios a que citen los datos obtenidos a través de la red de GBIF. Para ello, proporciona citas recomendadas en el conjunto de datos, las ocurrencias y las páginas de descarga de GBIF.org."
+msgstr "GBIF alienta a todos los usuarios a que citen los datos obtenidos a través de la red de GBIF. Para ello, proporciona citas recomendadas en el conjunto de datos, los registros biológicos y las páginas de descarga de GBIF.org."
 
 #. type: Plain text
 #: data-publishing.en.adoc:78
@@ -1277,7 +1277,7 @@ msgstr "*Página del publicador de datos*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:90
 msgid "All publishers feature their own page on GBIF.org.  It is important that publishers give some thought to how they want to appear on the website and provide relevant information about their institutions and their teams at the time of registration.  They should also strive to keep it up to date, as interested parties will use the contact data on that page to contact the team responsible for the data publishing."
-msgstr "Todos los editores tienen su propia página en GBIF.org. Es importante que los editores reflexionen sobre cómo quieren aparecer en el sitio web y proporcionen información relevante sobre sus instituciones y sus equipos en el momento de registrarse. También deberían esforzarse por mantenerlo actualizado. como las partes interesadas utilizarán los datos de contacto de esa página para contactar al equipo responsable de la publicación de los datos."
+msgstr "Todos los publicadores tienen su propia página en GBIF.org. Es importante que los publicadores reflexionen sobre cómo quieren aparecer en el sitio web y proporcionen información relevante sobre sus instituciones y sus equipos en el momento de registrarse. También deberían esforzarse por mantenerlo actualizado, ya que las partes interesadas utilizarán los datos de contacto de esa página para contactar al equipo responsable de la publicación de los datos."
 
 #. type: Plain text
 #: data-publishing.en.adoc:92
@@ -1293,7 +1293,7 @@ msgstr "Cada vez que se publica una nueva versión de un conjunto de datos utili
 #. type: Plain text
 #: data-publishing.en.adoc:96
 msgid "As mentioned before, you can resolve DOI is websites like dx.doi.org: which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports."
-msgstr "Como se mencionó anteriormente, usted puede resolver DOI mediante sitios web como dx.doi.org: que siempre redireccionará a la fuente original, en este caso, la página de conjuntos de datos. También puedes buscar DOI usando una búsqueda web normal, que normalmente revelará cualquier otro recurso que cite el uso del mismo DOI como artículos o informes públicos."
+msgstr "Como se mencionó anteriormente, usted puede resolver un DOI mediante sitios web como dx.doi.org: que siempre redireccionará a la fuente original, en este caso, la página del conjuntos de datos. También puede buscar un DOI usando una búsqueda web normal, que normalmente revelará cualquier otro recurso que cite el uso del mismo DOI como artículos o informes públicos."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:97
