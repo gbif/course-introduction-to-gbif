@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-07-12 11:41\n"
+"POT-Creation-Date: 2021-07-16 11:18+0000\n"
+"PO-Revision-Date: 2021-07-16 23:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2748,8 +2748,8 @@ msgstr "Suggestion de citation"
 
 #. type: Plain text
 #: colophon.en.adoc:10
-msgid "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/doc-xxxx-xxxx."
-msgstr "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/doc-xxxx-xxxx."
+msgid "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/ce-fcmk-aq49."
+msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:11
@@ -2779,36 +2779,98 @@ msgstr "Personnel du secrétariat GBIF."
 msgid "Translators"
 msgstr "Traducteurs"
 
-#. type: Title ===
+#. type: Title ====
 #: colophon.en.adoc:21
+#, no-wrap
+msgid "French"
+msgstr "Français"
+
+#. type: Plain text
+#: colophon.en.adoc:24
+msgid "Maxime Coupremanne"
+msgstr "Maxime Coupremanne"
+
+#. type: Plain text
+#: colophon.en.adoc:25
+msgid "Patricia Mergen"
+msgstr "Patricia Mergen"
+
+#. type: Plain text
+#: colophon.en.adoc:26
+msgid "Sophie Pamerlon"
+msgstr "Sophie Pamerlon"
+
+#. type: Plain text
+#: colophon.en.adoc:27
+msgid "Carole Sinou"
+msgstr "Carole Sinou"
+
+#. type: Title ====
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "Spanish"
+msgstr "Espagnol"
+
+#. type: Plain text
+#: colophon.en.adoc:31
+msgid "Leonardo Buitrago"
+msgstr "Leonardo Buitrago"
+
+#. type: Plain text
+#: colophon.en.adoc:32
+msgid "Victor Chocho"
+msgstr "Victor Chocho"
+
+#. type: Plain text
+#: colophon.en.adoc:33
+msgid "Camila Plata"
+msgstr "Camila Plata"
+
+#. type: Plain text
+#: colophon.en.adoc:34
+msgid "Anabela Plos"
+msgstr "Anabela Plos"
+
+#. type: Plain text
+#: colophon.en.adoc:35
+msgid "Miguel Vega"
+msgstr "Miguel Vega"
+
+#. type: Plain text
+#: colophon.en.adoc:36
+msgid "Paula Zermoglio"
+msgstr "Paula Zermoglio"
+
+#. type: Title ===
+#: colophon.en.adoc:37
 #, no-wrap
 msgid "Licence"
 msgstr "Licence"
 
 #. type: Plain text
-#: colophon.en.adoc:24
-msgid "The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr "Le cours _Introduction au GBIF_ est sous licence https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+#: colophon.en.adoc:40
+msgid "The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
+msgstr "Le cours _Introduction au GBIF_ est sous licence https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 non transposée]."
 
 #. type: Title ===
-#: colophon.en.adoc:25
+#: colophon.en.adoc:41
 #, no-wrap
 msgid "Persistent URI"
 msgstr "URI permanent"
 
 #. type: Plain text
-#: colophon.en.adoc:28
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
-msgstr "https://doi.org/10.35035/doc-xxxx-xxxx"
+#: colophon.en.adoc:44
+msgid "https://doi.org/10.35035/ce-fcmk-aq49"
+msgstr ""
 
 #. type: Title ===
-#: colophon.en.adoc:29
+#: colophon.en.adoc:45
 #, no-wrap
 msgid "Document control"
 msgstr "Contrôle du document"
 
 #. type: Plain text
-#: colophon.en.adoc:31
+#: colophon.en.adoc:47
 msgid "First edition, May 2021"
 msgstr "Première édition, Mai 2021"
 

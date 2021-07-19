@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-05-07 14:03+0000\n"
-"PO-Revision-Date: 2021-07-13 15:58\n"
+"POT-Creation-Date: 2021-07-16 11:18+0000\n"
+"PO-Revision-Date: 2021-07-19 11:13\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -765,7 +765,7 @@ msgstr "*ACCESIBLE*\n"
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:151
 msgid "The https://www.gbif.org/developer/summary[GBIF Portal API^] provides a machine readable interface (REST + JSON) and use the https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT) as trusted data repository."
-msgstr "La https://www.gbif.org/developer/Texty[API del Portal de GBIF^] proporciona una interfaz legible por computadoras (REST + JSON) y utiliza la https://www.gbif.org/ipt[Herramientas para la publicación integrada de datos^] (IPT) como repositorio de datos de confianza."
+msgstr "La https://www.gbif.org/developer/Texty[API del Portal de GBIF^] proporciona una interfaz legible por computadoras (REST + JSON) y utiliza la https://www.gbif.org/ipt[Herramienta de Publicación Integrada^] (IPT) como repositorio de datos de confianza."
 
 #. type: delimited block *
 #: gbif-mediated-data.en.adoc:155
@@ -1104,7 +1104,7 @@ msgstr "img/web/datapublishing.png"
 #. type: Plain text
 #: data-publishing.en.adoc:17
 msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the https://www.gbif.org/ipt[Integrated Publishing Toolkit^], to publish their data. These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities. This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet. Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs."
-msgstr "La mayoría de las organizaciones de la red GBIF, también conocidas como publicadores, hacen uso de un IPT, el https://www.gbif.org/ipt[Integrated Publishing Toolkit^], para publicar sus datos. Estos publicadores pueden optar por albergar su propia instalación de IPT, como el Field Museum, pero generalmente prefieren encontrar un anfitrión adecuado para sus actividades de publicación de datos. Esto podría ser a través de un nodo participante de GBIF establecido, como GBIF France, o a través de un grupo temático establecido, como VertNet. Otra opción podría ser hacer uso de uno de los IPT albergados por GBIF, como los de BID, BIFA o los IPT regionales."
+msgstr "La mayoría de las organizaciones de la red GBIF, también conocidas como publicadores, hacen uso de un IPT, https://www.gbif.org/ipt[Herramienta de Publicación Integrada^], para publicar sus datos. Estos publicadores pueden optar por albergar su propia instalación de IPT, como el Field Museum, pero generalmente prefieren encontrar un anfitrión adecuado para sus actividades de publicación de datos. Esto podría ser a través de un nodo participante de GBIF establecido, como GBIF France, o a través de un grupo temático establecido, como VertNet. Otra opción podría ser hacer uso de uno de los IPT albergados por GBIF, como los de BID, BIFA o los IPT regionales."
 
 #. type: Plain text
 #: data-publishing.en.adoc:19
@@ -1130,7 +1130,7 @@ msgstr "Una parte importante de la misión de GBIF es promover una cultura en la
 #. type: Plain text
 #: data-publishing.en.adoc:28
 msgid "By making your data discoverable and accessible through GBIF and similar information infrastructures, you will *contribute to global knowledge about biodiversity*, and thus to the solutions that will promote its conservation and sustainable use."
-msgstr "Al hacer que sus datos sean detectables y accesibles a través de GBIF e infraestructuras de información similares, usted *contribuirá al conocimiento global de la biodiversidad*, y por tanto a las soluciones que promoverán su conservación y uso sostenible."
+msgstr "Al hacer que sus datos sean fáciles de encontrar y accesibles a través de GBIF e infraestructuras de información similares, usted *contribuirá al conocimiento global de la biodiversidad*, y por tanto a las soluciones que promoverán su conservación y uso sostenible."
 
 #. type: Plain text
 #: data-publishing.en.adoc:29
@@ -1140,17 +1140,17 @@ msgstr "La publicación de datos permite la integración de conjuntos de datos e
 #. type: Plain text
 #: data-publishing.en.adoc:30
 msgid "Publishing data enables individuals and institutions to be properly credited for their work to create and curate biodiversity data, by *giving visibility to publishing institutions* through good metadata authoring. This recognition can be further developed if you author a peer-reviewed data paper, giving scholarly recognition to the publication of biodiversity datasets."
-msgstr "La publicación de datos permite que individuos e instituciones sean debidamente acreditados por su trabajo para crear y curar datos de biodiversidad, *dando visibilidad a las instituciones de publicación* a través de una buena creación de metadatos. Este reconocimiento se puede desarrollar aún más si usted autoriza un documento de datos revisado por pares, dando reconocimiento científico a la publicación de conjuntos de datos sobre biodiversidad."
+msgstr "La publicación de datos permite que individuos e instituciones tengan el credito adecuado por su trabajo de creación y curaduría datos sobre biodiversidad, *dando visibilidad a las instituciones publicadoras* a través de una buena documentación de los metadatos. Este reconocimiento se puede desarrollar aún más si usted es autor de un artículo de datos revisado por pares, dando reconocimiento científico a la publicación de los conjuntos de datos sobre biodiversidad."
 
 #. type: Plain text
 #: data-publishing.en.adoc:31
 msgid "Collection managers can *trace usage and citations* of digitized data published from their institutions and accessed through GBIF and similar infrastructures."
-msgstr "Los gestores de colecciones pueden *rastrear el uso y las citas* de datos digitalizados publicados desde sus instituciones y accesibles a través de GBIF e infraestructuras similares."
+msgstr "Los administradores de colecciones biológicas pueden *rastrear el uso y las citas* de los datos digitalizados y publicados desde sus instituciones que son accesibles a través de GBIF e infraestructuras similares."
 
 #. type: Plain text
 #: data-publishing.en.adoc:32
 msgid "Some funding agencies now require researchers receiving public funds to *make data freely accessible* at the end of a project."
-msgstr "Algunas agencias de financiación ahora requieren que los investigadores que reciben fondos públicos *aseguren que los datos sean de acceso abierto* al final de un proyecto."
+msgstr "Algunas entidades financiaciadoras ahora requieren que los investigadores que reciben fondos públicos *aseguren que los datos sean de acceso abierto* al final de los proyectos."
 
 #. type: Title ===
 #: data-publishing.en.adoc:33
@@ -1161,12 +1161,12 @@ msgstr "Visibilidad y reconocimiento de los publicadores de datos"
 #. type: Plain text
 #: data-publishing.en.adoc:37
 msgid "In this section, you will review frameworks for citing and tracking digital data use on GBIF.org"
-msgstr "En esta sección, revisará los flujos de trabajo para citar y rastrear el uso de datos digitales en GBIF.org"
+msgstr "En esta sección, revisará los flujos de trabajo para citar y rastrear el uso digital de datos en GBIF.org"
 
 #. type: Plain text
 #: data-publishing.en.adoc:40
 msgid "Giving adequate visibility and recognition to data publishers is of paramount importance to GBIF.  That is why the organization has put in place the regulatory and technical frameworks needed to make citing and tracking digital data use, easier than ever before."
-msgstr "Dar una visibilidad y reconocimiento adecuados a los editores de datos es de suma importancia para GBIF. Por eso la organización ha puesto en marcha los marcos normativos y técnicos necesarios para hacer uso de los datos digitales citados y rastreados. más fácil que nunca."
+msgstr "Dar una visibilidad y reconocimiento adecuados a los publicadores de datos es de suma importancia para GBIF. Por eso la organización ha puesto en marcha los marcos normativos y técnicos necesarios para hacer  la citación y el rastreo del uso digital de los datos, más fácil que nunca."
 
 #. type: Plain text
 #: data-publishing.en.adoc:42
@@ -1177,7 +1177,7 @@ msgstr "*Memorando de Entendimiento de GBIF*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:45
 msgid "GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU).  The MoU is the official document that countries and international organizations sign in order to join GBIF."
-msgstr "GBIF es una iniciativa multilateral establecida por acuerdo intergubernamental y basada en un https://www.gbif. rg/mou[Memorando de Entendimiento^] (MdE). El MdE es el documento oficial que los países y las organizaciones internacionales firman para unirse a GBIF."
+msgstr "GBIF es una iniciativa multilateral establecida por un acuerdo intergubernamental y basada en un https://www.gbif.org/mou[Memorando de Entendimiento^] (MoU). El MoU es el documento oficial que los países y las organizaciones internacionales firman para unirse a GBIF."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:46
@@ -1188,7 +1188,7 @@ msgstr "img/web/GBIF_MoU.jpg"
 #. type: Plain text
 #: data-publishing.en.adoc:49
 msgid "The MoU is very clear stating that GBIF data publishers need to be acknowledged for their contributions:"
-msgstr "El MdE es muy claro afirmando que los editores de datos GBIF deben ser reconocidos por sus contribuciones:"
+msgstr "El MoU es muy claro afirmando que los publicadores de datos de GBIF deben ser reconocidos por sus contribuciones:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:53
@@ -1201,18 +1201,18 @@ msgstr "\"4. Atribución. +\n"
 #. type: Plain text
 #: data-publishing.en.adoc:56
 msgid "GBIF strives to make all efforts possible to make this statement a reality."
-msgstr "GBIF se esfuerza por hacer todos los esfuerzos posibles para hacer de esta declaración una realidad."
+msgstr "GBIF se esmera por hacer todos los esfuerzos posibles para hacer de esta declaración una realidad."
 
 #. type: Plain text
 #: data-publishing.en.adoc:58
 #, no-wrap
 msgid "*The GBIF Data User Agreement*\n"
-msgstr "*El acuerdo de usuario de datos GBIF*\n"
+msgstr "*El Acuerdo del Usuario de Datos GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:60
 msgid "Prior to accessing any data using GBIF, users need to accept a data user agreement which includes very specific requirements on citation of the origin of the data accessed through GBIF. These are some of the requirements listed in the agreement:"
-msgstr "Antes de acceder a cualquier dato usando GBIF, los usuarios deben aceptar un acuerdo de usuario de datos que incluya requisitos muy específicos sobre la mención del origen de los datos a los que se accede a través de GBIF. Estos son algunos de los requisitos enumerados en el acuerdo:"
+msgstr "Antes de acceder a cualquier dato usando GBIF, los usuarios deben aceptar un acuerdo de usuario de datos que incluye requisitos muy específicos sobre la citación del origen de los datos a los que se accede a través de GBIF. Estos son algunos de los requisitos enumerados en el acuerdo:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:63
@@ -1223,7 +1223,7 @@ msgstr "\"Con el fin de hacer posible la atribución de uso a los propietarios d
 #. type: Plain text
 #: data-publishing.en.adoc:66
 msgid "“Users must publicly acknowledge, following the scientific convention of citing sources in conjunction with the use of the data, the Data Publishers whose biodiversity data they have used, where appropriate through use of a Digital Object Identifier (DOI) applying to the dataset (s) and/or data downloads.”"
-msgstr "“Los usuarios deben reconocer públicamente, de conformidad con la convención científica de citar fuentes junto con el uso de los datos, los Editores de Datos cuyos datos de biodiversidad han utilizado, cuando sea apropiado mediante el uso de un Identificador de Objetos Digital (DOI) que se aplique al/los dataset y/o descargas de datos.”"
+msgstr "“Los usuarios deben reconocer públicamente, siguiendo la convención científica de citar las fuentes junto con el uso de los datos, a los Publicadores de Datos cuyos datos de biodiversidad han utilizado, cuando sea apropiado mediante el uso de un Identificador de Objetos Digital (DOI) que se aplique al/los conjunto(s) de dato(s) y/o a las descargas de datos.”"
 
 #. type: Plain text
 #: data-publishing.en.adoc:68
@@ -1245,7 +1245,7 @@ msgstr "*Citación*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:76
 msgid "GBIF strongly encourages all users to cite data retrieved from the GBIF network. For that purpose it provides recommended citation strings on the dataset, occurrence and download pages in GBIF.org."
-msgstr "GBIF alienta a todos los usuarios a que citen los datos obtenidos a través de la red de GBIF. Para ello, proporciona citas recomendadas en el conjunto de datos, las ocurrencias y las páginas de descarga de GBIF.org."
+msgstr "GBIF alienta a todos los usuarios a que citen los datos obtenidos a través de la red de GBIF. Para ello, proporciona citas recomendadas en el conjunto de datos, los registros biológicos y las páginas de descarga de GBIF.org."
 
 #. type: Plain text
 #: data-publishing.en.adoc:78
@@ -1277,7 +1277,7 @@ msgstr "*Página del publicador de datos*\n"
 #. type: Plain text
 #: data-publishing.en.adoc:90
 msgid "All publishers feature their own page on GBIF.org.  It is important that publishers give some thought to how they want to appear on the website and provide relevant information about their institutions and their teams at the time of registration.  They should also strive to keep it up to date, as interested parties will use the contact data on that page to contact the team responsible for the data publishing."
-msgstr "Todos los editores tienen su propia página en GBIF.org. Es importante que los editores reflexionen sobre cómo quieren aparecer en el sitio web y proporcionen información relevante sobre sus instituciones y sus equipos en el momento de registrarse. También deberían esforzarse por mantenerlo actualizado. como las partes interesadas utilizarán los datos de contacto de esa página para contactar al equipo responsable de la publicación de los datos."
+msgstr "Todos los publicadores tienen su propia página en GBIF.org. Es importante que los publicadores reflexionen sobre cómo quieren aparecer en el sitio web y proporcionen información relevante sobre sus instituciones y sus equipos en el momento de registrarse. También deberían esforzarse por mantenerlo actualizado, ya que las partes interesadas utilizarán los datos de contacto de esa página para contactar al equipo responsable de la publicación de los datos."
 
 #. type: Plain text
 #: data-publishing.en.adoc:92
@@ -1293,7 +1293,7 @@ msgstr "Cada vez que se publica una nueva versión de un conjunto de datos utili
 #. type: Plain text
 #: data-publishing.en.adoc:96
 msgid "As mentioned before, you can resolve DOI is websites like dx.doi.org: which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports."
-msgstr "Como se mencionó anteriormente, usted puede resolver DOI mediante sitios web como dx.doi.org: que siempre redireccionará a la fuente original, en este caso, la página de conjuntos de datos. También puedes buscar DOI usando una búsqueda web normal, que normalmente revelará cualquier otro recurso que cite el uso del mismo DOI como artículos o informes públicos."
+msgstr "Como se mencionó anteriormente, usted puede resolver un DOI mediante sitios web como dx.doi.org: que siempre redireccionará a la fuente original, en este caso, la página del conjuntos de datos. También puede buscar un DOI usando una búsqueda web normal, que normalmente revelará cualquier otro recurso que cite el uso del mismo DOI como artículos o informes públicos."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:97
@@ -1438,7 +1438,7 @@ msgstr "Haga clic en el menú _How-to_ en el sitio web de GBIF para navegar a la
 #. type: Plain text
 #: data-publishing.en.adoc:153
 msgid "To share data through GBIF.org, publishers typically have to collate or transform existing datasets into a standardized format.  This work may include additional processing, content editing and mapping a dataset’s content into one of the available data transfer formats, as well as publication through one of the available data publishing tools, such as GBIF’s free, open-source https://www.gbif.org/ipt[Integrated Publishing Toolkit^] (IPT)."
-msgstr "Para compartir datos a través de GBIF.org, los editores normalmente tienen que recopilar o transformar los conjuntos de datos existentes en un formato estandarizado. Este trabajo puede incluir procesamiento, edición de contenido y mapeo del contenido de un dataset en uno de los formatos de transferencia de datos disponibles, así como publicación a través de una de las herramientas de publicación de datos disponibles, tales como GBIF's free open-source https://www. bif.org/ipt[Herramienta de publicación integrada^] (IPT)."
+msgstr "Para compartir datos a través de GBIF.org, los editores normalmente tienen que recopilar o transformar los conjuntos de datos existentes en un formato estandarizado. Este trabajo puede incluir procesamiento, edición de contenido y mapeo del contenido de un dataset en uno de los formatos de transferencia de datos disponibles, así como publicación a través de una de las herramientas de publicación de datos disponibles, tales como GBIF's free open-source https://www. bif.org/ipt[Herramienta de Publicación Integrada^] (IPT)."
 
 #. type: Plain text
 #: data-publishing.en.adoc:157
@@ -1545,7 +1545,7 @@ msgstr "Archivos de Darwin Core comprimidos por ZIP (DwC-A) (que contienen datos
 #. type: Plain text
 #: data-publishing.en.adoc:202
 msgid "Integrated Processing Toolkit (IPT) Excel templates containing Checklist, Occurrence, or Sampling-event data"
-msgstr "Plantillas de herramientas de procesamiento integradas (IPT) de Excel que contienen lista de verificación, ocurrencia o datos de eventos de muestreo"
+msgstr "Plantillas de Excel para la Herramienta de Publicación Integrada (IPT) que contengan datos de listas de especies (\"Checklist\"), registros biológicos, o eventos de muestreo"
 
 #. type: Plain text
 #: data-publishing.en.adoc:203
@@ -1838,7 +1838,7 @@ msgstr "Las búsquedas se pueden realizar sobre https://www.gbif.org/occurrence/
 #: data-access.en.adoc:56
 #, no-wrap
 msgid "Handling data quality "
-msgstr "Manejo de la calidad de los datos"
+msgstr "Manejo de la calidad de los datos "
 
 #. type: Plain text
 #: data-access.en.adoc:61
@@ -2273,7 +2273,7 @@ msgstr "[[IPT]]IPT"
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr "Kit de Herramientas de Publicación Integrado. Es una aplicación web (software) gratuita y de código abierto para publicar datos de biodiversidad. El software en sí existe en un servidor (ya sea en su institución o en otro lugar) que debe tener acceso a Internet las 24 horas del día, los 7 días de la semana. Se utiliza para crear y gestionar archivos de Darwin Core que pueden ser compartidos y utilizados por cualquier persona, incluido GBIF."
+msgstr "Herramienta de Publicación Integrada. Es una aplicación web (software) gratuita y de código abierto para publicar datos de biodiversidad. El software en sí existe en un servidor (ya sea en su institución o en otro lugar) que debe tener acceso a Internet las 24 horas del día, los 7 días de la semana. Se utiliza para crear y gestionar archivos de Darwin Core que pueden ser compartidos y utilizados por cualquier persona, incluido GBIF."
 
 #. type: Labeled list
 #: glossary.en.adoc:39
@@ -2745,8 +2745,8 @@ msgstr "Cita sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:10
-msgid "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/doc-xxxx-xxxx."
-msgstr "Raymond M, Rodrigues A & Russell L A. Curso de introducción a GBIF Primera edición. Secretariado de GBIF: Copenhague. https://doi.org/10.35035/doc-xxxx-xxxx."
+msgid "Raymond M, Rodrigues A & Russell L A.  Introduction to GBIF course First edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/ce-fcmk-aq49."
+msgstr "Raymond M, Rodrigues A & Russell L A. Curso de introducción a GBIF Primera edición. Secretariado de GBIF: Copenhague. https://doi.org/10.35035/ce-fcmk-aq49."
 
 #. type: Title ===
 #: colophon.en.adoc:11
@@ -2776,36 +2776,98 @@ msgstr "Personal del Secretariado de GBIF."
 msgid "Translators"
 msgstr "Traductores"
 
-#. type: Title ===
+#. type: Title ====
 #: colophon.en.adoc:21
+#, no-wrap
+msgid "French"
+msgstr "Francés"
+
+#. type: Plain text
+#: colophon.en.adoc:24
+msgid "Maxime Coupremanne"
+msgstr "Maxime Coupremanne"
+
+#. type: Plain text
+#: colophon.en.adoc:25
+msgid "Patricia Mergen"
+msgstr "Patricia Mergen"
+
+#. type: Plain text
+#: colophon.en.adoc:26
+msgid "Sophie Pamerlon"
+msgstr "Sophie Pamerlon"
+
+#. type: Plain text
+#: colophon.en.adoc:27
+msgid "Carole Sinou"
+msgstr "Carole Sinou"
+
+#. type: Title ====
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "Spanish"
+msgstr "Español"
+
+#. type: Plain text
+#: colophon.en.adoc:31
+msgid "Leonardo Buitrago"
+msgstr "Leonardo Buitrago"
+
+#. type: Plain text
+#: colophon.en.adoc:32
+msgid "Victor Chocho"
+msgstr "Victor Chocho"
+
+#. type: Plain text
+#: colophon.en.adoc:33
+msgid "Camila Plata"
+msgstr "Camila Plata"
+
+#. type: Plain text
+#: colophon.en.adoc:34
+msgid "Anabela Plos"
+msgstr "Anabela Plos"
+
+#. type: Plain text
+#: colophon.en.adoc:35
+msgid "Miguel Vega"
+msgstr "Miguel Vega"
+
+#. type: Plain text
+#: colophon.en.adoc:36
+msgid "Paula Zermoglio"
+msgstr "Paula Zermoglio"
+
+#. type: Title ===
+#: colophon.en.adoc:37
 #, no-wrap
 msgid "Licence"
 msgstr "Licencia"
 
 #. type: Plain text
-#: colophon.en.adoc:24
-msgid "The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr "El curso _Introducción a GBIF_ está bajo licencia https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+#: colophon.en.adoc:40
+msgid "The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
+msgstr "El curso _Introducción a GBIF_ está licenciado bajo https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
 
 #. type: Title ===
-#: colophon.en.adoc:25
+#: colophon.en.adoc:41
 #, no-wrap
 msgid "Persistent URI"
 msgstr "URI persistente"
 
 #. type: Plain text
-#: colophon.en.adoc:28
-msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
-msgstr "https://doi.org/10.35035/doc-xxxx-xxxx"
+#: colophon.en.adoc:44
+msgid "https://doi.org/10.35035/ce-fcmk-aq49"
+msgstr "https://doi.org/10.35035/ce-fcmk-aq49"
 
 #. type: Title ===
-#: colophon.en.adoc:29
+#: colophon.en.adoc:45
 #, no-wrap
 msgid "Document control"
 msgstr "Control de documentos"
 
 #. type: Plain text
-#: colophon.en.adoc:31
+#: colophon.en.adoc:47
 msgid "First edition, May 2021"
 msgstr "Primera edición, mayo 2021"
 
