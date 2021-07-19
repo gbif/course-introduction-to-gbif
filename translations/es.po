@@ -859,7 +859,7 @@ msgstr "En esta sección revise las diferentes métricas disponibles para los co
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:195
 msgid "One of the many benefits of publishing data via GBIF is that, during the indexing process, GBIF analyses all datasets and produces https://www.gbif.org/analytics/global[metrics^] about them. These metrics are made available in several different ways:"
-msgstr "Uno de los muchos beneficios de publicar datos a través de GBIF es que, durante el proceso de indexación, GBIF analiza todos los conjuntos de datos y produce https://www. bif.org/analytics/global[métricas^] acerca de ellos. Estas métricas están disponibles de varias maneras diferentes:"
+msgstr "Uno de los muchos beneficios de publicar datos a través de GBIF es que, durante el proceso de indexación, GBIF analiza todos los conjuntos de datos y produce https://www.gbif.org/analytics/global[métricas^] acerca de ellos. Estas métricas están disponibles de varias maneras diferentes:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:197
