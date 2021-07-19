@@ -642,7 +642,7 @@ msgstr "materiales depositados en un repositorio de uso general"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:98
 msgid "GBIF assigns DOIs to all datasets and occurrence downloads.  When data is used, following DOI https://www.gbif.org/citation-guidelines[citation practice^] ensures an easy and consistent way of crediting dataset holders while also allowing for reproducibility.  The DOIs will always resolve to dataset or download pages, even if the underlying data is no longer available."
-msgstr "GBIF asigna DOIs a todos los conjuntos de datos y descargas de registros biológicos. Cuando se utilizan datos siguiendo las https://www.gbif. rg/citation-guidelines[practicas de citación del DOI^] se asegura una forma fácil y consistente de dar crédito a los titulares de los conjuntos de datos al mismo tiempo que permite la reproducibilidad. Los DOIs siempre resolverán las páginas del conjunto de datos o de descarga, incluso si los datos subyacentes ya no están disponibles."
+msgstr "GBIF asigna DOIs a todos los conjuntos de datos y descargas de registros biológicos. Cuando se utilizan datos siguiendo las https://www.gbif.org/citation-guidelines[practicas de citación del DOI^] se asegura una forma fácil y consistente de dar crédito a los titulares de los conjuntos de datos al mismo tiempo que permite la reproducibilidad. Los DOIs siempre resolverán las páginas del conjunto de datos o de descarga, incluso si los datos subyacentes ya no están disponibles."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:101
