@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-18 17:52\n"
+"PO-Revision-Date: 2021-07-19 11:13\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1223,7 +1223,7 @@ msgstr "\"Con el fin de hacer posible la atribución de uso a los propietarios d
 #. type: Plain text
 #: data-publishing.en.adoc:66
 msgid "“Users must publicly acknowledge, following the scientific convention of citing sources in conjunction with the use of the data, the Data Publishers whose biodiversity data they have used, where appropriate through use of a Digital Object Identifier (DOI) applying to the dataset (s) and/or data downloads.”"
-msgstr "“Los usuarios deben reconocer públicamente, de conformidad con la convención científica de citar fuentes junto con el uso de los datos, los Editores de Datos cuyos datos de biodiversidad han utilizado, cuando sea apropiado mediante el uso de un Identificador de Objetos Digital (DOI) que se aplique al/los dataset y/o descargas de datos.”"
+msgstr "“Los usuarios deben reconocer públicamente, siguiendo la convención científica de citar las fuentes junto con el uso de los datos, a los Publicadores de Datos cuyos datos de biodiversidad han utilizado, cuando sea apropiado mediante el uso de un Identificador de Objetos Digital (DOI) que se aplique al/los conjunto(s) de dato(s) y/o a las descargas de datos.”"
 
 #. type: Plain text
 #: data-publishing.en.adoc:68
@@ -1838,7 +1838,7 @@ msgstr "Las búsquedas se pueden realizar sobre https://www.gbif.org/occurrence/
 #: data-access.en.adoc:56
 #, no-wrap
 msgid "Handling data quality "
-msgstr "Manejo de la calidad de los datos"
+msgstr "Manejo de la calidad de los datos "
 
 #. type: Plain text
 #: data-access.en.adoc:61
