@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-05 19:34\n"
+"PO-Revision-Date: 2021-12-05 20:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1338,7 +1338,7 @@ msgstr "img/web/register.png"
 #. type: Plain text
 #: data-publishing.en.adoc:114
 msgid "Prospective new publishers are asked to complete an online form.  The answers provided help GBIF to give proper credit and attribution for the datasets shared by the new publisher."
-msgstr "Se solicita a los futuros editores que rellenen un formulario en línea. Las respuestas proporcionadas ayudan a GBIF a dar crédito y atribución adecuados para los conjuntos de datos compartidos por el nuevo editor."
+msgstr "Se solicita a los futuros publicadores que rellenen un formulario en línea. Las respuestas proporcionadas ayudan a GBIF a dar crédito y atribución adecuados para los conjuntos de datos compartidos por el nuevo publicador."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:115
@@ -1349,7 +1349,7 @@ msgstr "img/web/Register3.png"
 #. type: Plain text
 #: data-publishing.en.adoc:119
 msgid "Before GBIF indexes datasets, an institution must receive endorsement as a data publisher from one of the Participant nodes that coordinate activities of the national and organizational Participants in the GBIF network.  If the country is not yet participating in GBIF, endorsement is sought on the publisher's behalf from within the GBIF community."
-msgstr "Antes de que GBIF indexe los conjuntos de datos, una institución debe recibir apoyo como editora de datos de uno de los nodos participantes que coordine las actividades de los participantes nacionales y organizacionales de la red GBIF. Si el país aún no participa en GBIF, se solicita apoyo en nombre del editor desde la comunidad GBIF."
+msgstr "Antes de que GBIF indexe los conjuntos de datos, una institución debe recibir apoyo como publicadora de datos de uno de los nodos participantes que coordine las actividades de los participantes nacionales y organizacionales de la red GBIF. Si el país aún no participa en GBIF, se solicita apoyo en nombre del editor desde la comunidad GBIF."
 
 #. type: Plain text
 #: data-publishing.en.adoc:121
@@ -1374,7 +1374,7 @@ msgstr "La publicación y el uso de datos están respaldados por un fuerte compr
 #. type: Plain text
 #: data-publishing.en.adoc:126
 msgid "Data are as open as possible, and available for sharing and reuse"
-msgstr "Los datos están tan abiertos como sea posible, y están disponibles para compartir y reutilizar"
+msgstr "Los datos están tan abiertos como sea posible y están disponibles para ser compartidos y reutilizados"
 
 #. type: Plain text
 #: data-publishing.en.adoc:127
@@ -1384,7 +1384,7 @@ msgstr "Los editores de datos pueden responder a comentarios y mejorar la calida
 #. type: Plain text
 #: data-publishing.en.adoc:129
 msgid "At present, GBIF and its Participants only publish data from organizations—that is, institutions, networks and societies—rather than individuals. Individuals wishing to publish data should work through their affiliated organizations to seek endorsement as a publisher."
-msgstr "Actualmente, GBIF y sus participantes sólo publican datos de organizaciones, es decir, instituciones, redes y sociedades, en lugar de individuos. Los individuos que deseen publicar datos deben trabajar a través de sus organizaciones afiliadas para buscar apoyo como editor."
+msgstr "Actualmente, GBIF y sus participantes sólo publican datos de organizaciones, es decir, instituciones, redes y sociedades, en lugar de individuos. Los individuos que deseen publicar datos deben trabajar a través de sus organizaciones afiliadas para buscar apoyo como publicador."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:130
