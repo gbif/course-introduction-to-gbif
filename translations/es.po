@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-05 17:28\n"
+"PO-Revision-Date: 2021-12-05 18:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -555,22 +555,22 @@ msgstr "*¿Cómo se genera el árbol taxonómico?*\n"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:63
 msgid "The backbone is built from other checklists. These include:"
-msgstr "El árbol taxonómico se construye a partir de otras listas de especies. Estas incluyen:"
+msgstr "El árbol taxonómico se construye a partir de otros listados de especies. Estos incluyen:"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:65
 msgid "55 authority checklists,"
-msgstr "55 listas de autoridades taxonómicas,"
+msgstr "55 listados de autoridades taxonómicas,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:66
 msgid "a checklist generated from the type specimens shared on GBIF,"
-msgstr "una lista de especies generada a partir de los especímenes tipo compartidos en GBIF,"
+msgstr "un listado de especies generado a partir de los especímenes tipo compartidos en GBIF,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:67
 msgid "two large sources for stable Operational Taxonomic Units (OTUs): iBOL Barcode Index Numbers and the UNITE Species Hypothesis identifiers,"
-msgstr "dos grandes fuentes para Unidades Taxonómicas Operativas (OTUs): iBOL índice de código de barras y UNITE identificadores de hipótesis de especies,"
+msgstr "dos grandes fuentes para \"Unidades taxonómicas operativas (OTUs)\": iBOL índice de código de barras y UNITE identificadores de hipótesis de especies,"
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:68
@@ -580,17 +580,17 @@ msgstr "y cualquier lista de especies compartida por PLAZI.org en GBIF (actualme
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:71
 msgid "These checklists are ordered by priority starting with the Catalogue of Life for most taxa.  This order is crucial as it shapes the taxonomy."
-msgstr "Estas listas se ordenan por prioridad comenzando con el Catálogo de Vida para la mayoría de los taxones. Este orden es crucial ya que da forma a la taxonomía del árbol."
+msgstr "Estas listas se ordenan por prioridad comenzando con el \"Catálogo de vida\" para la mayoría de los taxa. Este orden es crucial ya que da forma a la taxonomía del árbol."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:73
 msgid "Note that many sequence-based occurrences have no Latin names but are named using species hypotheses (UNITE: fungi) or Barcode Index Numbers (iBOL: primarily animals). This is why adding these two major sources of stable OTUs to the latest backbone taxonomy significantly improves GBIF’s indexing functionality for sequence-based biodiversity data."
-msgstr "Tenga en cuenta que muchos registros biológicos basados en secuencias no tienen nombres en Latin pero son nombradas usando hipótesis de especies (UNITE: hongos) o códigos de barras (iBOL: principalmente animales). Ésa es la razón por la que la adición de estas dos fuentes principales de OTUs estables a la última versión del árbol taxonómico mejora significativamente la funcionalidad de indexación de GBIF para los datos sobre biodiversidad derivados de secuencias."
+msgstr "Tenga en cuenta que muchos registros biológicos basados en secuencias no tienen nombres en latín pero son nombradas usando hipótesis de especies (UNITE: hongos) o códigos de barras (iBOL: principalmente animales). Ésa es la razón por la que la adición de estas dos fuentes principales de OTUs estables a la última versión del árbol taxonómico mejora significativamente la funcionalidad de indexación de GBIF para los datos sobre biodiversidad derivados de secuencias."
 
 #. type: delimited block =
 #: gbif-mediated-data.en.adoc:76
 msgid "The information above is an excerpt from a 2019 blog post by Marie Grosjean. Read the https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[blog post^] for more detail on the backbone."
-msgstr "La información anterior es un extracto de una entrada de blog de Marie Grosjean. Lee la https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[entrada de blog^] para más detalles sobre el árbol taxonómico."
+msgstr "La información anterior es un extracto de una entrada de blog de Marie Grosjean. Lea la https://data-blog.gbif.org/post/gbif-backbone-taxonomy/[entrada de blog^] para más detalles sobre el árbol taxonómico."
 
 #. type: Title ===
 #: gbif-mediated-data.en.adoc:78
@@ -601,7 +601,7 @@ msgstr "Principios de los datos mediados por GBIF"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:82
 msgid "In this section, you will learn about the principles that GBIF follows with regards to data and how data in the GBIF portal are FAIR."
-msgstr "En esta sección aprenderás sobre los principios que sigue GBIF respecto a los datos y cómo los datos en el portal de GBIF son FAIR."
+msgstr "En esta sección aprenderá sobre los principios que sigue GBIF respecto a los datos y cómo los datos en el portal de GBIF son FAIR."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:83
@@ -612,7 +612,7 @@ msgstr "Identificadores de objeto digital"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:87
 msgid "A Digital Object Identifier, or DOI, is a http://www.iso.org/iso/catalogue_detail?csnumber=43506[standard^], permanent identifier that provides an actionable, interoperable, persistent link to any entity.  The concept is that DOI differs from commonly used references like URL web links because it identifies an object itself as a first-class entity, not simply the place where the object is currently located."
-msgstr "Un Identificador de Objetos Digitales, o DOI, es un identificador permanente http://www.iso.org/iso/catalogue_detail?csnumber=43506[estándar^] que proporciona un enlace persistente a cualquier entidad. El DOI difiere de referencias comúnmente utilizadas como enlaces web de URL porque identifica a un objeto en sí mismo como una entidad de primera clase, no simplemente el lugar donde el objeto está actualmente ubicado."
+msgstr "Un \"identificador de objetos digitales\" o DOI, es un identificador permanente http://www.iso.org/iso/catalogue_detail?csnumber=43506[estándar^] que proporciona un enlace persistente a cualquier entidad. El DOI difiere de referencias comúnmente utilizadas como enlaces web de URL porque identifica a un objeto en sí mismo como una entidad de primera clase y no simplemente el lugar donde el objeto está ubicado actualmente."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:89
@@ -647,7 +647,7 @@ msgstr "GBIF asigna DOIs a todos los conjuntos de datos y descargas de registros
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:101
 msgid "GBIF started issuing DOIs on 3 February 2015.  Downloads requested before this date do not have DOIs, however, if you wish to cite older downloads, you can contact helpdesk@gbif.org and we will assign DOIs as appropriate."
-msgstr "GBIF comenzó a emitir DOIs el 3 de febrero de 2015. Las descargas solicitadas antes de esta fecha no tienen DOIs, sin embargo, si desea citar descargas antiguas, puede ponerse en contacto con helpdesk@gbif. org y asignaremos DOIs según corresponda."
+msgstr "GBIF comenzó a emitir DOIs el 3 de febrero de 2015. Las descargas solicitadas antes de esta fecha no tienen DOIs, sin embargo, si desea citar descargas antiguas, puede ponerse en contacto con helpdesk@gbif.org y asignaremos DOIs según corresponda."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:102
@@ -658,7 +658,7 @@ msgstr "Estándares"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:105
 msgid "The data available through GBIF.org and its associated services is the result of the GBIF network of Participants and publishers applying shared rules and conventions to describe, record and structure thousands of different datasets drawn from hundreds of institutions around the world. Common standards are the main enabler for bringing together the hundreds of millions of primary biodiversity records in the GBIF index."
-msgstr "Los datos disponibles a través de GBIF. org y sus servicios asociados son el resultado de la red de participantes y publicadores de GBIF que aplican reglas compartidas y convenciones para describir, registrar y estructurar miles de conjuntos de datos provenietes de cientos de instituciones de todo el mundo. Los estándares comunes son la principal herramienta para reunir los cientos de millones de datos primarios sobre biodiversidad en el índice GBIF."
+msgstr "Los datos disponibles a través de GBIF.org y sus servicios asociados son el resultado de la red de participantes y publicadores de GBIF que aplican normas y convenciones compartidas para describir, registrar y estructurar miles de conjuntos de datos procedentes de cientos de instituciones de todo el mundo. Los estándares comunes son la principal herramienta para reunir los cientos de millones de datos primarios sobre biodiversidad en el índice GBIF."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:107
@@ -694,7 +694,7 @@ msgstr "Datos abiertos"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:120
 msgid "In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
-msgstr "De acuerdo con una https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decisión de la junta de gobierno de GBIF^] de 2014, los publicadores de datos deben asignar una de las tres opciones Creative Commons a cada conjunto de datos. La junta de gobierno reconoció la necesidad de una mayor claridad tanto para los publicadores de datos como para los usuarios sobre cómo se pueden utilizar los datos cuando se comparten a través de GBIF.org. https://creativecommons.org/[Creative Commons] es una organización sin fines de lucro que ayuda a superar los obstáculos legales para compartir el conocimiento y la creatividad a fin de abordar los desafíos apremiantes del mundo."
+msgstr "De acuerdo con una https://www.gbif de 2014.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decisión de la junta de gobierno de GBIF^] de 2014, los publicadores de datos deben asignar una de las tres opciones Creative Commons a cada conjunto de datos. La junta de gobierno reconoció la necesidad de una mayor claridad tanto para los publicadores de datos como para los usuarios sobre cómo se pueden utilizar los datos cuando se comparten a través de GBIF.org. https://creativecommons. rg/[Creative Commons] es una organización sin fines de lucro que ayuda a superar los obstáculos legales para compartir el conocimiento y la creatividad a fin de abordar los desafíos apremiantes del mundo."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
@@ -714,7 +714,7 @@ msgstr "http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC^] - uso no comer
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:126
 msgid "Note that the CC-BY-NC licence has a significant effect on the reusability of data. GBIF encourages data publishers to choose the most open option they can wherever possible. It is important to note that images are not subject to the same licence that is applied to the dataset and may have more restricted terms of use. Lastly, attribution/citation is a community norm, so even if the publishers has waived conditions for use, attribution is expected."
-msgstr "Tenga en cuenta que la licencia CC-BY-NC tiene un efecto significativo en la reutilización de los datos. GBIF anima a los publicadores de datos a elegir la opción más abierta que sea posible. Es importante señalar que las imágenes no están sujetas a la misma licencia que se aplica al conjunto de datos y pueden tener términos de uso más restringidos. Por último, la atribución/citación es una norma de comunidad, así que incluso si los publicadores han renunciado a las condiciones de uso, se espera que tengan atribución."
+msgstr "Tenga en cuenta que la licencia CC-BY-NC tiene un efecto significativo en la reutilización de los datos. GBIF anima a los publicadores de datos a elegir la opción más abierta posible. Es importante señalar que las imágenes no están sujetas a la misma licencia que se aplica al conjunto de datos y pueden tener términos de uso más restringidos. Por último, la atribución/citación es una norma de comunidad, así que incluso si los publicadores han renunciado a las condiciones de uso, se espera que tengan atribución."
 
 #. type: Title ====
 #: gbif-mediated-data.en.adoc:127
@@ -725,7 +725,7 @@ msgstr "Datos FAIR"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
 msgid "Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
-msgstr "Muchos artículos publicados en el periodo 2011-2016 evidencian una crisis en  la reproducibilidad científica (ver abajo). En 2016, los  https://www.nature.com/articles/sdata201618[ Principios orientadores FAIR para la gestión y administración de datos científicos^] fueron publicados en https://www.nature.com/sdata/[Scientific Data^]. Los principios fueron diseñados para conseguir que los datos sean fáciles de encontrar, accesibles,  interoperables, y reutilizables;  y para abordar \"una necesidad urgente de mejorar la infraestructura que soporta la reutilización de los datos académicos\". La implementación de estos principios comenzó en 2018. Puedes leer más sobre http://www.go-fair.org/how-to-go-fair/[Cómo ser FAIR^] en https://www.go-fair.org/[GO-FAIR.org^]."
+msgstr "Muchos artículos publicados en el periodo 2011-2016 evidencian una crisis en  la reproducibilidad científica (ver abajo). En 2016, los  https://www.nature.com/articles/sdata201618[ Principios orientadores FAIR para la gestión y administración de datos científicos^] fueron publicados en https://www.nature.com/sdata/[Scientific Data^]. Los principios fueron diseñados para conseguir que los datos sean fáciles de encontrar, accesibles, interoperables y reutilizables, y para abordar \"una necesidad urgente de mejorar la infraestructura que soporta la reutilización de los datos académicos\". La implementación de estos principios comenzó en 2018. Puede leer más sobre http://www.go-fair.org/how-to-go-fair/[Cómo ser FAIR^] en https://www.go-fair.org/[GO-FAIR.org^]."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:135
