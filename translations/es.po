@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-05 18:24\n"
+"PO-Revision-Date: 2021-12-05 19:34\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1130,7 +1130,7 @@ msgstr "Una parte importante de la misión de GBIF es promover una cultura en la
 #. type: Plain text
 #: data-publishing.en.adoc:28
 msgid "By making your data discoverable and accessible through GBIF and similar information infrastructures, you will *contribute to global knowledge about biodiversity*, and thus to the solutions that will promote its conservation and sustainable use."
-msgstr "Al hacer que sus datos sean fáciles de encontrar y accesibles a través de GBIF e infraestructuras de información similares, usted *contribuirá al conocimiento global de la biodiversidad*, y por tanto a las soluciones que promoverán su conservación y uso sostenible."
+msgstr "Al hacer que sus datos sean fáciles de encontrar y accesibles a través de GBIF e infraestructuras de información similares, usted *contribuirá al conocimiento global sobre la biodiversidad* y por tanto a las soluciones que promoverán su conservación y uso sostenible."
 
 #. type: Plain text
 #: data-publishing.en.adoc:29
@@ -1140,7 +1140,7 @@ msgstr "La publicación de datos permite la integración de conjuntos de datos e
 #. type: Plain text
 #: data-publishing.en.adoc:30
 msgid "Publishing data enables individuals and institutions to be properly credited for their work to create and curate biodiversity data, by *giving visibility to publishing institutions* through good metadata authoring. This recognition can be further developed if you author a peer-reviewed data paper, giving scholarly recognition to the publication of biodiversity datasets."
-msgstr "La publicación de datos permite que individuos e instituciones tengan el credito adecuado por su trabajo de creación y curaduría datos sobre biodiversidad, *dando visibilidad a las instituciones publicadoras* a través de una buena documentación de los metadatos. Este reconocimiento se puede desarrollar aún más si usted es autor de un artículo de datos revisado por pares, dando reconocimiento científico a la publicación de los conjuntos de datos sobre biodiversidad."
+msgstr "La publicación de datos permite que individuos e instituciones tengan el credito adecuado por su trabajo de creación y curaduría de datos sobre biodiversidad, *dando visibilidad a las instituciones publicadoras* a través de una buena documentación de los metadatos. Este reconocimiento se puede desarrollar aún más si usted es autor de un artículo de datos revisado por pares, dando reconocimiento científico a la publicación de los conjuntos de datos sobre biodiversidad."
 
 #. type: Plain text
 #: data-publishing.en.adoc:31
@@ -1172,12 +1172,12 @@ msgstr "Dar una visibilidad y reconocimiento adecuados a los publicadores de dat
 #: data-publishing.en.adoc:42
 #, no-wrap
 msgid "*The GBIF Memorandum of Understanding*\n"
-msgstr "*Memorando de Entendimiento de GBIF*\n"
+msgstr "*Memorando de entendimiento de GBIF*\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:45
 msgid "GBIF is a multilateral initiative established by intergovernmental agreement and based on a non-binding https://www.gbif.org/mou[Memorandum of Understanding^] (MoU).  The MoU is the official document that countries and international organizations sign in order to join GBIF."
-msgstr "GBIF es una iniciativa multilateral establecida por un acuerdo intergubernamental y basada en un https://www.gbif.org/mou[Memorando de Entendimiento^] (MoU). El MoU es el documento oficial que los países y las organizaciones internacionales firman para unirse a GBIF."
+msgstr "GBIF es una iniciativa multilateral establecida por un acuerdo intergubernamental y basada en un https://www.gbif.org/mou[\"memorando de entendimiento\"^] (MoU). El MoU es el documento oficial que los países y las organizaciones internacionales firman para unirse a GBIF."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:46
@@ -1188,7 +1188,7 @@ msgstr "img/web/GBIF_MoU.jpg"
 #. type: Plain text
 #: data-publishing.en.adoc:49
 msgid "The MoU is very clear stating that GBIF data publishers need to be acknowledged for their contributions:"
-msgstr "El MoU es muy claro afirmando que los publicadores de datos de GBIF deben ser reconocidos por sus contribuciones:"
+msgstr "El MoU es muy claro al afirmar que los editores de datos de GBIF deben ser reconocidos por sus contribuciones:"
 
 #. type: delimited block -
 #: data-publishing.en.adoc:53
@@ -1234,7 +1234,7 @@ msgstr "Del mismo modo, el acuerdo es muy específico al afirmar que deben respe
 #: data-publishing.en.adoc:71
 #, no-wrap
 msgid "\"Users must comply with the terms and conditions included in the licence selected by each Data Publisher, and the licensing information included with each data download. If any provision of this Use Agreement conflicts with the terms and conditions within the licences selected by the Data Publisher, licences selected by the Data Publisher shall prevail.\"\n"
-msgstr "\"Los usuarios deben cumplir los términos y condiciones incluidos en la licencia seleccionada por cada Publicador de Datos, y la información de licencia incluida con cada descarga de datos. Si alguna disposición de este Acuerdo de Uso entra en conflicto con los términos y condiciones de las licencias seleccionadas por el Publicador de Datos, prevalecerán las licencias seleccionadas por este último.\"\n"
+msgstr "\"Los usuarios deben cumplir los términos y condiciones incluidos en la licencia seleccionada por cada publicador de datos y la información de licencia incluida con cada descarga de datos. Si alguna disposición de este \"acuerdo de uso\" entra en conflicto con los términos y condiciones de las licencias seleccionadas por el publicador de datos, prevalecerán las licencias seleccionadas por este último.\"\n"
 
 #. type: Plain text
 #: data-publishing.en.adoc:74
@@ -1255,7 +1255,7 @@ msgstr "Esto es especialmente relevante para los conjuntos de datos publicados u
 #. type: Plain text
 #: data-publishing.en.adoc:80
 msgid "Citation and right strings are automatically generated for data publishers for each dataset when using IPT as the publishing mechanism, providing that one of the standard licenses is selected."
-msgstr "Los textos de las citas y derechos se generan automáticamente para los publicadores de datos para cada conjunto de datos cuando se utiliza IPT como mecanismo de publicación, siempre que se seleccione una de las licencias estándar."
+msgstr "Los textos de las citas y derechos se generan automáticamente para los publicadores de datos para cada conjunto de datos cuando se utiliza el IPT como mecanismo de publicación, siempre que se seleccione una de las licencias estándar."
 
 #. type: Target for macro image
 #: data-publishing.en.adoc:81
