@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-07-19 16:23\n"
+"PO-Revision-Date: 2021-12-05 16:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -118,7 +118,7 @@ msgstr "No hay requisitos previos para este curso. Este curso es un prerequisito
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Participants should have a good command of English. While efforts are made to provide materials in other languages, instruction videos will be in English with subtitles in other languages."
-msgstr "Se recomienda que los participantes tengan un buen dominio de inglés. Sin embargo se han realizado esfuerzos para proporcionar los materiales en otros idiomas, los vídeos de instrucciones estarán en inglés con subtítulos en otros idiomas."
+msgstr "Se recomienda que los participantes tengan un buen dominio de inglés. Sin embargo, se han realizado esfuerzos para proporcionar los materiales en otros idiomas, los vídeos de instrucciones estarán en inglés con subtítulos."
 
 #. type: Title ==
 #: about.en.adoc:2
@@ -129,7 +129,7 @@ msgstr "Acerca de GBIF "
 #. type: Plain text
 #: about.en.adoc:8
 msgid "The Global Biodiversity Information Facility (GBIF) is an international network of country and organizational Participants that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence based decision-making.  GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network.  In this module, you will learn more about GBIF."
-msgstr "La Infraestructura Mundial de Información sobre Biodiversidad (GBIF) es una red internacional de paises y organizaciones participantes que existe para permitir el acceso libre y abierto a los datos sobre biodiversidad de todas las fuentes, y para apoyar la investigación científica sobre la biodiversidad, la investigación ambiental y la toma de decisiones basadas en evidencia. GBIF opera como un sistema federado de esfuerzos distribuidos para la publicación de datos, y es coordinado a través de una infraestructura informática global y una red colaborativa. En este módulo aprenderás más sobre GBIF."
+msgstr "La Infraestructura Mundial de Información sobre Biodiversidad (GBIF) es una red internacional de países y organizaciones participantes que existe para permitir el acceso libre y abierto a los datos sobre biodiversidad de todas las fuentes, y para apoyar la investigación científica sobre la biodiversidad, la investigación ambiental y la toma de decisiones basadas en evidencia. GBIF opera como un sistema federado de esfuerzos distribuidos para la publicación de datos y es coordinado a través de una infraestructura informática global y una red colaborativa. En este módulo aprenderá más sobre GBIF."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -144,12 +144,12 @@ msgstr "¿Qué es GBIF?"
 #. type: Plain text
 #: about.en.adoc:13
 msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
-msgstr "En este video (03:23) aprenderás sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español, y con subtítulos disponibles. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[descargarlo^,opts=download] localmente. (MP4 - 19.3 MB)"
+msgstr "En este video (03:23) aprenderá sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español y con subtítulos disponibles. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[descargarlo^,opts=download] localmente. (MP4 - 19.3 MB)"
 
 #. type: Plain text
 #: about.en.adoc:21
 msgid "In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, provides you with an overview of GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Introduction-to-GBIF.mp4[download^,opts=download] it locally. (MP4 - 32.3 MB)"
-msgstr "En este video (07:55) Tim Hirsch, director adjunto de la Secretaría de GBIF, brinda una descripción general sobre GBIF. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/Introduction-to-GBIF.mp4[descargarlo^,opts=download] localmente. (MP4 - 32.3 MB)"
+msgstr "En este video (07:55) Tim Hirsch, director adjunto del Secretariado de GBIF, brinda una descripción general sobre GBIF. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/Introduction-to-GBIF.mp4[descargarlo^,opts=download] localmente. (MP4 - 32.3 MB)"
 
 #. type: Title ===
 #: about.en.adoc:24
