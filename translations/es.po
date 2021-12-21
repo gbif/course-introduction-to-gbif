@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-21 21:11\n"
+"PO-Revision-Date: 2021-12-21 22:07\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1732,7 +1732,7 @@ msgstr "Los conjuntos de datos integrados a nivel mundial permiten a los investi
 #. type: Plain text
 #: data-access.en.adoc:19
 msgid "The synergistic roles of observation- and specimen-based biodiversity data highlight the value and need for deeper integration with phylogenetic, environmental, phenotypic, ecological and genetic sources of data."
-msgstr "Las funciones sinérgicas de los datos de la biodiversidad basados en la observación y los especímenes ponen de relieve el valor y la necesidad de una integración más profunda con la logenetica, fuentes de datos ambientales, fenotípicos, ecológicos y genéticos."
+msgstr "Las funciones sinérgicas de los datos de biodiversidad basados en la observación y en los especímenes ponen de manifiesto el valor y la necesidad de una mayor integración con las fuentes de datos filogenéticos, ambientales, fenotípicos, ecológicos y genéticos."
 
 #. type: Block title
 #: data-access.en.adoc:21
@@ -1749,7 +1749,7 @@ msgstr "img/web/fig3.png"
 #. type: Plain text
 #: data-access.en.adoc:26
 msgid "GBIF-mediated data is also used for monitoring the state of biodiversity and progress towards achieving the targets of the Convention on Biological Diversity.  The increase in availability of GBIF occurrence data is one of the indicators for tracking progress towards the achievement of Aichi Biodiversity target 19 and GBIF is a key data source in the creation of a number of other indicators, including the https://www.bipindicators.net/indicators/species-status-information-index[Species Status Information Index^], https://www.bipindicators.net/indicators/species-habitat-index[Species Habitat Index^] and the https://www.bipindicators.net/indicators/biodiversity-habitat-index[Biodiversity Habitat Index^]."
-msgstr "Los datos mediados por GBIF también se utilizan para supervisar el estado de la biodiversidad y el avance hacia el logro de los objetivos del Convenio sobre la Diversidad Biológica. El aumento de la disponibilidad de datos de registros biológicos de GBIF es uno de los indicadores para hacer seguimiento hacia el logro del objetivo 19 de Aichi Biodiversidad, y GBIF resulta una fuente de datos clave en la creación de una serie de otros indicadores, incluyendo el https://www.bipindicators.net/indicators/species-status-information-index[Índice de información sobre el estado de las especies^], https://www.bipindicators.net/indicators/species-habitat-index[Índice de hábitat de las especies^] y https://www.bipindicators.net/indicators/biodiversity-habitat-index[Índice de Hábitat de Biodiversidad^]."
+msgstr "Los datos mediados por GBIF también se utilizan para supervisar el estado de la biodiversidad y el progreso hacia la consecución de los objetivos del \"Convenio sobre la diversidad biológica\". El aumento de la disponibilidad de los datos de ocurrencia de GBIF es uno de los indicadores para el seguimiento del progreso hacia la consecución de la meta 19 de Aichi para la Biodiversidad y GBIF es una fuente de datos clave en la creación de una serie de otros indicadores, incluyendo el https://www.bipindicators.net/indicators/species-status-information-index[Índice de información sobre el estado de las especies^], el https://www.bipindicators.net/indicators/species-habitat-index[Índice de hábitat de las especies^] y el https://www.bipindicators.net/indicators/biodiversity-habitat-index[Índice de Hábitat de Biodiversidad^]."
 
 #. type: Plain text
 #: data-access.en.adoc:29
