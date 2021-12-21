@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-21 16:52\n"
+"PO-Revision-Date: 2021-12-21 18:02\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1656,21 +1656,21 @@ msgstr "- [x] contribuir al conocimiento global sobre biodiversidad\n"
 #. type: Plain text
 #: data-publishing.en.adoc:257
 msgid "How do you become a publisher in the GBIF network?"
-msgstr "¿Cómo te conviertes en un editor en la red GBIF?"
+msgstr "¿Cómo se convierte en un publicador en la red GBIF?"
 
 #. type: delimited block .
 #: data-publishing.en.adoc:263
 #, no-wrap
 msgid "- [ ] email the GBIF helpdesk and wait for endorsement\n"
 "- [x] fill out the _Become a publisher_ form on GBIF.org and wait for endorsement\n"
-msgstr "- [ ] envía un correo electrónico al helpdesk de GBIF y espera a recibir avisos\n"
-"- [x] rellena el formulario _Conviértete en un publicador_ en GBIF. org y esperar a recibir aval\n"
+msgstr "- [ ] envía un correo electrónico al centro de ayuda de GBIF y espera a recibir la aprobación\n"
+"- [x] diligenciando el formulario _Conviertase en un publicador_ en GBIF.org y espera a recibir la aprobación\n"
 
 #.  Question 4
 #. type: Plain text
 #: data-publishing.en.adoc:267
 msgid "There are no requirements for publishing your data on GBIF.org"
-msgstr "No hay requisitos para publicar tus datos en GBIF.org"
+msgstr "No hay requisitos para publicar sus datos en GBIF.org"
 
 #.  Question 5
 #. type: Plain text
@@ -1686,12 +1686,12 @@ msgid "- [ ] a tool to publish my data to GBIF\n"
 "- [x] a tool to check my data for issues\n"
 msgstr "- [ ] una herramienta para publicar mis datos en GBIF\n"
 "- [ ] una herramienta para convertir mis datos en XML\n"
-"- [x] una herramienta para comprobar mis datos en caso de incidencias\n"
+"- [x] una herramienta para comprobar si mis datos tienen problemas\n"
 
 #. type: Plain text
 #: data-access.en.adoc:7
 msgid "In this module, you will learn how GBIF's data is used and accessed.  You will also learn about the handling of data quality and GBIF's data quality flags."
-msgstr "En este módulo, aprenderá cómo se utilizan y se accede a los datos de GBIF. También aprenderá sobre el manejo de la calidad de los datos y las banderas de calidad de los datos de GBIF."
+msgstr "En este módulo aprenderá cómo se utilizan los datos de GBIF y cómo se accede a ellos. También aprenderá sobre el manejo de la calidad de los datos y los indicadores de calidad de los datos de GBIF."
 
 #. type: Title ===
 #: data-access.en.adoc:8
