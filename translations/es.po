@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-21 18:02\n"
+"PO-Revision-Date: 2021-12-21 21:11\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1702,7 +1702,7 @@ msgstr "¿Cómo se utilizan los datos mediados por GBIF?"
 #. type: Plain text
 #: data-access.en.adoc:12
 msgid "The GBIF https://www.gbif.org/literature-tracking[literature tracking system^] has identified over 5,000 uses of GBIF mediated data, most of which are in peer-reviewed articles.  The majority of these uses are in the field of ecology, but others relate to climate change, conservation, human health and agriculture.  A systematic review of the use of https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[GBIF-mediated data by Heberling et al. (2020)^] showed:"
-msgstr "El https://www.gbif.org/literature-tracking[sistema de seguimiento de literatura^] de GBIF ha identificado más de 5.000 usos de datos mediados por GBIF, la mayoría de los cuales están en artículos revisados por pares. La mayoría de estos usos se encuentran en el ámbito de la ecología, pero otros están relacionados con el cambio climático, la conservación, la salud humana y la agricultura. Una revisión sistemática del uso de https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[datos mediados por GBIF- Heberling et al. (2020)^] mostró:"
+msgstr "El https://www.gbif.org/literature-tracking[sistema de seguimiento de literatura^] de GBIF ha identificado más de 5,000 usos de datos mediados por GBIF, la mayoría de los cuales están en artículos revisados por pares. La mayoría de estos usos se encuentran en el ámbito de la ecología, pero otros están relacionados con el cambio climático, la conservación, la salud humana y la agricultura. Una revisión sistemática del uso de https://www.gbif.org/news/4tJNXqSLYd37InZxyPrU7E/data-integration-enables-global-biodiversity-synthesis[datos mediados por GBIF de Heberling et al. (2020)^] mostró:"
 
 #. type: Plain text
 #: data-access.en.adoc:14
@@ -1722,7 +1722,7 @@ msgstr "Los usos de los datos mediados por GBIF traspasan los límites disciplin
 #. type: Plain text
 #: data-access.en.adoc:17
 msgid "The scientific areas using GBIF-mediated data are conceptually diverse and change in prevalence over time."
-msgstr "Las áreas científicas que utilizan datos mediados por GBFI son conceptualmente diversas y cambian de prevalencia con el tiempo."
+msgstr "Las áreas científicas que utilizan los datos mediados por GBIF son conceptualmente diversas y cambian su prevalencia con el tiempo."
 
 #. type: Plain text
 #: data-access.en.adoc:18
