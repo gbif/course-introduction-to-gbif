@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-05 20:30\n"
+"PO-Revision-Date: 2021-12-21 14:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -53,7 +53,7 @@ msgstr "Descripción del curso"
 #. type: delimited block *
 #: description.en.adoc:6
 msgid "This course provides an introduction to GBIF, the data available in GBIF's portal, accessing that data and information about engaging with GBIF and its community of practice."
-msgstr "Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, cómo acceder a esos datos, e información sobre como participar en GBIF y su comunidad de práctica."
+msgstr "Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, el acceso a esos datos e información sobre cómo participar en GBIF y su comunidad de práctica."
 
 #. type: delimited block *
 #: description.en.adoc:8
@@ -91,7 +91,7 @@ msgstr "Comunidad de práctica GBIF"
 #. type: delimited block *
 #: description.en.adoc:16
 msgid "This course is comprised of video and written instruction and paired with quizzes and practical exercises."
-msgstr "Este curso se compone de vídeos e instrucciones escritas junto con cuestionarios y ejercicios prácticos."
+msgstr "Este curso se compone de instrucciones escritas y en vídeo junto con cuestionarios y ejercicios prácticos."
 
 #. type: Title ===
 #: description.en.adoc:18
@@ -118,7 +118,7 @@ msgstr "No hay requisitos previos para este curso. Este curso es un prerequisito
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Participants should have a good command of English. While efforts are made to provide materials in other languages, instruction videos will be in English with subtitles in other languages."
-msgstr "Se recomienda que los participantes tengan un buen dominio de inglés. Sin embargo, se han realizado esfuerzos para proporcionar los materiales en otros idiomas, los vídeos de instrucciones estarán en inglés con subtítulos."
+msgstr "Se recomienda que los participantes tengan un buen dominio de inglés. Sin embargo, se han realizado esfuerzos para proporcionar los materiales en otros idiomas, los vídeos de instrucciones estarán en inglés con subtítulos en otros idiomas."
 
 #. type: Title ==
 #: about.en.adoc:2
