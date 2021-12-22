@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-22 15:07\n"
+"PO-Revision-Date: 2021-12-22 17:35\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1861,12 +1861,12 @@ msgstr "*Identificación taxonómica errónea* - algunos grupos taxonómicos pue
 #: data-access.en.adoc:66
 #, no-wrap
 msgid "*GBIF Flags for Data Quality Issues*\n"
-msgstr "*Banderas GBIF para Problemas de Calidad de Datos*\n"
+msgstr "*Indicadores de GBIF para problemas de calidad de datos*\n"
 
 #. type: Plain text
 #: data-access.en.adoc:70
 msgid "During the indexation process, GBIF assigns issues and flags to data for https://data-blog.gbif.org/post/issues-and-flags/[common data quality issues^].  These most frequently occur from data entry errors or missing data fields whose interpretation can be automated centrally by GBIF.  These interpretations are classified as"
-msgstr "Durante el proceso de indexación, GBIF asigna incidencias y banderas a los datos para https://data-blog.gbif.org/post/issues-and-flags/[problemas comunes de calidad de datos^]. Estos ocurren con mayor frecuencia por errores de entrada de datos u omisión de campos de datos cuya interpretación puede ser automatizada de forma centralizada por GBIF. Estas interpretaciones están clasificadas como"
+msgstr "Durante el proceso de indexación, GBIF asigna incidencias e indicadores a los datos que tienen https://data-blog.gbif.org/post/issues-and-flags/[problemas comunes de calidad de datos^]. Éstos se producen con mayor frecuencia por errores de datos u omisión de campos cuya interpretación puede ser automatizada de forma centralizada por GBIF. Estas interpretaciones están clasificadas como"
 
 #. type: Plain text
 #: data-access.en.adoc:72
@@ -1943,7 +1943,7 @@ msgstr "- [x] simple\n"
 #. type: Plain text
 #: data-access.en.adoc:116
 msgid "What kind of flags does GBIF apply to data to alert you to the quality?"
-msgstr "¿Qué tipo de banderas aplica GBIF a los datos para alertarle sobre su calidad?"
+msgstr "¿Qué tipo de indicadores aplica GBIF a los datos para alertarle sobre su calidad?"
 
 #. type: delimited block .
 #: data-access.en.adoc:126
@@ -1970,7 +1970,7 @@ msgstr "Comunidad de práctica "
 #. type: Plain text
 #: community-of-practice.en.adoc:5
 msgid "In this module, you will learn about GBIF's community of practice, capacity enhancement and funding opportunities and how to stay connected with GBIF."
-msgstr "En este módulo, aprenderá acerca de la comunidad de práctica de GBIF, las oportunidades de mejora de capacidades y financiación y cómo mantenerse en contacto con GBIF."
+msgstr "En este módulo, aprenderá acerca de la comunidad de práctica de GBIF, las oportunidades de mejora de capacidades y financiación, y cómo mantenerse en contacto con GBIF."
 
 #. type: Title ===
 #: community-of-practice.en.adoc:6 solutions.en.adoc:122
@@ -1981,12 +1981,12 @@ msgstr "Comunidad de práctica"
 #. type: Plain text
 #: community-of-practice.en.adoc:11
 msgid "In this video (06:44), you will review participation in GBIF, and take a closer look at the four key ways that volunteers contribute to the GBIF community of practice: as mentors, trainers, biodiversity open data ambassadors and translators.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Community-of-Practice.mp4[download^,opts=download] it locally. (MP4 - 14.4 MB)"
-msgstr "En este video (06:44), revisarás acerca de la participación en GBIF, y podrás dar un vistazo más de cerca a las cuatro maneras clave en que los voluntarios contribuyen a la comunidad de práctica de GBIF: como mentores, instructores, embajadores de datos y traductores de biodiversidad. Si no puede ver el vídeo de Vimeo integrado, puede enlazar:../videos/Community-of-Practice.mp4[download^,opts=download] localmente. (MP4 - 14.4 MB)"
+msgstr "En este vídeo (06:44) se habla sobre la participación en GBIF y se analizan las cuatro formas clave en que los voluntarios contribuyen a la comunidad de práctica de GBIF: como mentores, formadores, embajadores de datos abiertos de biodiversidad y traductores. Si no puede ver el vídeo de Vimeo embebido, puede enlazarlo:../videos/Comunidad-de-Práctica.mp4[download^,opts=descargarlo] localmente. (MP4 - 14,4 MB)"
 
 #. type: Plain text
 #: community-of-practice.en.adoc:15
 msgid "If you are undertaking a biodiversity project and would like to request support from a mentor with data mobilization, management or use, please contact mentors@gbif.org."
-msgstr "Si está llevando a cabo un proyecto sobre biodiversidad y desea solicitar apoyo de un mentor para la movilización, gestión o uso de datos, por favor contactar con mentors@gbif.org."
+msgstr "Si está llevando a cabo un proyecto sobre biodiversidad y desea solicitar apoyo de un mentor para la movilización, gestión o uso de datos, por favor póngase en contacto con mentors@gbif.org."
 
 #. type: Plain text
 #: community-of-practice.en.adoc:17
@@ -2027,7 +2027,7 @@ msgstr "Oportunidades para mejoras de capacidades y financiación"
 #. type: Plain text
 #: community-of-practice.en.adoc:30
 msgid "GBIF is a growing global network of Participant countries, economies and organizations, each with different priorities and capacity assets and needs.  Capacity enhancement is recognized as essential to underpin the sustainable performance of the GBIF Participant network and all its members, independent of their level of development."
-msgstr "GBIF es una creciente red mundial de países participantes, economías y organizaciones, cada uno con diferentes prioridades y capacidades de activos y necesidades. La mejora de la capacidad es reconocida como esencial para respaldar el rendimiento sostenible de la red de participantes de GBIF y de todos sus miembros, independiente de su nivel de desarrollo."
+msgstr "GBIF es una creciente red mundial de países participantes, economías y organizaciones, cada uno con diferentes prioridades y capacidades de activos y necesidades. La mejora de la capacidad es reconocida como esencial para respaldar el rendimiento sostenible de la red de participantes de GBIF y de todos sus miembros, independientemente de su nivel de desarrollo."
 
 #. type: Plain text
 #: community-of-practice.en.adoc:34
@@ -2049,7 +2049,7 @@ msgstr "img/web/community-of-practice.jpg"
 #. type: Plain text
 #: community-of-practice.en.adoc:42
 msgid "The GBIF Secretariat supports the work of the network, which contributes to capacity development, in particular by coordinating activities, engaging volunteers in the community of practice and supporting the development of core training materials.  The Secretariat’s role in capacity enhancement activities leans more toward facilitation than implementation: providing guidance, documenting best practices, collating training material, coordinating activities, and creating or aligning opportunities.  The Secretariat plays a further role in enhancing capacity by providing funding opportunities for collaborative projects in the network, often with a focus on mobilizing biodiversity data, supporting the use of GBIF-mobilized data and strengthening national biodiversity information facilities."
-msgstr "La Secretaría de GBIF apoya el trabajo de la red, que contribuye al desarrollo de capacidades, en particular mediante la coordinación de actividades, la participación de voluntarios en la comunidad de práctica y el apoyo al desarrollo de materiales de capacitación básicos. El papel de la Secretaría en las actividades de mejora de la capacidad se inclina más hacia la facilitación que hacia la implementación: brindar orientación, documentar las mejores prácticas, recopilar material de capacitación, coordinar actividades y crear o alinear oportunidades. La Secretaría desempeña un papel adicional en la mejora de la capacidad al brindar oportunidades de financiamiento para proyectos de colaboración en la red, a menudo con un enfoque en la movilización de datos sobre biodiversidad, apoyando el uso de datos movilizados por GBIF y fortaleciendo las instalaciones nacionales de información sobre biodiversidad."
+msgstr "La Secretaría de GBIF apoya el trabajo de la red, que contribuye al desarrollo de capacidades, en particular mediante la coordinación de actividades, la participación de voluntarios en la comunidad de práctica y el apoyo al desarrollo de materiales de capacitación básicos. El papel de la Secretaría en las actividades de mejora de la capacidad se orienta más hacia la facilitación que hacia la implementación: brindar orientación, documentar las buenas prácticas, recopilar material de capacitación, coordinar actividades y crear o alinear las oportunidades. La Secretaría desempeña un papel adicional en la mejora de la capacidad al brindar oportunidades de financiamiento para proyectos colaborativos en la red, a menudo con un enfoque en la movilización de datos sobre biodiversidad, apoyando el uso de datos movilizados por GBIF y fortaleciendo las instalaciones nacionales de información sobre biodiversidad."
 
 #. type: Plain text
 #: community-of-practice.en.adoc:44
@@ -2060,22 +2060,22 @@ msgstr "Puede encontrar más información acerca de los https://www.gbif.org/res
 #: community-of-practice.en.adoc:45
 #, no-wrap
 msgid "Engaging with GBIF"
-msgstr "Participando con GBIF"
+msgstr "Participación en GBIF"
 
 #. type: Plain text
 #: community-of-practice.en.adoc:48
 msgid "Please stay in contact with GBIF to keep up with events, opportunities, new features and other news."
-msgstr "Por favor, siga en contacto con GBIF para mantenerse al día con eventos, oportunidades, nuevas fuenciones y otras noticias."
+msgstr "Manténgase en contacto con GBIF para estar al día de los eventos, oportunidades, novedades y otras noticias."
 
 #. type: Plain text
 #: community-of-practice.en.adoc:50
 msgid "Sign up for GBIF’s https://www.gbif.org/newsletters[newsletter and to mailing lists^], follow GBIF on https://twitter.com/gbifnews[Twitter^] or https://www.facebook.com/gbifnews[Facebook^], and keep up to date with https://www.gbif.org/resource/search?contentType=news[news^] on the website."
-msgstr "Regístrese en el https://www.gbif.org/newsletters[newsletter y listas de correo ^] de GBIF, siga a GBIF en https://twitter.com/gbifnews[Twitter^] o https://www.facebook.com/gbifnews [Facebook ^] y manténgase actualizado con https://www.gbif.org/resource/search?contentType=news[news^] en el sitio web."
+msgstr "Suscríbase en el https://www.gbif.org/newsletters[boletín de noticias y a las listas de correo^] de GBIF, siga a GBIF en https://twitter.com/gbifnews[Twitter^] o https://www.facebook.com/gbifnews[Facebook ^] y manténgase actualizado con las https://www.gbif.org/resource/search?contentType=news[noticias^] en la página web."
 
 #. type: Plain text
 #: community-of-practice.en.adoc:52
 msgid "GBIF organizes regular https://www.gbif.org/webinars[community webinars^] that are open for anyone to join."
-msgstr "GBIF organiza https://www.gbif.org/webinars[ ​​seminarios web comunitarios ^] que están abiertos para que cualquiera pueda unirse."
+msgstr "GBIF organiza https://www.gbif.org/webinars[seminarios web comunitarios^] que están abiertos para que cualquiera pueda unirse."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2084,7 +2084,7 @@ msgstr "GBIF organiza https://www.gbif.org/webinars[ ​​seminarios web comuni
 #. type: delimited block *
 #: community-of-practice.en.adoc:66
 msgid "Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?"
-msgstr "¿Quién lleva a cabo la traducción de los materiales de GBIF, incluida la página web GBIF.org y los materiales de capacitación?"
+msgstr "¿Quién hace la mayoría de las traducciones de los materiales de GBIF, incluyendo la página web GBIF.org y los materiales de formación?"
 
 #. type: delimited block .
 #: community-of-practice.en.adoc:71
@@ -2098,7 +2098,7 @@ msgstr "- [ ] Una empresa especializada con experiencia en la traducción de tó
 #. type: Plain text
 #: community-of-practice.en.adoc:74
 msgid "How can I get support with a biodiversity data mobilization project?"
-msgstr "¿Cómo puedo obtener ayuda con un proyecto de movilización de datos sobre biodiversidad?"
+msgstr "¿Cómo puedo obtener apoyo para un proyecto de movilización de datos sobre biodiversidad?"
 
 #. type: delimited block .
 #: community-of-practice.en.adoc:81
@@ -2123,8 +2123,8 @@ msgstr "¿Qué es un embajador de datos abiertos de biodiversidad?"
 #, no-wrap
 msgid "- [x] Biodiversity professionals who promote the principles and best practices of open data sharing and use\n"
 "- [ ] Experts designated by the Heads of Delegation to represent a GBIF Participant country in scientific fora\n"
-msgstr "- [x] Profesionales de la biodiversidad que promueven los principios y las mejores prácticas de compartir y usar datos abiertos\n"
-"- [ ] Expertos designados por los Jefes de Delegación para representar a un país participante de GBIF en foros científicos\n"
+msgstr "- [x] Profesionales de la biodiversidad que promueven los principios y las buenas prácticas de intercambio y uso de datos abiertos\n"
+"- [ ] Expertos designados por los jefes de delegación para representar a un país participante de GBIF en foros científicos\n"
 
 #.  Question 4
 #. type: Plain text
@@ -2140,7 +2140,7 @@ msgid "- [ ] Write to info@gbif.org to request the translation\n"
 "- [ ] Share information on how to be a volunteer translator with others to help in the translation effort\n"
 "- [x] All of the above\n"
 msgstr "- [ ] Escribir a info@gbif.org para solicitar la traducción\n"
-"- [ ] Regístrarse para ser un traductor voluntario y contribuir a la traducción yo mismo\n"
+"- [ ] Registrarse para ser un traductor voluntario y contribuir a la traducción yo mismo\n"
 "- [ ] Compartir información sobre cómo ser un traductor voluntario con otras personas para ayudar en el esfuerzo de traducción\n"
 "- [x] Todo lo anterior\n"
 
@@ -2158,7 +2158,7 @@ msgstr "Ha completado el curso."
 #. type: Plain text
 #: course-complete.en.adoc:7
 msgid "As a reminder, this course serves as the prerequisite for other GBIF courses.  You only need to take the course one time, but you can of course refer back to the material at any time."
-msgstr "Como recordatorio, este curso sirve como prerrequisito para otros cursos de GBIF. Solo debe tomar el curso una vez, pero por supuesto puede volver a consultar el material en cualquier momento."
+msgstr "Como recordatorio, este curso sirve como prerrequisito para otros cursos de GBIF. Solo debe tomar el curso una vez, pero, por supuesto puede volver a consultar el material en cualquier momento."
 
 #. type: Plain text
 #: course-complete.en.adoc:8
@@ -2181,7 +2181,7 @@ msgstr "[[API]]API"
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
-msgstr "Interfaz de Programación de Aplicaciones. Un conjunto de métodos de comunicación claramente definidos entre varios componentes de software."
+msgstr "Interfaz de programación de aplicaciones (Application Programming Interface). Un conjunto de métodos de comunicación claramente definidos entre varios componentes de software."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
@@ -2192,7 +2192,7 @@ msgstr "[[BID]]BID"
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Biodiversity Information for Development.  An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions."
-msgstr "Información sobre Biodiversidad para el Desarrollo. Un proyecto financiado por la UE y coordinado por GBIF cuyo objetivo es aumentar la capacidad de movilización de datos en las regiones de África, el Caribe y el Pacífico."
+msgstr "Información sobre biodiversidad para el desarrollo (Biodiversity Information for Development). Un proyecto financiado por la UE y coordinado por GBIF cuyo objetivo es aumentar la capacidad de movilización de datos en las regiones de África, el Caribe y el Pacífico."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
@@ -2203,7 +2203,7 @@ msgstr "[[BIFA]]BIFA"
 #. type: Plain text
 #: glossary.en.adoc:14
 msgid "Biodiversity Fund for Asia."
-msgstr "Fondo para la Diversidad Biológica para Asia."
+msgstr "Fondo para la diversidad biológica para Asia (Biodiversity Fund for Asia)."
 
 #. type: Labeled list
 #: glossary.en.adoc:15
@@ -2236,7 +2236,7 @@ msgstr "[[DOI]]DOI"
 #. type: Plain text
 #: glossary.en.adoc:24
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr "Identificador de Objeto Digital. Identificador o manejador persistente que se utiliza para identificar objetos de forma única. Los DOI se utilizan principalmente para identificar información académica, profesional y gubernamental, como artículos de revistas, informes de investigación y conjuntos de datos, y publicaciones oficiales."
+msgstr "Identificador de objeto digital (Digital Object Identifier). Identificador o handle persistente que se utiliza para identificar objetos de forma única. Los DOI se utilizan principalmente para identificar información académica, profesional y gubernamental, como artículos de revistas, informes de investigación y conjuntos de datos, y publicaciones oficiales."
 
 #. type: Labeled list
 #: glossary.en.adoc:25
@@ -2273,7 +2273,7 @@ msgstr "[[IPT]]IPT"
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr "Herramienta de Publicación Integrada. Es una aplicación web (software) gratuita y de código abierto para publicar datos de biodiversidad. El software en sí existe en un servidor (ya sea en su institución o en otro lugar) que debe tener acceso a Internet las 24 horas del día, los 7 días de la semana. Se utiliza para crear y gestionar archivos de Darwin Core que pueden ser compartidos y utilizados por cualquier persona, incluido GBIF."
+msgstr "Integrated Publishing Toolkit. Es una aplicación web (software) gratuita y de código abierto para publicar datos de biodiversidad. El software en sí existe en un servidor (ya sea en su institución o en otro lugar) que debe tener acceso a Internet las 24 horas del día, los 7 días de la semana. Se utiliza para crear y gestionar archivos de Darwin Core que pueden ser compartidos y utilizados por cualquier persona, incluido GBIF."
 
 #. type: Labeled list
 #: glossary.en.adoc:39
@@ -2284,7 +2284,7 @@ msgstr "[[DP]]Publicación de Datos"
 #. type: Plain text
 #: glossary.en.adoc:41
 msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
-msgstr "Con respecto a GBIF, tenemos una definición muy específica de publicación de datos. Se refiere a lograr que los conjuntos de datos de biodiversidad sean accesibles y reconocibles públicamente, en una forma estandarizada, a través de un punto de acceso, generalmente una dirección web (una URL)."
+msgstr "En lo que respecta a GBIF, tenemos una definición muy específica de publicación de datos. Se refiere a lograr que los conjuntos de datos de biodiversidad sean accesibles y descubribles públicamente, en una forma estandarizada, a través de un punto de acceso, generalmente una dirección web (una URL)."
 
 #. type: Labeled list
 #: glossary.en.adoc:42
@@ -2295,7 +2295,7 @@ msgstr "[[resource]]Recurso"
 #. type: Plain text
 #: glossary.en.adoc:43
 msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
-msgstr "Un Recurso es el término colectivo que se utiliza para referirse a un conjunto de datos en particular y sus metadatos una vez que se ha cargado en una instancia de IPT."
+msgstr "Un Recurso es el término colectivo que se utiliza para referirse a un conjunto de datos en particular y sus metadatos una vez que se ha cargado a una instancia de IPT."
 
 #. type: Labeled list
 #: glossary.en.adoc:44
@@ -2322,7 +2322,7 @@ msgstr "Apéndice: Soluciones"
 #. type: Plain text
 #: solutions.en.adoc:5
 msgid "This appendix contains the answers and additional information to all of the review quizzes."
-msgstr "Este apéndice contiene las respuestas e información adicional a todos los cuestionarios de revisión."
+msgstr "Este apéndice contiene las respuestas e información adicional a todos los cuestionarios de repaso."
 
 #. type: Title ===
 #: solutions.en.adoc:6
