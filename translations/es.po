@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-21 22:07\n"
+"PO-Revision-Date: 2021-12-22 11:36\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1754,7 +1754,7 @@ msgstr "Los datos mediados por GBIF también se utilizan para supervisar el esta
 #. type: Plain text
 #: data-access.en.adoc:29
 msgid "While the utility of GBIF-mediated data is clear, the wide variety of sources of data accessible through GBIF, spanning museum collections, citizen science, metagenomics, among others, means that not all GBIF-mediated data will be fit for every use.  Key components of using GBIF-mediated data are understanding how to access the specific data that you need from what is available in GBIF and understanding some of the common data quality issues that affect the data so as to facilitate processing of the data before analysis."
-msgstr "Mientras que la utilidad de los datos mediados por GBIF es clara, la amplia variedad de fuentes de datos accesibles a través de GBIF abarca colecciones de museos, ciencia ciudadana, metagenómica, entre otros, dejando claro que no todos los datos mediados por GBIF serán aptos para cada uso. Los componentes clave del uso de datos mediados por GBIF son: entender cómo acceder a los datos específicos que usted necesita de lo que está disponible en GBIF y comprender algunos de los problemas comunes de calidad de datos que afectan a los datos para facilitar su procesamiento antes del análisis."
+msgstr "Aunque la utilidad de los datos mediados por GBIF es evidente, la gran variedad de fuentes de datos accesibles a través de GBIF, que abarcan las colecciones de los museos, la ciencia ciudadana, la metagenómica, entre otros, significa que no todos los datos mediados por GBIF serán adecuados para todos los usos. Los componentes clave del uso de los datos mediados por GBIF son: entender cómo acceder a los datos específicos que necesita a partir de lo que está disponible en GBIF  y comprender algunos de los problemas comunes de calidad de datos que afectan a los datos para facilitar su procesamiento antes del análisis."
 
 #. type: Title ===
 #: data-access.en.adoc:30
