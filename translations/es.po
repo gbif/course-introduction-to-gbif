@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-22 17:35\n"
+"PO-Revision-Date: 2021-12-22 18:35\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1691,7 +1691,7 @@ msgstr "- [ ] una herramienta para publicar mis datos en GBIF\n"
 #. type: Plain text
 #: data-access.en.adoc:7
 msgid "In this module, you will learn how GBIF's data is used and accessed.  You will also learn about the handling of data quality and GBIF's data quality flags."
-msgstr "En este módulo aprenderá cómo se utilizan los datos de GBIF y cómo se accede a ellos. También aprenderá sobre el manejo de la calidad de los datos y los indicadores de calidad de los datos de GBIF."
+msgstr "En este módulo aprenderá cómo se utilizan los datos de GBIF y cómo se accede a ellos. También aprenderá sobre el manejo de la calidad de los datos y las alertas de calidad de los datos de GBIF."
 
 #. type: Title ===
 #: data-access.en.adoc:8
@@ -1861,12 +1861,12 @@ msgstr "*Identificación taxonómica errónea* - algunos grupos taxonómicos pue
 #: data-access.en.adoc:66
 #, no-wrap
 msgid "*GBIF Flags for Data Quality Issues*\n"
-msgstr "*Indicadores de GBIF para problemas de calidad de datos*\n"
+msgstr "*Alertas de GBIF para problemas de calidad de datos*\n"
 
 #. type: Plain text
 #: data-access.en.adoc:70
 msgid "During the indexation process, GBIF assigns issues and flags to data for https://data-blog.gbif.org/post/issues-and-flags/[common data quality issues^].  These most frequently occur from data entry errors or missing data fields whose interpretation can be automated centrally by GBIF.  These interpretations are classified as"
-msgstr "Durante el proceso de indexación, GBIF asigna incidencias e indicadores a los datos que tienen https://data-blog.gbif.org/post/issues-and-flags/[problemas comunes de calidad de datos^]. Éstos se producen con mayor frecuencia por errores de datos u omisión de campos cuya interpretación puede ser automatizada de forma centralizada por GBIF. Estas interpretaciones están clasificadas como"
+msgstr "Durante el proceso de indexación, GBIF asigna incidencias y alertas a los datos que tienen https://data-blog.gbif.org/post/issues-and-flags/[problemas comunes de calidad de datos^]. Éstos se producen con mayor frecuencia por errores de datos u omisión de campos cuya interpretación puede ser automatizada de forma centralizada por GBIF. Estas interpretaciones están clasificadas como"
 
 #. type: Plain text
 #: data-access.en.adoc:72
@@ -1943,7 +1943,7 @@ msgstr "- [x] simple\n"
 #. type: Plain text
 #: data-access.en.adoc:116
 msgid "What kind of flags does GBIF apply to data to alert you to the quality?"
-msgstr "¿Qué tipo de indicadores aplica GBIF a los datos para alertarle sobre su calidad?"
+msgstr "¿Qué tipo de alertas aplica GBIF a los datos para indicarle sobre su calidad?"
 
 #. type: delimited block .
 #: data-access.en.adoc:126
@@ -2376,7 +2376,7 @@ msgstr "2001"
 #: solutions.en.adoc:22
 #, no-wrap
 msgid "*Which of the following is the best description of a GBIF Participant node?*\n"
-msgstr "*¿Cuál de las siguientes opciones es la mejor descripción de un nodo participante de GBIF?*\n"
+msgstr "*¿Cuál de las siguientes es la mejor descripción de un nodo participante de GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:24
@@ -2392,7 +2392,7 @@ msgstr "*¿Cuál de las siguientes NO es una función típica de un nodo partici
 #. type: Plain text
 #: solutions.en.adoc:28
 msgid "Maintaining a mirror website of the GBIF.org to ensure real-time backup of the GBIF data index and improve user access from within the country"
-msgstr "Manteniendo un sitio web espejo de GBIF.org para asegurar una copia de seguridad en tiempo real del índice de datos GBIF y mejorar el acceso del usuario desde dentro del país"
+msgstr "Mantener un sitio web espejo de GBIF.org para asegurar una copia de seguridad en tiempo real del índice de datos GBIF y mejorar el acceso de los usuarios dentro del país"
 
 #. type: Plain text
 #: solutions.en.adoc:30
@@ -2403,24 +2403,24 @@ msgstr "*¿Qué es un participante de GBIF?*\n"
 #. type: Plain text
 #: solutions.en.adoc:32
 msgid "A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development"
-msgstr "Un país, economía u organización que se une a GBIF mediante la firma del Memorando de Entendimiento y el establecimiento de un esfuerzo coordinado para apoyar el acceso abierto y el uso de datos de biodiversidad, avanzar en la investigación científica y promover el desarrollo tecnológico y sostenible"
+msgstr "Un país, economía u organización que se une a GBIF mediante la firma del \"Memorando de entendimiento\" y el establecimiento de un esfuerzo coordinado para apoyar el acceso abierto y el uso de datos de biodiversidad, avanzar en la investigación científica y promover el desarrollo tecnológico y sostenible"
 
 #. type: Plain text
 #: solutions.en.adoc:34
 #, no-wrap
 msgid "*What is a GBIF Head of Delegation?*\n"
-msgstr "*¿Qué es un Jefe de Delegación de GBIF?*\n"
+msgstr "*¿Qué es un \"Jefe de delegación\" de GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:36
 msgid "The person designated by the participating country/economy/organization to act as its representative to the GBIF Governing Board and take part in the global-level decision making"
-msgstr "La persona designada por el país / economía / organización participante para actuar como su representante en la Junta de Gobierno de GBIF y participar en la toma de decisiones a nivel global"
+msgstr "La persona designada por el país/economía/organización participante para actuar como su representante en la \"Junta de gobierno de GBIF\" y participar en la toma de decisiones a nivel global"
 
 #. type: Plain text
 #: solutions.en.adoc:38
 #, no-wrap
 msgid "*What is a Biodiversity information facility?*\n"
-msgstr "*¿Qué es una instalación de información sobre Biodiversidad?*\n"
+msgstr "*¿Qué es una infraestructura de información sobre biodiversidad?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:40
@@ -2458,18 +2458,18 @@ msgstr "*¿Qué clase de conjunto de datos constituye el núcleo de los datos pu
 #. type: Plain text
 #: solutions.en.adoc:54
 msgid "Occurrence"
-msgstr "Registro"
+msgstr "Registros biológicos"
 
 #. type: Plain text
 #: solutions.en.adoc:56
 #, no-wrap
 msgid "*What is the taxonomic backbone?*\n"
-msgstr "*¿Qué es el listado taxonómico?*\n"
+msgstr "*¿Qué es el árbol taxonómico?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:58
 msgid "The GBIF taxonomic backbone is all of these:"
-msgstr "El listado taxonómico de GBIF es todos estos:"
+msgstr "El árbol taxonómico de GBIF es todo esto:"
 
 #. type: Plain text
 #: solutions.en.adoc:59
@@ -2565,7 +2565,7 @@ msgstr "hacer que los datos sean de libre acceso"
 #: solutions.en.adoc:89
 #, no-wrap
 msgid "*How do you become a publisher in the GBIF network?*\n"
-msgstr "*¿Cómo te conviertes en un publicador en la red GBIF?*\n"
+msgstr "*¿Cómo se llega a ser un publicador en la red GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:91
@@ -2587,18 +2587,18 @@ msgstr "*¿Qué es el validador de datos de GBIF?*\n"
 #. type: Plain text
 #: solutions.en.adoc:99
 msgid "a tool to check my data for issues"
-msgstr "una herramienta para verificar mis datos en busca de problemas"
+msgstr "una herramienta para verificar si mis datos tienen problemas"
 
 #. type: Plain text
 #: solutions.en.adoc:103
 #, no-wrap
 msgid "*How can you access GBIF data?*\n"
-msgstr "*¿Cómo puedes acceder a los datos GBIF?*\n"
+msgstr "*¿Cómo puede acceder a los datos GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:105
 msgid "You can access GBIF data with all of these methods."
-msgstr "Puedes acceder a los datos de GBIF con todos estos métodos."
+msgstr "Puede acceder a los datos de GBIF con todos estos métodos."
 
 #. type: Plain text
 #: solutions.en.adoc:107
@@ -2661,7 +2661,7 @@ msgstr "inferido"
 #: solutions.en.adoc:125
 #, no-wrap
 msgid "*Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?*\n"
-msgstr "*¿Quién realiza la mayoría de las traducciones de materiales GBIF, incluyendo el sitio web GBIF.org y materiales de entrenamiento?*\n"
+msgstr "*¿Quién realiza la mayoría de las traducciones de materiales GBIF, incluyendo el sitio web GBIF.org y los materiales de entrenamiento?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:127
@@ -2687,7 +2687,7 @@ msgstr "Escribir a info@gbif.org"
 #. type: Plain text
 #: solutions.en.adoc:134
 msgid "Request a volunteer mentor to provide remote support"
-msgstr "Solicitar a un mentor voluntario que proporcione apoyo remoto"
+msgstr "Solicitar ayuda de un mentor voluntario que proporcione apoyo remoto"
 
 #. type: Plain text
 #: solutions.en.adoc:135
@@ -2729,7 +2729,7 @@ msgstr "Regístrese para ser un traductor voluntario y contribuya a la traducci�
 #. type: Plain text
 #: solutions.en.adoc:146
 msgid "Share information on how to be a volunteer translator with others to help in the translation effort"
-msgstr "Comparte información sobre cómo ser un traductor voluntario con otros para ayudar en el esfuerzo de traducción"
+msgstr "Comparta información sobre cómo ser un traductor voluntario con otros para ayudar en el esfuerzo de traducción"
 
 #. type: Title ==
 #: colophon.en.adoc:1
@@ -2875,7 +2875,7 @@ msgstr "Primera edición, mayo 2021"
 #: scripts/intro-gbif.en.txt:2
 #, no-wrap
 msgid "Hello, my name is Tim Hirsch. I am deputy director at GBIF, the Global Biodiversity Information Facility. I am going to take a few minutes to give you a basic introduction to GBIF - who we are, what we do, and why we do it. Hopefully it will give a bit of context to rest of the training, and motivate you to use the skills you will acquire in this course to support GBIF's mission.\n"
-msgstr "Hola, mi nombre es Tim Hirsch. Soy director adjunto de GBIF, la Infraestructura Mundial de Información en Biodiversidad. Voy a tomar unos minutos para ofrecerles una introducción básica a GBIF -quiénes somos, lo que hacemos y por qué lo hacemos. Con suerte, le dará un poco de contexto al resto de la capacitación y lo motivará a usar las habilidades que adquirirá en este curso para apoyar la misión de GBIF.\n"
+msgstr "Hola, mi nombre es Tim Hirsch. Soy director adjunto de GBIF, la Infraestructura Mundial de Información en Biodiversidad. Voy a tomarme unos minutos para ofrecerles una introducción básica a GBIF: quiénes somos, lo que hacemos y por qué lo hacemos. Con suerte, le dará un poco de contexto al resto de la capacitación y lo motivará a usar las habilidades que adquirirá en este curso para apoyar la misión de GBIF.\n"
 
 #. type: Plain text
 #: scripts/intro-gbif.en.txt:4
