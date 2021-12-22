@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-22 11:36\n"
+"PO-Revision-Date: 2021-12-22 15:07\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1765,7 +1765,7 @@ msgstr "Accediendo a datos mediados por GBIF"
 #. type: Plain text
 #: data-access.en.adoc:36
 msgid "There are two main points of access to GBIF-mediated data: http://www.gbif.org[GBIF.org^] and the https://www.gbif.org/developer/summary[Application Programming Interface (API) services^].  Using the website requires no programming experience and allows for quick and easy search, filter and download functions for GBIF-mediated data, as well as a range of additional tools and metrics that are not available through API services.  API services allow continued access to GBIF-mediated data through other systems and can be the basis for the development of tools that allow for the interrogation of the data.  Examples include a number of R packages, such as https://www.gbif.org/tool/81747/rgbif[rgbif^] and https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], as well as more specialized tools that allow for more specific use cases, such as http://geocat.kew.org/[GeoCat^] for Red List assessments."
-msgstr "Hay dos puntos principales de acceso a los datos mediados por GBIF: http://www.gbif.org[GBIF.org^] y los servicios https://www.gbif.org/developer/summary[Application Programming Interface (API)^]. El uso del sitio web no requiere experiencia de programación y permite búsquedas rápidas y fáciles, filtrar y descargar funciones para datos mediados por GBIF, así como una gama de herramientas y métricas adicionales que no están disponibles a través de servicios API. Los servicios de API permiten el acceso continuo a datos mediados por GBIF a través de otros sistemas y pueden ser la base para el desarrollo de herramientas que permitan la consulta sobre los datos. Algunos ejemplos incluyen un número de paquetes R, como https://www.gbif.org/tool/81747/rgbif[rgbif^] y https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], así como herramientas más especializadas que permiten casos de uso más específicos, como http://geocat.kew.org/[GeoCat^] para evaluaciones de Listas Rojas."
+msgstr "Hay dos puntos principales de acceso a los datos mediados por GBIF: http://www.gbif.org[GBIF.org^] y los servicios de https://www.gbif.org/developer/summary[Application Programming Interface (API)^]. El uso del sitio web no requiere experiencia de programación y permite búsquedas rápidas y sencillas, funciones de filtrado y descarga de los datos mediados por GBIF, así como una serie de herramientas y métricas adicionales que no están disponibles a través de los servicios API. Los servicios API permiten un acceso continuo a los datos mediados por GBIF a través de otros sistemas y pueden ser la base para el desarrollo de herramientas que permitan la consulta de los datos. Algunos ejemplos incluyen una serie de paquetes R, como https://www.gbif.org/tool/81747/rgbif[rgbif^] y https://www.rdocumentation.org/packages/CoordinateCleaner/versions/2.0-18[CoordinateCleaner^], así como herramientas más especializadas que permiten usos más específicos como http://geocat.kew.org/[GeoCat^] para evaluaciones de \"Listas rojas\"."
 
 #. type: Plain text
 #: data-access.en.adoc:38
@@ -1776,12 +1776,12 @@ msgstr "*¿Qué está disponible para mí?*\n"
 #. type: Plain text
 #: data-access.en.adoc:40
 msgid "Through the search functions on the website, users can access data that can either be directly downloaded through GBIF or accessed from the original sources following links that GBIF provides."
-msgstr "A través de las funciones de búsqueda en el sitio web los usuarios pueden acceder a los datos, que se pueden descargar directamente a través de GBIF o acceder desde las fuentes originales siguiendo los enlaces que proporciona GBIF."
+msgstr "A través de las funciones de búsqueda en el sitio web los usuarios pueden acceder a los datos, que pueden descargarse directamente a través de GBIF o desde las fuentes originales siguiendo los enlaces que proporciona GBIF."
 
 #. type: Plain text
 #: data-access.en.adoc:42
 msgid "Remember that as a data user you should read and agree with the terms of the GBIF https://www.gbif.org/terms/data-user[Data User Agreement^] that include https://www.gbif.org/citation-guidelines[correctly citing^] the use of GBIF-mediated data."
-msgstr "Recuerde que como usuario de datos debe leer y aceptar los términos del GBIF https://www.gbif.org/terms/data-user[Acuerdo de Uso de Datos^] que incluyen cómo https://www.gbif.org/citation-guidelines[citar correctamente^] el uso de datos mediados por GBIF."
+msgstr "Recuerde que como usuario de datos debe leer y aceptar los términos del GBIF https://www.gbif.org/terms/data-user[\"Acuerdo de Uso de datos\"^] que incluyen cómo https://www.gbif.org/citation-guidelines[citar correctamente^] el uso de datos mediados por GBIF."
 
 #. type: Target for macro image
 #: data-access.en.adoc:43
@@ -1797,7 +1797,7 @@ msgstr "Los datos disponibles para usted son:"
 #. type: Plain text
 #: data-access.en.adoc:48
 msgid "Primary biodiversity data - occurrence, checklist and sampling event data that is provided to users through the one of the 3 download formats:"
-msgstr "Datos primarios de biodiversidad - datos de ocurrencias, listas de especies y eventos de muestreo que se proporcionan a los usuarios a través de uno de los 3 formatos de descarga:"
+msgstr "Datos primarios de biodiversidad: datos de registros biológicos, listas de especies y eventos de muestreo que se proporcionan a los usuarios a través de uno de los 3 formatos de descarga:"
 
 #. type: Plain text
 #: data-access.en.adoc:49
@@ -1809,25 +1809,25 @@ msgstr "*Simple*: https://www.gbif.org/faq?question=csv-download[CSV delimitado 
 #: data-access.en.adoc:50
 #, no-wrap
 msgid "*Darwin Core Archive*: The https://www.gbif.org/faq?question=dwc-download[Darwin Core Archive^] (DwC-A) contains both the original data as the publisher provided it and the GBIF interpretation. Links (but not files) to multimedia included.\n"
-msgstr "*Archivo Darwin Core*: https://www.gbif.org/faq?question=dwc-download[Archivo Darwin Core^] (DwC-A) contiene tanto los datos originales tal como los proporcionó el publicador como la interpretación de GBIF. Enlaces (pero no archivos) a multimedia incluidos.\n"
+msgstr "*Archivo Darwin Core*: https://www.gbif.org/faq?question=dwc-download[Archivo Darwin Core^] (DwC-A) contiene tanto los datos originales tal como los proporcionó el publicador como la interpretación de GBIF. También, incluye enlaces (pero no archivos) a multimedia.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:51
 #, no-wrap
 msgid "*Species list*: Tab delimited CSV with the distinct list of names in the search result and as a map visualization of the data.\n"
-msgstr "*Lista de especies*: CSV delimitado por tabulaciones con la lista de nombres distintos incluidos en el resultado de la búsqueda y como una visualización en mapa de los datos.\n"
+msgstr "*Lista de especies*: CSV delimitado por tabulaciones que contiene la lista de nombres distintos incluidos en el resultado de la búsqueda y una visualización en un mapa de los datos.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:52
 #, no-wrap
 msgid "A range of metrics are provided for https://www.gbif.org/analytics/global[countries and regions^], data publishers, datasets and data searches that provide taxonomic breakdowns, trends in data collection and highlight data quality issues. For countries, these metrics can be also be downloaded in the form of a PDF activity report. \n"
-msgstr "Se proporciona una serie de métricas para https://www.gbif.org/analytics/global[países y regiones^], publicadores, conjuntos de datos y búsquedas que proporcionan desglose taxonómico, tendencias en la recolección de datos y destacan problemas de calidad de datos. Para los países, estas métricas también se pueden descargar como un informe de actividad en formato PDF.\n"
+msgstr "Se ofrecen una serie de métricas para https://www.gbif.org/analytics/global[países y regiones^], publicadores de datos, conjuntos de datos y búsquedas de datos que proporcionan desgloses taxonómicos, tendencias en la recopilación de datos y destacan los problemas de calidad de los datos. En el caso de los países, estas métricas también pueden descargarse en forma de informe de actividad en PDF. \n"
 
 #. type: Plain text
 #: data-access.en.adoc:53
 #, no-wrap
 msgid "https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Searchable database of publications^] that have used GBIF-mediated data.\n"
-msgstr "https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Base de datos de publicaciones^] que han utilizado datos mediados por GBIF para consultar.\n"
+msgstr "https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[Base de datos de publicaciones^] que han utilizado datos mediados por GBIF.\n"
 
 #. type: Plain text
 #: data-access.en.adoc:55
