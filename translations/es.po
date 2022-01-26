@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2021-12-22 18:35\n"
+"PO-Revision-Date: 2022-01-26 22:46\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -102,7 +102,7 @@ msgstr "Público"
 #. type: Plain text
 #: description.en.adoc:21
 msgid "This course is designed for individuals who work in biodiversity research or policy institutions and contribute to or use data from the GBIF portal. The instruction provided is particularly useful for those who have a desire to know more about GBIF and its place in the biodiversity community and want to engage further with GBIF."
-msgstr "Este curso está diseñado para personas que trabajan en instituciones de investigación sobre biodiversidad o en intituciones políticas, y que contribuyen o utilizan datos del portal de GBIF. Este curso es particularmente útil para aquellos que quieren saber más sobre GBIF y su lugar en la comunidad de la biodiversidad, y desean involucrarse más con GBIF."
+msgstr "Este curso está diseñado para personas que trabajan en instituciones de investigación sobre biodiversidad o en instituciones políticas y que contribuyen o utilizan datos del portal de GBIF. Este curso es particularmente útil para aquellos que quieren saber más sobre GBIF y su lugar en la comunidad de la biodiversidad y que desean involucrarse más con GBIF."
 
 #. type: Title ===
 #: description.en.adoc:22
@@ -113,7 +113,7 @@ msgstr "Prerrequisitos"
 #. type: Plain text
 #: description.en.adoc:26
 msgid "There are no prerequisites for this course.  This course serves as a prerequisite for other GBIF courses."
-msgstr "No hay requisitos previos para este curso. Este curso es un prerequisito para otros cursos de GBIF."
+msgstr "No hay requisitos previos para este curso. Este curso es un prerrequisito para otros cursos de GBIF."
 
 #. type: Plain text
 #: description.en.adoc:28
@@ -522,7 +522,7 @@ msgstr "El árbol taxonómico es en realidad un https://www.gbif.org/dataset/d7d
 #: gbif-mediated-data.en.adoc:47
 #, no-wrap
 msgid "a single synthetic management classification with the goal of covering all names GBIF is dealing with\n"
-msgstr "una clasificación operativa única y sintética con el fin de abarcar todos los nombres con los que trata GBIF\n"
+msgstr "una única clasificación operativa y sintética con el objetivo de cubrir todos los nombres con los que trata GBIF\n"
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:49
@@ -725,7 +725,7 @@ msgstr "Datos FAIR"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:134
 msgid "Many articles from 2011-2016 documented a crisis in scientific reproducibility (see below).  In 2016, the https://www.nature.com/articles/sdata201618[FAIR Guiding Principles for scientific data management and stewardship^] were published in https://www.nature.com/sdata/[Scientific Data^].  The principles were designed to improve the Findability, Accessibility, the Interoperability and the Reusability of datasets and address \"an urgent need to improve the infrastructure supporting the reuse of scholarly data.\" Implementation of these principles began in 2018.  You can read more about http://www.go-fair.org/how-to-go-fair/[How to GO FAIR^] on https://www.go-fair.org/[GO-FAIR.org^]."
-msgstr "Muchos artículos publicados en el periodo 2011-2016 evidencian una crisis en  la reproducibilidad científica (ver abajo). En 2016, los  https://www.nature.com/articles/sdata201618[ Principios orientadores FAIR para la gestión y administración de datos científicos^] fueron publicados en https://www.nature.com/sdata/[Scientific Data^]. Los principios fueron diseñados para conseguir que los datos sean fáciles de encontrar, accesibles, interoperables y reutilizables, y para abordar \"una necesidad urgente de mejorar la infraestructura que soporta la reutilización de los datos académicos\". La implementación de estos principios comenzó en 2018. Puede leer más sobre http://www.go-fair.org/how-to-go-fair/[Cómo ser FAIR^] en https://www.go-fair.org/[GO-FAIR.org^]."
+msgstr "Muchos artículos publicados en el periodo 2011-2016 evidencian una crisis en  la reproducibilidad científica (ver abajo). En 2016, los  https://www.nature.com/articles/sdata201618[Principios orientadores FAIR para la gestión y administración de datos científicos^] fueron publicados en https://www.nature.com/sdata/[Scientific Data^]. Los principios fueron diseñados para conseguir que los datos sean fáciles de encontrar, accesibles, interoperables y reutilizables, y para abordar \"una necesidad urgente de mejorar la infraestructura que soporta la reutilización de los datos académicos\". La implementación de estos principios comenzó en 2018. Puede leer más sobre http://www.go-fair.org/how-to-go-fair/[Cómo ser FAIR^] en https://www.go-fair.org/[GO-FAIR.org^]."
 
 #. type: Target for macro image
 #: gbif-mediated-data.en.adoc:135
