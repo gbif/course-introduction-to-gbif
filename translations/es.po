@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2022-01-26 22:46\n"
+"PO-Revision-Date: 2022-01-26 23:46\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -129,7 +129,7 @@ msgstr "Acerca de GBIF "
 #. type: Plain text
 #: about.en.adoc:8
 msgid "The Global Biodiversity Information Facility (GBIF) is an international network of country and organizational Participants that exists to enable free and open access to biodiversity data from all sources and to support biodiversity science, environmental research, and evidence based decision-making.  GBIF operates as a federated system of distributed data publishing efforts, coordinated through a global informatics infrastructure and collaborative network.  In this module, you will learn more about GBIF."
-msgstr "La Infraestructura Mundial de Información sobre Biodiversidad (GBIF) es una red internacional de países y organizaciones participantes que existe para permitir el acceso libre y abierto a los datos sobre biodiversidad de todas las fuentes, también, para apoyar la investigación científica sobre la biodiversidad, la investigación ambiental y la toma de decisiones basadas en evidencia. GBIF opera como un sistema federado de esfuerzos distribuidos para la publicación de datos y es coordinado a través de una infraestructura informática global y una red colaborativa. En este módulo aprenderá más sobre GBIF."
+msgstr "La Infraestructura Mundial de Información en Biodiversidad (GBIF) es una red internacional de países y organizaciones participantes que existe para permitir el acceso libre y abierto a los datos sobre biodiversidad de todas las fuentes, también, para apoyar la investigación científica sobre la biodiversidad, la investigación ambiental y la toma de decisiones basadas en evidencia. GBIF opera como un sistema federado de esfuerzos distribuidos para la publicación de datos y es coordinado a través de una infraestructura informática global y una red colaborativa. En este módulo aprenderá más sobre GBIF."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1150,7 +1150,7 @@ msgstr "Los administradores de colecciones biológicas pueden *rastrear el uso y
 #. type: Plain text
 #: data-publishing.en.adoc:32
 msgid "Some funding agencies now require researchers receiving public funds to *make data freely accessible* at the end of a project."
-msgstr "Algunas entidades de financiación exigen ahora requieren que los investigadores que reciben fondos públicos se *aseguren de que los datos sean de acceso abierto* al final de los proyectos."
+msgstr "Algunas entidades de financiación exigen ahora que los investigadores que reciben fondos públicos se *aseguren de que los datos sean de acceso abierto* al final de los proyectos."
 
 #. type: Title ===
 #: data-publishing.en.adoc:33
