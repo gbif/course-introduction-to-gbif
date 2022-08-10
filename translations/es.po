@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2022-08-10 10:42+0000\n"
-"PO-Revision-Date: 2022-08-10 10:59\n"
+"POT-Creation-Date: 2022-08-10 11:32+0000\n"
+"PO-Revision-Date: 2022-08-10 12:22\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -263,10 +263,9 @@ msgid "Review"
 msgstr "Repaso"
 
 #. type: Plain text
-#: about.en.adoc:73 gbif-mediated-data.en.adoc:237
-#: community-of-practice.en.adoc:58
-msgid "Quiz yourself on the concepts learned in this module."
-msgstr "Compruebe los conceptos aprendidos en este módulo."
+#: about.en.adoc:73
+msgid "Quiz yourself on the concepts covered in this module."
+msgstr ""
 
 #. type: delimited block .
 #: about.en.adoc:88
@@ -985,6 +984,11 @@ msgstr "Hay una tercera pestaña en la página de los conjuntos de datos de regi
 #, no-wrap
 msgid "img/web/ActivityImage7.png"
 msgstr "img/web/ActivityImage7.png"
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:237 community-of-practice.en.adoc:58
+msgid "Quiz yourself on the concepts learned in this module."
+msgstr "Compruebe los conceptos aprendidos en este módulo."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
