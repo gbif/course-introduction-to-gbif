@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2021-07-16 11:18+0000\n"
-"PO-Revision-Date: 2022-01-26 23:46\n"
+"POT-Creation-Date: 2022-08-10 10:42+0000\n"
+"PO-Revision-Date: 2022-08-10 10:59\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 384\n"
 
 #. type: Title ===
-#: index.en.adoc:1 about.en.adoc:16
+#: index.en.adoc:1 about.en.adoc:19
 #, no-wrap
 msgid "Introduction to GBIF"
 msgstr "Introducción a GBIF"
@@ -136,135 +136,140 @@ msgstr "La Infraestructura Mundial de Información en Biodiversidad (GBIF) es un
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: about.en.adoc:9 about.en.adoc:75
+#: about.en.adoc:9 about.en.adoc:80
 #, no-wrap
 msgid "What is GBIF?"
 msgstr "¿Qué es GBIF?"
 
 #. type: Plain text
 #: about.en.adoc:13
-msgid "In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)"
-msgstr "En este video (03:23) aprenderá sobre GBIF mediante una animación. Es una coproducción del SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con cofinanciación de GBIF España y del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El vídeo está en español y con subtítulos disponibles. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[descargarlo^,opts=download] localmente. (MP4 - 19.3 MB)"
+msgid "In this video (03:19) you will learn about GBIF. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF__The_library_of_life.mp4[download^,opts=download] it locally. (MP4 - 11.3 MB)"
+msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:21
+#: about.en.adoc:18
+msgid "If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages."
+msgstr ""
+
+#. type: Plain text
+#: about.en.adoc:24
 msgid "In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, provides you with an overview of GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Introduction-to-GBIF.mp4[download^,opts=download] it locally. (MP4 - 32.3 MB)"
 msgstr "En este video (07:55) Tim Hirsch, director adjunto de la Secretaría de GBIF, brinda una descripción general sobre GBIF. Si no puede ver el vídeo de Vimeo embebido, puede link:../videos/Introduction-to-GBIF.mp4[descargarlo^,opts=download] localmente. (MP4 - 32.3 MB)"
 
 #. type: Title ===
-#: about.en.adoc:24
+#: about.en.adoc:28
 #, no-wrap
 msgid "Introduction to GBIF Participant Nodes"
 msgstr "Introducción a los nodos participantes GBIF"
 
 #. type: Plain text
-#: about.en.adoc:32
+#: about.en.adoc:36
 msgid "Since GBIF’s founding in 2001, the participating countries and organizations have been testing and developing models for coordinating the mobilization, management and reuse of biodiversity data at the national level or within an organization’s scope.  The formation of Participant ‘nodes’ has been central to these efforts.  Designated by each Participant, these teams coordinate the needs and interests of the many stakeholders involved.  In this video (07:53), we look at the variety of node models in the GBIF network to present generalized concepts relating to Participant nodes and the roles that they play in the GBIF community.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Role-of-nodes-in-GBIF.mp4[download^,opts=download] it locally. (MP4 - 14.0 MB)"
 msgstr "Desde la fundación de GBIF en 2001, los países y organizaciones participantes han estado probando y desarrollando modelos para coordinar la movilización, manejo y reutilización de datos sobre biodiversidad a nivel nacional o dentro de un alcance de organización. La formación de nodos participantes ha sido central en estos esfuerzos. Diseñados por cada participante, estos equipos coordinan las necesidades e intereses de las numerosas partes implicadas. En este video (07:53) examinamos la variedad de modelos de nodos en la red  de GBIF, para presentar conceptos generalizados relacionados con los nodos participantes y los roles que desempeñan en la comunidad GBIF. Si no puede ver el vídeo Vimeo embebido, puede link:../videos/Role-of-nodes-in-GBIF.mp4[descargarlo^,opts=download] localmente. (MP4 - 14.0 MB)"
 
 #. type: delimited block =
-#: about.en.adoc:37
+#: about.en.adoc:42
 #, no-wrap
 msgid "*Further guidance for Nodes*\n"
 msgstr "*Mayor orientación para los Nodos*\n"
 
 #. type: delimited block =
-#: about.en.adoc:39
+#: about.en.adoc:44
 msgid "https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an effective GBIF Participant Node^]"
 msgstr "https://docs.gbif.org/effective-nodes-guidance/1.0/es/[Establecer un nodo participante GBIF efectivo^]"
 
 #. type: delimited block =
-#: about.en.adoc:40
+#: about.en.adoc:45
 msgid "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online capacity self-assessment tool for national biodiversity information facilities^]"
 msgstr "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Herramienta en línea de autoevaluación de capacidades, para las infraestructuras nacionales de información sobre biodiversidad^]"
 
 #. type: Title ===
-#: about.en.adoc:42
+#: about.en.adoc:47
 #, no-wrap
 msgid "Countries/Economies in GBIF"
 msgstr "Países/Economías en GBIF"
 
 #. type: Plain text
-#: about.en.adoc:46
+#: about.en.adoc:51
 msgid "Investigate how your country/economy is represented in GBIF"
 msgstr "Investigue cómo su país/economía está representado/a en GBIF"
 
 #. type: Block title
-#: about.en.adoc:47
+#: about.en.adoc:52
 #, no-wrap
 msgid "The GBIF website has pages dedicated to countries/economies, including for countries/economies that do not yet participate in GBIF. You can use the search box on the homepage to look up a country/economy name."
 msgstr "El sitio web de GBIF tiene páginas dedicadas a países/economías, incluyendo aquellos que aún no participan en GBIF. Puede usar la barra de búsqueda en la página principal para buscar un nombre de un país o economía."
 
 #. type: Target for macro image
-#: about.en.adoc:48
+#: about.en.adoc:53
 #, no-wrap
 msgid "img/web/lookupcountry.png"
 msgstr "img/web/lookupcountry.png"
 
 #. type: Block title
-#: about.en.adoc:50
+#: about.en.adoc:55
 #, no-wrap
 msgid "The tabs on these pages provide a general description of the data available about the biodiversity of the country, any data published by national institutions, as well as other relevant information on the use of data by researchers in the country."
 msgstr "Las pestañas de estas páginas proporcionan una descripción general de los datos disponibles sobre la biodiversidad del país, cualquier dato publicado por las instituciones nacionales, así como otra información relevante sobre el uso de los datos por parte de los investigadores del país."
 
 #. type: Target for macro image
-#: about.en.adoc:51
+#: about.en.adoc:56
 #, no-wrap
 msgid "img/web/countrypage.png"
 msgstr "img/web/countrypage.png"
 
 #. type: Block title
-#: about.en.adoc:53
+#: about.en.adoc:58
 #, no-wrap
 msgid "A recent collaboration with the IUCN Invasive Species Specialist Group means that, for many countries, a checklist of introduced and invasive alien species is available from the Global Register of Introduced and Invasive Species (GRIIS)."
 msgstr "A través de una colaboración reciente con el \"Grupo de especialistas en especies invasoras\" de la UICN muchos países ahora cuentan con una lista de especies exóticas introducidas e invasoras disponible en el \"Registro global de especies introducidas e invasoras (GRIIS)\"."
 
 #. type: Target for macro image
-#: about.en.adoc:54
+#: about.en.adoc:59
 #, no-wrap
 msgid "img/web/alienspecies.png"
 msgstr "img/web/alienspecies.png"
 
 #. type: delimited block *
-#: about.en.adoc:58
+#: about.en.adoc:63
 msgid "Look up your country on the GBIF website."
 msgstr "Busque su país en el sitio web de GBIF."
 
 #. type: delimited block *
-#: about.en.adoc:59
+#: about.en.adoc:64
 msgid "Does your country participate in GBIF?"
 msgstr "¿Su país participa en GBIF?"
 
 #. type: delimited block *
-#: about.en.adoc:60
+#: about.en.adoc:65
 msgid "How many institutions are publishing data?"
 msgstr "¿Cuántas instituciones publican datos?"
 
 #. type: delimited block *
-#: about.en.adoc:61
+#: about.en.adoc:66
 msgid "Is a list of introduced and invasive alien species available for your country?"
 msgstr "¿Existe una lista de especies exóticas introducidas e invasoras disponible para su país?"
 
 #. type: delimited block *
-#: about.en.adoc:62
+#: about.en.adoc:67
 msgid "How well does the information available on GBIF reflect what you know about the biodiversity of your country?"
 msgstr "¿Qué tan bien refleja la información disponible en GBIF lo que usted conoce sobre la biodiversidad de su país?"
 
 #. type: Title ===
-#: about.en.adoc:64 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
-#: data-access.en.adoc:83 community-of-practice.en.adoc:53
+#: about.en.adoc:69 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
+#: data-access.en.adoc:83 community-of-practice.en.adoc:54
 #, no-wrap
 msgid "Review"
 msgstr "Repaso"
 
 #. type: Plain text
-#: about.en.adoc:68 gbif-mediated-data.en.adoc:237
-#: community-of-practice.en.adoc:57
+#: about.en.adoc:73 gbif-mediated-data.en.adoc:237
+#: community-of-practice.en.adoc:58
 msgid "Quiz yourself on the concepts learned in this module."
 msgstr "Compruebe los conceptos aprendidos en este módulo."
 
 #. type: delimited block .
-#: about.en.adoc:83
+#: about.en.adoc:88
 #, no-wrap
 msgid "- [ ] An intergovernmental network and research infrastructure\n"
 "- [ ] A collaboration among governments and international organizations\n"
@@ -279,12 +284,12 @@ msgstr "- [ ] Una red intergubernamental e infraestructura de investigación\n"
 
 #.  Question 2
 #. type: Plain text
-#: about.en.adoc:86
+#: about.en.adoc:91
 msgid "When was GBIF established?"
 msgstr "¿Cuándo se estableció GBIF?"
 
 #. type: delimited block .
-#: about.en.adoc:92
+#: about.en.adoc:97
 #, no-wrap
 msgid "- [ ] 1992\n"
 "- [ ] 1999\n"
@@ -295,12 +300,12 @@ msgstr "- [ ] 1992\n"
 
 #.  Question 3
 #. type: Plain text
-#: about.en.adoc:95
+#: about.en.adoc:100
 msgid "Which of the following is the best description of a GBIF Participant node?"
 msgstr "¿Cuál de las siguientes es la mejor descripción de un nodo participante de GBIF?"
 
 #. type: delimited block .
-#: about.en.adoc:102
+#: about.en.adoc:107
 #, no-wrap
 msgid "- [ ] A GBIF national office, funded by the GBIF Secretariat\n"
 "- [x] A team designated by a Participant country or organization to coordinate a network of people and institutions that produce, manage and use biodiversity data, collectively building an infrastructure for delivering biodiversity information\n"
@@ -313,12 +318,12 @@ msgstr "- [ ] Una oficina nacional de GBIF, financiada por la Secretaría de GBI
 
 #.  Question 4
 #. type: Plain text
-#: about.en.adoc:105
+#: about.en.adoc:110
 msgid "Which of the following is NOT a typical function of a GBIF Participant node?"
 msgstr "¿Cuál de las siguientes NO es una función típica de un nodo participante de GBIF?"
 
 #. type: delimited block .
-#: about.en.adoc:113
+#: about.en.adoc:118
 #, no-wrap
 msgid "- [ ] Coordinating a community of initiatives relating to biodiversity information, including making connections to the international GBIF network \n"
 "- [ ] Promoting and supporting the mobilization of biodiversity data within the country or organization’s scope so that as many sources as possibly are freely and openly available \n"
@@ -333,12 +338,12 @@ msgstr "- [ ] Coordinar una comunidad de iniciativas relacionadas con la informa
 
 #.  Question 5
 #. type: Plain text
-#: about.en.adoc:116
+#: about.en.adoc:121
 msgid "What is a GBIF Participant?"
 msgstr "¿Qué es un participante de GBIF?"
 
 #. type: delimited block .
-#: about.en.adoc:123
+#: about.en.adoc:128
 #, no-wrap
 msgid "- [ ] The person designated by a participating country/economy/organization to manage the activities of the node to coordinate a biodiversity information facility\n"
 "- [x]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
@@ -351,12 +356,12 @@ msgstr "- [ ] La persona designada por un país/economía u organización partic
 
 #.  Question 6
 #. type: Plain text
-#: about.en.adoc:126
+#: about.en.adoc:131
 msgid "What is a GBIF Head of Delegation?"
 msgstr "¿Qué es un jefe de delegación de GBIF?"
 
 #. type: delimited block .
-#: about.en.adoc:133
+#: about.en.adoc:138
 #, no-wrap
 msgid "- [ ] The person designated by a participating country/economy/organization to manage the activities of the node to coordinate a biodiversity information facility\n"
 "- [ ]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
@@ -369,12 +374,12 @@ msgstr "- [ ] La persona designada por un país/economía u organización partic
 
 #.  Question 7
 #. type: Plain text
-#: about.en.adoc:136
+#: about.en.adoc:141
 msgid "What is a Biodiversity information facility?"
 msgstr "¿Qué es un sistema de información sobre biodiversidad?"
 
 #. type: delimited block .
-#: about.en.adoc:143
+#: about.en.adoc:148
 #, no-wrap
 msgid "- [ ] The person designated by a participating country/economy/organization to manage the activities of the node to coordinate a biodiversity information facility\n"
 "- [ ]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
@@ -387,12 +392,12 @@ msgstr "- [ ] La persona designada por un país/economía u organización partic
 
 #.  Question 8
 #. type: Plain text
-#: about.en.adoc:146
+#: about.en.adoc:151
 msgid "What is a Node manager?"
 msgstr "¿Qué es un administrador de nodo?"
 
 #. type: delimited block .
-#: about.en.adoc:153
+#: about.en.adoc:158
 #, no-wrap
 msgid "- [x] The person designated by a participating country/economy/organization to manage the activities of the node to coordinate a biodiversity information facility\n"
 "- [ ]  A country, economy or organization that joins GBIF by signing the Memorandum of Understanding and establishing a co-ordinated effort to support open access and use of biodiversity data, to advance scientific research, and to promote technological and sustainable development\n"
@@ -405,12 +410,12 @@ msgstr "- [x] La persona designada por un país/economía participante/organizac
 
 #.  Question 9
 #. type: Plain text
-#: about.en.adoc:156
+#: about.en.adoc:161
 msgid "Who designates the institution that hosts the GBIF Participant node?"
 msgstr "¿Quién designa la institución que alberga el nodo participante de GBIF?"
 
 #. type: delimited block .
-#: about.en.adoc:161
+#: about.en.adoc:166
 #, no-wrap
 msgid "- [x] The Head of Delegation\n"
 "- [ ] The GBIF Secretariat\n"
@@ -1984,96 +1989,96 @@ msgid "In this video (06:44), you will review participation in GBIF, and take a 
 msgstr "En este vídeo (06:44) se habla sobre la participación en GBIF y se analizan las cuatro formas clave en que los voluntarios contribuyen a la comunidad de práctica de GBIF: como mentores, formadores, embajadores de datos abiertos de biodiversidad y traductores. Si no puede ver el vídeo de Vimeo embebido, puede enlazarlo:../videos/Comunidad-de-Práctica.mp4[download^,opts=descargarlo] localmente. (MP4 - 14,4 MB)"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:15
+#: community-of-practice.en.adoc:16
 msgid "If you are undertaking a biodiversity project and would like to request support from a mentor with data mobilization, management or use, please contact mentors@gbif.org."
 msgstr "Si está llevando a cabo un proyecto sobre biodiversidad y desea solicitar apoyo de un mentor para la movilización, gestión o uso de datos, por favor póngase en contacto con mentors@gbif.org."
 
 #. type: Plain text
-#: community-of-practice.en.adoc:17
+#: community-of-practice.en.adoc:18
 msgid "We encourage you to consider whether you can contribute to the GBIF community of practice in any of these roles. We would welcome your participation!"
 msgstr "Le animamos a considerar si puede contribuir a la comunidad de práctica de GBIF en cualquiera de estos roles. ¡Agradeceríamos su participación!"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:19
+#: community-of-practice.en.adoc:20
 msgid "Further information on how to participate in the community of practice is available on GBIF.org:"
 msgstr "En GBIF.org puede encontrar más información sobre cómo participar en la comunidad de práctica:"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:21
+#: community-of-practice.en.adoc:22
 msgid "https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[Mentors and trainers^]"
 msgstr "https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[Mentores y entrenadores^]"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:22
+#: community-of-practice.en.adoc:23
 msgid "https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors[Biodiversity open data ambassadors^]"
 msgstr "https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors[Embajadores de datos abiertos de biodiversidad^]"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:23
+#: community-of-practice.en.adoc:24
 msgid "https://www.gbif.org/translators[Translators^]"
 msgstr "https://www.gbif.org/translators[Traductores^]"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:25
+#: community-of-practice.en.adoc:26
 msgid "You are also welcome to contact us at info@gbif.org to discuss how you can contribute."
 msgstr "También puede ponerse en contacto con nosotros a través de info@gbif.org para discutir cómo puede contribuir."
 
 #. type: Title ===
-#: community-of-practice.en.adoc:26
+#: community-of-practice.en.adoc:27
 #, no-wrap
 msgid "Capacity enhancement and funding opportunities"
 msgstr "Oportunidades para mejoras de capacidades y financiación"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:30
+#: community-of-practice.en.adoc:31
 msgid "GBIF is a growing global network of Participant countries, economies and organizations, each with different priorities and capacity assets and needs.  Capacity enhancement is recognized as essential to underpin the sustainable performance of the GBIF Participant network and all its members, independent of their level of development."
 msgstr "GBIF es una creciente red mundial de países participantes, economías y organizaciones, cada uno con diferentes prioridades y capacidades de activos y necesidades. La mejora de la capacidad es reconocida como esencial para respaldar el rendimiento sostenible de la red de participantes de GBIF y de todos sus miembros, independientemente de su nivel de desarrollo."
 
 #. type: Plain text
-#: community-of-practice.en.adoc:34
+#: community-of-practice.en.adoc:35
 msgid "Broadly speaking, much of GBIF’s work contributes to capacity enhancement.  The Participant nodes ensure capacity development at the national level, often providing training for individuals and institutions within their networks.  Collaboration between Participants through GBIF’s governance structures enables further international and regional exchange and partnerships."
 msgstr "En términos generales, gran parte del trabajo de GBIF contribuye a la mejora de la capacidad. Los nodos Participantes aseguran el desarrollo de capacidades a nivel nacional, a menudo brindando capacitación para individuos e instituciones dentro de sus redes. La colaboración entre los Participantes a través de las estructuras de gobierno de GBIF permite un mayor intercambio y asociaciones internacionales y regionales."
 
 #. type: Block title
-#: community-of-practice.en.adoc:36
+#: community-of-practice.en.adoc:37
 #, no-wrap
 msgid "Training participants at the Node Management workshop in Trinidad 2019 by Mélianie Raymond (licensed under https://creativecommons.org/licenses/by/4.0[CC-BY 4.0])"
 msgstr "Formación de participantes en el taller de gestión de nodos en Trinidad 2019 por Mélianie Raymond (bajo licencia https://creativecommons.org/licenses/by/4.0[CC-BY 4.0])"
 
 #. type: Target for macro image
-#: community-of-practice.en.adoc:37
+#: community-of-practice.en.adoc:38
 #, no-wrap
 msgid "img/web/community-of-practice.jpg"
 msgstr "img/web/community-of-practice.jpg"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:42
+#: community-of-practice.en.adoc:43
 msgid "The GBIF Secretariat supports the work of the network, which contributes to capacity development, in particular by coordinating activities, engaging volunteers in the community of practice and supporting the development of core training materials.  The Secretariat’s role in capacity enhancement activities leans more toward facilitation than implementation: providing guidance, documenting best practices, collating training material, coordinating activities, and creating or aligning opportunities.  The Secretariat plays a further role in enhancing capacity by providing funding opportunities for collaborative projects in the network, often with a focus on mobilizing biodiversity data, supporting the use of GBIF-mobilized data and strengthening national biodiversity information facilities."
 msgstr "La Secretaría de GBIF apoya el trabajo de la red, que contribuye al desarrollo de capacidades, en particular mediante la coordinación de actividades, la participación de voluntarios en la comunidad de práctica y el apoyo al desarrollo de materiales de capacitación básicos. El papel de la Secretaría en las actividades de mejora de la capacidad se orienta más hacia la facilitación que hacia la implementación: brindar orientación, documentar las buenas prácticas, recopilar material de capacitación, coordinar actividades y crear o alinear las oportunidades. La Secretaría desempeña un papel adicional en la mejora de la capacidad al brindar oportunidades de financiamiento para proyectos colaborativos en la red, a menudo con un enfoque en la movilización de datos sobre biodiversidad, apoyando el uso de datos movilizados por GBIF y fortaleciendo las instalaciones nacionales de información sobre biodiversidad."
 
 #. type: Plain text
-#: community-of-practice.en.adoc:44
+#: community-of-practice.en.adoc:45
 msgid "You can find more information about GBIF’s https://www.gbif.org/resource/search?contentType=programme[funding programmes^] on our website."
 msgstr "Puede encontrar más información acerca de los https://www.gbif.org/resource/search?contentType=programme[programas de financiamiento^] en nuestro sitio web."
 
 #. type: Title ===
-#: community-of-practice.en.adoc:45
+#: community-of-practice.en.adoc:46
 #, no-wrap
 msgid "Engaging with GBIF"
 msgstr "Participación en GBIF"
 
 #. type: Plain text
-#: community-of-practice.en.adoc:48
+#: community-of-practice.en.adoc:49
 msgid "Please stay in contact with GBIF to keep up with events, opportunities, new features and other news."
 msgstr "Manténgase en contacto con GBIF para estar al día de los eventos, oportunidades, novedades y otras noticias."
 
 #. type: Plain text
-#: community-of-practice.en.adoc:50
+#: community-of-practice.en.adoc:51
 msgid "Sign up for GBIF’s https://www.gbif.org/newsletters[newsletter and to mailing lists^], follow GBIF on https://twitter.com/gbifnews[Twitter^] or https://www.facebook.com/gbifnews[Facebook^], and keep up to date with https://www.gbif.org/resource/search?contentType=news[news^] on the website."
 msgstr "Suscríbase en el https://www.gbif.org/newsletters[boletín de noticias y a las listas de correo^] de GBIF, siga a GBIF en https://twitter.com/gbifnews[Twitter^] o https://www.facebook.com/gbifnews[Facebook ^] y manténgase actualizado con las https://www.gbif.org/resource/search?contentType=news[noticias^] en la página web."
 
 #. type: Plain text
-#: community-of-practice.en.adoc:52
+#: community-of-practice.en.adoc:53
 msgid "GBIF organizes regular https://www.gbif.org/webinars[community webinars^] that are open for anyone to join."
 msgstr "GBIF organiza https://www.gbif.org/webinars[seminarios web comunitarios^] que están abiertos para que cualquiera pueda unirse."
 
@@ -2082,12 +2087,12 @@ msgstr "GBIF organiza https://www.gbif.org/webinars[seminarios web comunitarios^
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: community-of-practice.en.adoc:66
+#: community-of-practice.en.adoc:67
 msgid "Who does most of the translations of GBIF materials, including the GBIF.org website and training materials?"
 msgstr "¿Quién hace la mayoría de las traducciones de los materiales de GBIF, incluyendo la página web GBIF.org y los materiales de formación?"
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:71
+#: community-of-practice.en.adoc:72
 #, no-wrap
 msgid "- [ ] A specialist company with experience in working with biodiversity translation\n"
 "- [x] Volunteer translators from GBIF’s community of practice\n"
@@ -2096,12 +2101,12 @@ msgstr "- [ ] Una empresa especializada con experiencia en la traducción de tó
 
 #.  Question 2
 #. type: Plain text
-#: community-of-practice.en.adoc:74
+#: community-of-practice.en.adoc:75
 msgid "How can I get support with a biodiversity data mobilization project?"
 msgstr "¿Cómo puedo obtener apoyo para un proyecto de movilización de datos sobre biodiversidad?"
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:81
+#: community-of-practice.en.adoc:82
 #, no-wrap
 msgid "- [ ] Write to info@gbif.org\n"
 "- [ ] Request a volunteer mentor to provide remote support\n"
@@ -2114,12 +2119,12 @@ msgstr "- [ ] Escribir a info@gbif.org\n"
 
 #.  Question 3
 #. type: Plain text
-#: community-of-practice.en.adoc:84
+#: community-of-practice.en.adoc:85
 msgid "What is a biodiversity open data ambassador?"
 msgstr "¿Qué es un embajador de datos abiertos de biodiversidad?"
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:89
+#: community-of-practice.en.adoc:90
 #, no-wrap
 msgid "- [x] Biodiversity professionals who promote the principles and best practices of open data sharing and use\n"
 "- [ ] Experts designated by the Heads of Delegation to represent a GBIF Participant country in scientific fora\n"
@@ -2128,12 +2133,12 @@ msgstr "- [x] Profesionales de la biodiversidad que promueven los principios y l
 
 #.  Question 4
 #. type: Plain text
-#: community-of-practice.en.adoc:92
+#: community-of-practice.en.adoc:93
 msgid "GBIF’s materials are not available in my language. What should I do?"
 msgstr "Los materiales de GBIF no están disponibles en mi idioma. ¿Qué debo hacer?"
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:99
+#: community-of-practice.en.adoc:100
 #, no-wrap
 msgid "- [ ] Write to info@gbif.org to request the translation\n"
 "- [ ] Sign up to be a volunteer translator and contribute to the translation myself\n"
