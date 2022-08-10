@@ -22,6 +22,9 @@ If you are unable to watch the embedded Vimeo video, you can link:../videos/Intr
 
 video::434831655[vimeo, height=480, width=640, align=center]
 
+[NOTE.TIP]
+If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages.
+
 === Introduction to GBIF Participant Nodes
 
 [NOTE.presentation]
