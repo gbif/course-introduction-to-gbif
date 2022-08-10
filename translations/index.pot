@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-08-10 10:23+0000\n"
+"POT-Creation-Date: 2022-08-10 10:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -161,7 +161,7 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: about.en.adoc:9 about.en.adoc:78
+#: about.en.adoc:9 about.en.adoc:80
 #, no-wrap
 msgid "What is GBIF?"
 msgstr ""
@@ -196,13 +196,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:27
+#: about.en.adoc:28
 #, no-wrap
 msgid "Introduction to GBIF Participant Nodes"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:35
+#: about.en.adoc:36
 msgid ""
 "Since GBIF’s founding in 2001, the participating countries and organizations "
 "have been testing and developing models for coordinating the mobilization, "
@@ -219,20 +219,20 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: about.en.adoc:40
+#: about.en.adoc:42
 #, no-wrap
 msgid "*Further guidance for Nodes*\n"
 msgstr ""
 
 #. type: delimited block =
-#: about.en.adoc:42
+#: about.en.adoc:44
 msgid ""
 "https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an "
 "effective GBIF Participant Node^]"
 msgstr ""
 
 #. type: delimited block =
-#: about.en.adoc:43
+#: about.en.adoc:45
 msgid ""
 "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online "
 "capacity self-assessment tool for national biodiversity information "
@@ -240,18 +240,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:45
+#: about.en.adoc:47
 #, no-wrap
 msgid "Countries/Economies in GBIF"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:49
+#: about.en.adoc:51
 msgid "Investigate how your country/economy is represented in GBIF"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:50
+#: about.en.adoc:52
 #, no-wrap
 msgid ""
 "The GBIF website has pages dedicated to countries/economies, including for "
@@ -260,13 +260,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:51
+#: about.en.adoc:53
 #, no-wrap
 msgid "img/web/lookupcountry.png"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:53
+#: about.en.adoc:55
 #, no-wrap
 msgid ""
 "The tabs on these pages provide a general description of the data available "
@@ -276,13 +276,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:54
+#: about.en.adoc:56
 #, no-wrap
 msgid "img/web/countrypage.png"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:56
+#: about.en.adoc:58
 #, no-wrap
 msgid ""
 "A recent collaboration with the IUCN Invasive Species Specialist Group means "
@@ -292,55 +292,55 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:57
+#: about.en.adoc:59
 #, no-wrap
 msgid "img/web/alienspecies.png"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:61
+#: about.en.adoc:63
 msgid "Look up your country on the GBIF website."
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:62
+#: about.en.adoc:64
 msgid "Does your country participate in GBIF?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:63
+#: about.en.adoc:65
 msgid "How many institutions are publishing data?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:64
+#: about.en.adoc:66
 msgid ""
 "Is a list of introduced and invasive alien species available for your "
 "country?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:65
+#: about.en.adoc:67
 msgid ""
 "How well does the information available on GBIF reflect what you know about "
 "the biodiversity of your country?"
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:67 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
-#: data-access.en.adoc:83 community-of-practice.en.adoc:53
+#: about.en.adoc:69 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
+#: data-access.en.adoc:83 community-of-practice.en.adoc:54
 #, no-wrap
 msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:71 gbif-mediated-data.en.adoc:237
-#: community-of-practice.en.adoc:57
+#: about.en.adoc:73 gbif-mediated-data.en.adoc:237
+#: community-of-practice.en.adoc:58
 msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:86
+#: about.en.adoc:88
 #, no-wrap
 msgid ""
 "- [ ] An intergovernmental network and research infrastructure\n"
@@ -352,12 +352,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: about.en.adoc:89
+#: about.en.adoc:91
 msgid "When was GBIF established?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:95
+#: about.en.adoc:97
 #, no-wrap
 msgid ""
 "- [ ] 1992\n"
@@ -367,12 +367,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: about.en.adoc:98
+#: about.en.adoc:100
 msgid "Which of the following is the best description of a GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:105
+#: about.en.adoc:107
 #, no-wrap
 msgid ""
 "- [ ] A GBIF national office, funded by the GBIF Secretariat\n"
@@ -388,12 +388,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: about.en.adoc:108
+#: about.en.adoc:110
 msgid "Which of the following is NOT a typical function of a GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:116
+#: about.en.adoc:118
 #, no-wrap
 msgid ""
 "- [ ] Coordinating a community of initiatives relating to biodiversity "
@@ -414,12 +414,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: about.en.adoc:119
+#: about.en.adoc:121
 msgid "What is a GBIF Participant?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:126
+#: about.en.adoc:128
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -439,12 +439,12 @@ msgstr ""
 
 #.  Question 6
 #. type: Plain text
-#: about.en.adoc:129
+#: about.en.adoc:131
 msgid "What is a GBIF Head of Delegation?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:136
+#: about.en.adoc:138
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -464,12 +464,12 @@ msgstr ""
 
 #.  Question 7
 #. type: Plain text
-#: about.en.adoc:139
+#: about.en.adoc:141
 msgid "What is a Biodiversity information facility?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:146
+#: about.en.adoc:148
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -489,12 +489,12 @@ msgstr ""
 
 #.  Question 8
 #. type: Plain text
-#: about.en.adoc:149
+#: about.en.adoc:151
 msgid "What is a Node manager?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:156
+#: about.en.adoc:158
 #, no-wrap
 msgid ""
 "- [x] The person designated by a participating country/economy/organization "
@@ -514,12 +514,12 @@ msgstr ""
 
 #.  Question 9
 #. type: Plain text
-#: about.en.adoc:159
+#: about.en.adoc:161
 msgid "Who designates the institution that hosts the GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:164
+#: about.en.adoc:166
 #, no-wrap
 msgid ""
 "- [x] The Head of Delegation\n"
@@ -2636,7 +2636,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:15
+#: community-of-practice.en.adoc:16
 msgid ""
 "If you are undertaking a biodiversity project and would like to request "
 "support from a mentor with data mobilization, management or use, please "
@@ -2644,7 +2644,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:17
+#: community-of-practice.en.adoc:18
 msgid ""
 "We encourage you to consider whether you can contribute to the GBIF "
 "community of practice in any of these roles. We would welcome your "
@@ -2652,46 +2652,46 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:19
+#: community-of-practice.en.adoc:20
 msgid ""
 "Further information on how to participate in the community of practice is "
 "available on GBIF.org:"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:21
+#: community-of-practice.en.adoc:22
 msgid ""
 "https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[Mentors "
 "and trainers^]"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:22
+#: community-of-practice.en.adoc:23
 msgid ""
 "https://www.gbif.org/article/6dNF1d0tgcI4cmqeoS2sQ4/biodiversity-open-data-ambassadors[Biodiversity "
 "open data ambassadors^]"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:23
+#: community-of-practice.en.adoc:24
 msgid "https://www.gbif.org/translators[Translators^]"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:25
+#: community-of-practice.en.adoc:26
 msgid ""
 "You are also welcome to contact us at info@gbif.org to discuss how you can "
 "contribute."
 msgstr ""
 
 #. type: Title ===
-#: community-of-practice.en.adoc:26
+#: community-of-practice.en.adoc:27
 #, no-wrap
 msgid "Capacity enhancement and funding opportunities"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:30
+#: community-of-practice.en.adoc:31
 msgid ""
 "GBIF is a growing global network of Participant countries, economies and "
 "organizations, each with different priorities and capacity assets and "
@@ -2701,7 +2701,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:34
+#: community-of-practice.en.adoc:35
 msgid ""
 "Broadly speaking, much of GBIF’s work contributes to capacity enhancement.  "
 "The Participant nodes ensure capacity development at the national level, "
@@ -2712,7 +2712,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: community-of-practice.en.adoc:36
+#: community-of-practice.en.adoc:37
 #, no-wrap
 msgid ""
 "Training participants at the Node Management workshop in Trinidad 2019 by "
@@ -2721,13 +2721,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: community-of-practice.en.adoc:37
+#: community-of-practice.en.adoc:38
 #, no-wrap
 msgid "img/web/community-of-practice.jpg"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:42
+#: community-of-practice.en.adoc:43
 msgid ""
 "The GBIF Secretariat supports the work of the network, which contributes to "
 "capacity development, in particular by coordinating activities, engaging "
@@ -2743,7 +2743,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:44
+#: community-of-practice.en.adoc:45
 msgid ""
 "You can find more information about GBIF’s "
 "https://www.gbif.org/resource/search?contentType=programme[funding "
@@ -2751,20 +2751,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: community-of-practice.en.adoc:45
+#: community-of-practice.en.adoc:46
 #, no-wrap
 msgid "Engaging with GBIF"
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:48
+#: community-of-practice.en.adoc:49
 msgid ""
 "Please stay in contact with GBIF to keep up with events, opportunities, new "
 "features and other news."
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:50
+#: community-of-practice.en.adoc:51
 msgid ""
 "Sign up for GBIF’s https://www.gbif.org/newsletters[newsletter and to "
 "mailing lists^], follow GBIF on https://twitter.com/gbifnews[Twitter^] or "
@@ -2773,7 +2773,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: community-of-practice.en.adoc:52
+#: community-of-practice.en.adoc:53
 msgid ""
 "GBIF organizes regular https://www.gbif.org/webinars[community webinars^] "
 "that are open for anyone to join."
@@ -2784,14 +2784,14 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: community-of-practice.en.adoc:66
+#: community-of-practice.en.adoc:67
 msgid ""
 "Who does most of the translations of GBIF materials, including the GBIF.org "
 "website and training materials?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:71
+#: community-of-practice.en.adoc:72
 #, no-wrap
 msgid ""
 "- [ ] A specialist company with experience in working with biodiversity "
@@ -2801,12 +2801,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: community-of-practice.en.adoc:74
+#: community-of-practice.en.adoc:75
 msgid "How can I get support with a biodiversity data mobilization project?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:81
+#: community-of-practice.en.adoc:82
 #, no-wrap
 msgid ""
 "- [ ] Write to info@gbif.org\n"
@@ -2817,12 +2817,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: community-of-practice.en.adoc:84
+#: community-of-practice.en.adoc:85
 msgid "What is a biodiversity open data ambassador?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:89
+#: community-of-practice.en.adoc:90
 #, no-wrap
 msgid ""
 "- [x] Biodiversity professionals who promote the principles and best "
@@ -2833,12 +2833,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: community-of-practice.en.adoc:92
+#: community-of-practice.en.adoc:93
 msgid "GBIF’s materials are not available in my language. What should I do?"
 msgstr ""
 
 #. type: delimited block .
-#: community-of-practice.en.adoc:99
+#: community-of-practice.en.adoc:100
 #, no-wrap
 msgid ""
 "- [ ] Write to info@gbif.org to request the translation\n"
