@@ -69,7 +69,7 @@ image::img/web/alienspecies.png[align="center", width="640"]
 === Review
 
 [NOTE.quiz]
-Quiz yourself on the concepts learned in this module.
+Quiz yourself on the concepts covered in this module.
 ****
 // Note the lack of empty lines between the end of the question (....) and the start of the next question
 // (. What…) is required, so I have added // comments to help separate them.
