@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-08-10 10:17+0000\n"
+"POT-Creation-Date: 2022-08-10 10:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,9 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#.  236573907
 #. type: Title ===
-#: index.en.adoc:1 about.en.adoc:17
+#: index.en.adoc:1 about.en.adoc:19
 #, no-wrap
 msgid "Introduction to GBIF"
 msgstr ""
@@ -162,7 +161,7 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: about.en.adoc:9 about.en.adoc:79
+#: about.en.adoc:9 about.en.adoc:78
 #, no-wrap
 msgid "What is GBIF?"
 msgstr ""
@@ -180,7 +179,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:22
+#: about.en.adoc:18
+msgid ""
+"If you see the CC symbol on a video, you can click it to enable closed "
+"captioning/subtitles in English or other available languages."
+msgstr ""
+
+#. type: Plain text
+#: about.en.adoc:24
 msgid ""
 "In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, "
 "provides you with an overview of GBIF.  If you are unable to watch the "
@@ -189,21 +195,14 @@ msgid ""
 "locally. (MP4 - 32.3 MB)"
 msgstr ""
 
-#. type: Plain text
-#: about.en.adoc:27
-msgid ""
-"If you see the CC symbol on a video, you can click it to enable closed "
-"captioning/subtitles in English or other available languages."
-msgstr ""
-
 #. type: Title ===
-#: about.en.adoc:28
+#: about.en.adoc:27
 #, no-wrap
 msgid "Introduction to GBIF Participant Nodes"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:36
+#: about.en.adoc:35
 msgid ""
 "Since GBIF’s founding in 2001, the participating countries and organizations "
 "have been testing and developing models for coordinating the mobilization, "
@@ -220,20 +219,20 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: about.en.adoc:41
+#: about.en.adoc:40
 #, no-wrap
 msgid "*Further guidance for Nodes*\n"
 msgstr ""
 
 #. type: delimited block =
-#: about.en.adoc:43
+#: about.en.adoc:42
 msgid ""
 "https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an "
 "effective GBIF Participant Node^]"
 msgstr ""
 
 #. type: delimited block =
-#: about.en.adoc:44
+#: about.en.adoc:43
 msgid ""
 "https://www.gbif.org/tool/6Y2SqK8XokHUqIFUn6TLxX/online-capacity-self-assessment-tool-for-national-biodiversity-information-facilities[Online "
 "capacity self-assessment tool for national biodiversity information "
@@ -241,18 +240,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:46
+#: about.en.adoc:45
 #, no-wrap
 msgid "Countries/Economies in GBIF"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:50
+#: about.en.adoc:49
 msgid "Investigate how your country/economy is represented in GBIF"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:51
+#: about.en.adoc:50
 #, no-wrap
 msgid ""
 "The GBIF website has pages dedicated to countries/economies, including for "
@@ -261,13 +260,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:52
+#: about.en.adoc:51
 #, no-wrap
 msgid "img/web/lookupcountry.png"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:54
+#: about.en.adoc:53
 #, no-wrap
 msgid ""
 "The tabs on these pages provide a general description of the data available "
@@ -277,13 +276,13 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:55
+#: about.en.adoc:54
 #, no-wrap
 msgid "img/web/countrypage.png"
 msgstr ""
 
 #. type: Block title
-#: about.en.adoc:57
+#: about.en.adoc:56
 #, no-wrap
 msgid ""
 "A recent collaboration with the IUCN Invasive Species Specialist Group means "
@@ -293,55 +292,55 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: about.en.adoc:58
+#: about.en.adoc:57
 #, no-wrap
 msgid "img/web/alienspecies.png"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:62
+#: about.en.adoc:61
 msgid "Look up your country on the GBIF website."
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:63
+#: about.en.adoc:62
 msgid "Does your country participate in GBIF?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:64
+#: about.en.adoc:63
 msgid "How many institutions are publishing data?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:65
+#: about.en.adoc:64
 msgid ""
 "Is a list of introduced and invasive alien species available for your "
 "country?"
 msgstr ""
 
 #. type: delimited block *
-#: about.en.adoc:66
+#: about.en.adoc:65
 msgid ""
 "How well does the information available on GBIF reflect what you know about "
 "the biodiversity of your country?"
 msgstr ""
 
 #. type: Title ===
-#: about.en.adoc:68 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
+#: about.en.adoc:67 gbif-mediated-data.en.adoc:233 data-publishing.en.adoc:224
 #: data-access.en.adoc:83 community-of-practice.en.adoc:53
 #, no-wrap
 msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:72 gbif-mediated-data.en.adoc:237
+#: about.en.adoc:71 gbif-mediated-data.en.adoc:237
 #: community-of-practice.en.adoc:57
 msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:87
+#: about.en.adoc:86
 #, no-wrap
 msgid ""
 "- [ ] An intergovernmental network and research infrastructure\n"
@@ -353,12 +352,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: about.en.adoc:90
+#: about.en.adoc:89
 msgid "When was GBIF established?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:96
+#: about.en.adoc:95
 #, no-wrap
 msgid ""
 "- [ ] 1992\n"
@@ -368,12 +367,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: about.en.adoc:99
+#: about.en.adoc:98
 msgid "Which of the following is the best description of a GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:106
+#: about.en.adoc:105
 #, no-wrap
 msgid ""
 "- [ ] A GBIF national office, funded by the GBIF Secretariat\n"
@@ -389,12 +388,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: about.en.adoc:109
+#: about.en.adoc:108
 msgid "Which of the following is NOT a typical function of a GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:117
+#: about.en.adoc:116
 #, no-wrap
 msgid ""
 "- [ ] Coordinating a community of initiatives relating to biodiversity "
@@ -415,12 +414,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: about.en.adoc:120
+#: about.en.adoc:119
 msgid "What is a GBIF Participant?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:127
+#: about.en.adoc:126
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -440,12 +439,12 @@ msgstr ""
 
 #.  Question 6
 #. type: Plain text
-#: about.en.adoc:130
+#: about.en.adoc:129
 msgid "What is a GBIF Head of Delegation?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:137
+#: about.en.adoc:136
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -465,12 +464,12 @@ msgstr ""
 
 #.  Question 7
 #. type: Plain text
-#: about.en.adoc:140
+#: about.en.adoc:139
 msgid "What is a Biodiversity information facility?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:147
+#: about.en.adoc:146
 #, no-wrap
 msgid ""
 "- [ ] The person designated by a participating country/economy/organization "
@@ -490,12 +489,12 @@ msgstr ""
 
 #.  Question 8
 #. type: Plain text
-#: about.en.adoc:150
+#: about.en.adoc:149
 msgid "What is a Node manager?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:157
+#: about.en.adoc:156
 #, no-wrap
 msgid ""
 "- [x] The person designated by a participating country/economy/organization "
@@ -515,12 +514,12 @@ msgstr ""
 
 #.  Question 9
 #. type: Plain text
-#: about.en.adoc:160
+#: about.en.adoc:159
 msgid "Who designates the institution that hosts the GBIF Participant node?"
 msgstr ""
 
 #. type: delimited block .
-#: about.en.adoc:165
+#: about.en.adoc:164
 #, no-wrap
 msgid ""
 "- [x] The Head of Delegation\n"
