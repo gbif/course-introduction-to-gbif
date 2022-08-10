@@ -14,8 +14,7 @@ In this video (03:19) you will learn about GBIF. It is a co-production of SiB Co
 [.responsive-video]
 video::661945151[vimeo]
 
-[NOTE.TIP]
-If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages.
+TIP: If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages.
 
 === Introduction to GBIF
 
