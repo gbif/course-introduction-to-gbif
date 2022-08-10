@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
-"POT-Creation-Date: 2022-08-10 10:42+0000\n"
-"PO-Revision-Date: 2022-08-10 10:59\n"
+"POT-Creation-Date: 2022-08-10 11:32+0000\n"
+"PO-Revision-Date: 2022-08-10 12:22\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -263,9 +263,8 @@ msgid "Review"
 msgstr ""
 
 #. type: Plain text
-#: about.en.adoc:73 gbif-mediated-data.en.adoc:237
-#: community-of-practice.en.adoc:58
-msgid "Quiz yourself on the concepts learned in this module."
+#: about.en.adoc:73
+msgid "Quiz yourself on the concepts covered in this module."
 msgstr ""
 
 #. type: delimited block .
@@ -958,6 +957,11 @@ msgstr ""
 #: gbif-mediated-data.en.adoc:231
 #, no-wrap
 msgid "img/web/ActivityImage7.png"
+msgstr ""
+
+#. type: Plain text
+#: gbif-mediated-data.en.adoc:237 community-of-practice.en.adoc:58
+msgid "Quiz yourself on the concepts learned in this module."
 msgstr ""
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
