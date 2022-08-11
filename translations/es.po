@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2022-08-10 11:32+0000\n"
-"PO-Revision-Date: 2022-08-10 12:22\n"
+"PO-Revision-Date: 2022-08-10 15:02\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -144,12 +144,12 @@ msgstr "¿Qué es GBIF?"
 #. type: Plain text
 #: about.en.adoc:13
 msgid "In this video (03:19) you will learn about GBIF. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF__The_library_of_life.mp4[download^,opts=download] it locally. (MP4 - 11.3 MB)"
-msgstr ""
+msgstr "En este video (03:19) aprenderá sobre GBIF. Es una coproducción de SiB Colombia y GBIF España, ambos nodos nacionales de GBIF, con el cofinanciamiento de GBIF España y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Si no puede ver el video de Vimeo incrustado, puede vincularlo localmente a:../videos/GBIF__The_library_of_life.mp4[download^,opts=download]. (MP4 - 11,3 MB)"
 
 #. type: Plain text
 #: about.en.adoc:18
 msgid "If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages."
-msgstr ""
+msgstr "Si ve el símbolo CC en un vídeo, puede hacer clic en él para habilitar subtítulos en inglés u otros idiomas disponibles."
 
 #. type: Plain text
 #: about.en.adoc:24
@@ -265,7 +265,7 @@ msgstr "Repaso"
 #. type: Plain text
 #: about.en.adoc:73
 msgid "Quiz yourself on the concepts covered in this module."
-msgstr ""
+msgstr "Examínese sobre los conceptos cubiertos en este módulo."
 
 #. type: delimited block .
 #: about.en.adoc:88

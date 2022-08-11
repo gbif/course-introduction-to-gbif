@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2022-08-10 11:32+0000\n"
-"PO-Revision-Date: 2022-08-10 12:22\n"
+"PO-Revision-Date: 2022-08-11 08:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -144,12 +144,12 @@ msgstr "Qu'est-ce que le GBIF ?"
 #. type: Plain text
 #: about.en.adoc:13
 msgid "In this video (03:19) you will learn about GBIF. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF__The_library_of_life.mp4[download^,opts=download] it locally. (MP4 - 11.3 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (03:19) vous apprendrez à connaitre le GBIF. Il s'agit d'une coproduction de SiB Colombie et de GBIF Espagne, deux nœuds nationaux du GBIF, avec un cofinancement du GBIF Espagne et de l'Instituto de Investigación de Recursos Biologicos Alexander von Humboldt (IAvH). Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez utiliser la télécharger :./videos/GBIF-La-biblioteca-de-la-vida.mp4[télécharger^,opts=download] localement. (MP4 - 11.3 MB)"
 
 #. type: Plain text
 #: about.en.adoc:18
 msgid "If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages."
-msgstr ""
+msgstr "Si vous voyez le symbole CC sur une vidéo, vous pouvez cliquer dessus pour activer les sous-titres en anglais ou dans d'autres langues disponibles."
 
 #. type: Plain text
 #: about.en.adoc:24
