@@ -5,8 +5,8 @@ GBIF Secretariat <training@gbif.org>
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:revnumber: 2
+:revdate: Aug 2022
 :title-logo-image: img/web/Microporus_xanthopus.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 :docinfo: shared-head

@@ -9,9 +9,12 @@ In this module, you will learn more about GBIF.
 === What is GBIF?
 
 [NOTE.presentation]
-In this video (03:23) you will learn about GBIF through animation. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). The video is in Spanish, but subtitles are available. If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF-La-biblioteca-de-la-vida.mp4[download^,opts=download] it locally. (MP4 - 19.3 MB)
+In this video (03:19) you will learn about GBIF. It is a co-production of SiB Colombia and GBIF Spain, both GBIF national nodes, with co-funding from GBIF Spain and Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). If you are unable to watch the embedded Vimeo video, you can link:../videos/GBIF__The_library_of_life.mp4[download^,opts=download] it locally. (MP4 - 11.3 MB)
 
-video::236573907[vimeo, height=480, width=640, align=center]
+[.responsive-video]
+video::661945151[vimeo]
+
+TIP: If you see the CC symbol on a video, you can click it to enable closed captioning/subtitles in English or other available languages.
 
 === Introduction to GBIF
 
@@ -19,7 +22,8 @@ video::236573907[vimeo, height=480, width=640, align=center]
 In this video (07:55), Tim Hirsch, Deputy Director of the GBIF Secretariat, provides you with an overview of GBIF. 
 If you are unable to watch the embedded Vimeo video, you can link:../videos/Introduction-to-GBIF.mp4[download^,opts=download] it locally. (MP4 - 32.3 MB)
 
-video::434831655[vimeo, height=480, width=640, align=center]
+[.responsive-video]
+video::434831655[vimeo]
 
 === Introduction to GBIF Participant Nodes
 
@@ -30,7 +34,8 @@ Designated by each Participant, these teams coordinate the needs and interests o
 In this video (07:53), we look at the variety of node models in the GBIF network to present generalized concepts relating to Participant nodes and the roles that they play in the GBIF community.
 If you are unable to watch the embedded Vimeo video, you can link:../videos/Role-of-nodes-in-GBIF.mp4[download^,opts=download] it locally. (MP4 - 14.0 MB)
 
-video::543599833[vimeo, height=480, width=640, align=center]
+[.responsive-video]
+video::543599833[vimeo]
 
 ====
 *Further guidance for Nodes*
@@ -64,7 +69,7 @@ image::img/web/alienspecies.png[align="center", width="640"]
 === Review
 
 [NOTE.quiz]
-Quiz yourself on the concepts learned in this module.
+Quiz yourself on the concepts covered in this module.
 ****
 // Note the lack of empty lines between the end of the question (....) and the start of the next question
 // (. What…) is required, so I have added // comments to help separate them.
