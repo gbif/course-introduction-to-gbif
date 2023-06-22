@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: course-intro-to-gbif\n"
 "POT-Creation-Date: 2022-08-10 11:32+0000\n"
-"PO-Revision-Date: 2022-08-10 15:02\n"
+"PO-Revision-Date: 2023-01-05 15:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -698,7 +698,7 @@ msgstr "Datos abiertos"
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:120
 msgid "In keeping with a 2014 https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decision by the GBIF governing board^], data publishers must assign one of the three Creative Commons options to any occurrence dataset. The Governing Board recognized the need for much greater clarity both for data publishers and users on how data may be used when shared via GBIF.org. https://creativecommons.org/[Creative Commons] is a nonprofit organization that helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
-msgstr "De acuerdo con una https://www.gbif de 2014.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decisión de la junta de gobierno de GBIF^] de 2014, los publicadores de datos deben asignar una de las tres opciones Creative Commons a cada conjunto de datos. La junta de gobierno reconoció la necesidad de una mayor claridad tanto para los publicadores de datos como para los usuarios sobre cómo se pueden utilizar los datos cuando se comparten a través de GBIF.org. https://creativecommons.org/[Creative Commons] es una organización sin fines de lucro que ayuda a superar los obstáculos legales para compartir el conocimiento y la creatividad a fin de abordar los desafíos apremiantes del mundo."
+msgstr "De acuerdo con una https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[decisión de la junta de gobierno de GBIF^] de 2014, los publicadores de datos deben asignar una de las tres opciones Creative Commons a cada conjunto de datos. La junta de gobierno reconoció la necesidad de una mayor claridad tanto para los publicadores de datos como para los usuarios sobre cómo se pueden utilizar los datos cuando se comparten a través de GBIF.org. https://creativecommons.org/[Creative Commons] es una organización sin fines de lucro que ayuda a superar los obstáculos legales para compartir el conocimiento y la creatividad a fin de abordar los desafíos apremiantes del mundo."
 
 #. type: Plain text
 #: gbif-mediated-data.en.adoc:122
