@@ -92,7 +92,7 @@ They should also strive to keep it up to date, as interested parties will use th
 
 Every time a new version of a dataset is published using an IPT, a DOI (Digital Object Identifier) is assigned. As in the case of the downloads, this identifier allows easy citation and tracking of work derived from the dataset, if the user follows good practices for source citation.
 
-As mentioned before, you can resolve DOI is websites like dx.doi.org: which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports.
+As mentioned before, you can resolve DOIs into websites like doi.org/10.xxx which will always redirect to the original source, in this case, the dataset page. You can also search for DOI using a normal web search, which will normally reveal any other resource citing use of the same DOI such as articles or public reports.
 
 image::img/web/datasetdoiimage3_withcallouts.png[align="center", width="640", height="771"]
 
