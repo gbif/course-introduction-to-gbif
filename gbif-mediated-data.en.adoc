@@ -199,7 +199,8 @@ One of the many benefits of publishing data via GBIF is that, during the indexin
 * dataset download activity
 
 Participants and publishers can use this information to improve the quality of their datasets, e.g. by addressing issues detected during the indexing process. They can also use the access statistics as evidence of real user interest in their datasets and potential use of the published data.
-Global data trends
+
+*Global data trends*
 
 GBIF.org regularly updates analytics to provide an overview of global trends in the data from 2008 to the present. The charts illustrate trends in:
 
