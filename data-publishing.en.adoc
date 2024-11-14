@@ -218,7 +218,7 @@ image::img/web/quality12.png[align="center", width="640", height="519"]
 *I’ve got the validation report - now what?*
 
 If the validator finds that your dataset cannot be indexed by GBIF, you should address the issues raised by the validation report before you consider publishing it to GBIF. 
-On the other hand, if you get the green light and your dataset is indexable by GBIF, you should still carefully review any issues that may be the result of e.g. conversion errors, etc. which could affect the quality of the data. 
+Even if your dataset is indexable by GBIF, you should still carefully review any issues that may be the result of e.g. conversion errors, etc. which could affect the quality of the data. 
 If you find and correct any error - from a single typo to large systematic problems - feel free to resubmit your dataset as many times you like.
 
 === Review
