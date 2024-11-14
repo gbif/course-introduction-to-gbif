@@ -36,7 +36,7 @@ GBIF Secretariat staff.
 
 === Licence
 
-The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
+The course _Introduction to GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-Sharealike 4.0 International Deed].
 
 === Persistent URI
 
